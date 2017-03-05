@@ -15,8 +15,10 @@ import json
 from urllib.request import urlopen
 
 # Specify URL appended with source and API key
-# Modify this section later for more sources
-url = 'https://newsapi.org/v1/articles?apiKey=30a1f0a5d59b4267a08eadae0ee64508&source=the-hindu&sortBy=top'
+# Source in the format of newsapi.org
+# Modify this section later for user selectable sources
+source = input("Please enter headline source: ")
+url = 'https://newsapi.org/v1/articles?apiKey=30a1f0a5d59b4267a08eadae0ee64508&sortBy=top&source=' + source
 
 # Get the JSON dataset
 response = urlopen(url)
@@ -27,5 +29,5 @@ json_obj = json.loads(string)
 
 # Print the title from the json_obj
 # Later, redirect to storage
-for set in json_obj['articles']:
-	print(set['title'])
+for single_news in json_obj['articles']:
+	print(single_news['title'])
