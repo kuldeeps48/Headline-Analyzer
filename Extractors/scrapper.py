@@ -8,8 +8,17 @@
 #
 # Date: 05-03-2017
 # Last Modified Date: 05-07-2017
-#
-##########
+'''
+bbc-news
+cnn
+independent
+reuters
+the-guardian-uk
+the-hindu
+the-new-york-times
+the-times-of-india
+the-wall-street-journal
+'''
 
 import json
 from urllib.request import urlopen
