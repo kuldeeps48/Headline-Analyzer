@@ -1,1 +1,0 @@
-College Project : Analysis of news headlines using SentiWordNet 3.0
