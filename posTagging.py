@@ -13,13 +13,15 @@ from additional import Dict # use the dictionary
 5) add quote detection
 6) use additional dictionary
 WP - WH-pronoun
-"""
 
 additional_negative_modifiers = { 'molest': -0.2, 'kill': -0.3, 'killed': -0.4, 'executes': -0.2,
                                  'execute': -0.2, 'suicide': -0.25, 'sick': -0.15, 'punished': -0.15, 'rape': -0.27 }
 
 additional_positive_modifiers = {'save': 0.2, 'saves': 0.2, 'softens': 0.1, 'defending': 0.1,
                                  'negotiations': 0.2, 'negotiation': 0.1, 'recovers': 0.35}
+
+"""
+
 
 
 def pos_to_senti_tag(tag_from_POS):
