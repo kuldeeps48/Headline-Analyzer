@@ -6,7 +6,7 @@ from PyQt4.QtGui import *
 
 
 
-def open():
+def openTagger():
     os.system("python posTagging.py")
 
 
@@ -34,7 +34,7 @@ class UserInput(QDialog):
         self.setGeometry(500,300,300,220)
         self.setWindowTitle('Opinion Mining Of News Headlines Using SentiWordNet')
         self.setWindowIcon(QIcon('images/icon.ico'))
-        self.setStyleSheet("background-image: url('background.jpg'); background-attachment: fixed")
+        self.setStyleSheet("background-image: url('images\\background.jpg'); background-attachment: fixed")
 
         #Set tool tips and create analize button
         QToolTip.setFont(QFont('SansSerif', 10))
@@ -43,7 +43,7 @@ class UserInput(QDialog):
         btn.setToolTip('<b><i>Enter a headline to begin analysis</i></b>')
         btn.resize(btn.sizeHint())
         btn.move(120,80)
-        btn.clicked.connect(lambda: open())
+        btn.clicked.connect(lambda: openTagger())
         self.show()
 
 
@@ -72,7 +72,6 @@ def drawMainUI():
     splash = QSplashScreen(splash_pix, Qt.WindowStaysOnTopHint)
     splash.setMask(splash_pix.mask())
     splash.show()
-
 
     # Simulate something that takes time
     time.sleep(2)
