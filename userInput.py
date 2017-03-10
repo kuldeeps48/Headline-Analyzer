@@ -1,10 +1,15 @@
 ''' To display Main page and take user input '''
 
-import sys, time
+import sys, time, os
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
 
-from posTagging import analyze
+
+
+def open():
+    os.system("python posTagging.py")
+
+
 
 class Form(QDialog):
     """ Just a simple dialog with a couple of widgets
@@ -16,6 +21,8 @@ class Form(QDialog):
 
     def update_ui(self):
         self.browser.append(self.lineedit.text())
+
+
 
 class UserInput(QDialog):
     def __init__(self):
@@ -36,9 +43,11 @@ class UserInput(QDialog):
         btn.setToolTip('<b><i>Enter a headline to begin analysis</i></b>')
         btn.resize(btn.sizeHint())
         btn.move(120,80)
-        btn.clicked.connect(lambda : analyze())
-
+        btn.clicked.connect(lambda: open())
         self.show()
+
+
+
 
     def closeEvent(self, event):
         # Show exit confirmation
@@ -63,7 +72,7 @@ def drawMainUI():
     splash = QSplashScreen(splash_pix, Qt.WindowStaysOnTopHint)
     splash.setMask(splash_pix.mask())
     splash.show()
-    app.processEvents()
+
 
     # Simulate something that takes time
     time.sleep(2)
@@ -71,4 +80,5 @@ def drawMainUI():
     form = UserInput()
     form.show()
     splash.finish(form)
+    app.processEvents()
     app.exec_()

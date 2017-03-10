@@ -112,3 +112,7 @@ def analyze():
                 f.write("  >P="+str(pos_score)+"  >N="+str(neg_score)+"\n")
             print("\n\n")
 
+        x = input("Type something")
+
+
+analyze()
