@@ -5,8 +5,10 @@
 #
 # Returns the headlines from The Guardian of the current day
 # API: http://open-platform.theguardian.com
-# 
-#
+# Restrictions:	
+#		Up to 12 calls per second
+#		Up to 5,000 calls per day
+#		Access to article text
 # Date: 10-03-2017
 # Last Modified Date: 10-03-2017
 #
