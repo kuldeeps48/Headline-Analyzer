@@ -12,6 +12,7 @@ class Window(QtGui.QMainWindow):
         sizePolicy.setHeightForWidth(self.sizePolicy().hasHeightForWidth())
         self.setSizePolicy(sizePolicy)
 
+        self.setStyleSheet(""" QMainWindow {background-color:black;} """)
         # self.setAttribute(QtCore.Qt.WA_TranslucentBackground)
         self.home()
 
@@ -34,7 +35,8 @@ class Window(QtGui.QMainWindow):
 def showProgress():
     app = QtGui.QApplication(sys.argv)
     GUI = Window()
-    GUI.setWindowOpacity(0.92)
+    GUI.setWindowOpacity(0.87)
     GUI.download()
+
 
 showProgress()
