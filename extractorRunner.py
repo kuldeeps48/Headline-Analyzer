@@ -12,7 +12,7 @@ source_functions = {"google news":googleScrapper(), "reddit news":redditScrapper
 
 def runScrapper(source):  # Button press function
     if source in source_functions:
-        subprocess.call("python ./ui/progress.py")
+        subprocess.Popen("python ./ui/progress.py")
         print("Starting ", source  ," Extraction")
         fileToAnalyze = source_functions[source]
         if source in ("reddit news", "reddit world news"):

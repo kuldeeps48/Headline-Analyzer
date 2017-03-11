@@ -1,5 +1,10 @@
-import sys
+import sys, time
 from PyQt4 import QtGui, QtCore
+
+DEFAULT_STYLE = """QProgressBar{border: 2px solid white;
+                                border-radius: 5px;
+                                text-align: center}
+                   QMainWindow {background-color:black;}"""
 
 
 class Window(QtGui.QMainWindow):
@@ -12,7 +17,7 @@ class Window(QtGui.QMainWindow):
         sizePolicy.setHeightForWidth(self.sizePolicy().hasHeightForWidth())
         self.setSizePolicy(sizePolicy)
 
-        self.setStyleSheet(""" QMainWindow {background-color:black;} """)
+        self.setStyleSheet(DEFAULT_STYLE)
         # self.setAttribute(QtCore.Qt.WA_TranslucentBackground)
         self.home()
 
@@ -26,17 +31,20 @@ class Window(QtGui.QMainWindow):
         self.completed = 0
 
         while self.completed < 100:
-            self.completed += 0.0001
+            self.completed += 0.00009
             self.progress.setValue(self.completed)
 
+        time.sleep(0.4)
         self.close()
-
 
 def showProgress():
     app = QtGui.QApplication(sys.argv)
     GUI = Window()
     GUI.setWindowOpacity(0.87)
     GUI.download()
+
+
+
 
 
 showProgress()
