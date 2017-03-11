@@ -65,16 +65,6 @@ class UserInput(QDialog):
         self.move(qr.topLeft())
 
 def drawMainUI():
-    app = QApplication(sys.argv)
-
-    # Create and display the splash screen
-    splash_pix = QPixmap('images\splash.jpg')
-    splash = QSplashScreen(splash_pix, Qt.WindowStaysOnTopHint)
-    splash.setMask(splash_pix.mask())
-    splash.show()
-
-    # Simulate something that takes time
-    time.sleep(2)
 
     form = UserInput()
     form.show()

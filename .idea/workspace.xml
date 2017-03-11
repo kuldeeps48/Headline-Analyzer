@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8d65f55-6c99-436c-8d12-a5f49a9d7a98" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/redditNews/2017-03-10/2017-03-10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/redditWorldNews/2017-03-10/2017-03-10.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapper/scrapper-guardian.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scrapper/scrapper-newsapi.org.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/background.jpg" afterPath="$PROJECT_DIR$/images/background.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/output1.txt" afterPath="$PROJECT_DIR$/data/output1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.pyw" afterPath="$PROJECT_DIR$/main.pyw" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/userInput.py" afterPath="$PROJECT_DIR$/userInput.py" />
     </list>
     <ignored path="Headline Mining.iws" />
@@ -44,7 +39,7 @@
       <file leaf-file-name="googleNews.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Extractors/googleNews.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="408">
               <caret line="27" column="33" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="27" selection-end-column="33" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -56,8 +51,18 @@
       <file leaf-file-name="main.pyw" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.pyw">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainUI.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mainUI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="131" column="0" lean-forward="true" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,8 +71,8 @@
       <file leaf-file-name="userInput.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/userInput.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
               <folding>
                 <element signature="e#50#70#0" expanded="true" />
               </folding>
@@ -78,7 +83,7 @@
       <file leaf-file-name="redditNews.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Extractors/redditNews.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="357">
               <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -87,10 +92,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theGuardian.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="theGuardian.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Extractors/theGuardian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
+            <state relative-caret-position="572">
               <caret line="71" column="27" lean-forward="false" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="27" />
               <folding />
             </state>
@@ -121,10 +126,11 @@
         <option value="$PROJECT_DIR$/Extractors/redditWorldNews.py" />
         <option value="$PROJECT_DIR$/Extractors/redditNews.py" />
         <option value="$PROJECT_DIR$/Extractors/googleHeadlines.py" />
-        <option value="$PROJECT_DIR$/main.pyw" />
         <option value="$PROJECT_DIR$/posTagging.py" />
-        <option value="$PROJECT_DIR$/userInput.py" />
         <option value="$PROJECT_DIR$/Extractors/theGuardian.py" />
+        <option value="$PROJECT_DIR$/main.pyw" />
+        <option value="$PROJECT_DIR$/userInput.py" />
+        <option value="$PROJECT_DIR$/mainUI.py" />
       </list>
     </option>
   </component>
@@ -150,8 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -194,6 +198,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,7 +222,7 @@
       <recent name="C:\Users\Kuldeep\Desktop\Project\Headline Mining\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.theGuardian">
+  <component name="RunManager" selected="Python.main.pyw">
     <configuration default="false" name="main.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -445,11 +451,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.theGuardian" />
-        <item index="1" class="java.lang.String" itemvalue="Python.redditWorldNews" />
-        <item index="2" class="java.lang.String" itemvalue="Python.redditNews" />
-        <item index="3" class="java.lang.String" itemvalue="Python.googleNews" />
-        <item index="4" class="java.lang.String" itemvalue="Python.main.pyw" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main.pyw" />
+        <item index="1" class="java.lang.String" itemvalue="Python.theGuardian" />
+        <item index="2" class="java.lang.String" itemvalue="Python.redditWorldNews" />
+        <item index="3" class="java.lang.String" itemvalue="Python.redditNews" />
+        <item index="4" class="java.lang.String" itemvalue="Python.googleNews" />
       </list>
     </recent_temporary>
   </component>
@@ -520,13 +526,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Extractors/redditWorldNews.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.py" />
     <entry file="file://$PROJECT_DIR$/userInput.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -795,27 +794,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.pyw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userInput.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding>
-            <element signature="e#50#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Extractors/redditNews.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="357">
           <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -825,7 +806,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Extractors/googleNews.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="408">
           <caret line="27" column="33" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="27" selection-end-column="33" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -835,8 +816,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Extractors/theGuardian.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
+        <state relative-caret-position="572">
           <caret line="71" column="27" lean-forward="false" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userInput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <element signature="e#50#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="131" column="0" lean-forward="true" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
           <folding />
         </state>
       </provider>

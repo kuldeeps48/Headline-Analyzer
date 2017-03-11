@@ -1,5 +1,4 @@
-from userInput import *
-
+import mainUI
 if __name__ == "__main__":
-    drawMainUI()
+    mainUI.startUI()
 
