@@ -4,8 +4,10 @@ from PyQt4 import QtCore, QtGui
 from PyQt4.QtCore import  *
 from PyQt4.QtGui import *
 import sys, time
-sys.path.insert(0, './images')
-import mainuiImages
+
+import images.mainuiImages # images for mainUI
+import Extractors.googleNews
+from Extractors import googleNews
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -22,8 +24,15 @@ except AttributeError:
         return QtGui.QApplication.translate(context, text, disambig)
 
 class Ui_window(object):
-    def function_call(self):
-        print("extracting headline !!")
+    
+    def runScrapper(self, source):
+        if source == "google news":
+            print("Starting Google News Extraction")
+            googleNews.startScrapping()
+            print("Finished extraction")
+        else:
+            pass
+
 
     def start_call(self):
         headline = self.lineEdit.text()
@@ -51,7 +60,7 @@ class Ui_window(object):
         self.pushButton.setText(_fromUtf8(""))
         self.pushButton.setObjectName(_fromUtf8("pushButton"))
         #######Button Event########
-        self.pushButton.clicked.connect(self.function_call)
+        self.pushButton.clicked.connect(self.runScrapper)
 
         self.pushButton_2 = QtGui.QPushButton(window)
         self.pushButton_2.setGeometry(QtCore.QRect(210, 60, 182, 77))
@@ -60,7 +69,7 @@ class Ui_window(object):
         self.pushButton_2.setText(_fromUtf8(""))
         self.pushButton_2.setObjectName(_fromUtf8("pushButton_2"))
         #######Button Event########
-        self.pushButton_2.clicked.connect(self.function_call)
+        self.pushButton_2.clicked.connect(self.runScrapper)
 
         self.pushButton_3 = QtGui.QPushButton(window)
         self.pushButton_3.setGeometry(QtCore.QRect(450, 80, 199, 35))
@@ -70,7 +79,7 @@ class Ui_window(object):
         self.pushButton_3.setText(_fromUtf8(""))
         self.pushButton_3.setObjectName(_fromUtf8("pushButton_3"))
         #######Button Event########
-        self.pushButton_3.clicked.connect(self.function_call)
+        self.pushButton_3.clicked.connect(self.runScrapper)
 
         self.pushButton_4 = QtGui.QPushButton(window)
         self.pushButton_4.setGeometry(QtCore.QRect(220, 180, 152, 74))
@@ -79,7 +88,7 @@ class Ui_window(object):
         self.pushButton_4.setText(_fromUtf8(""))
         self.pushButton_4.setObjectName(_fromUtf8("pushButton_4"))
         #######Button Event########
-        self.pushButton_4.clicked.connect(self.function_call)
+        self.pushButton_4.clicked.connect(self.runScrapper)
 
         self.pushButton_5 = QtGui.QPushButton(window)
         self.pushButton_5.setGeometry(QtCore.QRect(40, 180, 121, 111))
@@ -88,7 +97,7 @@ class Ui_window(object):
         self.pushButton_5.setText(_fromUtf8(""))
         self.pushButton_5.setObjectName(_fromUtf8("pushButton_5"))
         #######Button Event########
-        self.pushButton_5.clicked.connect(self.function_call)
+        self.pushButton_5.clicked.connect(lambda : self.runScrapper("google news"))
 
         self.pushButton_6 = QtGui.QPushButton(window)
         self.pushButton_6.setGeometry(QtCore.QRect(460, 300, 169, 81))
@@ -97,7 +106,7 @@ class Ui_window(object):
         self.pushButton_6.setText(_fromUtf8(""))
         self.pushButton_6.setObjectName(_fromUtf8("pushButton_6"))
         #######Button Event########
-        self.pushButton_6.clicked.connect(self.function_call)
+        self.pushButton_6.clicked.connect(self.runScrapper)
 
         self.pushButton_7 = QtGui.QPushButton(window)
         self.pushButton_7.setGeometry(QtCore.QRect(450, 180, 201, 68))
@@ -106,7 +115,7 @@ class Ui_window(object):
         self.pushButton_7.setText(_fromUtf8(""))
         self.pushButton_7.setObjectName(_fromUtf8("pushButton_7"))
         #######Button Event########
-        self.pushButton_7.clicked.connect(self.function_call)
+        self.pushButton_7.clicked.connect(self.runScrapper)
 
         self.pushButton_8 = QtGui.QPushButton(window)
         self.pushButton_8.setGeometry(QtCore.QRect(700, 220, 112, 105))
@@ -115,7 +124,7 @@ class Ui_window(object):
         self.pushButton_8.setText(_fromUtf8(""))
         self.pushButton_8.setObjectName(_fromUtf8("pushButton_8"))
         #######Button Event########
-        self.pushButton_8.clicked.connect(self.function_call)
+        self.pushButton_8.clicked.connect(self.runScrapper)
 
         self.pushButton_9 = QtGui.QPushButton(window)
         self.pushButton_9.setGeometry(QtCore.QRect(140, 330, 242, 40))
@@ -124,7 +133,7 @@ class Ui_window(object):
         self.pushButton_9.setText(_fromUtf8(""))
         self.pushButton_9.setObjectName(_fromUtf8("pushButton_9"))
         #######Button Event########
-        self.pushButton_9.clicked.connect(self.function_call)
+        self.pushButton_9.clicked.connect(self.runScrapper)
 
         self.pushButton_10 = QtGui.QPushButton(window)
         self.pushButton_10.setGeometry(QtCore.QRect(30, 50, 121, 91))
@@ -133,7 +142,7 @@ class Ui_window(object):
         self.pushButton_10.setText(_fromUtf8(""))
         self.pushButton_10.setObjectName(_fromUtf8("pushButton_10"))
         #######Button Event########
-        self.pushButton_10.clicked.connect(self.function_call)
+        self.pushButton_10.clicked.connect(self.runScrapper)
 
 
         self.line = QtGui.QFrame(window)
