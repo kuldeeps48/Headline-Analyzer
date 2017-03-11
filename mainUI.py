@@ -4,6 +4,11 @@ from PyQt4 import QtCore, QtGui
 from PyQt4.QtCore import  *
 from PyQt4.QtGui import *
 import sys, time
+import os
+from lxml import html
+import requests
+import datetime
+
 
 import images.mainuiImages # images for mainUI
 import Extractors.googleNews

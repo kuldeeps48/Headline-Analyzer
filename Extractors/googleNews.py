@@ -7,11 +7,11 @@ def startScrapping():
 
     today = str(datetime.date.today())
 
-    directory = "..\data\\googleNews\\" + today
-    if not os.path.exists(directory):
-        os.makedirs(directory)
+    directory = './data/googleNews/' + today
 
-    file = directory + "\\" + today + ".txt"
+    os.makedirs(directory)
+
+    file = directory + '/' + today + ".txt"
 
     # Send request to get the web page
     response = requests.get('https://news.google.co.in/')
@@ -27,7 +27,6 @@ def startScrapping():
                           /a/span[@class="titletext"]/text()')
 
         with open(file, "w") as f:
-            print("\n".join(news))
             f.write("\n".join(news))
 
 
