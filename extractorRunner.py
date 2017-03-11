@@ -1,4 +1,5 @@
 import posTagging
+import subprocess
 
 from Extractors.googleNews import googleScrapper
 from Extractors.redditNews import redditScrapper
@@ -11,6 +12,7 @@ source_functions = {"google news":googleScrapper(), "reddit news":redditScrapper
 
 def runScrapper(source):  # Button press function
     if source in source_functions:
+        subprocess.call("python ./ui/progress.py")
         print("Starting ", source  ," Extraction")
         fileToAnalyze = source_functions[source]
         if source in ("reddit news", "reddit world news"):

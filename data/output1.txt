@@ -1,0 +1,3739 @@
+Manipur election results 2017: Hung verdict in Manipur;Congress bags 28 seats, BJP gets 21
+  >P=0.625  >N=0.0
+Twelve jawans killed, two critical after Maoists ambush CRPF search party in Chhattisgarh
+  >P=0.0  >N=1.0
+Iraq: At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+Preet Bharara Among 46 US Attorneys Asked To Quit By Trump Administration
+  >P=0.25  >N=-1.0
+Baahubali The Conclusion Trailer coming on March 16
+  >P=0.25  >N=0.0
+Turkish minister heads to France amid overseas campaigning row
+  >P=0.0  >N=0.0
+'Modi sweeps India': Bollywood celebs on election 2017
+  >P=1.0  >N=0.0
+Our focus will be development, not Azam Khan's buffaloes: UP BJP chief
+  >P=1.0  >N=-0.625
+Election results 2017: Omar Abdullah should focus on Kashmir, says Congress
+  >P=0.75  >N=0.0
+BJP will win in 2019 and the way for reforms will be eased: Lord Meghnad Desai
+  >P=1.0  >N=-0.5
+Opponents of South Korea's ousted Park rally to call for her arrest | Reuters
+  >P=0.25  >N=-0.375
+Sharif asks clerics to counter terror using mosque's pulpit
+  >P=0.25  >N=0.75
+Russia assures India that it has limited contacts with Taliban
+  >P=0.625  >N=0.0
+Trump's revised travel ban dealt first court setback | Reuters
+  >P=0.25  >N=-0.25
+BJP's Big Win In Uttar Pradesh May Lift Sensex To New All-Time Highs
+  >P=0.75  >N=0.125
+Modi 'tsunami' in Uttar Pradesh uproots family tree of Mulayam
+  >P=0.0  >N=0.0
+BJP storms back to power in UP, U'khand; Cong takes Punjab, hung house in Goa, Manipur
+  >P=0.375  >N=0.0
+Decoding Air India mess: Understating losses, bleeding international ops, crew mismanagement
+  >P=0.0  >N=-0.625
+Moto Z (2017) Image Leaks With New Fingerprint Sensor; Snapdragon 835 SoC Expected
+  >P=0.0  >N=-0.75
+Lenovo Vibe B budget 4G smartphone reportedly launched at Rs. 5799
+  >P=0.0  >N=0.125
+WhatsApp Text Status May Return, RCom's 'Joy of Holi', Paytm 2 Percent Fee Revoked, and More: Your 360 Daily
+  >P=0.375  >N=-0.5
+Facebook takes on Google Trips, launches City Guides
+  >P=0.25  >N=0.0
+Badrinath ki Dulhania movie review: Alia Bhatt, Varun Dhawan film is the perfect Holi watch
+  >P=1.3333333330000001  >N=0.125
+Rajinikanth's Daughter Aishwaryaa Dhanush's Bharatanatyam Performance At UN Criticized
+  >P=0.125  >N=0.0
+All You Need To Know About Alia Bhatt, Kareena Kapoor's Upcoming 'Special' Performance
+  >P=1.0625  >N=0.25
+Aishwarya Rai Bachchan's father still critical, actress has a meltdown
+  >P=0.25  >N=0.375
+Anil Kumble, Rahul Dravid May Get New Roles In The Indian Team
+  >P=0.0  >N=0.0
+I-League 2017: Bengaluru FC play out barren draw with Mohun Bagan, leaders Aizawl FC drop crucial points
+  >P=0.40625  >N=-0.958333333
+India vs Australia: Virat Kohli is Frustrated, Says Mitchell Johnson
+  >P=0.25  >N=-0.375
+Manchester City Cruise Into FA Cup Semi-Finals
+  >P=0.0  >N=0.0
+Lost in space: How NASA found a missing Indian spacecraft
+  >P=0.0  >N=-1.0555555559999998
+Dawn data reveals the age of mysterious bright spot on dwarf planet Ceres
+  >P=0.375  >N=-0.59375
+Australia sees second year of Barrier Reef bleaching
+  >P=0.0  >N=0.0
+NASA's Europa Clipper mission to explore Jupiter's moon
+  >P=0.0  >N=0.0
+Scientists May Have Found a Potential Cure for Blindness
+  >P=0.0  >N=-1.0
+Read this – Your brain may be ready for action even while resting
+  >P=1.1875  >N=0.25
+Trachoma: 5 Things You Didn't Know About This Eye Infection That Cause Blindness
+  >P=0.75  >N=-1.0
+After surgery, Eman on high-protien diet in Mumbai hospital  >P=0.625  >N=0.25
+US authorities refuse to reveal how Russian ambassador to the United Nations died
+  >P=0.375  >N=-0.208333333
+Scientists say the government’s only pot farm has moldy samples — and no federal testing standards
+  >P=0.25  >N=-0.833333333
+Netherlands withdraw landing rights of turkish plane. Preventing the Turkish minister from campaigning for Constitution change (article in Dutch)
+  >P=0.0  >N=0.0
+Mumps outbreaks reported across USA
+  >P=0.5  >N=-0.375
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+Gander Mountain Files Ch. 11 Bankruptcy, Closing 32 Stores
+  >P=0.0  >N=-0.75
+New bill would let companies force workers to get genetic tests, share results
+  >P=0.625  >N=0.25
+US spies still won't tell Congress the number of Americans caught in dragnet
+  >P=0.25  >N=-0.375
+UK to make use of ticket scalping bots illegal
+  >P=0.479166667  >N=0.0
+Idaho man charged with forging documents to get out of trial in forgery case
+  >P=0.333333333  >N=-0.375
+ICE agent convicted of accepting cash bribes, sex
+  >P=0.6875  >N=0.0
+Florida judge denies 'stand your ground' defense in movie theater shooting of texting man
+  >P=0.0  >N=-0.875
+Mom pulls gun on another mom in school drop-off line
+  >P=2.375  >N=0.0
+US Government passed the NASA Authorization Act, promising $19.5 billion in funding in order to 'Get Humans to Mars By 2033'
+  >P=0.375  >N=-0.75
+Drinking water in three Colorado cities contaminated with toxic chemicals above EPA limits
+  >P=0.0  >N=-0.375
+Second wave of mass bleaching unfolding on Great Barrier Reef
+  >P=0.979166667  >N=0.0
+A Utah family's cat had its eyes sealed shut with hot glue before being tortured to death in an attack animal welfare advocates are calling “the worst case of abuse.”
+  >P=2.1875  >N=-1.0
+Alzheimer's could be caused by excess sugar: new study finds 'molecular link'
+  >P=0.75  >N=0.0
+Kansas wildfires: These cattle ranchers just lost everything
+  >P=0.535714286  >N=-0.555555556
+Pastor Arrested for Chopping Up Teen Kept Counseling Kids for 23 Years
+  >P=0.375  >N=-0.375
+BBC News: White House intruder arrested near Trump residence, reports say
+  >P=0.25  >N=0.0
+Utah senator pointed to his daughter -- a plural wife -- to push passage of polygamy bill
+  >P=0.0  >N=-0.3
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+'A Tragedy': Hundreds of Thousands of California Residents Exposed to Contaminated Water
+  >P=0.0  >N=-0.875
+US created 235,000 jobs in Feb, vs 190,000 expected
+  >P=0.0  >N=-0.25
+'Vile and evil': Alberta mother who drugged, burned 9-year-old daughter gets life sentence
+  >P=0.875  >N=-0.375
+Dozens of Iraqi pilgrims slain in Damascus bombings
+  >P=0.0  >N=0.875
+The U.S. is sending 2,500 troops to Kuwait, ready to step up the fight in Syria and Iraq
+  >P=1.125  >N=-0.4375
+Marines Keep Sharing Women’s Nude Photos in Secret Groups After Getting Busted
+  >P=0.0  >N=-0.1875
+Nude Photo Scandal Expands To All US Military Branches
+  >P=0.3125  >N=0.125
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+Reward for info increases to $30K after Clearfield cat tortured to death
+  >P=0.333333333  >N=-1.125
+TD Bank shares post worst day since 2014 after CBC story... Bank analyst notes TD's 'Wells Fargo moment' as reaction to CBC story reverberates
+  >P=0.25  >N=0.625
+Hounded and ridiculed for complaining of rape
+  >P=0.25  >N=-0.75
+South Korean President Impeached
+  >P=0.0  >N=0.0
+Radioactive boars are stalking residents of Fukushima trying to return to their homes
+  >P=0.375  >N=0.0
+Hundreds of current and former employees respond to CBC report with stories of pressure to upsell customers at TD Bank... 'We do it because our jobs are at stake': TD bank employees admit to breaking the law for fear of being fired
+  >P=0.875  >N=0.65625
+Bursts of energy from another galaxy suspected to be something sailing across the universe
+  >P=0.958333333  >N=0.5
+UPDATE: Missing Witchita woman Toni Anderson's car recovered from Missouri RIver; police say a body found in car
+  >P=0.375  >N=-0.5
+Test meant to screen teachers instead weeded out minorities
+  >P=0.375  >N=-1.0
+Director of 'Kong: Skull Island' crowned Vietnam tourism ambassador
+  >P=0.375  >N=0.0
+Reports: Teen accidentally shoots self playing Russian roulette
+  >P=0.291666667  >N=0.0
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Pope signals he's open to married Catholic men becoming priests
+  >P=1.125  >N=0.375
+Time crystals: New form of matter once thought to break laws of physics created by scientists
+  >P=1.0  >N=-1.5
+Customs: Smuggler arrested at JFK with cocaine taped to legs
+  >P=0.0  >N=0.25
+ADA serial lawsuit filer abruptly dismisses case days before deposition; Motives questioned
+  >P=0.75  >N=0.0
+Police in California search for bikers after violent highway attack captured on video
+  >P=0.25  >N=-0.34375
+Hate crime suspect beats Salem restaurant employee with pipe
+  >P=0.375  >N=-0.6875
+Massive oil discovery in Alaska is biggest onshore find in 30 years
+  >P=0.8125  >N=0.375
+The father of an Oklahoma boy authorities say was sexually assaulted by high school wrestlers is suing the school district.
+  >P=2.275  >N=-0.375
+Detroit Mom turns in 12 year old son accused of robbery
+  >P=1.25  >N=-0.25
+US Deploying Thousands More Ground Troops to Kuwait to Fight in Iraq, Syria
+  >P=0.0  >N=-0.5
+'Nightmare' scenes as Guatemala children shelter fire kills 35
+  >P=0.0  >N=0.25
+Antioch High School Students Hold Walkout, List Grievances
+  >P=0.275  >N=0.0
+Caught on Camera: Man Steals $100 From Child at Walmart
+  >P=0.5  >N=0.0
+Germany: Child murder suspect arrested, as one more body found
+  >P=0.5  >N=0.375
+US House Committee Backs Ban on Porn Viewing at Work by Feds
+  >P=0.25  >N=-0.75
+Seattle synagogue vandalism denies Holocaust
+  >P=0.0  >N=1.0
+Cannabis Culture pot shops raided across Canada, Marc and Jodie Emery arrested
+  >P=1.125  >N=0.5
+U.S. aluminum trade group hits China with trade complaint over improperly low export prices
+  >P=1.4375  >N=-0.95
+St. Patrick’s Day Parade Planners to Include LGBT Veterans Group
+  >P=0.5  >N=0.0
+Volkswagen pleads guilty in US diesel emissions scandal
+  >P=0.125  >N=0.75
+Video shows WPD sergeant falsely telling citizen to stop recording him because of state law
+  >P=1.375  >N=-0.25
+Columnist Jack Monroe wins Katie Hopkins libel tweet case.
+  >P=0.25  >N=0.375
+Marilyn Young, Historian Who Challenged U.S. Foreign Policy, Dies at 79
+  >P=0.0  >N=-0.7150000000000001
+Cops: Nashville man put mom's dog in trash compactor
+  >P=1.125  >N=-0.333333333
+Richmond homeowner shoots intruder: 'It was a last resort'
+  >P=0.625  >N=0.375
+Cops Search For Robbery Suspect Dressed As Super Bowl Halftime Star 'Left Shark'
+  >P=0.25  >N=-0.5
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+This popular local doughnut shop is now selling doughnut cakes
+  >P=0.375  >N=-0.125
+A state trooper helped move this cute bear cub to safety
+  >P=1.0625  >N=0.25
+Farmer, 83, cleared over shooting man on his land - BBC News
+  >P=1.5625  >N=0.0
+After record-setting outage, 289,000 remain without power in Michigan
+  >P=0.0  >N=0.0
+Pakistan's War on Atheism Pakistan’s anti-blasphemy crackdown is tightening the noose around nonbelievers
+  >P=1.375  >N=-0.125
+Samsung Electronics Completes Acquisition of HARMAN
+  >P=0.0  >N=0.0
+U.S., Mexico launch new round of negotiations on sugar trade
+  >P=0.625  >N=0.0
+Seattle synagogue vandalism denies Holocaust
+  >P=0.0  >N=1.0
+Tillerson recuses himself from Keystone pipeline issues US secretary of state says he will not work on issues related to the controversial pipeline due to ExxonMobil ties.
+  >P=2.0625  >N=-0.75
+Police say Ohio couple staged murder with ketchup, texted photos
+  >P=0.0  >N=0.25
+First-year doctors will be allowed to work 24-hour shifts starting in July
+  >P=0.5  >N=0.125
+Panic as King Kong model catches fire at premiere
+  >P=0.625  >N=1.0
+Bartow, FL police officer on Administrative leave after Facebook comment referring to Obama as a 'gorilla'
+  >P=0.25  >N=0.0
+EPA chief Scott Pruitt says carbon dioxide is not a primary contributor to global warming
+  >P=0.75  >N=-0.125
+Police confused as to why woman hauled dead body 1,600 kilometres in suitcase
+  >P=0.0  >N=-0.73125
+‘Knees together’ judge resigns after judicial council suggests removal
+  >P=0.75  >N=0.0
+Marble flower pot revealed to be ancient Roman sarcophagus
+  >P=0.5  >N=0.125
+NASA finds lunar spacecraft that vanished 8 years ago
+  >P=0.0  >N=0.5
+Two Convicted of Conspiracy, Two Acquitted in Malheur Occupation Trial
+  >P=0.0  >N=-0.25
+School investigating social media post threatening to ‘exterminate' black students
+  >P=0.0  >N=-1.366071429
+DREAMer Daniela Vargas to be released, her attorney says
+  >P=0.5  >N=0.125
+South Pasadena High School was placed on lockdown Friday morning as authorities investigated a social media posting, officials said.
+  >P=0.775  >N=-0.125
+SEC rejects application to list Bitcoin ETF
+  >P=0.0  >N=0.0
+It’ll take $4.59 trillion investment in the Infrastructure of the U.S. to bring things up to a B, or adequate grade, by 2025, according to a new report by the American Society of Civil Engineers
+  >P=1.25  >N=-2.0
+Waymo Asks Court to Block Uber’s Self-Driving Car Project
+  >P=0.25  >N=-0.208333333
+8 women rescued from million dollar Georgia home in human trafficking case
+  >P=0.5  >N=0.0
+Listeria from raw milk cheese kills two in US: Six cases of listeria have been recorded in Connecticut and Vermont, where the deaths occurred, as well as New York and Florida.
+  >P=0.7166666669999999  >N=-0.5
+Fred Weintraub, Founder Of The Bitter End And 'Enter The Dragon' Producer, Dies At 88
+  >P=0.0  >N=-1.3275000000000001
+Man wrongly convicted gets $175,000 for 13 years in prison
+  >P=0.125  >N=0.25
+Attorney records Wilmington officer lying about state law during traffic stop
+  >P=0.625  >N=-0.25
+Canada's highest court upholds ruling that Donald Trump did mislead investors
+  >P=0.625  >N=0.0
+Dutch government withdraws landing permission for Turkish foreign minister's aircraft
+  >P=0.25  >N=-0.375
+The Dutch are 'Nazi remnants' - Erdogan
+  >P=0.25  >N=0.125
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+Plot to hit German shopping centre with multiple suicide bombers is foiled after police are tipped off about 'imminent attack'
+  >P=1.5  >N=-0.975
+The US state department has instructed New York City's chief medical examiner not to disclose the cause of death of Russia's ambassador to the United Nations
+  >P=1.625  >N=-1.0625
+FIFA President: Trump Travel Ban could Prevent US Hosting World Cup 2026
+  >P=0.25  >N=-0.5
+FBI probes ‘odd’ link between Trump server and Russia’s Alfa Bank
+  >P=0.0  >N=0.0
+Turkey warns Netherlands of 'severe sanctions'
+  >P=0.25  >N=0.5
+Earth's oceans are warming 13% faster than thought, and accelerating
+  >P=0.5  >N=-1.125
+ISIS kills "anyone who argues with them," says defector
+  >P=0.0  >N=0.5
+Mexican authorities have found at least 242 bodies in hidden graves in the eastern state of Veracruz that were discovered by mothers searching for their missing children
+  >P=1.0  >N=-1.90625
+Oil giant Shell warns public faith in fossil fuel industry is 'disappearing' and calls for carbon taxes - "Shell is to increase its spending on renewable energy to $1bn a year"
+  >P=1.5833333330000001  >N=1.0
+The world is facing its largest humanitarian crisis since 1945, the United Nation's humanitarian chief said as he pleaded for help to avoid "a catastrophe". More than 20 million people are facing starvation and famine in Yemen, Somalia, South Sudan and Nigeria.
+  >P=3.25  >N=1.25
+Government accused of obstructing the homeless from voting while spending millions on helping rich expats register: Election chiefs protest over rules which require the young and poor without a home to print out a form – while the ‘15-year rule’ for expats is axed.
+  >P=2.1875  >N=-1.527777778
+2 former JPMorgan execs face lifetime ban for hiring kids of China's elite
+  >P=0.75  >N=-0.46875
+White men an 'endangered species' on boards, Tesco chairman claims
+  >P=0.375  >N=0.0
+UN: World facing largest humanitarian crisis since 1945
+  >P=1.125  >N=0.5
+172,000 humans will be relocated to make way for giant national panda park in western China. Earlier this month, the central government gave its approval for the 27,134-square-kilometer park which will cover parts of Sichuan, Gansu and Shaanxi provinces.
+  >P=2.291666667  >N=0.25
+Russia's Prime Minister Responds to Corruption Allegations by Banning Opposition Leader on Instagram
+  >P=1.0416666669999999  >N=-1.1875
+China to turn 800,000 hectares of marginal farmland into forests or grassland
+  >P=0.625  >N=0.0
+One in 10 firms bidding for Trump's Mexico wall project are Hispanic-owned
+  >P=0.5  >N=-0.25
+'Save a dog, eat a Chinese' shirts on German site spark outrage, Chinese embassy demands apology
+  >P=0.5  >N=-0.833333333
+Colossal 3,000-year-old statue of Ramses II unearthed in Cairo
+  >P=0.0  >N=0.0
+Putin Met with New CEO of ExxonMobil Today
+  >P=0.125  >N=0.0
+Shell Is Abandoning Canada’s Oilsands: Says it’s focused on becoming a “company of the future”
+  >P=1.0  >N=0.0
+Jeremy Corbyn says a second Scottish independence referendum would be 'absolutely fine'
+  >P=0.5625  >N=0.125
+Netherlands bars Turkish foreign minister's plane from landing: The Netherlands barred a plane carrying Turkey's foreign minister from landing to stop him from addressing a political rally Saturday in Rotterdam.
+  >P=0.0  >N=-1.625
+UN privacy watchdog says "little or no evidence" that mass surveillance works
+  >P=0.25  >N=-0.983333333
+Netherlands cancels flight permit for Turkish FM
+  >P=0.25  >N=-0.25
+Father releases pictures of dying daughter to raise awareness of bullying
+  >P=0.375  >N=-0.375
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Research into cannabis dementia treatment 'held up by drug laws'. Cannabinoids can help remove dangerous dementia proteins from brain cells, researchers say.
+  >P=1.6875  >N=-1.625
+Pakistan's War on Atheism
+  >P=0.5  >N=-0.375
+Turkey-PKK conflict: UN investigators found some 2,000 people were killed in 18 months of fighting, and accuse Turkish forces of serious human rights violations.
+  >P=2.0  >N=0.333333333
+We won’t sell Saudis our land: Maldivian opposition
+  >P=0.0  >N=-0.4375
+Trump Trade Nominee Lighthizer Needs Waiver Over Work for China and Brazil
+  >P=1.4375  >N=0.0
+Carbon dioxide levels in atmosphere hit new high
+  >P=0.65  >N=0.25
+The Netherlands blocks Turkish FM’s plane from landing in Amsterdam, Erdogan livid
+  >P=0.0  >N=-0.208333333
+Indonesian Buddhists caned under sharia for first time
+  >P=0.5  >N=0.0
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+'Out of sight, out of mind': Humanitarian crisis worsens in Ukraine as world focuses on Syria, Iraq
+  >P=1.375  >N=-0.5
+Democrats question Trump 'conflict of interest' with Deutsche Bank investigation
+  >P=0.458333333  >N=0.0
+President of South Korea Impeached.
+  >P=0.0  >N=0.0
+Hounded and ridiculed for complaining of rape - Rakhines in Myanmar
+  >P=0.25  >N=-0.75
+India more than doubles maternity leave to 26 weeks
+  >P=0.75  >N=0.0
+One in three terror suspects in UK now white amid rise in far-right extremism
+  >P=0.5  >N=0.5
+India’s first lunar probe found orbiting moon eight years after losing radio contact: NASA finds the Chandrayaan spacecraft 200 kilometres above the lunar surface
+  >P=0.625  >N=0.25
+Canadian TD bank forcing employees to break the law due to sales pressure
+  >P=1.1875  >N=0.25
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+Iran accuses Israel of hiring assassins to take out nuclear scientists
+  >P=0.0  >N=-0.375
+Syria: At least 40 killed more than 120 others wounded in dual Damascus bombing targeting Shia Iraqis
+  >P=0.25  >N=-0.375
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+YouTube has chosen Jeddah, Saudi Arabia for its first ever FanFest event in the Middle East on Friday, as Saudi Arabia is home to the biggest number of YouTube consumers per capita in the world
+  >P=1.0  >N=-0.75
+6 million people are at risk of starving in East Africa, and climate change deserves part of the blame
+  >P=1.0  >N=0.5
+Volkswagen pleads guilty to evading US government diesel emissions rules concerning 600,000 vehicles
+  >P=0.375  >N=0.625
+White House intruder arrested near Trump residence, reports say
+  >P=0.0  >N=0.0
+Leaked emails reveal Nigel Farage's long-standing links to Julian Assange
+  >P=0.0  >N=0.0
+Fukushima disaster evacuees told to return to abandoned homes: People who fled after March 2011 nuclear meltdown face losing housing subsidies if they do not go back, despite radiation fears
+  >P=0.0  >N=-0.9375
+Bone by bone, Iraqis unearth a mass grave: 'We will be out there digging until no one is left'
+  >P=0.75  >N=-1.3958333330000001
+A film about a slain Putin critic gets a screening — just off Red Square
+  >P=1.0357142860000002  >N=-0.9125
+Czech President pokes fun at media, declaring himself ‘agent of Putin, Trump, China & Israel’
+  >P=0.875  >N=0.125
+Turkish minister to go to Rotterdam by land after foreign minister blocked: report
+  >P=0.0  >N=-0.875
+World facing greatest humanitarian crisis since 1945
+  >P=0.875  >N=0.375
+The U.K.’s post-Brexit trade deal with the European Union could take more than a decade to conclude
+  >P=0.25  >N=0.0
+Chinese Embassy demands apology from German T-shirt retailer with slogans it says are insulting to China. T-shirts with slogans like "Save a dog, Eat a Chinese," ''Save a shark, Eat a Chinese," and an image of two faux Chinese alphabets having sex, with the caption "Now I understand Chinese."
+  >P=2.25  >N=-2.833333333
+Family of technician slain by factory robot sues everyone involved
+  >P=0.0  >N=-0.75
+Robert Mugabe last week splurged more than US$1 million when he chartered an ultra-luxurious Boeing 767-200 Extended Range aircraft to Singapore and Ghana
+  >P=0.0  >N=0.25
+Two explosions killed at least 28 people in the old city of Damascus on Saturday, a monitoring group said, in one of the bloodiest attacks yet seen in the heart of the Syrian capital.
+  >P=1.125  >N=0.59375
+World faces worst humanitarian crisis since 1945 - Twenty million people face starvation without an immediate injection of funds in Yemen, South Sudan, Somalia and Nigeria
+  >P=1.0  >N=0.75
+Turkish president Erdogan calls Netherlands 'Nazi remnants, fascists'
+  >P=0.25  >N=0.0
+Neanderthals may have medicated with penicillin and painkillers
+  >P=0.0  >N=-0.125
+UN says world faces largest humanitarian crisis since 1945
+  >P=1.125  >N=0.5
+‘Veiled’ attack foiled: Swiss parliamentarians reject bill to ban burqas
+  >P=0.0  >N=-1.125
+German shopping mall shut on police fears of an attack
+  >P=0.5  >N=0.625
+China official says two-child policy showing 'notable results'
+  >P=0.5  >N=0.0
+Senators urge Don Meredith to resign after 'disgusting' relationship with teenage girl
+  >P=0.25  >N=0.25
+Britain could rejoin EU after Brexit, European Commission chief Jean-Claude Juncker says
+  >P=0.75  >N=0.0
+World faces worst humanitarian crisis since WWII – UN
+  >P=0.875  >N=1.0
+White House: Flynn’s Foreign Lobbying Didn’t Raise Red Flags
+  >P=0.0  >N=-0.9375
+The Hague Effect: Russia to Face Charges of Terrorism in Ukraine
+  >P=0.0  >N=-0.25
+Radioactive wild boars have taken over two Japanese towns
+  >P=0.8125  >N=0.0
+Turkey referendum: Dutch are Nazi remnants - Erdogan - BBC News
+  >P=0.5  >N=0.125
+Intruder scaled fence to enter White House grounds Friday night
+  >P=0.0  >N=0.0
+Israel's Counter-Terrorism Bureau fears ISIS chemical attacks in Europe in the coming months. — The bureau intends to issue a travel advisory to the tens of thousands of Israelis who are planning to vacation in Europe over the upcoming Passover holiday
+  >P=1.1875  >N=0.75
+A World Bank arbitration panel has determined that Venezuela will not have to pay $1.4 billion to Exxon Mobil Corp. for confiscating company assets during a wave of nationalizations
+  >P=1.625  >N=-1.75
+BlackBerry claims QNX automotive software is safe from CIA
+  >P=0.541666667  >N=0.125
+Germany terror threat: Fears 'several suicide bombers' will launch deadly attack today force closure of huge shopping centre The Limbacher Platz shopping centre in Essen has been surrounded by hundreds of armed police over fears of an imminent attack
+  >P=1.8125  >N=-0.02083333300000001
+Muhammad Ali Jr questioned at Washington DC airport, day after testifying about similar incident
+  >P=1.75  >N=0.25
+Armed far-left Maoist Insurgents Kill 11 Indian Armed Police in Chhattisgarh State
+  >P=0.25  >N=0.0
+Netherlands cancels landing permission for Turkish minister
+  >P=0.25  >N=0.125
+Trump to Palestinian leader: It’s time for a peace deal
+  >P=0.625  >N=0.0
+The leader of the anti-immigrant Northern League party is vowing to go ahead with his first major rally in Naples despite planned protests from radicals and leftists intent on keeping him out of the southern Italy that the League has long disparaged
+  >P=2.0  >N=-0.8125
+China Vows 'Strike' Against Dalai Lama as Tibetans Mark Uprising
+  >P=0.625  >N=0.125
+Erdogan calls The Netherlands; Fascists and leftovers of Nazi-Germany.
+  >P=0.25  >N=0.0
+15 dead fighting in Yemen
+  >P=0.25  >N=-0.325
+Trump Invites Palestinian Leader To White House To Discuss Peace With Israel
+  >P=0.125  >N=0.0
+Everton v West Brom, Hull v Swansea and more: clockwatch – live!
+  >P=0.321428571  >N=0.0
+England v Scotland: Six Nations – live!
+  >P=0.321428571  >N=0.0
+Arsenal v Lincoln City: FA Cup quarter-final – live!
+  >P=0.321428571  >N=0.0
+Rangers head into daunting Old Firm match with shaky hands on the tiller
+  >P=1.25  >N=-1.0
+Italy 18-40 France: Six Nations – as it happened
+  >P=0.0  >N=0.0
+Song to Song review – Terrence Malick returns to form with lyrical love triangle
+  >P=1.075  >N=0.0
+Pussy Riot performance warns Americans of Trump’s parallels to Putin
+  >P=0.125  >N=-0.25
+Robots delivering pizza and house viewing by VR: is 5G really the future?
+  >P=0.71875  >N=-0.625
+Being a global free-trading nation isn’t as easy as it looks
+  >P=0.625  >N=0.75
+Brexit and Bochum haunt Vauxhall in the new battle for Ellesmere Port
+  >P=0.375  >N=-0.25
+After Brexit, Israel senses a chance to boost trade with UK
+  >P=0.21875  >N=0.125
+Shell’s sale of dirty tar sands assets cleans up debt and spruces image
+  >P=1.0  >N=-0.333333333
+Jeremy Corbyn 'absolutely fine' with second Scottish vote
+  >P=0.4375  >N=0.0
+Western Australian election: Labor wins in 'savage result' for Liberals – as it happened
+  >P=0.5  >N=0.0
+Western Australian election: Mark McGowan declares victory for Labor after record-breaking swings
+  >P=1.375  >N=0.125
+Donald Trump's first 100 days as president – daily updates
+  >P=0.0  >N=-0.5
+Manchester City and David Silva catch Middlesbrough cold to reach semi
+  >P=0.0  >N=-0.336538462
+Philip Hammond gave us a budget for tax avoiders and giant firms | John McDonnell
+  >P=0.375  >N=0.125
+Middlesbrough 0-2 Manchester City: FA Cup quarter-final – as it happened
+  >P=0.0  >N=0.0
+From Brecht to Lorca, the playwrights who became theatre's freedom fighters
+  >P=0.0  >N=0.0
+Nathan Lane: ‘I have played a lot of morally questionable people
+  >P=0.6875  >N=-1.125
+Prison psychiatrists warn care is ‘at breaking point’
+  >P=0.5  >N=0.0
+Democrats question Trump 'conflict of interest' with Deutsche Bank investigation
+  >P=0.458333333  >N=0.0
+Call to boycott Tesco over 'endangered' white men claim
+  >P=0.6875  >N=-0.125
+South Korea expert interrupted by children on BBC World News goes viral
+  >P=1.25  >N=-1.25
+Gaggle of Cambridge University students criticise geese-cull plans
+  >P=0.0  >N=0.25
+Better than Buffy? Spare a thought for the Vampire Diaries
+  >P=0.625  >N=-0.625
+Conservatives cheer EPA cuts that activists fear 'will be borne by lungs'
+  >P=0.75  >N=0.0
+Logan Tomkins escapes shadow of elder brothers in new life at Salford
+  >P=0.6875  >N=0.0
+SXSW panel opens window into dangers of facial recognition software
+  >P=0.375  >N=1.0
+Graham Swift: ‘As a novelist, I’m in for the long haul’
+  >P=0.0  >N=0.0
+Stockpiles of nuclear weapons around the world – in data
+  >P=0.25  >N=-0.5
+Ask Alys Fowler: can I train my cider gum from a pot plant into a tree?
+  >P=0.5  >N=-0.583333333
+Jacob Polley: ‘I’m a fool as a writer – you have to take risks’
+  >P=0.5625  >N=-0.5
+Death of truth: when propaganda and 'alternative facts' first gripped the world
+  >P=0.75  >N=-0.8125
+This week’s best radio: Jarvis Cocker heads to Morocco's mountains
+  >P=0.5625  >N=0.0
+Alys Fowler: thinking of a green wall? Give climbing plants a go instead
+  >P=0.25  >N=-1.2083333330000001
+Ivanka Trump: the president's moral compass or just another mouthpiece?
+  >P=1.1607142860000002  >N=0.25
+Geri's 90s: Ginger Spice's nostalgia show will drive you to distraction
+  >P=0.71875  >N=-0.375
+England need to make their familiar strengths pay against Scotland | Robert Kitson
+  >P=1.3229166669999999  >N=0.25
+One in 10 firms bidding for Trump's Mexico wall project are Hispanic-owned
+  >P=0.5  >N=-0.25
+Four decades after the Battle of the Sexes, the fight for equality goes on
+  >P=0.25  >N=-0.75
+‘All my friends had some nightmare experience trying to get pregnant. My story took the cake’
+  >P=0.875  >N=-0.875
+Romeo and Juliet review – hot, hormonal inner-city tragedy
+  >P=0.25  >N=-0.5
+The Vicarage, Holmes Chapel, Cheshire: hotel review
+  >P=0.125  >N=0.0
+Drug addiction isn't going away so why are treatment centres being slashed?
+  >P=1.125  >N=0.166666667
+Every Hidden Thing by Kenneth Oppel review – heat, dust and dinosaur bones
+  >P=0.125  >N=-1.28125
+Technology could redefine doctor-patient relationship | Richard Vize
+  >P=0.0  >N=0.0
+Four infinitely adaptable recipes for leftover food | Food waste recipes
+  >P=0.375  >N=-0.5
+Enlightened Princesses review – royals who shaped modern Britain
+  >P=0.21875  >N=0.25
+Want a different take on Trump? Try Ivanka, who gives great hair and better Instagram
+  >P=2.104166667  >N=0.125
+What I’m really thinking: the gay Christian
+  >P=1.1770833330000001  >N=0
+Letter to my younger self: you'll be called a little girl with an idea
+  >P=0.625  >N=-0.4625
+Secret Teacher: buying supplies my school can't afford costs me a fortune
+  >P=0.25  >N=0.5
+Greek activists target sales of homes seized over bad debts
+  >P=0.4375  >N=-1.433823529
+Replacing EU hospitality workers after Brexit 'will take 10 years'
+  >P=0.25  >N=0.0
+Modern tribes: the boot camp bore
+  >P=0.0  >N=0.166666667
+Writers unite! The return of the protest novel
+  >P=0.375  >N=-0.25
+Can high-intensity interval training delay the ageing process?
+  >P=1.375  >N=-0.25
+From Seaspeak to Singlish: celebrating other kinds of English
+  >P=0.0  >N=-0.25
+Weekend reading: Budget, Buffy and BBC4
+  >P=0.0  >N=0.0
+Clive James: ‘I couldn't believe how non-weird Sam Neill was’
+  >P=0.125  >N=0.0
+Is this the end of Britain as a place of sanctuary for refugees? | Martin Plaut
+  >P=0.375  >N=0.0
+Germany's rightwing AfD wants to jettison postwar safeguards
+  >P=0.375  >N=0.125
+The 1930s were humanity's darkest, bloodiest hour. Are you paying attention?
+  >P=1.25  >N=0.625
+Beauty: a big hello to a gamechanger of a dry mask
+  >P=0.5  >N=-0.5625
+White men 'endangered species' in UK boardrooms, says Tesco chairman
+  >P=0.0  >N=0.0
+Got it covered: fashion wakes up to Muslim women’s style
+  >P=0.875  >N=0.0
+Self-employed? See if you'll pay more in national insurance
+  >P=0.541666667  >N=0.0
+What’s the best way to teach my daughter to drive?
+  >P=1.28125  >N=0.0
+Sixty years ago, abuse hid in plain sight. But we still closed our eyes | Ian Jack
+  >P=0.625  >N=-0.4625
+Isas back in favour after tax allowance hike
+  >P=0.75  >N=-0.25
+Budget 2017: tax on dividends will be a raid on 2 million small investors
+  >P=1.0  >N=-0.125
+OmNICshambles: how it all went wrong for 'spreadsheet Phil' Hammond | Heather Stewart and Larry Elliott
+  >P=0.3125  >N=-0.759615385
+My workout: ‘Going to circus school is like being a child again’
+  >P=0.75  >N=-0.25
+Now we should go after companies that force workers to be self-employed
+  >P=0.625  >N=0.0
+Walking with dinosaurs: fossil hunting on the North Yorkshire coast
+  >P=0.75  >N=-0.25
+Why are Britain’s new homes built so badly?
+  >P=0.875  >N=-0.319444444
+Simon Amstell: 'I thought: ‘I’ll never be happy''
+  >P=1.125  >N=-1.25
+Which painter had a pet pug called Trump? The Weekend quiz
+  >P=0.75  >N=0.0
+‘Think of it as an utterly invaluable learning experience’ – our work expert responds
+  >P=1.4375  >N=0.0
+The Falklands war hero fighting for his state pension
+  >P=0.75  >N=-0.375
+Has TalkTalk’s security been breached yet again?
+  >P=0.75  >N=-0.53125
+In my version of the mother-in-law joke, the punchline is our happiness together
+  >P=1.0  >N=-0.625
+Why photos of stillborn babies matter
+  >P=0.0  >N=-0.5
+People's History of Pop review – 'We’re on the cusp of something terrifying!'
+  >P=0.375  >N=-0.625
+Lynne Reid Banks: raising a family on a kibbutz was everything my mother detested
+  >P=0.5  >N=0.875
+How to make a feast without packaged food | A taste of home
+  >P=0.479166667  >N=-0.25
+Why I love… musician Sampha
+  >P=0  >N=0
+Tim Dowling: Touring is taking its toll. Then my wife tells me we're moving house
+  >P=1.375  >N=0.125
+Saturday's best TV: Geri's 1990s; Dogs Behaving Badly
+  >P=0.5625  >N=-0.444444444
+Blind date: ‘We talked about having children’
+  >P=0.75  >N=-0.375
+Panic on the machair as a predator approaches
+  >P=0.5  >N=0.75
+China: Xi Jinping wants ‘Great Wall of Steel’ in violence-hit Xinjiang
+  >P=0.75  >N=-0.375
+Daniel Morgan: how a 30-year-old murder still haunts Britain's powerful
+  >P=0.28125  >N=0.5
+Justin Bieber review – searching for a sense of purpose
+  >P=0.75  >N=-0.25
+Reza Aslan outrages Hindus by eating human brains in CNN documentary
+  >P=0.125  >N=-0.375
+Dreamer detained by Ice agents in Mississippi to be released
+  >P=1.0  >N=-0.625
+Talking Horses: Saturday's best bets for Sandown and Wolverhampton
+  >P=0.5625  >N=0.0
+Ireland’s Joe Schmidt concedes Six Nations title after defeat in Wales
+  >P=0.0  >N=0.25
+Prize crossword No 27,142
+  >P=0.5  >N=-0.333333333
+McLaren left under pressure before F1 season with car failure in Spain
+  >P=0.0  >N=0.0
+US authorities refuse to reveal how Russian ambassador to the United Nations died
+  >P=0.375  >N=-0.208333333
+Scientists say the government’s only pot farm has moldy samples — and no federal testing standards
+  >P=0.25  >N=-0.833333333
+Gander Mountain Files Ch. 11 Bankruptcy, Closing 32 Stores
+  >P=0.0  >N=-0.75
+Mumps outbreaks reported across USA
+  >P=0.5  >N=-0.375
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+Idaho man charged with forging documents to get out of trial in forgery case
+  >P=0.333333333  >N=-0.375
+New bill would let companies force workers to get genetic tests, share results
+  >P=0.625  >N=0.25
+US spies still won't tell Congress the number of Americans caught in dragnet
+  >P=0.25  >N=-0.375
+UK to make use of ticket scalping bots illegal
+  >P=0.479166667  >N=0.0
+BBC News: White House intruder arrested near Trump residence, reports say
+  >P=0.25  >N=0.0
+Drinking water in three Colorado cities contaminated with toxic chemicals above EPA limits
+  >P=0.0  >N=-0.375
+ICE agent convicted of accepting cash bribes, sex
+  >P=0.6875  >N=0.0
+Florida judge denies 'stand your ground' defense in movie theater shooting of texting man
+  >P=0.0  >N=-0.875
+Mom pulls gun on another mom in school drop-off line
+  >P=2.375  >N=0.0
+US Government passed the NASA Authorization Act, promising $19.5 billion in funding in order to 'Get Humans to Mars By 2033'
+  >P=0.375  >N=-0.75
+Second wave of mass bleaching unfolding on Great Barrier Reef
+  >P=0.979166667  >N=0.0
+Kansas wildfires: These cattle ranchers just lost everything
+  >P=0.535714286  >N=-0.555555556
+A Utah family's cat had its eyes sealed shut with hot glue before being tortured to death in an attack animal welfare advocates are calling “the worst case of abuse.”
+  >P=2.1875  >N=-1.0
+Alzheimer's could be caused by excess sugar: new study finds 'molecular link'
+  >P=0.75  >N=0.0
+Pastor Arrested for Chopping Up Teen Kept Counseling Kids for 23 Years
+  >P=0.375  >N=-0.375
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+Dozens of Iraqi pilgrims slain in Damascus bombings
+  >P=0.0  >N=0.875
+'A Tragedy': Hundreds of Thousands of California Residents Exposed to Contaminated Water
+  >P=0.0  >N=-0.875
+US created 235,000 jobs in Feb, vs 190,000 expected
+  >P=0.0  >N=-0.25
+'Vile and evil': Alberta mother who drugged, burned 9-year-old daughter gets life sentence
+  >P=0.875  >N=-0.375
+TD Bank shares post worst day since 2014 after CBC story... Bank analyst notes TD's 'Wells Fargo moment' as reaction to CBC story reverberates
+  >P=0.25  >N=0.625
+The U.S. is sending 2,500 troops to Kuwait, ready to step up the fight in Syria and Iraq
+  >P=1.125  >N=-0.4375
+Nude Photo Scandal Expands To All US Military Branches
+  >P=0.3125  >N=0.125
+Marines Keep Sharing Women’s Nude Photos in Secret Groups After Getting Busted
+  >P=0.0  >N=-0.1875
+Test meant to screen teachers instead weeded out minorities
+  >P=0.375  >N=-1.0
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+Reward for info increases to $30K after Clearfield cat tortured to death
+  >P=0.333333333  >N=-1.125
+Hounded and ridiculed for complaining of rape
+  >P=0.25  >N=-0.75
+South Korean President Impeached
+  >P=0.0  >N=0.0
+Director of 'Kong: Skull Island' crowned Vietnam tourism ambassador
+  >P=0.375  >N=0.0
+US Deploying Thousands More Ground Troops to Kuwait to Fight in Iraq, Syria
+  >P=0.0  >N=-0.5
+Radioactive boars are stalking residents of Fukushima trying to return to their homes
+  >P=0.375  >N=0.0
+Hundreds of current and former employees respond to CBC report with stories of pressure to upsell customers at TD Bank... 'We do it because our jobs are at stake': TD bank employees admit to breaking the law for fear of being fired
+  >P=0.875  >N=0.65625
+Bursts of energy from another galaxy suspected to be something sailing across the universe
+  >P=0.958333333  >N=0.5
+UPDATE: Missing Witchita woman Toni Anderson's car recovered from Missouri RIver; police say a body found in car
+  >P=0.375  >N=-0.5
+Reports: Teen accidentally shoots self playing Russian roulette
+  >P=0.291666667  >N=0.0
+ADA serial lawsuit filer abruptly dismisses case days before deposition; Motives questioned
+  >P=0.75  >N=0.0
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Hate crime suspect beats Salem restaurant employee with pipe
+  >P=0.375  >N=-0.6875
+Pope signals he's open to married Catholic men becoming priests
+  >P=1.125  >N=0.375
+Customs: Smuggler arrested at JFK with cocaine taped to legs
+  >P=0.0  >N=0.25
+Time crystals: New form of matter once thought to break laws of physics created by scientists
+  >P=1.0  >N=-1.5
+Police in California search for bikers after violent highway attack captured on video
+  >P=0.25  >N=-0.34375
+Turkey referendum: Dutch are Nazi remnants - Erdogan
+  >P=0.25  >N=0.125
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+Massive oil discovery in Alaska is biggest onshore find in 30 years
+  >P=0.8125  >N=0.375
+The father of an Oklahoma boy authorities say was sexually assaulted by high school wrestlers is suing the school district.
+  >P=2.275  >N=-0.375
+Earth's oceans are warming 13% faster than thought, and accelerating
+  >P=0.5  >N=-1.125
+Detroit Mom turns in 12 year old son accused of robbery
+  >P=1.25  >N=-0.25
+'Nightmare' scenes as Guatemala children shelter fire kills 35
+  >P=0.0  >N=0.25
+After record-setting outage, 289,000 remain without power in Michigan
+  >P=0.0  >N=0.0
+Pakistan's War on Atheism Pakistan’s anti-blasphemy crackdown is tightening the noose around nonbelievers
+  >P=1.375  >N=-0.125
+Antioch High School Students Hold Walkout, List Grievances
+  >P=0.275  >N=0.0
+Caught on Camera: Man Steals $100 From Child at Walmart
+  >P=0.5  >N=0.0
+Germany: Child murder suspect arrested, as one more body found
+  >P=0.5  >N=0.375
+US House Committee Backs Ban on Porn Viewing at Work by Feds
+  >P=0.25  >N=-0.75
+Seattle synagogue vandalism denies Holocaust
+  >P=0.0  >N=1.0
+Cannabis Culture pot shops raided across Canada, Marc and Jodie Emery arrested
+  >P=1.125  >N=0.5
+U.S. aluminum trade group hits China with trade complaint over improperly low export prices
+  >P=1.4375  >N=-0.95
+St. Patrick’s Day Parade Planners to Include LGBT Veterans Group
+  >P=0.5  >N=0.0
+Columnist Jack Monroe wins Katie Hopkins libel tweet case.
+  >P=0.25  >N=0.375
+Volkswagen pleads guilty in US diesel emissions scandal
+  >P=0.125  >N=0.75
+Video shows WPD sergeant falsely telling citizen to stop recording him because of state law
+  >P=1.375  >N=-0.25
+Marilyn Young, Historian Who Challenged U.S. Foreign Policy, Dies at 79
+  >P=0.0  >N=-0.7150000000000001
+Cops: Nashville man put mom's dog in trash compactor
+  >P=1.125  >N=-0.333333333
+Polygamy is ‘re-criminalized’ in Utah in last-minute vote
+  >P=0.375  >N=0.125
+Richmond homeowner shoots intruder: 'It was a last resort'
+  >P=0.625  >N=0.375
+Cops Search For Robbery Suspect Dressed As Super Bowl Halftime Star 'Left Shark'
+  >P=0.25  >N=-0.5
+At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+Farmer, 83, cleared over shooting man on his land - BBC News
+  >P=1.5625  >N=0.0
+Samsung Electronics Completes Acquisition of HARMAN
+  >P=0.0  >N=0.0
+U.S., Mexico launch new round of negotiations on sugar trade
+  >P=0.625  >N=0.0
+Tillerson recuses himself from Keystone pipeline issues US secretary of state says he will not work on issues related to the controversial pipeline due to ExxonMobil ties.
+  >P=2.0625  >N=-0.75
+Police say Ohio couple staged murder with ketchup, texted photos
+  >P=0.0  >N=0.25
+First-year doctors will be allowed to work 24-hour shifts starting in July
+  >P=0.5  >N=0.125
+Panic as King Kong model catches fire at premiere
+  >P=0.625  >N=1.0
+Bartow, FL police officer on Administrative leave after Facebook comment referring to Obama as a 'gorilla'
+  >P=0.25  >N=0.0
+EPA chief Scott Pruitt says carbon dioxide is not a primary contributor to global warming
+  >P=0.75  >N=-0.125
+Police confused as to why woman hauled dead body 1,600 kilometres in suitcase
+  >P=0.0  >N=-0.73125
+‘Knees together’ judge resigns after judicial council suggests removal
+  >P=0.75  >N=0.0
+Marble flower pot revealed to be ancient Roman sarcophagus
+  >P=0.5  >N=0.125
+NASA finds lunar spacecraft that vanished 8 years ago
+  >P=0.0  >N=0.5
+Two Convicted of Conspiracy, Two Acquitted in Malheur Occupation Trial
+  >P=0.0  >N=-0.25
+DREAMer Daniela Vargas to be released, her attorney says
+  >P=0.5  >N=0.125
+School investigating social media post threatening to ‘exterminate' black students
+  >P=0.0  >N=-1.366071429
+Waymo Asks Court to Block Uber’s Self-Driving Car Project
+  >P=0.25  >N=-0.208333333
+South Pasadena High School was placed on lockdown Friday morning as authorities investigated a social media posting, officials said.
+  >P=0.775  >N=-0.125
+SEC rejects application to list Bitcoin ETF
+  >P=0.0  >N=0.0
+It’ll take $4.59 trillion investment in the Infrastructure of the U.S. to bring things up to a B, or adequate grade, by 2025, according to a new report by the American Society of Civil Engineers
+  >P=1.25  >N=-2.0
+8 women rescued from million dollar Georgia home in human trafficking case
+  >P=0.5  >N=0.0
+Listeria from raw milk cheese kills two in US: Six cases of listeria have been recorded in Connecticut and Vermont, where the deaths occurred, as well as New York and Florida.
+  >P=0.7166666669999999  >N=-0.5
+Fred Weintraub, Founder Of The Bitter End And 'Enter The Dragon' Producer, Dies At 88
+  >P=0.0  >N=-1.3275000000000001
+Man wrongly convicted gets $175,000 for 13 years in prison
+  >P=0.125  >N=0.25
+Attorney records Wilmington officer lying about state law during traffic stop
+  >P=0.625  >N=-0.25
+German Bundesrat says Maghreb states not safe for refugees
+  >P=0.541666667  >N=-0.75
+US authorities refuse to reveal how Russian ambassador to the United Nations died
+  >P=0.375  >N=-0.208333333
+Scientists say the government’s only pot farm has moldy samples — and no federal testing standards
+  >P=0.25  >N=-0.833333333
+Gander Mountain Files Ch. 11 Bankruptcy, Closing 32 Stores
+  >P=0.0  >N=-0.75
+Mumps outbreaks reported across USA
+  >P=0.5  >N=-0.375
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+Idaho man charged with forging documents to get out of trial in forgery case
+  >P=0.333333333  >N=-0.375
+BBC News: White House intruder arrested near Trump residence, reports say
+  >P=0.25  >N=0.0
+New bill would let companies force workers to get genetic tests, share results
+  >P=0.625  >N=0.25
+US spies still won't tell Congress the number of Americans caught in dragnet
+  >P=0.25  >N=-0.375
+UK to make use of ticket scalping bots illegal
+  >P=0.479166667  >N=0.0
+Drinking water in three Colorado cities contaminated with toxic chemicals above EPA limits
+  >P=0.0  >N=-0.375
+ICE agent convicted of accepting cash bribes, sex
+  >P=0.6875  >N=0.0
+Florida judge denies 'stand your ground' defense in movie theater shooting of texting man
+  >P=0.0  >N=-0.875
+Mom pulls gun on another mom in school drop-off line
+  >P=2.375  >N=0.0
+US Government passed the NASA Authorization Act, promising $19.5 billion in funding in order to 'Get Humans to Mars By 2033'
+  >P=0.375  >N=-0.75
+Second wave of mass bleaching unfolding on Great Barrier Reef
+  >P=0.979166667  >N=0.0
+Kansas wildfires: These cattle ranchers just lost everything
+  >P=0.535714286  >N=-0.555555556
+A Utah family's cat had its eyes sealed shut with hot glue before being tortured to death in an attack animal welfare advocates are calling “the worst case of abuse.”
+  >P=2.1875  >N=-1.0
+Alzheimer's could be caused by excess sugar: new study finds 'molecular link'
+  >P=0.75  >N=0.0
+Pastor Arrested for Chopping Up Teen Kept Counseling Kids for 23 Years
+  >P=0.375  >N=-0.375
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+Dozens of Iraqi pilgrims slain in Damascus bombings
+  >P=0.0  >N=0.875
+'A Tragedy': Hundreds of Thousands of California Residents Exposed to Contaminated Water
+  >P=0.0  >N=-0.875
+US created 235,000 jobs in Feb, vs 190,000 expected
+  >P=0.0  >N=-0.25
+'Vile and evil': Alberta mother who drugged, burned 9-year-old daughter gets life sentence
+  >P=0.875  >N=-0.375
+The U.S. is sending 2,500 troops to Kuwait, ready to step up the fight in Syria and Iraq
+  >P=1.125  >N=-0.4375
+Test meant to screen teachers instead weeded out minorities
+  >P=0.375  >N=-1.0
+TD Bank shares post worst day since 2014 after CBC story... Bank analyst notes TD's 'Wells Fargo moment' as reaction to CBC story reverberates
+  >P=0.25  >N=0.625
+Nude Photo Scandal Expands To All US Military Branches
+  >P=0.3125  >N=0.125
+Marines Keep Sharing Women’s Nude Photos in Secret Groups After Getting Busted
+  >P=0.0  >N=-0.1875
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+Reward for info increases to $30K after Clearfield cat tortured to death
+  >P=0.333333333  >N=-1.125
+Hounded and ridiculed for complaining of rape
+  >P=0.25  >N=-0.75
+South Korean President Impeached
+  >P=0.0  >N=0.0
+US Deploying Thousands More Ground Troops to Kuwait to Fight in Iraq, Syria
+  >P=0.0  >N=-0.5
+Hate crime suspect beats Salem restaurant employee with pipe
+  >P=0.375  >N=-0.6875
+Director of 'Kong: Skull Island' crowned Vietnam tourism ambassador
+  >P=0.375  >N=0.0
+Radioactive boars are stalking residents of Fukushima trying to return to their homes
+  >P=0.375  >N=0.0
+Hundreds of current and former employees respond to CBC report with stories of pressure to upsell customers at TD Bank... 'We do it because our jobs are at stake': TD bank employees admit to breaking the law for fear of being fired
+  >P=0.875  >N=0.65625
+Bursts of energy from another galaxy suspected to be something sailing across the universe
+  >P=0.958333333  >N=0.5
+UPDATE: Missing Witchita woman Toni Anderson's car recovered from Missouri RIver; police say a body found in car
+  >P=0.375  >N=-0.5
+Turkey referendum: Dutch are Nazi remnants - Erdogan
+  >P=0.25  >N=0.125
+Reports: Teen accidentally shoots self playing Russian roulette
+  >P=0.291666667  >N=0.0
+ADA serial lawsuit filer abruptly dismisses case days before deposition; Motives questioned
+  >P=0.75  >N=0.0
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+Pope signals he's open to married Catholic men becoming priests
+  >P=1.125  >N=0.375
+Customs: Smuggler arrested at JFK with cocaine taped to legs
+  >P=0.0  >N=0.25
+Time crystals: New form of matter once thought to break laws of physics created by scientists
+  >P=1.0  >N=-1.5
+Police in California search for bikers after violent highway attack captured on video
+  >P=0.25  >N=-0.34375
+Massive oil discovery in Alaska is biggest onshore find in 30 years
+  >P=0.8125  >N=0.375
+The father of an Oklahoma boy authorities say was sexually assaulted by high school wrestlers is suing the school district.
+  >P=2.275  >N=-0.375
+Earth's oceans are warming 13% faster than thought, and accelerating
+  >P=0.5  >N=-1.125
+At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+'Nightmare' scenes as Guatemala children shelter fire kills 35
+  >P=0.0  >N=0.25
+Detroit Mom turns in 12 year old son accused of robbery
+  >P=1.25  >N=-0.25
+After record-setting outage, 289,000 remain without power in Michigan
+  >P=0.0  >N=0.0
+Pakistan's War on Atheism Pakistan’s anti-blasphemy crackdown is tightening the noose around nonbelievers
+  >P=1.375  >N=-0.125
+Antioch High School Students Hold Walkout, List Grievances
+  >P=0.275  >N=0.0
+Caught on Camera: Man Steals $100 From Child at Walmart
+  >P=0.5  >N=0.0
+Germany: Child murder suspect arrested, as one more body found
+  >P=0.5  >N=0.375
+US House Committee Backs Ban on Porn Viewing at Work by Feds
+  >P=0.25  >N=-0.75
+Seattle synagogue vandalism denies Holocaust
+  >P=0.0  >N=1.0
+Cannabis Culture pot shops raided across Canada, Marc and Jodie Emery arrested
+  >P=1.125  >N=0.5
+U.S. aluminum trade group hits China with trade complaint over improperly low export prices
+  >P=1.4375  >N=-0.95
+St. Patrick’s Day Parade Planners to Include LGBT Veterans Group
+  >P=0.5  >N=0.0
+Columnist Jack Monroe wins Katie Hopkins libel tweet case.
+  >P=0.25  >N=0.375
+Volkswagen pleads guilty in US diesel emissions scandal
+  >P=0.125  >N=0.75
+Video shows WPD sergeant falsely telling citizen to stop recording him because of state law
+  >P=1.375  >N=-0.25
+Marilyn Young, Historian Who Challenged U.S. Foreign Policy, Dies at 79
+  >P=0.0  >N=-0.7150000000000001
+Cops: Nashville man put mom's dog in trash compactor
+  >P=1.125  >N=-0.333333333
+Polygamy is ‘re-criminalized’ in Utah in last-minute vote
+  >P=0.375  >N=0.125
+Richmond homeowner shoots intruder: 'It was a last resort'
+  >P=0.625  >N=0.375
+Cops Search For Robbery Suspect Dressed As Super Bowl Halftime Star 'Left Shark'
+  >P=0.25  >N=-0.5
+Farmer, 83, cleared over shooting man on his land - BBC News
+  >P=1.5625  >N=0.0
+Samsung Electronics Completes Acquisition of HARMAN
+  >P=0.0  >N=0.0
+U.S., Mexico launch new round of negotiations on sugar trade
+  >P=0.625  >N=0.0
+Tillerson recuses himself from Keystone pipeline issues US secretary of state says he will not work on issues related to the controversial pipeline due to ExxonMobil ties.
+  >P=2.0625  >N=-0.75
+Police say Ohio couple staged murder with ketchup, texted photos
+  >P=0.0  >N=0.25
+First-year doctors will be allowed to work 24-hour shifts starting in July
+  >P=0.5  >N=0.125
+Panic as King Kong model catches fire at premiere
+  >P=0.625  >N=1.0
+Bartow, FL police officer on Administrative leave after Facebook comment referring to Obama as a 'gorilla'
+  >P=0.25  >N=0.0
+EPA chief Scott Pruitt says carbon dioxide is not a primary contributor to global warming
+  >P=0.75  >N=-0.125
+Police confused as to why woman hauled dead body 1,600 kilometres in suitcase
+  >P=0.0  >N=-0.73125
+‘Knees together’ judge resigns after judicial council suggests removal
+  >P=0.75  >N=0.0
+Marble flower pot revealed to be ancient Roman sarcophagus
+  >P=0.5  >N=0.125
+NASA finds lunar spacecraft that vanished 8 years ago
+  >P=0.0  >N=0.5
+Two Convicted of Conspiracy, Two Acquitted in Malheur Occupation Trial
+  >P=0.0  >N=-0.25
+DREAMer Daniela Vargas to be released, her attorney says
+  >P=0.5  >N=0.125
+School investigating social media post threatening to ‘exterminate' black students
+  >P=0.0  >N=-1.366071429
+Waymo Asks Court to Block Uber’s Self-Driving Car Project
+  >P=0.25  >N=-0.208333333
+South Pasadena High School was placed on lockdown Friday morning as authorities investigated a social media posting, officials said.
+  >P=0.775  >N=-0.125
+SEC rejects application to list Bitcoin ETF
+  >P=0.0  >N=0.0
+It’ll take $4.59 trillion investment in the Infrastructure of the U.S. to bring things up to a B, or adequate grade, by 2025, according to a new report by the American Society of Civil Engineers
+  >P=1.25  >N=-2.0
+8 women rescued from million dollar Georgia home in human trafficking case
+  >P=0.5  >N=0.0
+Listeria from raw milk cheese kills two in US: Six cases of listeria have been recorded in Connecticut and Vermont, where the deaths occurred, as well as New York and Florida.
+  >P=0.7166666669999999  >N=-0.5
+Fred Weintraub, Founder Of The Bitter End And 'Enter The Dragon' Producer, Dies At 88
+  >P=0.0  >N=-1.3275000000000001
+Man wrongly convicted gets $175,000 for 13 years in prison
+  >P=0.125  >N=0.25
+Attorney records Wilmington officer lying about state law during traffic stop
+  >P=0.625  >N=-0.25
+German Bundesrat says Maghreb states not safe for refugees
+  >P=0.541666667  >N=-0.75
+Manipur election results 2017: Hung verdict in Manipur;Congress bags 28 seats, BJP gets 21
+  >P=0.625  >N=0.0
+Worst attack in two years, Maoists kill 12 CRPF men in Sukma
+  >P=0.0  >N=1.25
+Iraq: At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+Preet Bharara Among 46 US Attorneys Asked To Quit By Trump Administration
+  >P=0.25  >N=-1.0
+World Facing 'Largest Humanitarian Crisis' Since 1945: United Nations
+  >P=0.875  >N=-0.125
+Baahubali The Conclusion Trailer coming on March 16
+  >P=0.25  >N=0.0
+Manipur cliffhanger: Advantage BJP despite Congress emerging as single largest party
+  >P=0.5625  >N=-1.0625
+BJP will win in 2019 and the way for reforms will be eased: Lord Meghnad Desai
+  >P=1.0  >N=-0.5
+Our focus will be development, not Azam Khan's buffaloes: UP BJP chief
+  >P=1.0  >N=-0.625
+Kailash Satyarthi's Nobel citation recovered from jungles: Police
+  >P=0.5  >N=0.125
+Turkish minister heads to France amid overseas campaigning row
+  >P=0.0  >N=0.0
+Opponents of South Korea's ousted Park rally to call for her arrest | Reuters
+  >P=0.25  >N=-0.375
+Russia assures India that it has limited contacts with Taliban
+  >P=0.625  >N=0.0
+Travel industry worries about the second Trump travel ban
+  >P=0.625  >N=0.0
+BJP's Big Win In Uttar Pradesh May Lift Sensex To New All-Time Highs
+  >P=0.75  >N=0.125
+BJP storms back to power in UP, U'khand; Cong takes Punjab, hung house in Goa, Manipur
+  >P=0.375  >N=0.0
+Decoding Air India mess: Understating losses, bleeding international ops, crew mismanagement
+  >P=0.0  >N=-0.625
+BrahMos now deadlier, Army and Navy to upgrade existing missiles
+  >P=0.208333333  >N=-0.458333333
+Moto Z (2017) Image Leaks With New Fingerprint Sensor; Snapdragon 835 SoC Expected
+  >P=0.0  >N=-0.75
+Lenovo Vibe B budget 4G smartphone reportedly launched at Rs. 5799
+  >P=0.0  >N=0.125
+WhatsApp Text Status May Return, RCom's 'Joy of Holi', Paytm 2 Percent Fee Revoked, and More: Your 360 Daily
+  >P=0.375  >N=-0.5
+Facebook takes on Google Trips, launches City Guides
+  >P=0.25  >N=0.0
+Badrinath ki Dulhania movie review: Alia Bhatt, Varun Dhawan film is the perfect Holi watch
+  >P=1.3333333330000001  >N=0.125
+Rajinikanth's Daughter Aishwaryaa Dhanush's Bharatanatyam Performance At UN Criticized
+  >P=0.125  >N=0.0
+Aishwarya Rai Bachchan's father still critical, actress has a meltdown
+  >P=0.25  >N=0.375
+All You Need To Know About Alia Bhatt, Kareena Kapoor's Upcoming 'Special' Performance
+  >P=1.0625  >N=0.25
+I-League 2017: Bengaluru FC play out barren draw with Mohun Bagan, leaders Aizawl FC drop crucial points
+  >P=0.40625  >N=-0.958333333
+Manchester City Cruise Into FA Cup Semi-Finals
+  >P=0.0  >N=0.0
+Anil Kumble, Rahul Dravid May Get New Roles In The Indian Team
+  >P=0.0  >N=0.0
+India vs Australia: Virat Kohli is Frustrated, Says Mitchell Johnson
+  >P=0.25  >N=-0.375
+Lost in space: How NASA found a missing Indian spacecraft
+  >P=0.0  >N=-1.0555555559999998
+Australia sees second year of Barrier Reef bleaching
+  >P=0.0  >N=0.0
+Dawn data reveals the age of mysterious bright spot on dwarf planet Ceres
+  >P=0.375  >N=-0.59375
+Europa Clipper: Formal Name For NASA's Upcoming Mission To Jupiter Moon
+  >P=0.0  >N=0.25
+Scientists May Have Found a Potential Cure for Blindness
+  >P=0.0  >N=-1.0
+Our brain is ready for action even at rest: study
+  >P=1.3125  >N=0.25
+Trachoma: 5 Things You Didn't Know About This Eye Infection That Cause Blindness
+  >P=0.75  >N=-1.0
+After surgery, Eman on high-protien diet in Mumbai hospital  >P=0.625  >N=0.25
+Arsenal v Lincoln City: FA Cup quarter-final – live!
+  >P=0.321428571  >N=0.0
+England v Scotland: Six Nations – live!
+  >P=0.321428571  >N=0.0
+Bournemouth 3-2 West Ham, Hull 2-1 Swansea and more: clockwatch – as it happened
+  >P=0.0  >N=0.0
+Aitor Karanka praises Middlesbrough’s ‘fighters’ after loss to Manchester City
+  >P=0.0  >N=-0.5
+Romelu Lukaku sets Everton record in three-goal romp over West Brom
+  >P=0.65625  >N=0.0
+Joshua King hits hat-trick as Bournemouth see off West Ham in thriller
+  >P=0.291666667  >N=-0.475
+Hull survival prospects boosted as Oumar Niasse double sees off Swansea
+  >P=0.5  >N=-0.22499999999999998
+Rangers head into daunting Old Firm match with shaky hands on the tiller
+  >P=1.25  >N=-1.0
+Italy 18-40 France: Six Nations – as it happened
+  >P=0.0  >N=0.0
+Song to Song review – Terrence Malick returns to form with lyrical love triangle
+  >P=1.075  >N=0.0
+At Pussy Riot performance on Putin, everyone sees Trump
+  >P=0.375  >N=-0.25
+Robots delivering pizza and house viewing by VR: is 5G really the future?
+  >P=0.71875  >N=-0.625
+Being a global free-trading nation isn’t as easy as it looks
+  >P=0.625  >N=0.75
+Brexit and Bochum haunt Vauxhall in the new battle for Ellesmere Port
+  >P=0.375  >N=-0.25
+After Brexit, Israel senses a chance to boost trade with UK
+  >P=0.21875  >N=0.125
+Shell’s sale of dirty tar sands assets cleans up debt and spruces image
+  >P=1.0  >N=-0.333333333
+Jeremy Corbyn 'absolutely fine' with second Scottish vote
+  >P=0.4375  >N=0.0
+Western Australian election: Labor wins in 'savage result' for Liberals – as it happened
+  >P=0.5  >N=0.0
+Western Australian election: Mark McGowan declares victory for Labor after record-breaking swings
+  >P=1.375  >N=0.125
+Donald Trump's first 100 days as president – daily updates
+  >P=0.0  >N=-0.5
+Manchester City and David Silva catch Middlesbrough cold to reach semi
+  >P=0.0  >N=-0.336538462
+Philip Hammond gave us a budget for tax avoiders and giant firms | John McDonnell
+  >P=0.375  >N=0.125
+Middlesbrough 0-2 Manchester City: FA Cup quarter-final – as it happened
+  >P=0.0  >N=0.0
+From Brecht to Lorca, the playwrights who became theatre's freedom fighters
+  >P=0.0  >N=0.0
+Nathan Lane: ‘I have played a lot of morally questionable people
+  >P=0.6875  >N=-1.125
+Prison psychiatrists warn care is ‘at breaking point’
+  >P=0.5  >N=0.0
+Democrats question Trump 'conflict of interest' with Deutsche Bank investigation
+  >P=0.458333333  >N=0.0
+Call to boycott Tesco over 'endangered' white men claim
+  >P=0.6875  >N=-0.125
+South Korea expert interrupted by children on BBC World News goes viral
+  >P=1.25  >N=-1.25
+Gaggle of Cambridge University students criticise geese-cull plans
+  >P=0.0  >N=0.25
+Better than Buffy? Spare a thought for the Vampire Diaries
+  >P=0.625  >N=-0.625
+Conservatives cheer EPA cuts that activists fear 'will be borne by lungs'
+  >P=0.75  >N=0.0
+Logan Tomkins escapes shadow of elder brothers in new life at Salford
+  >P=0.6875  >N=0.0
+SXSW panel opens window into dangers of facial recognition software
+  >P=0.375  >N=1.0
+Graham Swift: ‘As a novelist, I’m in for the long haul’
+  >P=0.0  >N=0.0
+Stockpiles of nuclear weapons around the world – in data
+  >P=0.25  >N=-0.5
+Ask Alys Fowler: can I train my cider gum from a pot plant into a tree?
+  >P=0.5  >N=-0.583333333
+Jacob Polley: ‘I’m a fool as a writer – you have to take risks’
+  >P=0.5625  >N=-0.5
+Death of truth: when propaganda and 'alternative facts' first gripped the world
+  >P=0.75  >N=-0.8125
+Alys Fowler: thinking of a green wall? Give climbing plants a go instead
+  >P=0.25  >N=-1.2083333330000001
+Ivanka Trump: the president's moral compass or just another mouthpiece?
+  >P=1.1607142860000002  >N=0.25
+This week’s best radio: Jarvis Cocker heads to Morocco's mountains
+  >P=0.5625  >N=0.0
+Geri's 90s: Ginger Spice's nostalgia show will drive you to distraction
+  >P=0.71875  >N=-0.375
+England need to make their familiar strengths pay against Scotland | Robert Kitson
+  >P=1.3229166669999999  >N=0.25
+One in 10 firms bidding for Trump's Mexico wall project are Hispanic-owned
+  >P=0.5  >N=-0.25
+Four decades after the Battle of the Sexes, the fight for equality goes on
+  >P=0.25  >N=-0.75
+‘All my friends had some nightmare experience trying to get pregnant. My story took the cake’
+  >P=0.875  >N=-0.875
+Romeo and Juliet review – hot, hormonal inner-city tragedy
+  >P=0.25  >N=-0.5
+The Vicarage, Holmes Chapel, Cheshire: hotel review
+  >P=0.125  >N=0.0
+Drug addiction isn't going away so why are treatment centres being slashed?
+  >P=1.125  >N=0.166666667
+Every Hidden Thing by Kenneth Oppel review – heat, dust and dinosaur bones
+  >P=0.125  >N=-1.28125
+Technology could redefine doctor-patient relationship | Richard Vize
+  >P=0.0  >N=0.0
+Four infinitely adaptable recipes for leftover food | Food waste recipes
+  >P=0.375  >N=-0.5
+Enlightened Princesses review – royals who shaped modern Britain
+  >P=0.21875  >N=0.25
+Want a different take on Trump? Try Ivanka, who gives great hair and better Instagram
+  >P=2.104166667  >N=0.125
+What I’m really thinking: the gay Christian
+  >P=1.1770833330000001  >N=0
+Letter to my younger self: you'll be called a little girl with an idea
+  >P=0.625  >N=-0.4625
+Secret Teacher: buying supplies my school can't afford costs me a fortune
+  >P=0.25  >N=0.5
+Greek activists target sales of homes seized over bad debts
+  >P=0.4375  >N=-1.433823529
+Replacing EU hospitality workers after Brexit 'will take 10 years'
+  >P=0.25  >N=0.0
+Modern tribes: the boot camp bore
+  >P=0.0  >N=0.166666667
+Writers unite! The return of the protest novel
+  >P=0.375  >N=-0.25
+Can high-intensity interval training delay the ageing process?
+  >P=1.375  >N=-0.25
+From Seaspeak to Singlish: celebrating other kinds of English
+  >P=0.0  >N=-0.25
+Weekend reading: Budget, Buffy and BBC4
+  >P=0.0  >N=0.0
+Germany's rightwing AfD wants to jettison postwar safeguards
+  >P=0.375  >N=0.125
+Clive James: ‘I couldn't believe how non-weird Sam Neill was’
+  >P=0.125  >N=0.0
+Is this the end of Britain as a place of sanctuary for refugees? | Martin Plaut
+  >P=0.375  >N=0.0
+The 1930s were humanity's darkest, bloodiest hour. Are you paying attention?
+  >P=1.25  >N=0.625
+Beauty: a big hello to a gamechanger of a dry mask
+  >P=0.5  >N=-0.5625
+White men 'endangered species' in UK boardrooms, says Tesco chairman
+  >P=0.0  >N=0.0
+Got it covered: fashion wakes up to Muslim women’s style
+  >P=0.875  >N=0.0
+Self-employed? See if you'll pay more in national insurance
+  >P=0.541666667  >N=0.0
+What’s the best way to teach my daughter to drive?
+  >P=1.28125  >N=0.0
+Sixty years ago, abuse hid in plain sight. But we still closed our eyes | Ian Jack
+  >P=0.625  >N=-0.4625
+Isas back in favour after tax allowance hike
+  >P=0.75  >N=-0.25
+Budget 2017: tax on dividends will be a raid on 2 million small investors
+  >P=1.0  >N=-0.125
+OmNICshambles: how it all went wrong for 'spreadsheet Phil' Hammond | Heather Stewart and Larry Elliott
+  >P=0.3125  >N=-0.759615385
+Now we should go after companies that force workers to be self-employed
+  >P=0.625  >N=0.0
+Walking with dinosaurs: fossil hunting on the North Yorkshire coast
+  >P=0.75  >N=-0.25
+My workout: ‘Going to circus school is like being a child again’
+  >P=0.75  >N=-0.25
+Why are Britain’s new homes built so badly?
+  >P=0.875  >N=-0.319444444
+Simon Amstell: 'I thought: ‘I’ll never be happy''
+  >P=1.125  >N=-1.25
+Which painter had a pet pug called Trump? The Weekend quiz
+  >P=0.75  >N=0.0
+Has TalkTalk’s security been breached yet again?
+  >P=0.75  >N=-0.53125
+‘Think of it as an utterly invaluable learning experience’ – our work expert responds
+  >P=1.4375  >N=0.0
+The Falklands war hero fighting for his state pension
+  >P=0.75  >N=-0.375
+In my version of the mother-in-law joke, the punchline is our happiness together
+  >P=1.0  >N=-0.625
+Why photos of stillborn babies matter
+  >P=0.0  >N=-0.5
+People's History of Pop review – 'We’re on the cusp of something terrifying!'
+  >P=0.375  >N=-0.625
+Lynne Reid Banks: raising a family on a kibbutz was everything my mother detested
+  >P=0.5  >N=0.875
+How to make a feast without packaged food | A taste of home
+  >P=0.479166667  >N=-0.25
+Blind date: ‘We talked about having children’
+  >P=0.75  >N=-0.375
+Why I love… musician Sampha
+  >P=0  >N=0
+Tim Dowling: Touring is taking its toll. Then my wife tells me we're moving house
+  >P=1.375  >N=0.125
+Saturday's best TV: Geri's 1990s; Dogs Behaving Badly
+  >P=0.5625  >N=-0.444444444
+Panic on the machair as a predator approaches
+  >P=0.5  >N=0.75
+China: Xi Jinping wants ‘Great Wall of Steel’ in violence-hit Xinjiang
+  >P=0.75  >N=-0.375
+Daniel Morgan: how a 30-year-old murder still haunts Britain's powerful
+  >P=0.28125  >N=0.5
+Justin Bieber review – searching for a sense of purpose
+  >P=0.75  >N=-0.25
+Reza Aslan outrages Hindus by eating human brains in CNN documentary
+  >P=0.125  >N=-0.375
+Dreamer detained by Ice agents in Mississippi to be released
+  >P=1.0  >N=-0.625
+Talking Horses: Saturday's best bets for Sandown and Wolverhampton
+  >P=0.5625  >N=0.0
+Ireland’s Joe Schmidt concedes Six Nations title after defeat in Wales
+  >P=0.0  >N=0.25
+Prize crossword No 27,142
+  >P=0.5  >N=-0.333333333
+McLaren left under pressure before F1 season with car failure in Spain
+  >P=0.0  >N=0.0
+Canada's highest court upholds ruling that Donald Trump did mislead investors
+  >P=0.625  >N=0.0
+Dutch government withdraws landing permission for Turkish foreign minister's aircraft
+  >P=0.25  >N=-0.375
+The Dutch are 'Nazi remnants' - Erdogan
+  >P=0.25  >N=0.125
+Plot to hit German shopping centre with multiple suicide bombers is foiled after police are tipped off about 'imminent attack'
+  >P=1.5  >N=-0.975
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+The US state department has instructed New York City's chief medical examiner not to disclose the cause of death of Russia's ambassador to the United Nations
+  >P=1.625  >N=-1.0625
+FIFA President: Trump Travel Ban could Prevent US Hosting World Cup 2026
+  >P=0.25  >N=-0.5
+FBI probes ‘odd’ link between Trump server and Russia’s Alfa Bank
+  >P=0.0  >N=0.0
+Turkey warns Netherlands of 'severe sanctions'
+  >P=0.25  >N=0.5
+Mexican authorities have found at least 242 bodies in hidden graves in the eastern state of Veracruz that were discovered by mothers searching for their missing children
+  >P=1.0  >N=-1.90625
+Earth's oceans are warming 13% faster than thought, and accelerating
+  >P=0.5  >N=-1.125
+ISIS kills "anyone who argues with them," says defector
+  >P=0.0  >N=0.5
+Government accused of obstructing the homeless from voting while spending millions on helping rich expats register: Election chiefs protest over rules which require the young and poor without a home to print out a form – while the ‘15-year rule’ for expats is axed.
+  >P=2.1875  >N=-1.527777778
+Oil giant Shell warns public faith in fossil fuel industry is 'disappearing' and calls for carbon taxes - "Shell is to increase its spending on renewable energy to $1bn a year"
+  >P=1.5833333330000001  >N=1.0
+The world is facing its largest humanitarian crisis since 1945, the United Nation's humanitarian chief said as he pleaded for help to avoid "a catastrophe". More than 20 million people are facing starvation and famine in Yemen, Somalia, South Sudan and Nigeria.
+  >P=3.25  >N=1.25
+White men an 'endangered species' on boards, Tesco chairman claims
+  >P=0.375  >N=0.0
+2 former JPMorgan execs face lifetime ban for hiring kids of China's elite
+  >P=0.75  >N=-0.46875
+UN: World facing largest humanitarian crisis since 1945
+  >P=1.125  >N=0.5
+172,000 humans will be relocated to make way for giant national panda park in western China. Earlier this month, the central government gave its approval for the 27,134-square-kilometer park which will cover parts of Sichuan, Gansu and Shaanxi provinces.
+  >P=2.291666667  >N=0.25
+Jeremy Corbyn says a second Scottish independence referendum would be 'absolutely fine'
+  >P=0.5625  >N=0.125
+Russia's Prime Minister Responds to Corruption Allegations by Banning Opposition Leader on Instagram
+  >P=1.0416666669999999  >N=-1.1875
+One in 10 firms bidding for Trump's Mexico wall project are Hispanic-owned
+  >P=0.5  >N=-0.25
+China to turn 800,000 hectares of marginal farmland into forests or grassland
+  >P=0.625  >N=0.0
+Netherlands bars Turkish foreign minister's plane from landing: The Netherlands barred a plane carrying Turkey's foreign minister from landing to stop him from addressing a political rally Saturday in Rotterdam.
+  >P=0.0  >N=-1.625
+'Save a dog, eat a Chinese' shirts on German site spark outrage, Chinese embassy demands apology
+  >P=0.5  >N=-0.833333333
+Colossal 3,000-year-old statue of Ramses II unearthed in Cairo
+  >P=0.0  >N=0.0
+Putin Met with New CEO of ExxonMobil Today
+  >P=0.125  >N=0.0
+Shell Is Abandoning Canada’s Oilsands: Says it’s focused on becoming a “company of the future”
+  >P=1.0  >N=0.0
+Father releases pictures of dying daughter to raise awareness of bullying
+  >P=0.375  >N=-0.375
+White House intruder arrested near Trump residence, reports say
+  >P=0.0  >N=0.0
+Pakistan's War on Atheism
+  >P=0.5  >N=-0.375
+Netherlands cancels flight permit for Turkish FM
+  >P=0.25  >N=-0.25
+UN privacy watchdog says "little or no evidence" that mass surveillance works
+  >P=0.25  >N=-0.983333333
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Research into cannabis dementia treatment 'held up by drug laws'. Cannabinoids can help remove dangerous dementia proteins from brain cells, researchers say.
+  >P=1.6875  >N=-1.625
+Trump Trade Nominee Lighthizer Needs Waiver Over Work for China and Brazil
+  >P=1.4375  >N=0.0
+'Out of sight, out of mind': Humanitarian crisis worsens in Ukraine as world focuses on Syria, Iraq
+  >P=1.375  >N=-0.5
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+Syria: At least 40 killed more than 120 others wounded in dual Damascus bombing targeting Shia Iraqis
+  >P=0.25  >N=-0.375
+We won’t sell Saudis our land: Maldivian opposition
+  >P=0.0  >N=-0.4375
+Turkey-PKK conflict: UN investigators found some 2,000 people were killed in 18 months of fighting, and accuse Turkish forces of serious human rights violations.
+  >P=2.0  >N=0.333333333
+Carbon dioxide levels in atmosphere hit new high
+  >P=0.65  >N=0.25
+Hounded and ridiculed for complaining of rape - Rakhines in Myanmar
+  >P=0.25  >N=-0.75
+One in three terror suspects in UK now white amid rise in far-right extremism
+  >P=0.5  >N=0.5
+India more than doubles maternity leave to 26 weeks
+  >P=0.75  >N=0.0
+Democrats question Trump 'conflict of interest' with Deutsche Bank investigation
+  >P=0.458333333  >N=0.0
+The Netherlands blocks Turkish FM’s plane from landing in Amsterdam, Erdogan livid
+  >P=0.0  >N=-0.208333333
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+Indonesian Buddhists caned under sharia for first time
+  >P=0.5  >N=0.0
+President of South Korea Impeached.
+  >P=0.0  >N=0.0
+India’s first lunar probe found orbiting moon eight years after losing radio contact: NASA finds the Chandrayaan spacecraft 200 kilometres above the lunar surface
+  >P=0.625  >N=0.25
+Canadian TD bank forcing employees to break the law due to sales pressure
+  >P=1.1875  >N=0.25
+Iran accuses Israel of hiring assassins to take out nuclear scientists
+  >P=0.0  >N=-0.375
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+6 million people are at risk of starving in East Africa, and climate change deserves part of the blame
+  >P=1.0  >N=0.5
+Turkey referendum: Dutch are Nazi remnants - Erdogan - BBC News
+  >P=0.5  >N=0.125
+Volkswagen pleads guilty to evading US government diesel emissions rules concerning 600,000 vehicles
+  >P=0.375  >N=0.625
+YouTube has chosen Jeddah, Saudi Arabia for its first ever FanFest event in the Middle East on Friday, as Saudi Arabia is home to the biggest number of YouTube consumers per capita in the world
+  >P=1.0  >N=-0.75
+The U.K.’s post-Brexit trade deal with the European Union could take more than a decade to conclude
+  >P=0.25  >N=0.0
+Leaked emails reveal Nigel Farage's long-standing links to Julian Assange
+  >P=0.0  >N=0.0
+Fukushima disaster evacuees told to return to abandoned homes: People who fled after March 2011 nuclear meltdown face losing housing subsidies if they do not go back, despite radiation fears
+  >P=0.0  >N=-0.9375
+Bone by bone, Iraqis unearth a mass grave: 'We will be out there digging until no one is left'
+  >P=0.75  >N=-1.3958333330000001
+Czech President pokes fun at media, declaring himself ‘agent of Putin, Trump, China & Israel’
+  >P=0.875  >N=0.125
+Turkish minister to go to Rotterdam by land after foreign minister blocked: report
+  >P=0.0  >N=-0.875
+World facing greatest humanitarian crisis since 1945
+  >P=0.875  >N=0.375
+A film about a slain Putin critic gets a screening — just off Red Square
+  >P=1.0357142860000002  >N=-0.9125
+Chinese Embassy demands apology from German T-shirt retailer with slogans it says are insulting to China. T-shirts with slogans like "Save a dog, Eat a Chinese," ''Save a shark, Eat a Chinese," and an image of two faux Chinese alphabets having sex, with the caption "Now I understand Chinese."
+  >P=2.25  >N=-2.833333333
+Family of technician slain by factory robot sues everyone involved
+  >P=0.0  >N=-0.75
+Robert Mugabe last week splurged more than US$1 million when he chartered an ultra-luxurious Boeing 767-200 Extended Range aircraft to Singapore and Ghana
+  >P=0.0  >N=0.25
+Two explosions killed at least 28 people in the old city of Damascus on Saturday, a monitoring group said, in one of the bloodiest attacks yet seen in the heart of the Syrian capital.
+  >P=1.125  >N=0.59375
+World faces worst humanitarian crisis since 1945 - Twenty million people face starvation without an immediate injection of funds in Yemen, South Sudan, Somalia and Nigeria
+  >P=1.0  >N=0.75
+Turkish president Erdogan calls Netherlands 'Nazi remnants, fascists'
+  >P=0.25  >N=0.0
+Neanderthals may have medicated with penicillin and painkillers
+  >P=0.0  >N=-0.125
+UN says world faces largest humanitarian crisis since 1945
+  >P=1.125  >N=0.5
+Assad: Trump shows nothing 'concrete' in ISIS effort; calls foreign troops 'invaders'
+  >P=0.5  >N=-0.25
+Germany terror threat: Fears 'several suicide bombers' will launch deadly attack today force closure of huge shopping centre The Limbacher Platz shopping centre in Essen has been surrounded by hundreds of armed police over fears of an imminent attack
+  >P=1.8125  >N=-0.02083333300000001
+‘Veiled’ attack foiled: Swiss parliamentarians reject bill to ban burqas
+  >P=0.0  >N=-1.125
+White House: Flynn’s Foreign Lobbying Didn’t Raise Red Flags
+  >P=0.0  >N=-0.9375
+German shopping mall shut on police fears of an attack
+  >P=0.5  >N=0.625
+China official says two-child policy showing 'notable results'
+  >P=0.5  >N=0.0
+Senators urge Don Meredith to resign after 'disgusting' relationship with teenage girl
+  >P=0.25  >N=0.25
+The Hague Effect: Russia to Face Charges of Terrorism in Ukraine
+  >P=0.0  >N=-0.25
+Britain could rejoin EU after Brexit, European Commission chief Jean-Claude Juncker says
+  >P=0.75  >N=0.0
+World faces worst humanitarian crisis since WWII – UN
+  >P=0.875  >N=1.0
+Radioactive wild boars have taken over two Japanese towns
+  >P=0.8125  >N=0.0
+Mother of six killed over ‘honour’ in Sanghar, Pakistan
+  >P=0.4375  >N=0.5
+Intruder scaled fence to enter White House grounds Friday night
+  >P=0.0  >N=0.0
+A World Bank arbitration panel has determined that Venezuela will not have to pay $1.4 billion to Exxon Mobil Corp. for confiscating company assets during a wave of nationalizations
+  >P=1.625  >N=-1.75
+BlackBerry claims QNX automotive software is safe from CIA
+  >P=0.541666667  >N=0.125
+Muhammad Ali Jr questioned at Washington DC airport, day after testifying about similar incident
+  >P=1.75  >N=0.25
+Armed far-left Maoist Insurgents Kill 11 Indian Armed Police in Chhattisgarh State
+  >P=0.25  >N=0.0
+Netherlands cancels landing permission for Turkish minister
+  >P=0.25  >N=0.125
+Trump to Palestinian leader: It’s time for a peace deal
+  >P=0.625  >N=0.0
+China Vows 'Strike' Against Dalai Lama as Tibetans Mark Uprising
+  >P=0.625  >N=0.125
+The leader of the anti-immigrant Northern League party is vowing to go ahead with his first major rally in Naples despite planned protests from radicals and leftists intent on keeping him out of the southern Italy that the League has long disparaged
+  >P=2.0  >N=-0.8125
+Erdogan calls The Netherlands; Fascists and leftovers of Nazi-Germany.
+  >P=0.25  >N=0.0
+UN report: Turkey guilty of 'serious' abuses in Kurdish region
+  >P=0.25  >N=1.0
+Manipur election results 2017: Hung verdict in Manipur;Congress bags 28 seats, BJP gets 21
+  >P=0.625  >N=0.0
+Worst attack in two years, Maoists kill 12 CRPF men in Sukma
+  >P=0.0  >N=1.25
+Iraq: At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+Preet Bharara Among 46 US Attorneys Asked To Quit By Trump Administration
+  >P=0.25  >N=-1.0
+World Facing 'Largest Humanitarian Crisis' Since 1945: United Nations
+  >P=0.875  >N=-0.125
+Baahubali The Conclusion Trailer coming on March 16
+  >P=0.25  >N=0.0
+Manipur cliffhanger: Advantage BJP despite Congress emerging as single largest party
+  >P=0.5625  >N=-1.0625
+BJP will win in 2019 and the way for reforms will be eased: Lord Meghnad Desai
+  >P=1.0  >N=-0.5
+Our focus will be development, not Azam Khan's buffaloes: UP BJP chief
+  >P=1.0  >N=-0.625
+Kailash Satyarthi's Nobel citation recovered from jungles: Police
+  >P=0.5  >N=0.125
+Turkish minister heads to France amid overseas campaigning row
+  >P=0.0  >N=0.0
+Opponents of South Korea's ousted Park rally to call for her arrest | Reuters
+  >P=0.25  >N=-0.375
+Russia assures India that it has limited contacts with Taliban
+  >P=0.625  >N=0.0
+Travel industry worries about the second Trump travel ban
+  >P=0.625  >N=0.0
+BJP's Big Win In Uttar Pradesh May Lift Sensex To New All-Time Highs
+  >P=0.75  >N=0.125
+BJP storms back to power in UP, U'khand; Cong takes Punjab, hung house in Goa, Manipur
+  >P=0.375  >N=0.0
+Decoding Air India mess: Understating losses, bleeding international ops, crew mismanagement
+  >P=0.0  >N=-0.625
+BrahMos now deadlier, Army and Navy to upgrade existing missiles
+  >P=0.208333333  >N=-0.458333333
+Moto Z (2017) Image Leaks With New Fingerprint Sensor; Snapdragon 835 SoC Expected
+  >P=0.0  >N=-0.75
+Lenovo Vibe B budget 4G smartphone reportedly launched at Rs. 5799
+  >P=0.0  >N=0.125
+WhatsApp Text Status May Return, RCom's 'Joy of Holi', Paytm 2 Percent Fee Revoked, and More: Your 360 Daily
+  >P=0.375  >N=-0.5
+Facebook takes on Google Trips, launches City Guides
+  >P=0.25  >N=0.0
+Badrinath ki Dulhania movie review: Alia Bhatt, Varun Dhawan film is the perfect Holi watch
+  >P=1.3333333330000001  >N=0.125
+Rajinikanth's Daughter Aishwaryaa Dhanush's Bharatanatyam Performance At UN Criticized
+  >P=0.125  >N=0.0
+Aishwarya Rai Bachchan's father still critical, actress has a meltdown
+  >P=0.25  >N=0.375
+All You Need To Know About Alia Bhatt, Kareena Kapoor's Upcoming 'Special' Performance
+  >P=1.0625  >N=0.25
+I-League 2017: Bengaluru FC play out barren draw with Mohun Bagan, leaders Aizawl FC drop crucial points
+  >P=0.40625  >N=-0.958333333
+Manchester City Cruise Into FA Cup Semi-Finals
+  >P=0.0  >N=0.0
+Anil Kumble, Rahul Dravid May Get New Roles In The Indian Team
+  >P=0.0  >N=0.0
+India vs Australia: Virat Kohli is Frustrated, Says Mitchell Johnson
+  >P=0.25  >N=-0.375
+Lost in space: How NASA found a missing Indian spacecraft
+  >P=0.0  >N=-1.0555555559999998
+Australia sees second year of Barrier Reef bleaching
+  >P=0.0  >N=0.0
+Dawn data reveals the age of mysterious bright spot on dwarf planet Ceres
+  >P=0.375  >N=-0.59375
+Europa Clipper: Formal Name For NASA's Upcoming Mission To Jupiter Moon
+  >P=0.0  >N=0.25
+Scientists May Have Found a Potential Cure for Blindness
+  >P=0.0  >N=-1.0
+Our brain is ready for action even at rest: study
+  >P=1.3125  >N=0.25
+Trachoma: 5 Things You Didn't Know About This Eye Infection That Cause Blindness
+  >P=0.75  >N=-1.0
+After surgery, Eman on high-protien diet in Mumbai hospital  >P=0.625  >N=0.25
+Arsenal v Lincoln City: FA Cup quarter-final – live!
+  >P=0.321428571  >N=0.0
+England v Scotland: Six Nations – live!
+  >P=0.321428571  >N=0.0
+Bournemouth 3-2 West Ham, Hull 2-1 Swansea and more: clockwatch – as it happened
+  >P=0.0  >N=0.0
+Aitor Karanka praises Middlesbrough’s ‘fighters’ after loss to Manchester City
+  >P=0.0  >N=-0.5
+Romelu Lukaku sets Everton record in three-goal romp over West Brom
+  >P=0.65625  >N=0.0
+Joshua King hits hat-trick as Bournemouth see off West Ham in thriller
+  >P=0.291666667  >N=-0.475
+Hull survival prospects boosted as Oumar Niasse double sees off Swansea
+  >P=0.5  >N=-0.22499999999999998
+Rangers head into daunting Old Firm match with shaky hands on the tiller
+  >P=1.25  >N=-1.0
+Italy 18-40 France: Six Nations – as it happened
+  >P=0.0  >N=0.0
+Song to Song review – Terrence Malick returns to form with lyrical love triangle
+  >P=1.075  >N=0.0
+At Pussy Riot performance on Putin, everyone sees Trump
+  >P=0.375  >N=-0.25
+Robots delivering pizza and house viewing by VR: is 5G really the future?
+  >P=0.71875  >N=-0.625
+Being a global free-trading nation isn’t as easy as it looks
+  >P=0.625  >N=0.75
+Brexit and Bochum haunt Vauxhall in the new battle for Ellesmere Port
+  >P=0.375  >N=-0.25
+After Brexit, Israel senses a chance to boost trade with UK
+  >P=0.21875  >N=0.125
+Shell’s sale of dirty tar sands assets cleans up debt and spruces image
+  >P=1.0  >N=-0.333333333
+Jeremy Corbyn 'absolutely fine' with second Scottish vote
+  >P=0.4375  >N=0.0
+Western Australian election: Labor wins in 'savage result' for Liberals – as it happened
+  >P=0.5  >N=0.0
+Western Australian election: Mark McGowan declares victory for Labor after record-breaking swings
+  >P=1.375  >N=0.125
+Donald Trump's first 100 days as president – daily updates
+  >P=0.0  >N=-0.5
+Manchester City and David Silva catch Middlesbrough cold to reach semi
+  >P=0.0  >N=-0.336538462
+Philip Hammond gave us a budget for tax avoiders and giant firms | John McDonnell
+  >P=0.375  >N=0.125
+Middlesbrough 0-2 Manchester City: FA Cup quarter-final – as it happened
+  >P=0.0  >N=0.0
+From Brecht to Lorca, the playwrights who became theatre's freedom fighters
+  >P=0.0  >N=0.0
+Nathan Lane: ‘I have played a lot of morally questionable people
+  >P=0.6875  >N=-1.125
+Prison psychiatrists warn care is ‘at breaking point’
+  >P=0.5  >N=0.0
+Democrats question Trump 'conflict of interest' with Deutsche Bank investigation
+  >P=0.458333333  >N=0.0
+Call to boycott Tesco over 'endangered' white men claim
+  >P=0.6875  >N=-0.125
+South Korea expert interrupted by children on BBC World News goes viral
+  >P=1.25  >N=-1.25
+Gaggle of Cambridge University students criticise geese-cull plans
+  >P=0.0  >N=0.25
+Better than Buffy? Spare a thought for the Vampire Diaries
+  >P=0.625  >N=-0.625
+Conservatives cheer EPA cuts that activists fear 'will be borne by lungs'
+  >P=0.75  >N=0.0
+Logan Tomkins escapes shadow of elder brothers in new life at Salford
+  >P=0.6875  >N=0.0
+SXSW panel opens window into dangers of facial recognition software
+  >P=0.375  >N=1.0
+Graham Swift: ‘As a novelist, I’m in for the long haul’
+  >P=0.0  >N=0.0
+Stockpiles of nuclear weapons around the world – in data
+  >P=0.25  >N=-0.5
+Ask Alys Fowler: can I train my cider gum from a pot plant into a tree?
+  >P=0.5  >N=-0.583333333
+Jacob Polley: ‘I’m a fool as a writer – you have to take risks’
+  >P=0.5625  >N=-0.5
+Death of truth: when propaganda and 'alternative facts' first gripped the world
+  >P=0.75  >N=-0.8125
+Alys Fowler: thinking of a green wall? Give climbing plants a go instead
+  >P=0.25  >N=-1.2083333330000001
+Ivanka Trump: the president's moral compass or just another mouthpiece?
+  >P=1.1607142860000002  >N=0.25
+This week’s best radio: Jarvis Cocker heads to Morocco's mountains
+  >P=0.5625  >N=0.0
+Geri's 90s: Ginger Spice's nostalgia show will drive you to distraction
+  >P=0.71875  >N=-0.375
+England need to make their familiar strengths pay against Scotland | Robert Kitson
+  >P=1.3229166669999999  >N=0.25
+One in 10 firms bidding for Trump's Mexico wall project are Hispanic-owned
+  >P=0.5  >N=-0.25
+Four decades after the Battle of the Sexes, the fight for equality goes on
+  >P=0.25  >N=-0.75
+‘All my friends had some nightmare experience trying to get pregnant. My story took the cake’
+  >P=0.875  >N=-0.875
+Romeo and Juliet review – hot, hormonal inner-city tragedy
+  >P=0.25  >N=-0.5
+The Vicarage, Holmes Chapel, Cheshire: hotel review
+  >P=0.125  >N=0.0
+Drug addiction isn't going away so why are treatment centres being slashed?
+  >P=1.125  >N=0.166666667
+Every Hidden Thing by Kenneth Oppel review – heat, dust and dinosaur bones
+  >P=0.125  >N=-1.28125
+Technology could redefine doctor-patient relationship | Richard Vize
+  >P=0.0  >N=0.0
+Four infinitely adaptable recipes for leftover food | Food waste recipes
+  >P=0.375  >N=-0.5
+Enlightened Princesses review – royals who shaped modern Britain
+  >P=0.21875  >N=0.25
+Want a different take on Trump? Try Ivanka, who gives great hair and better Instagram
+  >P=2.104166667  >N=0.125
+What I’m really thinking: the gay Christian
+  >P=1.1770833330000001  >N=0
+Letter to my younger self: you'll be called a little girl with an idea
+  >P=0.625  >N=-0.4625
+Secret Teacher: buying supplies my school can't afford costs me a fortune
+  >P=0.25  >N=0.5
+Greek activists target sales of homes seized over bad debts
+  >P=0.4375  >N=-1.433823529
+Replacing EU hospitality workers after Brexit 'will take 10 years'
+  >P=0.25  >N=0.0
+Modern tribes: the boot camp bore
+  >P=0.0  >N=0.166666667
+Writers unite! The return of the protest novel
+  >P=0.375  >N=-0.25
+Can high-intensity interval training delay the ageing process?
+  >P=1.375  >N=-0.25
+From Seaspeak to Singlish: celebrating other kinds of English
+  >P=0.0  >N=-0.25
+Weekend reading: Budget, Buffy and BBC4
+  >P=0.0  >N=0.0
+Germany's rightwing AfD wants to jettison postwar safeguards
+  >P=0.375  >N=0.125
+Clive James: ‘I couldn't believe how non-weird Sam Neill was’
+  >P=0.125  >N=0.0
+Is this the end of Britain as a place of sanctuary for refugees? | Martin Plaut
+  >P=0.375  >N=0.0
+The 1930s were humanity's darkest, bloodiest hour. Are you paying attention?
+  >P=1.25  >N=0.625
+Beauty: a big hello to a gamechanger of a dry mask
+  >P=0.5  >N=-0.5625
+White men 'endangered species' in UK boardrooms, says Tesco chairman
+  >P=0.0  >N=0.0
+Got it covered: fashion wakes up to Muslim women’s style
+  >P=0.875  >N=0.0
+Self-employed? See if you'll pay more in national insurance
+  >P=0.541666667  >N=0.0
+What’s the best way to teach my daughter to drive?
+  >P=1.28125  >N=0.0
+Sixty years ago, abuse hid in plain sight. But we still closed our eyes | Ian Jack
+  >P=0.625  >N=-0.4625
+Isas back in favour after tax allowance hike
+  >P=0.75  >N=-0.25
+Budget 2017: tax on dividends will be a raid on 2 million small investors
+  >P=1.0  >N=-0.125
+OmNICshambles: how it all went wrong for 'spreadsheet Phil' Hammond | Heather Stewart and Larry Elliott
+  >P=0.3125  >N=-0.759615385
+Now we should go after companies that force workers to be self-employed
+  >P=0.625  >N=0.0
+Walking with dinosaurs: fossil hunting on the North Yorkshire coast
+  >P=0.75  >N=-0.25
+My workout: ‘Going to circus school is like being a child again’
+  >P=0.75  >N=-0.25
+Why are Britain’s new homes built so badly?
+  >P=0.875  >N=-0.319444444
+Simon Amstell: 'I thought: ‘I’ll never be happy''
+  >P=1.125  >N=-1.25
+Which painter had a pet pug called Trump? The Weekend quiz
+  >P=0.75  >N=0.0
+Has TalkTalk’s security been breached yet again?
+  >P=0.75  >N=-0.53125
+‘Think of it as an utterly invaluable learning experience’ – our work expert responds
+  >P=1.4375  >N=0.0
+The Falklands war hero fighting for his state pension
+  >P=0.75  >N=-0.375
+In my version of the mother-in-law joke, the punchline is our happiness together
+  >P=1.0  >N=-0.625
+Why photos of stillborn babies matter
+  >P=0.0  >N=-0.5
+People's History of Pop review – 'We’re on the cusp of something terrifying!'
+  >P=0.375  >N=-0.625
+Lynne Reid Banks: raising a family on a kibbutz was everything my mother detested
+  >P=0.5  >N=0.875
+How to make a feast without packaged food | A taste of home
+  >P=0.479166667  >N=-0.25
+Blind date: ‘We talked about having children’
+  >P=0.75  >N=-0.375
+Why I love… musician Sampha
+  >P=0  >N=0
+Tim Dowling: Touring is taking its toll. Then my wife tells me we're moving house
+  >P=1.375  >N=0.125
+Saturday's best TV: Geri's 1990s; Dogs Behaving Badly
+  >P=0.5625  >N=-0.444444444
+Panic on the machair as a predator approaches
+  >P=0.5  >N=0.75
+China: Xi Jinping wants ‘Great Wall of Steel’ in violence-hit Xinjiang
+  >P=0.75  >N=-0.375
+Daniel Morgan: how a 30-year-old murder still haunts Britain's powerful
+  >P=0.28125  >N=0.5
+Justin Bieber review – searching for a sense of purpose
+  >P=0.75  >N=-0.25
+Reza Aslan outrages Hindus by eating human brains in CNN documentary
+  >P=0.125  >N=-0.375
+Dreamer detained by Ice agents in Mississippi to be released
+  >P=1.0  >N=-0.625
+Talking Horses: Saturday's best bets for Sandown and Wolverhampton
+  >P=0.5625  >N=0.0
+Ireland’s Joe Schmidt concedes Six Nations title after defeat in Wales
+  >P=0.0  >N=0.25
+Prize crossword No 27,142
+  >P=0.5  >N=-0.333333333
+McLaren left under pressure before F1 season with car failure in Spain
+  >P=0.0  >N=0.0
+Canada's highest court upholds ruling that Donald Trump did mislead investors
+  >P=0.625  >N=0.0
+Dutch government withdraws landing permission for Turkish foreign minister's aircraft
+  >P=0.25  >N=-0.375
+The Dutch are 'Nazi remnants' - Erdogan
+  >P=0.25  >N=0.125
+Plot to hit German shopping centre with multiple suicide bombers is foiled after police are tipped off about 'imminent attack'
+  >P=1.5  >N=-0.975
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+The US state department has instructed New York City's chief medical examiner not to disclose the cause of death of Russia's ambassador to the United Nations
+  >P=1.625  >N=-1.0625
+FIFA President: Trump Travel Ban could Prevent US Hosting World Cup 2026
+  >P=0.25  >N=-0.5
+FBI probes ‘odd’ link between Trump server and Russia’s Alfa Bank
+  >P=0.0  >N=0.0
+Turkey warns Netherlands of 'severe sanctions'
+  >P=0.25  >N=0.5
+Mexican authorities have found at least 242 bodies in hidden graves in the eastern state of Veracruz that were discovered by mothers searching for their missing children
+  >P=1.0  >N=-1.90625
+Earth's oceans are warming 13% faster than thought, and accelerating
+  >P=0.5  >N=-1.125
+ISIS kills "anyone who argues with them," says defector
+  >P=0.0  >N=0.5
+Government accused of obstructing the homeless from voting while spending millions on helping rich expats register: Election chiefs protest over rules which require the young and poor without a home to print out a form – while the ‘15-year rule’ for expats is axed.
+  >P=2.1875  >N=-1.527777778
+Oil giant Shell warns public faith in fossil fuel industry is 'disappearing' and calls for carbon taxes - "Shell is to increase its spending on renewable energy to $1bn a year"
+  >P=1.5833333330000001  >N=1.0
+The world is facing its largest humanitarian crisis since 1945, the United Nation's humanitarian chief said as he pleaded for help to avoid "a catastrophe". More than 20 million people are facing starvation and famine in Yemen, Somalia, South Sudan and Nigeria.
+  >P=3.25  >N=1.25
+White men an 'endangered species' on boards, Tesco chairman claims
+  >P=0.375  >N=0.0
+2 former JPMorgan execs face lifetime ban for hiring kids of China's elite
+  >P=0.75  >N=-0.46875
+UN: World facing largest humanitarian crisis since 1945
+  >P=1.125  >N=0.5
+172,000 humans will be relocated to make way for giant national panda park in western China. Earlier this month, the central government gave its approval for the 27,134-square-kilometer park which will cover parts of Sichuan, Gansu and Shaanxi provinces.
+  >P=2.291666667  >N=0.25
+Jeremy Corbyn says a second Scottish independence referendum would be 'absolutely fine'
+  >P=0.5625  >N=0.125
+Russia's Prime Minister Responds to Corruption Allegations by Banning Opposition Leader on Instagram
+  >P=1.0416666669999999  >N=-1.1875
+One in 10 firms bidding for Trump's Mexico wall project are Hispanic-owned
+  >P=0.5  >N=-0.25
+China to turn 800,000 hectares of marginal farmland into forests or grassland
+  >P=0.625  >N=0.0
+Netherlands bars Turkish foreign minister's plane from landing: The Netherlands barred a plane carrying Turkey's foreign minister from landing to stop him from addressing a political rally Saturday in Rotterdam.
+  >P=0.0  >N=-1.625
+'Save a dog, eat a Chinese' shirts on German site spark outrage, Chinese embassy demands apology
+  >P=0.5  >N=-0.833333333
+Colossal 3,000-year-old statue of Ramses II unearthed in Cairo
+  >P=0.0  >N=0.0
+Putin Met with New CEO of ExxonMobil Today
+  >P=0.125  >N=0.0
+Shell Is Abandoning Canada’s Oilsands: Says it’s focused on becoming a “company of the future”
+  >P=1.0  >N=0.0
+Father releases pictures of dying daughter to raise awareness of bullying
+  >P=0.375  >N=-0.375
+White House intruder arrested near Trump residence, reports say
+  >P=0.0  >N=0.0
+Pakistan's War on Atheism
+  >P=0.5  >N=-0.375
+Netherlands cancels flight permit for Turkish FM
+  >P=0.25  >N=-0.25
+UN privacy watchdog says "little or no evidence" that mass surveillance works
+  >P=0.25  >N=-0.983333333
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Research into cannabis dementia treatment 'held up by drug laws'. Cannabinoids can help remove dangerous dementia proteins from brain cells, researchers say.
+  >P=1.6875  >N=-1.625
+Trump Trade Nominee Lighthizer Needs Waiver Over Work for China and Brazil
+  >P=1.4375  >N=0.0
+'Out of sight, out of mind': Humanitarian crisis worsens in Ukraine as world focuses on Syria, Iraq
+  >P=1.375  >N=-0.5
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+Syria: At least 40 killed more than 120 others wounded in dual Damascus bombing targeting Shia Iraqis
+  >P=0.25  >N=-0.375
+We won’t sell Saudis our land: Maldivian opposition
+  >P=0.0  >N=-0.4375
+Turkey-PKK conflict: UN investigators found some 2,000 people were killed in 18 months of fighting, and accuse Turkish forces of serious human rights violations.
+  >P=2.0  >N=0.333333333
+Carbon dioxide levels in atmosphere hit new high
+  >P=0.65  >N=0.25
+Hounded and ridiculed for complaining of rape - Rakhines in Myanmar
+  >P=0.25  >N=-0.75
+One in three terror suspects in UK now white amid rise in far-right extremism
+  >P=0.5  >N=0.5
+India more than doubles maternity leave to 26 weeks
+  >P=0.75  >N=0.0
+Democrats question Trump 'conflict of interest' with Deutsche Bank investigation
+  >P=0.458333333  >N=0.0
+The Netherlands blocks Turkish FM’s plane from landing in Amsterdam, Erdogan livid
+  >P=0.0  >N=-0.208333333
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+Indonesian Buddhists caned under sharia for first time
+  >P=0.5  >N=0.0
+President of South Korea Impeached.
+  >P=0.0  >N=0.0
+India’s first lunar probe found orbiting moon eight years after losing radio contact: NASA finds the Chandrayaan spacecraft 200 kilometres above the lunar surface
+  >P=0.625  >N=0.25
+Canadian TD bank forcing employees to break the law due to sales pressure
+  >P=1.1875  >N=0.25
+Iran accuses Israel of hiring assassins to take out nuclear scientists
+  >P=0.0  >N=-0.375
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+6 million people are at risk of starving in East Africa, and climate change deserves part of the blame
+  >P=1.0  >N=0.5
+Turkey referendum: Dutch are Nazi remnants - Erdogan - BBC News
+  >P=0.5  >N=0.125
+Volkswagen pleads guilty to evading US government diesel emissions rules concerning 600,000 vehicles
+  >P=0.375  >N=0.625
+YouTube has chosen Jeddah, Saudi Arabia for its first ever FanFest event in the Middle East on Friday, as Saudi Arabia is home to the biggest number of YouTube consumers per capita in the world
+  >P=1.0  >N=-0.75
+The U.K.’s post-Brexit trade deal with the European Union could take more than a decade to conclude
+  >P=0.25  >N=0.0
+Leaked emails reveal Nigel Farage's long-standing links to Julian Assange
+  >P=0.0  >N=0.0
+Fukushima disaster evacuees told to return to abandoned homes: People who fled after March 2011 nuclear meltdown face losing housing subsidies if they do not go back, despite radiation fears
+  >P=0.0  >N=-0.9375
+Bone by bone, Iraqis unearth a mass grave: 'We will be out there digging until no one is left'
+  >P=0.75  >N=-1.3958333330000001
+Czech President pokes fun at media, declaring himself ‘agent of Putin, Trump, China & Israel’
+  >P=0.875  >N=0.125
+Turkish minister to go to Rotterdam by land after foreign minister blocked: report
+  >P=0.0  >N=-0.875
+World facing greatest humanitarian crisis since 1945
+  >P=0.875  >N=0.375
+A film about a slain Putin critic gets a screening — just off Red Square
+  >P=1.0357142860000002  >N=-0.9125
+Chinese Embassy demands apology from German T-shirt retailer with slogans it says are insulting to China. T-shirts with slogans like "Save a dog, Eat a Chinese," ''Save a shark, Eat a Chinese," and an image of two faux Chinese alphabets having sex, with the caption "Now I understand Chinese."
+  >P=2.25  >N=-2.833333333
+Family of technician slain by factory robot sues everyone involved
+  >P=0.0  >N=-0.75
+Robert Mugabe last week splurged more than US$1 million when he chartered an ultra-luxurious Boeing 767-200 Extended Range aircraft to Singapore and Ghana
+  >P=0.0  >N=0.25
+Two explosions killed at least 28 people in the old city of Damascus on Saturday, a monitoring group said, in one of the bloodiest attacks yet seen in the heart of the Syrian capital.
+  >P=1.125  >N=0.59375
+World faces worst humanitarian crisis since 1945 - Twenty million people face starvation without an immediate injection of funds in Yemen, South Sudan, Somalia and Nigeria
+  >P=1.0  >N=0.75
+Turkish president Erdogan calls Netherlands 'Nazi remnants, fascists'
+  >P=0.25  >N=0.0
+Neanderthals may have medicated with penicillin and painkillers
+  >P=0.0  >N=-0.125
+UN says world faces largest humanitarian crisis since 1945
+  >P=1.125  >N=0.5
+Assad: Trump shows nothing 'concrete' in ISIS effort; calls foreign troops 'invaders'
+  >P=0.5  >N=-0.25
+Germany terror threat: Fears 'several suicide bombers' will launch deadly attack today force closure of huge shopping centre The Limbacher Platz shopping centre in Essen has been surrounded by hundreds of armed police over fears of an imminent attack
+  >P=1.8125  >N=-0.02083333300000001
+‘Veiled’ attack foiled: Swiss parliamentarians reject bill to ban burqas
+  >P=0.0  >N=-1.125
+White House: Flynn’s Foreign Lobbying Didn’t Raise Red Flags
+  >P=0.0  >N=-0.9375
+German shopping mall shut on police fears of an attack
+  >P=0.5  >N=0.625
+China official says two-child policy showing 'notable results'
+  >P=0.5  >N=0.0
+Senators urge Don Meredith to resign after 'disgusting' relationship with teenage girl
+  >P=0.25  >N=0.25
+The Hague Effect: Russia to Face Charges of Terrorism in Ukraine
+  >P=0.0  >N=-0.25
+Britain could rejoin EU after Brexit, European Commission chief Jean-Claude Juncker says
+  >P=0.75  >N=0.0
+World faces worst humanitarian crisis since WWII – UN
+  >P=0.875  >N=1.0
+Radioactive wild boars have taken over two Japanese towns
+  >P=0.8125  >N=0.0
+Mother of six killed over ‘honour’ in Sanghar, Pakistan
+  >P=0.4375  >N=0.5
+Intruder scaled fence to enter White House grounds Friday night
+  >P=0.0  >N=0.0
+A World Bank arbitration panel has determined that Venezuela will not have to pay $1.4 billion to Exxon Mobil Corp. for confiscating company assets during a wave of nationalizations
+  >P=1.625  >N=-1.75
+BlackBerry claims QNX automotive software is safe from CIA
+  >P=0.541666667  >N=0.125
+Muhammad Ali Jr questioned at Washington DC airport, day after testifying about similar incident
+  >P=1.75  >N=0.25
+Armed far-left Maoist Insurgents Kill 11 Indian Armed Police in Chhattisgarh State
+  >P=0.25  >N=0.0
+Netherlands cancels landing permission for Turkish minister
+  >P=0.25  >N=0.125
+Trump to Palestinian leader: It’s time for a peace deal
+  >P=0.625  >N=0.0
+China Vows 'Strike' Against Dalai Lama as Tibetans Mark Uprising
+  >P=0.625  >N=0.125
+The leader of the anti-immigrant Northern League party is vowing to go ahead with his first major rally in Naples despite planned protests from radicals and leftists intent on keeping him out of the southern Italy that the League has long disparaged
+  >P=2.0  >N=-0.8125
+Erdogan calls The Netherlands; Fascists and leftovers of Nazi-Germany.
+  >P=0.25  >N=0.0
+UN report: Turkey guilty of 'serious' abuses in Kurdish region
+  >P=0.25  >N=1.0
+Manipur election results 2017: Hung verdict in Manipur;Congress bags 28 seats, BJP gets 21
+  >P=0.625  >N=0.0
+Worst attack in two years, Maoists kill 12 CRPF men in Sukma
+  >P=0.0  >N=1.25
+Iraq: At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+Preet Bharara Among 46 US Attorneys Asked To Quit By Trump Administration
+  >P=0.25  >N=-1.0
+World Facing 'Largest Humanitarian Crisis' Since 1945: United Nations
+  >P=0.875  >N=-0.125
+Baahubali The Conclusion Trailer coming on March 16
+  >P=0.25  >N=0.0
+Manipur cliffhanger: Advantage BJP despite Congress emerging as single largest party
+  >P=0.5625  >N=-1.0625
+BJP will win in 2019 and the way for reforms will be eased: Lord Meghnad Desai
+  >P=1.0  >N=-0.5
+Our focus will be development, not Azam Khan's buffaloes: UP BJP chief
+  >P=1.0  >N=-0.625
+Kailash Satyarthi's Nobel citation recovered from jungles: Police
+  >P=0.5  >N=0.125
+Turkish minister heads to France amid overseas campaigning row
+  >P=0.0  >N=0.0
+Opponents of South Korea's ousted Park rally to call for her arrest | Reuters
+  >P=0.25  >N=-0.375
+Russia assures India that it has limited contacts with Taliban
+  >P=0.625  >N=0.0
+Travel industry worries about the second Trump travel ban
+  >P=0.625  >N=0.0
+BJP's Big Win In Uttar Pradesh May Lift Sensex To New All-Time Highs
+  >P=0.75  >N=0.125
+BJP storms back to power in UP, U'khand; Cong takes Punjab, hung house in Goa, Manipur
+  >P=0.375  >N=0.0
+Decoding Air India mess: Understating losses, bleeding international ops, crew mismanagement
+  >P=0.0  >N=-0.625
+BrahMos now deadlier, Army and Navy to upgrade existing missiles
+  >P=0.208333333  >N=-0.458333333
+Moto Z (2017) Image Leaks With New Fingerprint Sensor; Snapdragon 835 SoC Expected
+  >P=0.0  >N=-0.75
+Lenovo Vibe B budget 4G smartphone reportedly launched at Rs. 5799
+  >P=0.0  >N=0.125
+WhatsApp Text Status May Return, RCom's 'Joy of Holi', Paytm 2 Percent Fee Revoked, and More: Your 360 Daily
+  >P=0.375  >N=-0.5
+Facebook takes on Google Trips, launches City Guides
+  >P=0.25  >N=0.0
+Badrinath ki Dulhania movie review: Alia Bhatt, Varun Dhawan film is the perfect Holi watch
+  >P=1.3333333330000001  >N=0.125
+Rajinikanth's Daughter Aishwaryaa Dhanush's Bharatanatyam Performance At UN Criticized
+  >P=0.125  >N=0.0
+Aishwarya Rai Bachchan's father still critical, actress has a meltdown
+  >P=0.25  >N=0.375
+All You Need To Know About Alia Bhatt, Kareena Kapoor's Upcoming 'Special' Performance
+  >P=1.0625  >N=0.25
+I-League 2017: Bengaluru FC play out barren draw with Mohun Bagan, leaders Aizawl FC drop crucial points
+  >P=0.40625  >N=-0.958333333
+Manchester City Cruise Into FA Cup Semi-Finals
+  >P=0.0  >N=0.0
+Anil Kumble, Rahul Dravid May Get New Roles In The Indian Team
+  >P=0.0  >N=0.0
+India vs Australia: Virat Kohli is Frustrated, Says Mitchell Johnson
+  >P=0.25  >N=-0.375
+Lost in space: How NASA found a missing Indian spacecraft
+  >P=0.0  >N=-1.0555555559999998
+Australia sees second year of Barrier Reef bleaching
+  >P=0.0  >N=0.0
+Dawn data reveals the age of mysterious bright spot on dwarf planet Ceres
+  >P=0.375  >N=-0.59375
+Europa Clipper: Formal Name For NASA's Upcoming Mission To Jupiter Moon
+  >P=0.0  >N=0.25
+Scientists May Have Found a Potential Cure for Blindness
+  >P=0.0  >N=-1.0
+Our brain is ready for action even at rest: study
+  >P=1.3125  >N=0.25
+Trachoma: 5 Things You Didn't Know About This Eye Infection That Cause Blindness
+  >P=0.75  >N=-1.0
+After surgery, Eman on high-protien diet in Mumbai hospital  >P=0.625  >N=0.25
+Canada's highest court upholds ruling that Donald Trump did mislead investors
+  >P=0.625  >N=0.0
+Dutch government withdraws landing permission for Turkish foreign minister's aircraft
+  >P=0.25  >N=-0.375
+The Dutch are 'Nazi remnants' - Erdogan
+  >P=0.25  >N=0.125
+Plot to hit German shopping centre with multiple suicide bombers is foiled after police are tipped off about 'imminent attack'
+  >P=1.5  >N=-0.975
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+The US state department has instructed New York City's chief medical examiner not to disclose the cause of death of Russia's ambassador to the United Nations
+  >P=1.625  >N=-1.0625
+FIFA President: Trump Travel Ban could Prevent US Hosting World Cup 2026
+  >P=0.25  >N=-0.5
+FBI probes ‘odd’ link between Trump server and Russia’s Alfa Bank
+  >P=0.0  >N=0.0
+Turkey warns Netherlands of 'severe sanctions'
+  >P=0.25  >N=0.5
+Mexican authorities have found at least 242 bodies in hidden graves in the eastern state of Veracruz that were discovered by mothers searching for their missing children
+  >P=1.0  >N=-1.90625
+Earth's oceans are warming 13% faster than thought, and accelerating
+  >P=0.5  >N=-1.125
+ISIS kills "anyone who argues with them," says defector
+  >P=0.0  >N=0.5
+Government accused of obstructing the homeless from voting while spending millions on helping rich expats register: Election chiefs protest over rules which require the young and poor without a home to print out a form – while the ‘15-year rule’ for expats is axed.
+  >P=2.1875  >N=-1.527777778
+Oil giant Shell warns public faith in fossil fuel industry is 'disappearing' and calls for carbon taxes - "Shell is to increase its spending on renewable energy to $1bn a year"
+  >P=1.5833333330000001  >N=1.0
+The world is facing its largest humanitarian crisis since 1945, the United Nation's humanitarian chief said as he pleaded for help to avoid "a catastrophe". More than 20 million people are facing starvation and famine in Yemen, Somalia, South Sudan and Nigeria.
+  >P=3.25  >N=1.25
+White men an 'endangered species' on boards, Tesco chairman claims
+  >P=0.375  >N=0.0
+2 former JPMorgan execs face lifetime ban for hiring kids of China's elite
+  >P=0.75  >N=-0.46875
+UN: World facing largest humanitarian crisis since 1945
+  >P=1.125  >N=0.5
+172,000 humans will be relocated to make way for giant national panda park in western China. Earlier this month, the central government gave its approval for the 27,134-square-kilometer park which will cover parts of Sichuan, Gansu and Shaanxi provinces.
+  >P=2.291666667  >N=0.25
+Jeremy Corbyn says a second Scottish independence referendum would be 'absolutely fine'
+  >P=0.5625  >N=0.125
+Russia's Prime Minister Responds to Corruption Allegations by Banning Opposition Leader on Instagram
+  >P=1.0416666669999999  >N=-1.1875
+One in 10 firms bidding for Trump's Mexico wall project are Hispanic-owned
+  >P=0.5  >N=-0.25
+China to turn 800,000 hectares of marginal farmland into forests or grassland
+  >P=0.625  >N=0.0
+Netherlands bars Turkish foreign minister's plane from landing: The Netherlands barred a plane carrying Turkey's foreign minister from landing to stop him from addressing a political rally Saturday in Rotterdam.
+  >P=0.0  >N=-1.625
+'Save a dog, eat a Chinese' shirts on German site spark outrage, Chinese embassy demands apology
+  >P=0.5  >N=-0.833333333
+Colossal 3,000-year-old statue of Ramses II unearthed in Cairo
+  >P=0.0  >N=0.0
+Putin Met with New CEO of ExxonMobil Today
+  >P=0.125  >N=0.0
+Shell Is Abandoning Canada’s Oilsands: Says it’s focused on becoming a “company of the future”
+  >P=1.0  >N=0.0
+Father releases pictures of dying daughter to raise awareness of bullying
+  >P=0.375  >N=-0.375
+White House intruder arrested near Trump residence, reports say
+  >P=0.0  >N=0.0
+Pakistan's War on Atheism
+  >P=0.5  >N=-0.375
+Netherlands cancels flight permit for Turkish FM
+  >P=0.25  >N=-0.25
+UN privacy watchdog says "little or no evidence" that mass surveillance works
+  >P=0.25  >N=-0.983333333
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Research into cannabis dementia treatment 'held up by drug laws'. Cannabinoids can help remove dangerous dementia proteins from brain cells, researchers say.
+  >P=1.6875  >N=-1.625
+Trump Trade Nominee Lighthizer Needs Waiver Over Work for China and Brazil
+  >P=1.4375  >N=0.0
+'Out of sight, out of mind': Humanitarian crisis worsens in Ukraine as world focuses on Syria, Iraq
+  >P=1.375  >N=-0.5
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+Syria: At least 40 killed more than 120 others wounded in dual Damascus bombing targeting Shia Iraqis
+  >P=0.25  >N=-0.375
+We won’t sell Saudis our land: Maldivian opposition
+  >P=0.0  >N=-0.4375
+Turkey-PKK conflict: UN investigators found some 2,000 people were killed in 18 months of fighting, and accuse Turkish forces of serious human rights violations.
+  >P=2.0  >N=0.333333333
+Carbon dioxide levels in atmosphere hit new high
+  >P=0.65  >N=0.25
+Hounded and ridiculed for complaining of rape - Rakhines in Myanmar
+  >P=0.25  >N=-0.75
+One in three terror suspects in UK now white amid rise in far-right extremism
+  >P=0.5  >N=0.5
+India more than doubles maternity leave to 26 weeks
+  >P=0.75  >N=0.0
+Democrats question Trump 'conflict of interest' with Deutsche Bank investigation
+  >P=0.458333333  >N=0.0
+The Netherlands blocks Turkish FM’s plane from landing in Amsterdam, Erdogan livid
+  >P=0.0  >N=-0.208333333
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+Indonesian Buddhists caned under sharia for first time
+  >P=0.5  >N=0.0
+President of South Korea Impeached.
+  >P=0.0  >N=0.0
+India’s first lunar probe found orbiting moon eight years after losing radio contact: NASA finds the Chandrayaan spacecraft 200 kilometres above the lunar surface
+  >P=0.625  >N=0.25
+Canadian TD bank forcing employees to break the law due to sales pressure
+  >P=1.1875  >N=0.25
+Iran accuses Israel of hiring assassins to take out nuclear scientists
+  >P=0.0  >N=-0.375
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+6 million people are at risk of starving in East Africa, and climate change deserves part of the blame
+  >P=1.0  >N=0.5
+Turkey referendum: Dutch are Nazi remnants - Erdogan - BBC News
+  >P=0.5  >N=0.125
+Volkswagen pleads guilty to evading US government diesel emissions rules concerning 600,000 vehicles
+  >P=0.375  >N=0.625
+YouTube has chosen Jeddah, Saudi Arabia for its first ever FanFest event in the Middle East on Friday, as Saudi Arabia is home to the biggest number of YouTube consumers per capita in the world
+  >P=1.0  >N=-0.75
+The U.K.’s post-Brexit trade deal with the European Union could take more than a decade to conclude
+  >P=0.25  >N=0.0
+Leaked emails reveal Nigel Farage's long-standing links to Julian Assange
+  >P=0.0  >N=0.0
+Fukushima disaster evacuees told to return to abandoned homes: People who fled after March 2011 nuclear meltdown face losing housing subsidies if they do not go back, despite radiation fears
+  >P=0.0  >N=-0.9375
+Bone by bone, Iraqis unearth a mass grave: 'We will be out there digging until no one is left'
+  >P=0.75  >N=-1.3958333330000001
+Czech President pokes fun at media, declaring himself ‘agent of Putin, Trump, China & Israel’
+  >P=0.875  >N=0.125
+Turkish minister to go to Rotterdam by land after foreign minister blocked: report
+  >P=0.0  >N=-0.875
+World facing greatest humanitarian crisis since 1945
+  >P=0.875  >N=0.375
+A film about a slain Putin critic gets a screening — just off Red Square
+  >P=1.0357142860000002  >N=-0.9125
+Chinese Embassy demands apology from German T-shirt retailer with slogans it says are insulting to China. T-shirts with slogans like "Save a dog, Eat a Chinese," ''Save a shark, Eat a Chinese," and an image of two faux Chinese alphabets having sex, with the caption "Now I understand Chinese."
+  >P=2.25  >N=-2.833333333
+Family of technician slain by factory robot sues everyone involved
+  >P=0.0  >N=-0.75
+Robert Mugabe last week splurged more than US$1 million when he chartered an ultra-luxurious Boeing 767-200 Extended Range aircraft to Singapore and Ghana
+  >P=0.0  >N=0.25
+Two explosions killed at least 28 people in the old city of Damascus on Saturday, a monitoring group said, in one of the bloodiest attacks yet seen in the heart of the Syrian capital.
+  >P=1.125  >N=0.59375
+World faces worst humanitarian crisis since 1945 - Twenty million people face starvation without an immediate injection of funds in Yemen, South Sudan, Somalia and Nigeria
+  >P=1.0  >N=0.75
+Turkish president Erdogan calls Netherlands 'Nazi remnants, fascists'
+  >P=0.25  >N=0.0
+Neanderthals may have medicated with penicillin and painkillers
+  >P=0.0  >N=-0.125
+UN says world faces largest humanitarian crisis since 1945
+  >P=1.125  >N=0.5
+Assad: Trump shows nothing 'concrete' in ISIS effort; calls foreign troops 'invaders'
+  >P=0.5  >N=-0.25
+Germany terror threat: Fears 'several suicide bombers' will launch deadly attack today force closure of huge shopping centre The Limbacher Platz shopping centre in Essen has been surrounded by hundreds of armed police over fears of an imminent attack
+  >P=1.8125  >N=-0.02083333300000001
+‘Veiled’ attack foiled: Swiss parliamentarians reject bill to ban burqas
+  >P=0.0  >N=-1.125
+White House: Flynn’s Foreign Lobbying Didn’t Raise Red Flags
+  >P=0.0  >N=-0.9375
+German shopping mall shut on police fears of an attack
+  >P=0.5  >N=0.625
+China official says two-child policy showing 'notable results'
+  >P=0.5  >N=0.0
+Senators urge Don Meredith to resign after 'disgusting' relationship with teenage girl
+  >P=0.25  >N=0.25
+The Hague Effect: Russia to Face Charges of Terrorism in Ukraine
+  >P=0.0  >N=-0.25
+Britain could rejoin EU after Brexit, European Commission chief Jean-Claude Juncker says
+  >P=0.75  >N=0.0
+World faces worst humanitarian crisis since WWII – UN
+  >P=0.875  >N=1.0
+Radioactive wild boars have taken over two Japanese towns
+  >P=0.8125  >N=0.0
+Mother of six killed over ‘honour’ in Sanghar, Pakistan
+  >P=0.4375  >N=0.5
+Intruder scaled fence to enter White House grounds Friday night
+  >P=0.0  >N=0.0
+A World Bank arbitration panel has determined that Venezuela will not have to pay $1.4 billion to Exxon Mobil Corp. for confiscating company assets during a wave of nationalizations
+  >P=1.625  >N=-1.75
+BlackBerry claims QNX automotive software is safe from CIA
+  >P=0.541666667  >N=0.125
+Muhammad Ali Jr questioned at Washington DC airport, day after testifying about similar incident
+  >P=1.75  >N=0.25
+Armed far-left Maoist Insurgents Kill 11 Indian Armed Police in Chhattisgarh State
+  >P=0.25  >N=0.0
+Netherlands cancels landing permission for Turkish minister
+  >P=0.25  >N=0.125
+Trump to Palestinian leader: It’s time for a peace deal
+  >P=0.625  >N=0.0
+China Vows 'Strike' Against Dalai Lama as Tibetans Mark Uprising
+  >P=0.625  >N=0.125
+The leader of the anti-immigrant Northern League party is vowing to go ahead with his first major rally in Naples despite planned protests from radicals and leftists intent on keeping him out of the southern Italy that the League has long disparaged
+  >P=2.0  >N=-0.8125
+Erdogan calls The Netherlands; Fascists and leftovers of Nazi-Germany.
+  >P=0.25  >N=0.0
+UN report: Turkey guilty of 'serious' abuses in Kurdish region
+  >P=0.25  >N=1.0
+US authorities refuse to reveal how Russian ambassador to the United Nations died
+  >P=0.375  >N=-0.208333333
+Scientists say the government’s only pot farm has moldy samples — and no federal testing standards
+  >P=0.25  >N=-0.833333333
+Gander Mountain Files Ch. 11 Bankruptcy, Closing 32 Stores
+  >P=0.0  >N=-0.75
+Mumps outbreaks reported across USA
+  >P=0.5  >N=-0.375
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+Idaho man charged with forging documents to get out of trial in forgery case
+  >P=0.333333333  >N=-0.375
+BBC News: White House intruder arrested near Trump residence, reports say
+  >P=0.25  >N=0.0
+New bill would let companies force workers to get genetic tests, share results
+  >P=0.625  >N=0.25
+US spies still won't tell Congress the number of Americans caught in dragnet
+  >P=0.25  >N=-0.375
+UK to make use of ticket scalping bots illegal
+  >P=0.479166667  >N=0.0
+Drinking water in three Colorado cities contaminated with toxic chemicals above EPA limits
+  >P=0.0  >N=-0.375
+ICE agent convicted of accepting cash bribes, sex
+  >P=0.6875  >N=0.0
+Florida judge denies 'stand your ground' defense in movie theater shooting of texting man
+  >P=0.0  >N=-0.875
+Mom pulls gun on another mom in school drop-off line
+  >P=2.375  >N=0.0
+US Government passed the NASA Authorization Act, promising $19.5 billion in funding in order to 'Get Humans to Mars By 2033'
+  >P=0.375  >N=-0.75
+Second wave of mass bleaching unfolding on Great Barrier Reef
+  >P=0.979166667  >N=0.0
+Kansas wildfires: These cattle ranchers just lost everything
+  >P=0.535714286  >N=-0.555555556
+A Utah family's cat had its eyes sealed shut with hot glue before being tortured to death in an attack animal welfare advocates are calling “the worst case of abuse.”
+  >P=2.1875  >N=-1.0
+Alzheimer's could be caused by excess sugar: new study finds 'molecular link'
+  >P=0.75  >N=0.0
+Pastor Arrested for Chopping Up Teen Kept Counseling Kids for 23 Years
+  >P=0.375  >N=-0.375
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+Dozens of Iraqi pilgrims slain in Damascus bombings
+  >P=0.0  >N=0.875
+'A Tragedy': Hundreds of Thousands of California Residents Exposed to Contaminated Water
+  >P=0.0  >N=-0.875
+US created 235,000 jobs in Feb, vs 190,000 expected
+  >P=0.0  >N=-0.25
+'Vile and evil': Alberta mother who drugged, burned 9-year-old daughter gets life sentence
+  >P=0.875  >N=-0.375
+The U.S. is sending 2,500 troops to Kuwait, ready to step up the fight in Syria and Iraq
+  >P=1.125  >N=-0.4375
+Test meant to screen teachers instead weeded out minorities
+  >P=0.375  >N=-1.0
+TD Bank shares post worst day since 2014 after CBC story... Bank analyst notes TD's 'Wells Fargo moment' as reaction to CBC story reverberates
+  >P=0.25  >N=0.625
+Nude Photo Scandal Expands To All US Military Branches
+  >P=0.3125  >N=0.125
+Marines Keep Sharing Women’s Nude Photos in Secret Groups After Getting Busted
+  >P=0.0  >N=-0.1875
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+Reward for info increases to $30K after Clearfield cat tortured to death
+  >P=0.333333333  >N=-1.125
+Hounded and ridiculed for complaining of rape
+  >P=0.25  >N=-0.75
+South Korean President Impeached
+  >P=0.0  >N=0.0
+US Deploying Thousands More Ground Troops to Kuwait to Fight in Iraq, Syria
+  >P=0.0  >N=-0.5
+Hate crime suspect beats Salem restaurant employee with pipe
+  >P=0.375  >N=-0.6875
+Director of 'Kong: Skull Island' crowned Vietnam tourism ambassador
+  >P=0.375  >N=0.0
+Radioactive boars are stalking residents of Fukushima trying to return to their homes
+  >P=0.375  >N=0.0
+Hundreds of current and former employees respond to CBC report with stories of pressure to upsell customers at TD Bank... 'We do it because our jobs are at stake': TD bank employees admit to breaking the law for fear of being fired
+  >P=0.875  >N=0.65625
+Bursts of energy from another galaxy suspected to be something sailing across the universe
+  >P=0.958333333  >N=0.5
+UPDATE: Missing Witchita woman Toni Anderson's car recovered from Missouri RIver; police say a body found in car
+  >P=0.375  >N=-0.5
+Turkey referendum: Dutch are Nazi remnants - Erdogan
+  >P=0.25  >N=0.125
+Reports: Teen accidentally shoots self playing Russian roulette
+  >P=0.291666667  >N=0.0
+ADA serial lawsuit filer abruptly dismisses case days before deposition; Motives questioned
+  >P=0.75  >N=0.0
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+Pope signals he's open to married Catholic men becoming priests
+  >P=1.125  >N=0.375
+Customs: Smuggler arrested at JFK with cocaine taped to legs
+  >P=0.0  >N=0.25
+Time crystals: New form of matter once thought to break laws of physics created by scientists
+  >P=1.0  >N=-1.5
+Police in California search for bikers after violent highway attack captured on video
+  >P=0.25  >N=-0.34375
+Massive oil discovery in Alaska is biggest onshore find in 30 years
+  >P=0.8125  >N=0.375
+The father of an Oklahoma boy authorities say was sexually assaulted by high school wrestlers is suing the school district.
+  >P=2.275  >N=-0.375
+Earth's oceans are warming 13% faster than thought, and accelerating
+  >P=0.5  >N=-1.125
+At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+'Nightmare' scenes as Guatemala children shelter fire kills 35
+  >P=0.0  >N=0.25
+Detroit Mom turns in 12 year old son accused of robbery
+  >P=1.25  >N=-0.25
+After record-setting outage, 289,000 remain without power in Michigan
+  >P=0.0  >N=0.0
+Pakistan's War on Atheism Pakistan’s anti-blasphemy crackdown is tightening the noose around nonbelievers
+  >P=1.375  >N=-0.125
+Antioch High School Students Hold Walkout, List Grievances
+  >P=0.275  >N=0.0
+Caught on Camera: Man Steals $100 From Child at Walmart
+  >P=0.5  >N=0.0
+Germany: Child murder suspect arrested, as one more body found
+  >P=0.5  >N=0.375
+US House Committee Backs Ban on Porn Viewing at Work by Feds
+  >P=0.25  >N=-0.75
+Seattle synagogue vandalism denies Holocaust
+  >P=0.0  >N=1.0
+Cannabis Culture pot shops raided across Canada, Marc and Jodie Emery arrested
+  >P=1.125  >N=0.5
+U.S. aluminum trade group hits China with trade complaint over improperly low export prices
+  >P=1.4375  >N=-0.95
+St. Patrick’s Day Parade Planners to Include LGBT Veterans Group
+  >P=0.5  >N=0.0
+Columnist Jack Monroe wins Katie Hopkins libel tweet case.
+  >P=0.25  >N=0.375
+Volkswagen pleads guilty in US diesel emissions scandal
+  >P=0.125  >N=0.75
+Video shows WPD sergeant falsely telling citizen to stop recording him because of state law
+  >P=1.375  >N=-0.25
+Marilyn Young, Historian Who Challenged U.S. Foreign Policy, Dies at 79
+  >P=0.0  >N=-0.7150000000000001
+Cops: Nashville man put mom's dog in trash compactor
+  >P=1.125  >N=-0.333333333
+Polygamy is ‘re-criminalized’ in Utah in last-minute vote
+  >P=0.375  >N=0.125
+Richmond homeowner shoots intruder: 'It was a last resort'
+  >P=0.625  >N=0.375
+Cops Search For Robbery Suspect Dressed As Super Bowl Halftime Star 'Left Shark'
+  >P=0.25  >N=-0.5
+Farmer, 83, cleared over shooting man on his land - BBC News
+  >P=1.5625  >N=0.0
+Samsung Electronics Completes Acquisition of HARMAN
+  >P=0.0  >N=0.0
+U.S., Mexico launch new round of negotiations on sugar trade
+  >P=0.625  >N=0.0
+Tillerson recuses himself from Keystone pipeline issues US secretary of state says he will not work on issues related to the controversial pipeline due to ExxonMobil ties.
+  >P=2.0625  >N=-0.75
+Police say Ohio couple staged murder with ketchup, texted photos
+  >P=0.0  >N=0.25
+First-year doctors will be allowed to work 24-hour shifts starting in July
+  >P=0.5  >N=0.125
+Panic as King Kong model catches fire at premiere
+  >P=0.625  >N=1.0
+Bartow, FL police officer on Administrative leave after Facebook comment referring to Obama as a 'gorilla'
+  >P=0.25  >N=0.0
+EPA chief Scott Pruitt says carbon dioxide is not a primary contributor to global warming
+  >P=0.75  >N=-0.125
+Police confused as to why woman hauled dead body 1,600 kilometres in suitcase
+  >P=0.0  >N=-0.73125
+‘Knees together’ judge resigns after judicial council suggests removal
+  >P=0.75  >N=0.0
+Marble flower pot revealed to be ancient Roman sarcophagus
+  >P=0.5  >N=0.125
+NASA finds lunar spacecraft that vanished 8 years ago
+  >P=0.0  >N=0.5
+Two Convicted of Conspiracy, Two Acquitted in Malheur Occupation Trial
+  >P=0.0  >N=-0.25
+DREAMer Daniela Vargas to be released, her attorney says
+  >P=0.5  >N=0.125
+School investigating social media post threatening to ‘exterminate' black students
+  >P=0.0  >N=-1.366071429
+Waymo Asks Court to Block Uber’s Self-Driving Car Project
+  >P=0.25  >N=-0.208333333
+South Pasadena High School was placed on lockdown Friday morning as authorities investigated a social media posting, officials said.
+  >P=0.775  >N=-0.125
+SEC rejects application to list Bitcoin ETF
+  >P=0.0  >N=0.0
+It’ll take $4.59 trillion investment in the Infrastructure of the U.S. to bring things up to a B, or adequate grade, by 2025, according to a new report by the American Society of Civil Engineers
+  >P=1.25  >N=-2.0
+8 women rescued from million dollar Georgia home in human trafficking case
+  >P=0.5  >N=0.0
+Listeria from raw milk cheese kills two in US: Six cases of listeria have been recorded in Connecticut and Vermont, where the deaths occurred, as well as New York and Florida.
+  >P=0.7166666669999999  >N=-0.5
+Fred Weintraub, Founder Of The Bitter End And 'Enter The Dragon' Producer, Dies At 88
+  >P=0.0  >N=-1.3275000000000001
+Man wrongly convicted gets $175,000 for 13 years in prison
+  >P=0.125  >N=0.25
+Attorney records Wilmington officer lying about state law during traffic stop
+  >P=0.625  >N=-0.25
+German Bundesrat says Maghreb states not safe for refugees
+  >P=0.541666667  >N=-0.75
+US authorities refuse to reveal how Russian ambassador to the United Nations died
+  >P=0.375  >N=-0.208333333
+Scientists say the government’s only pot farm has moldy samples — and no federal testing standards
+  >P=0.25  >N=-0.833333333
+Gander Mountain Files Ch. 11 Bankruptcy, Closing 32 Stores
+  >P=0.0  >N=-0.75
+Mumps outbreaks reported across USA
+  >P=0.5  >N=-0.375
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+Idaho man charged with forging documents to get out of trial in forgery case
+  >P=0.333333333  >N=-0.375
+BBC News: White House intruder arrested near Trump residence, reports say
+  >P=0.25  >N=0.0
+New bill would let companies force workers to get genetic tests, share results
+  >P=0.625  >N=0.25
+US spies still won't tell Congress the number of Americans caught in dragnet
+  >P=0.25  >N=-0.375
+UK to make use of ticket scalping bots illegal
+  >P=0.479166667  >N=0.0
+Drinking water in three Colorado cities contaminated with toxic chemicals above EPA limits
+  >P=0.0  >N=-0.375
+ICE agent convicted of accepting cash bribes, sex
+  >P=0.6875  >N=0.0
+Florida judge denies 'stand your ground' defense in movie theater shooting of texting man
+  >P=0.0  >N=-0.875
+Mom pulls gun on another mom in school drop-off line
+  >P=2.375  >N=0.0
+US Government passed the NASA Authorization Act, promising $19.5 billion in funding in order to 'Get Humans to Mars By 2033'
+  >P=0.375  >N=-0.75
+Second wave of mass bleaching unfolding on Great Barrier Reef
+  >P=0.979166667  >N=0.0
+Kansas wildfires: These cattle ranchers just lost everything
+  >P=0.535714286  >N=-0.555555556
+A Utah family's cat had its eyes sealed shut with hot glue before being tortured to death in an attack animal welfare advocates are calling “the worst case of abuse.”
+  >P=2.1875  >N=-1.0
+Alzheimer's could be caused by excess sugar: new study finds 'molecular link'
+  >P=0.75  >N=0.0
+Pastor Arrested for Chopping Up Teen Kept Counseling Kids for 23 Years
+  >P=0.375  >N=-0.375
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+Dozens of Iraqi pilgrims slain in Damascus bombings
+  >P=0.0  >N=0.875
+'A Tragedy': Hundreds of Thousands of California Residents Exposed to Contaminated Water
+  >P=0.0  >N=-0.875
+US created 235,000 jobs in Feb, vs 190,000 expected
+  >P=0.0  >N=-0.25
+'Vile and evil': Alberta mother who drugged, burned 9-year-old daughter gets life sentence
+  >P=0.875  >N=-0.375
+The U.S. is sending 2,500 troops to Kuwait, ready to step up the fight in Syria and Iraq
+  >P=1.125  >N=-0.4375
+Test meant to screen teachers instead weeded out minorities
+  >P=0.375  >N=-1.0
+TD Bank shares post worst day since 2014 after CBC story... Bank analyst notes TD's 'Wells Fargo moment' as reaction to CBC story reverberates
+  >P=0.25  >N=0.625
+Nude Photo Scandal Expands To All US Military Branches
+  >P=0.3125  >N=0.125
+Marines Keep Sharing Women’s Nude Photos in Secret Groups After Getting Busted
+  >P=0.0  >N=-0.1875
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+Reward for info increases to $30K after Clearfield cat tortured to death
+  >P=0.333333333  >N=-1.125
+Hounded and ridiculed for complaining of rape
+  >P=0.25  >N=-0.75
+South Korean President Impeached
+  >P=0.0  >N=0.0
+US Deploying Thousands More Ground Troops to Kuwait to Fight in Iraq, Syria
+  >P=0.0  >N=-0.5
+Hate crime suspect beats Salem restaurant employee with pipe
+  >P=0.375  >N=-0.6875
+Director of 'Kong: Skull Island' crowned Vietnam tourism ambassador
+  >P=0.375  >N=0.0
+Radioactive boars are stalking residents of Fukushima trying to return to their homes
+  >P=0.375  >N=0.0
+Hundreds of current and former employees respond to CBC report with stories of pressure to upsell customers at TD Bank... 'We do it because our jobs are at stake': TD bank employees admit to breaking the law for fear of being fired
+  >P=0.875  >N=0.65625
+Bursts of energy from another galaxy suspected to be something sailing across the universe
+  >P=0.958333333  >N=0.5
+UPDATE: Missing Witchita woman Toni Anderson's car recovered from Missouri RIver; police say a body found in car
+  >P=0.375  >N=-0.5
+Turkey referendum: Dutch are Nazi remnants - Erdogan
+  >P=0.25  >N=0.125
+Reports: Teen accidentally shoots self playing Russian roulette
+  >P=0.291666667  >N=0.0
+ADA serial lawsuit filer abruptly dismisses case days before deposition; Motives questioned
+  >P=0.75  >N=0.0
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+Pope signals he's open to married Catholic men becoming priests
+  >P=1.125  >N=0.375
+Customs: Smuggler arrested at JFK with cocaine taped to legs
+  >P=0.0  >N=0.25
+Time crystals: New form of matter once thought to break laws of physics created by scientists
+  >P=1.0  >N=-1.5
+Police in California search for bikers after violent highway attack captured on video
+  >P=0.25  >N=-0.34375
+Massive oil discovery in Alaska is biggest onshore find in 30 years
+  >P=0.8125  >N=0.375
+The father of an Oklahoma boy authorities say was sexually assaulted by high school wrestlers is suing the school district.
+  >P=2.275  >N=-0.375
+Earth's oceans are warming 13% faster than thought, and accelerating
+  >P=0.5  >N=-1.125
+At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+'Nightmare' scenes as Guatemala children shelter fire kills 35
+  >P=0.0  >N=0.25
+Detroit Mom turns in 12 year old son accused of robbery
+  >P=1.25  >N=-0.25
+After record-setting outage, 289,000 remain without power in Michigan
+  >P=0.0  >N=0.0
+Pakistan's War on Atheism Pakistan’s anti-blasphemy crackdown is tightening the noose around nonbelievers
+  >P=1.375  >N=-0.125
+Antioch High School Students Hold Walkout, List Grievances
+  >P=0.275  >N=0.0
+Caught on Camera: Man Steals $100 From Child at Walmart
+  >P=0.5  >N=0.0
+Germany: Child murder suspect arrested, as one more body found
+  >P=0.5  >N=0.375
+US House Committee Backs Ban on Porn Viewing at Work by Feds
+  >P=0.25  >N=-0.75
+Seattle synagogue vandalism denies Holocaust
+  >P=0.0  >N=1.0
+Cannabis Culture pot shops raided across Canada, Marc and Jodie Emery arrested
+  >P=1.125  >N=0.5
+U.S. aluminum trade group hits China with trade complaint over improperly low export prices
+  >P=1.4375  >N=-0.95
+St. Patrick’s Day Parade Planners to Include LGBT Veterans Group
+  >P=0.5  >N=0.0
+Columnist Jack Monroe wins Katie Hopkins libel tweet case.
+  >P=0.25  >N=0.375
+Volkswagen pleads guilty in US diesel emissions scandal
+  >P=0.125  >N=0.75
+Video shows WPD sergeant falsely telling citizen to stop recording him because of state law
+  >P=1.375  >N=-0.25
+Marilyn Young, Historian Who Challenged U.S. Foreign Policy, Dies at 79
+  >P=0.0  >N=-0.7150000000000001
+Cops: Nashville man put mom's dog in trash compactor
+  >P=1.125  >N=-0.333333333
+Polygamy is ‘re-criminalized’ in Utah in last-minute vote
+  >P=0.375  >N=0.125
+Richmond homeowner shoots intruder: 'It was a last resort'
+  >P=0.625  >N=0.375
+Cops Search For Robbery Suspect Dressed As Super Bowl Halftime Star 'Left Shark'
+  >P=0.25  >N=-0.5
+Farmer, 83, cleared over shooting man on his land - BBC News
+  >P=1.5625  >N=0.0
+Samsung Electronics Completes Acquisition of HARMAN
+  >P=0.0  >N=0.0
+U.S., Mexico launch new round of negotiations on sugar trade
+  >P=0.625  >N=0.0
+Tillerson recuses himself from Keystone pipeline issues US secretary of state says he will not work on issues related to the controversial pipeline due to ExxonMobil ties.
+  >P=2.0625  >N=-0.75
+Police say Ohio couple staged murder with ketchup, texted photos
+  >P=0.0  >N=0.25
+First-year doctors will be allowed to work 24-hour shifts starting in July
+  >P=0.5  >N=0.125
+Panic as King Kong model catches fire at premiere
+  >P=0.625  >N=1.0
+Bartow, FL police officer on Administrative leave after Facebook comment referring to Obama as a 'gorilla'
+  >P=0.25  >N=0.0
+EPA chief Scott Pruitt says carbon dioxide is not a primary contributor to global warming
+  >P=0.75  >N=-0.125
+Police confused as to why woman hauled dead body 1,600 kilometres in suitcase
+  >P=0.0  >N=-0.73125
+‘Knees together’ judge resigns after judicial council suggests removal
+  >P=0.75  >N=0.0
+Marble flower pot revealed to be ancient Roman sarcophagus
+  >P=0.5  >N=0.125
+NASA finds lunar spacecraft that vanished 8 years ago
+  >P=0.0  >N=0.5
+Two Convicted of Conspiracy, Two Acquitted in Malheur Occupation Trial
+  >P=0.0  >N=-0.25
+DREAMer Daniela Vargas to be released, her attorney says
+  >P=0.5  >N=0.125
+School investigating social media post threatening to ‘exterminate' black students
+  >P=0.0  >N=-1.366071429
+Waymo Asks Court to Block Uber’s Self-Driving Car Project
+  >P=0.25  >N=-0.208333333
+South Pasadena High School was placed on lockdown Friday morning as authorities investigated a social media posting, officials said.
+  >P=0.775  >N=-0.125
+SEC rejects application to list Bitcoin ETF
+  >P=0.0  >N=0.0
+It’ll take $4.59 trillion investment in the Infrastructure of the U.S. to bring things up to a B, or adequate grade, by 2025, according to a new report by the American Society of Civil Engineers
+  >P=1.25  >N=-2.0
+8 women rescued from million dollar Georgia home in human trafficking case
+  >P=0.5  >N=0.0
+Listeria from raw milk cheese kills two in US: Six cases of listeria have been recorded in Connecticut and Vermont, where the deaths occurred, as well as New York and Florida.
+  >P=0.7166666669999999  >N=-0.5
+Fred Weintraub, Founder Of The Bitter End And 'Enter The Dragon' Producer, Dies At 88
+  >P=0.0  >N=-1.3275000000000001
+Man wrongly convicted gets $175,000 for 13 years in prison
+  >P=0.125  >N=0.25
+Attorney records Wilmington officer lying about state law during traffic stop
+  >P=0.625  >N=-0.25
+German Bundesrat says Maghreb states not safe for refugees
+  >P=0.541666667  >N=-0.75
+Manipur election results 2017: Hung verdict in Manipur;Congress bags 28 seats, BJP gets 21
+  >P=0.625  >N=0.0
+Worst attack in two years, Maoists kill 12 CRPF men in Sukma
+  >P=0.0  >N=1.25
+Iraq: At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+Preet Bharara Among 46 US Attorneys Asked To Quit By Trump Administration
+  >P=0.25  >N=-1.0
+World Facing 'Largest Humanitarian Crisis' Since 1945: United Nations
+  >P=0.875  >N=-0.125
+Baahubali The Conclusion Trailer coming on March 16
+  >P=0.25  >N=0.0
+Manipur cliffhanger: Advantage BJP despite Congress emerging as single largest party
+  >P=0.5625  >N=-1.0625
+BJP will win in 2019 and the way for reforms will be eased: Lord Meghnad Desai
+  >P=1.0  >N=-0.5
+Our focus will be development, not Azam Khan's buffaloes: UP BJP chief
+  >P=1.0  >N=-0.625
+Kailash Satyarthi's Nobel citation recovered from jungles: Police
+  >P=0.5  >N=0.125
+Turkish minister heads to France amid overseas campaigning row
+  >P=0.0  >N=0.0
+Opponents of South Korea's ousted Park rally to call for her arrest | Reuters
+  >P=0.25  >N=-0.375
+Russia assures India that it has limited contacts with Taliban
+  >P=0.625  >N=0.0
+Travel industry worries about the second Trump travel ban
+  >P=0.625  >N=0.0
+BJP's Big Win In Uttar Pradesh May Lift Sensex To New All-Time Highs
+  >P=0.75  >N=0.125
+BJP storms back to power in UP, U'khand; Cong takes Punjab, hung house in Goa, Manipur
+  >P=0.375  >N=0.0
+Decoding Air India mess: Understating losses, bleeding international ops, crew mismanagement
+  >P=0.0  >N=-0.625
+BrahMos now deadlier, Army and Navy to upgrade existing missiles
+  >P=0.208333333  >N=-0.458333333
+Moto Z (2017) Image Leaks With New Fingerprint Sensor; Snapdragon 835 SoC Expected
+  >P=0.0  >N=-0.75
+Lenovo Vibe B budget 4G smartphone reportedly launched at Rs. 5799
+  >P=0.0  >N=0.125
+WhatsApp Text Status May Return, RCom's 'Joy of Holi', Paytm 2 Percent Fee Revoked, and More: Your 360 Daily
+  >P=0.375  >N=-0.5
+Facebook takes on Google Trips, launches City Guides
+  >P=0.25  >N=0.0
+Badrinath ki Dulhania movie review: Alia Bhatt, Varun Dhawan film is the perfect Holi watch
+  >P=1.3333333330000001  >N=0.125
+Rajinikanth's Daughter Aishwaryaa Dhanush's Bharatanatyam Performance At UN Criticized
+  >P=0.125  >N=0.0
+Aishwarya Rai Bachchan's father still critical, actress has a meltdown
+  >P=0.25  >N=0.375
+All You Need To Know About Alia Bhatt, Kareena Kapoor's Upcoming 'Special' Performance
+  >P=1.0625  >N=0.25
+I-League 2017: Bengaluru FC play out barren draw with Mohun Bagan, leaders Aizawl FC drop crucial points
+  >P=0.40625  >N=-0.958333333
+Manchester City Cruise Into FA Cup Semi-Finals
+  >P=0.0  >N=0.0
+Anil Kumble, Rahul Dravid May Get New Roles In The Indian Team
+  >P=0.0  >N=0.0
+India vs Australia: Virat Kohli is Frustrated, Says Mitchell Johnson
+  >P=0.25  >N=-0.375
+Lost in space: How NASA found a missing Indian spacecraft
+  >P=0.0  >N=-1.0555555559999998
+Australia sees second year of Barrier Reef bleaching
+  >P=0.0  >N=0.0
+Dawn data reveals the age of mysterious bright spot on dwarf planet Ceres
+  >P=0.375  >N=-0.59375
+Europa Clipper: Formal Name For NASA's Upcoming Mission To Jupiter Moon
+  >P=0.0  >N=0.25
+Scientists May Have Found a Potential Cure for Blindness
+  >P=0.0  >N=-1.0
+Our brain is ready for action even at rest: study
+  >P=1.3125  >N=0.25
+Trachoma: 5 Things You Didn't Know About This Eye Infection That Cause Blindness
+  >P=0.75  >N=-1.0
+After surgery, Eman on high-protien diet in Mumbai hospital  >P=0.625  >N=0.25
+Manipur election results 2017: Hung verdict in Manipur;Congress bags 28 seats, BJP gets 21
+  >P=0.625  >N=0.0
+Worst attack in two years, Maoists kill 12 CRPF men in Sukma
+  >P=0.0  >N=1.25
+Iraq: At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+Preet Bharara Among 46 US Attorneys Asked To Quit By Trump Administration
+  >P=0.25  >N=-1.0
+World Facing 'Largest Humanitarian Crisis' Since 1945: United Nations
+  >P=0.875  >N=-0.125
+Baahubali The Conclusion Trailer coming on March 16
+  >P=0.25  >N=0.0
+Manipur cliffhanger: Advantage BJP despite Congress emerging as single largest party
+  >P=0.5625  >N=-1.0625
+BJP will win in 2019 and the way for reforms will be eased: Lord Meghnad Desai
+  >P=1.0  >N=-0.5
+Our focus will be development, not Azam Khan's buffaloes: UP BJP chief
+  >P=1.0  >N=-0.625
+Kailash Satyarthi's Nobel citation recovered from jungles: Police
+  >P=0.5  >N=0.125
+Turkish minister heads to France amid overseas campaigning row
+  >P=0.0  >N=0.0
+Opponents of South Korea's ousted Park rally to call for her arrest | Reuters
+  >P=0.25  >N=-0.375
+Russia assures India that it has limited contacts with Taliban
+  >P=0.625  >N=0.0
+Travel industry worries about the second Trump travel ban
+  >P=0.625  >N=0.0
+BJP's Big Win In Uttar Pradesh May Lift Sensex To New All-Time Highs
+  >P=0.75  >N=0.125
+BJP storms back to power in UP, U'khand; Cong takes Punjab, hung house in Goa, Manipur
+  >P=0.375  >N=0.0
+Decoding Air India mess: Understating losses, bleeding international ops, crew mismanagement
+  >P=0.0  >N=-0.625
+BrahMos now deadlier, Army and Navy to upgrade existing missiles
+  >P=0.208333333  >N=-0.458333333
+Moto Z (2017) Image Leaks With New Fingerprint Sensor; Snapdragon 835 SoC Expected
+  >P=0.0  >N=-0.75
+Lenovo Vibe B budget 4G smartphone reportedly launched at Rs. 5799
+  >P=0.0  >N=0.125
+WhatsApp Text Status May Return, RCom's 'Joy of Holi', Paytm 2 Percent Fee Revoked, and More: Your 360 Daily
+  >P=0.375  >N=-0.5
+Facebook takes on Google Trips, launches City Guides
+  >P=0.25  >N=0.0
+Badrinath ki Dulhania movie review: Alia Bhatt, Varun Dhawan film is the perfect Holi watch
+  >P=1.3333333330000001  >N=0.125
+Rajinikanth's Daughter Aishwaryaa Dhanush's Bharatanatyam Performance At UN Criticized
+  >P=0.125  >N=0.0
+Aishwarya Rai Bachchan's father still critical, actress has a meltdown
+  >P=0.25  >N=0.375
+All You Need To Know About Alia Bhatt, Kareena Kapoor's Upcoming 'Special' Performance
+  >P=1.0625  >N=0.25
+I-League 2017: Bengaluru FC play out barren draw with Mohun Bagan, leaders Aizawl FC drop crucial points
+  >P=0.40625  >N=-0.958333333
+Manchester City Cruise Into FA Cup Semi-Finals
+  >P=0.0  >N=0.0
+Anil Kumble, Rahul Dravid May Get New Roles In The Indian Team
+  >P=0.0  >N=0.0
+India vs Australia: Virat Kohli is Frustrated, Says Mitchell Johnson
+  >P=0.25  >N=-0.375
+Lost in space: How NASA found a missing Indian spacecraft
+  >P=0.0  >N=-1.0555555559999998
+Australia sees second year of Barrier Reef bleaching
+  >P=0.0  >N=0.0
+Dawn data reveals the age of mysterious bright spot on dwarf planet Ceres
+  >P=0.375  >N=-0.59375
+Europa Clipper: Formal Name For NASA's Upcoming Mission To Jupiter Moon
+  >P=0.0  >N=0.25
+Scientists May Have Found a Potential Cure for Blindness
+  >P=0.0  >N=-1.0
+Our brain is ready for action even at rest: study
+  >P=1.3125  >N=0.25
+Trachoma: 5 Things You Didn't Know About This Eye Infection That Cause Blindness
+  >P=0.75  >N=-1.0
+After surgery, Eman on high-protien diet in Mumbai hospital  >P=0.625  >N=0.25
+US authorities refuse to reveal how Russian ambassador to the United Nations died
+  >P=0.375  >N=-0.208333333
+Scientists say the government’s only pot farm has moldy samples — and no federal testing standards
+  >P=0.25  >N=-0.833333333
+Gander Mountain Files Ch. 11 Bankruptcy, Closing 32 Stores
+  >P=0.0  >N=-0.75
+Mumps outbreaks reported across USA
+  >P=0.5  >N=-0.375
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+Idaho man charged with forging documents to get out of trial in forgery case
+  >P=0.333333333  >N=-0.375
+BBC News: White House intruder arrested near Trump residence, reports say
+  >P=0.25  >N=0.0
+New bill would let companies force workers to get genetic tests, share results
+  >P=0.625  >N=0.25
+US spies still won't tell Congress the number of Americans caught in dragnet
+  >P=0.25  >N=-0.375
+UK to make use of ticket scalping bots illegal
+  >P=0.479166667  >N=0.0
+Drinking water in three Colorado cities contaminated with toxic chemicals above EPA limits
+  >P=0.0  >N=-0.375
+ICE agent convicted of accepting cash bribes, sex
+  >P=0.6875  >N=0.0
+Florida judge denies 'stand your ground' defense in movie theater shooting of texting man
+  >P=0.0  >N=-0.875
+Mom pulls gun on another mom in school drop-off line
+  >P=2.375  >N=0.0
+US Government passed the NASA Authorization Act, promising $19.5 billion in funding in order to 'Get Humans to Mars By 2033'
+  >P=0.375  >N=-0.75
+Second wave of mass bleaching unfolding on Great Barrier Reef
+  >P=0.979166667  >N=0.0
+Kansas wildfires: These cattle ranchers just lost everything
+  >P=0.535714286  >N=-0.555555556
+A Utah family's cat had its eyes sealed shut with hot glue before being tortured to death in an attack animal welfare advocates are calling “the worst case of abuse.”
+  >P=2.1875  >N=-1.0
+Alzheimer's could be caused by excess sugar: new study finds 'molecular link'
+  >P=0.75  >N=0.0
+Pastor Arrested for Chopping Up Teen Kept Counseling Kids for 23 Years
+  >P=0.375  >N=-0.375
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+Dozens of Iraqi pilgrims slain in Damascus bombings
+  >P=0.0  >N=0.875
+'A Tragedy': Hundreds of Thousands of California Residents Exposed to Contaminated Water
+  >P=0.0  >N=-0.875
+US created 235,000 jobs in Feb, vs 190,000 expected
+  >P=0.0  >N=-0.25
+'Vile and evil': Alberta mother who drugged, burned 9-year-old daughter gets life sentence
+  >P=0.875  >N=-0.375
+The U.S. is sending 2,500 troops to Kuwait, ready to step up the fight in Syria and Iraq
+  >P=1.125  >N=-0.4375
+Test meant to screen teachers instead weeded out minorities
+  >P=0.375  >N=-1.0
+TD Bank shares post worst day since 2014 after CBC story... Bank analyst notes TD's 'Wells Fargo moment' as reaction to CBC story reverberates
+  >P=0.25  >N=0.625
+Nude Photo Scandal Expands To All US Military Branches
+  >P=0.3125  >N=0.125
+Marines Keep Sharing Women’s Nude Photos in Secret Groups After Getting Busted
+  >P=0.0  >N=-0.1875
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+Reward for info increases to $30K after Clearfield cat tortured to death
+  >P=0.333333333  >N=-1.125
+Hounded and ridiculed for complaining of rape
+  >P=0.25  >N=-0.75
+South Korean President Impeached
+  >P=0.0  >N=0.0
+US Deploying Thousands More Ground Troops to Kuwait to Fight in Iraq, Syria
+  >P=0.0  >N=-0.5
+Hate crime suspect beats Salem restaurant employee with pipe
+  >P=0.375  >N=-0.6875
+Director of 'Kong: Skull Island' crowned Vietnam tourism ambassador
+  >P=0.375  >N=0.0
+Radioactive boars are stalking residents of Fukushima trying to return to their homes
+  >P=0.375  >N=0.0
+Hundreds of current and former employees respond to CBC report with stories of pressure to upsell customers at TD Bank... 'We do it because our jobs are at stake': TD bank employees admit to breaking the law for fear of being fired
+  >P=0.875  >N=0.65625
+Bursts of energy from another galaxy suspected to be something sailing across the universe
+  >P=0.958333333  >N=0.5
+UPDATE: Missing Witchita woman Toni Anderson's car recovered from Missouri RIver; police say a body found in car
+  >P=0.375  >N=-0.5
+Turkey referendum: Dutch are Nazi remnants - Erdogan
+  >P=0.25  >N=0.125
+Reports: Teen accidentally shoots self playing Russian roulette
+  >P=0.291666667  >N=0.0
+ADA serial lawsuit filer abruptly dismisses case days before deposition; Motives questioned
+  >P=0.75  >N=0.0
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+Pope signals he's open to married Catholic men becoming priests
+  >P=1.125  >N=0.375
+Customs: Smuggler arrested at JFK with cocaine taped to legs
+  >P=0.0  >N=0.25
+Time crystals: New form of matter once thought to break laws of physics created by scientists
+  >P=1.0  >N=-1.5
+Police in California search for bikers after violent highway attack captured on video
+  >P=0.25  >N=-0.34375
+Massive oil discovery in Alaska is biggest onshore find in 30 years
+  >P=0.8125  >N=0.375
+The father of an Oklahoma boy authorities say was sexually assaulted by high school wrestlers is suing the school district.
+  >P=2.275  >N=-0.375
+Earth's oceans are warming 13% faster than thought, and accelerating
+  >P=0.5  >N=-1.125
+At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+'Nightmare' scenes as Guatemala children shelter fire kills 35
+  >P=0.0  >N=0.25
+Detroit Mom turns in 12 year old son accused of robbery
+  >P=1.25  >N=-0.25
+After record-setting outage, 289,000 remain without power in Michigan
+  >P=0.0  >N=0.0
+Pakistan's War on Atheism Pakistan’s anti-blasphemy crackdown is tightening the noose around nonbelievers
+  >P=1.375  >N=-0.125
+Antioch High School Students Hold Walkout, List Grievances
+  >P=0.275  >N=0.0
+Caught on Camera: Man Steals $100 From Child at Walmart
+  >P=0.5  >N=0.0
+Germany: Child murder suspect arrested, as one more body found
+  >P=0.5  >N=0.375
+US House Committee Backs Ban on Porn Viewing at Work by Feds
+  >P=0.25  >N=-0.75
+Seattle synagogue vandalism denies Holocaust
+  >P=0.0  >N=1.0
+Cannabis Culture pot shops raided across Canada, Marc and Jodie Emery arrested
+  >P=1.125  >N=0.5
+U.S. aluminum trade group hits China with trade complaint over improperly low export prices
+  >P=1.4375  >N=-0.95
+St. Patrick’s Day Parade Planners to Include LGBT Veterans Group
+  >P=0.5  >N=0.0
+Columnist Jack Monroe wins Katie Hopkins libel tweet case.
+  >P=0.25  >N=0.375
+Volkswagen pleads guilty in US diesel emissions scandal
+  >P=0.125  >N=0.75
+Video shows WPD sergeant falsely telling citizen to stop recording him because of state law
+  >P=1.375  >N=-0.25
+Marilyn Young, Historian Who Challenged U.S. Foreign Policy, Dies at 79
+  >P=0.0  >N=-0.7150000000000001
+Cops: Nashville man put mom's dog in trash compactor
+  >P=1.125  >N=-0.333333333
+Polygamy is ‘re-criminalized’ in Utah in last-minute vote
+  >P=0.375  >N=0.125
+Richmond homeowner shoots intruder: 'It was a last resort'
+  >P=0.625  >N=0.375
+Cops Search For Robbery Suspect Dressed As Super Bowl Halftime Star 'Left Shark'
+  >P=0.25  >N=-0.5
+Farmer, 83, cleared over shooting man on his land - BBC News
+  >P=1.5625  >N=0.0
+Samsung Electronics Completes Acquisition of HARMAN
+  >P=0.0  >N=0.0
+U.S., Mexico launch new round of negotiations on sugar trade
+  >P=0.625  >N=0.0
+Tillerson recuses himself from Keystone pipeline issues US secretary of state says he will not work on issues related to the controversial pipeline due to ExxonMobil ties.
+  >P=2.0625  >N=-0.75
+Police say Ohio couple staged murder with ketchup, texted photos
+  >P=0.0  >N=0.25
+First-year doctors will be allowed to work 24-hour shifts starting in July
+  >P=0.5  >N=0.125
+Panic as King Kong model catches fire at premiere
+  >P=0.625  >N=1.0
+Bartow, FL police officer on Administrative leave after Facebook comment referring to Obama as a 'gorilla'
+  >P=0.25  >N=0.0
+EPA chief Scott Pruitt says carbon dioxide is not a primary contributor to global warming
+  >P=0.75  >N=-0.125
+Police confused as to why woman hauled dead body 1,600 kilometres in suitcase
+  >P=0.0  >N=-0.73125
+‘Knees together’ judge resigns after judicial council suggests removal
+  >P=0.75  >N=0.0
+Marble flower pot revealed to be ancient Roman sarcophagus
+  >P=0.5  >N=0.125
+NASA finds lunar spacecraft that vanished 8 years ago
+  >P=0.0  >N=0.5
+Two Convicted of Conspiracy, Two Acquitted in Malheur Occupation Trial
+  >P=0.0  >N=-0.25
+DREAMer Daniela Vargas to be released, her attorney says
+  >P=0.5  >N=0.125
+School investigating social media post threatening to ‘exterminate' black students
+  >P=0.0  >N=-1.366071429
+Waymo Asks Court to Block Uber’s Self-Driving Car Project
+  >P=0.25  >N=-0.208333333
+South Pasadena High School was placed on lockdown Friday morning as authorities investigated a social media posting, officials said.
+  >P=0.775  >N=-0.125
+SEC rejects application to list Bitcoin ETF
+  >P=0.0  >N=0.0
+It’ll take $4.59 trillion investment in the Infrastructure of the U.S. to bring things up to a B, or adequate grade, by 2025, according to a new report by the American Society of Civil Engineers
+  >P=1.25  >N=-2.0
+8 women rescued from million dollar Georgia home in human trafficking case
+  >P=0.5  >N=0.0
+Listeria from raw milk cheese kills two in US: Six cases of listeria have been recorded in Connecticut and Vermont, where the deaths occurred, as well as New York and Florida.
+  >P=0.7166666669999999  >N=-0.5
+Fred Weintraub, Founder Of The Bitter End And 'Enter The Dragon' Producer, Dies At 88
+  >P=0.0  >N=-1.3275000000000001
+Man wrongly convicted gets $175,000 for 13 years in prison
+  >P=0.125  >N=0.25
+Attorney records Wilmington officer lying about state law during traffic stop
+  >P=0.625  >N=-0.25
+German Bundesrat says Maghreb states not safe for refugees
+  >P=0.541666667  >N=-0.75
+US authorities refuse to reveal how Russian ambassador to the United Nations died
+  >P=0.375  >N=-0.208333333
+Scientists say the government’s only pot farm has moldy samples — and no federal testing standards
+  >P=0.25  >N=-0.833333333
+BBC News: White House intruder arrested near Trump residence, reports say
+  >P=0.25  >N=0.0
+Gander Mountain Files Ch. 11 Bankruptcy, Closing 32 Stores
+  >P=0.0  >N=-0.75
+Mumps outbreaks reported across USA
+  >P=0.5  >N=-0.375
+Idaho man charged with forging documents to get out of trial in forgery case
+  >P=0.333333333  >N=-0.375
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+New bill would let companies force workers to get genetic tests, share results
+  >P=0.625  >N=0.25
+US spies still won't tell Congress the number of Americans caught in dragnet
+  >P=0.25  >N=-0.375
+UK to make use of ticket scalping bots illegal
+  >P=0.479166667  >N=0.0
+Drinking water in three Colorado cities contaminated with toxic chemicals above EPA limits
+  >P=0.0  >N=-0.375
+ICE agent convicted of accepting cash bribes, sex
+  >P=0.6875  >N=0.0
+Florida judge denies 'stand your ground' defense in movie theater shooting of texting man
+  >P=0.0  >N=-0.875
+Mom pulls gun on another mom in school drop-off line
+  >P=2.375  >N=0.0
+US Government passed the NASA Authorization Act, promising $19.5 billion in funding in order to 'Get Humans to Mars By 2033'
+  >P=0.375  >N=-0.75
+Second wave of mass bleaching unfolding on Great Barrier Reef
+  >P=0.979166667  >N=0.0
+Kansas wildfires: These cattle ranchers just lost everything
+  >P=0.535714286  >N=-0.555555556
+A Utah family's cat had its eyes sealed shut with hot glue before being tortured to death in an attack animal welfare advocates are calling “the worst case of abuse.”
+  >P=2.1875  >N=-1.0
+Alzheimer's could be caused by excess sugar: new study finds 'molecular link'
+  >P=0.75  >N=0.0
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+Dozens of Iraqi pilgrims slain in Damascus bombings
+  >P=0.0  >N=0.875
+Pastor Arrested for Chopping Up Teen Kept Counseling Kids for 23 Years
+  >P=0.375  >N=-0.375
+'A Tragedy': Hundreds of Thousands of California Residents Exposed to Contaminated Water
+  >P=0.0  >N=-0.875
+US created 235,000 jobs in Feb, vs 190,000 expected
+  >P=0.0  >N=-0.25
+'Vile and evil': Alberta mother who drugged, burned 9-year-old daughter gets life sentence
+  >P=0.875  >N=-0.375
+Test meant to screen teachers instead weeded out minorities
+  >P=0.375  >N=-1.0
+TD Bank shares post worst day since 2014 after CBC story... Bank analyst notes TD's 'Wells Fargo moment' as reaction to CBC story reverberates
+  >P=0.25  >N=0.625
+The U.S. is sending 2,500 troops to Kuwait, ready to step up the fight in Syria and Iraq
+  >P=1.125  >N=-0.4375
+Nude Photo Scandal Expands To All US Military Branches
+  >P=0.3125  >N=0.125
+Marines Keep Sharing Women’s Nude Photos in Secret Groups After Getting Busted
+  >P=0.0  >N=-0.1875
+Hate crime suspect beats Salem restaurant employee with pipe
+  >P=0.375  >N=-0.6875
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+Reward for info increases to $30K after Clearfield cat tortured to death
+  >P=0.333333333  >N=-1.125
+Turkey referendum: Dutch are Nazi remnants - Erdogan
+  >P=0.25  >N=0.125
+Hounded and ridiculed for complaining of rape
+  >P=0.25  >N=-0.75
+South Korean President Impeached
+  >P=0.0  >N=0.0
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+Director of 'Kong: Skull Island' crowned Vietnam tourism ambassador
+  >P=0.375  >N=0.0
+US Deploying Thousands More Ground Troops to Kuwait to Fight in Iraq, Syria
+  >P=0.0  >N=-0.5
+Radioactive boars are stalking residents of Fukushima trying to return to their homes
+  >P=0.375  >N=0.0
+Hundreds of current and former employees respond to CBC report with stories of pressure to upsell customers at TD Bank... 'We do it because our jobs are at stake': TD bank employees admit to breaking the law for fear of being fired
+  >P=0.875  >N=0.65625
+Bursts of energy from another galaxy suspected to be something sailing across the universe
+  >P=0.958333333  >N=0.5
+UPDATE: Missing Witchita woman Toni Anderson's car recovered from Missouri RIver; police say a body found in car
+  >P=0.375  >N=-0.5
+Reports: Teen accidentally shoots self playing Russian roulette
+  >P=0.291666667  >N=0.0
+ADA serial lawsuit filer abruptly dismisses case days before deposition; Motives questioned
+  >P=0.75  >N=0.0
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Pope signals he's open to married Catholic men becoming priests
+  >P=1.125  >N=0.375
+Time crystals: New form of matter once thought to break laws of physics created by scientists
+  >P=1.0  >N=-1.5
+Customs: Smuggler arrested at JFK with cocaine taped to legs
+  >P=0.0  >N=0.25
+Police in California search for bikers after violent highway attack captured on video
+  >P=0.25  >N=-0.34375
+Polygamy is ‘re-criminalized’ in Utah in last-minute vote
+  >P=0.375  >N=0.125
+After record-setting outage, 289,000 remain without power in Michigan
+  >P=0.0  >N=0.0
+Pakistan's War on Atheism Pakistan’s anti-blasphemy crackdown is tightening the noose around nonbelievers
+  >P=1.375  >N=-0.125
+Massive oil discovery in Alaska is biggest onshore find in 30 years
+  >P=0.8125  >N=0.375
+The father of an Oklahoma boy authorities say was sexually assaulted by high school wrestlers is suing the school district.
+  >P=2.275  >N=-0.375
+'Nightmare' scenes as Guatemala children shelter fire kills 35
+  >P=0.0  >N=0.25
+Detroit Mom turns in 12 year old son accused of robbery
+  >P=1.25  >N=-0.25
+Antioch High School Students Hold Walkout, List Grievances
+  >P=0.275  >N=0.0
+Samsung Electronics Completes Acquisition of HARMAN
+  >P=0.0  >N=0.0
+Caught on Camera: Man Steals $100 From Child at Walmart
+  >P=0.5  >N=0.0
+Germany: Child murder suspect arrested, as one more body found
+  >P=0.5  >N=0.375
+US House Committee Backs Ban on Porn Viewing at Work by Feds
+  >P=0.25  >N=-0.75
+Seattle synagogue vandalism denies Holocaust
+  >P=0.0  >N=1.0
+Cannabis Culture pot shops raided across Canada, Marc and Jodie Emery arrested
+  >P=1.125  >N=0.5
+U.S. aluminum trade group hits China with trade complaint over improperly low export prices
+  >P=1.4375  >N=-0.95
+St. Patrick’s Day Parade Planners to Include LGBT Veterans Group
+  >P=0.5  >N=0.0
+Columnist Jack Monroe wins Katie Hopkins libel tweet case.
+  >P=0.25  >N=0.375
+Volkswagen pleads guilty in US diesel emissions scandal
+  >P=0.125  >N=0.75
+Video shows WPD sergeant falsely telling citizen to stop recording him because of state law
+  >P=1.375  >N=-0.25
+Marilyn Young, Historian Who Challenged U.S. Foreign Policy, Dies at 79
+  >P=0.0  >N=-0.7150000000000001
+Cops: Nashville man put mom's dog in trash compactor
+  >P=1.125  >N=-0.333333333
+Earth's oceans are warming 13% faster than thought, and accelerating
+  >P=0.5  >N=-1.125
+Richmond homeowner shoots intruder: 'It was a last resort'
+  >P=0.625  >N=0.375
+At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+Cops Search For Robbery Suspect Dressed As Super Bowl Halftime Star 'Left Shark'
+  >P=0.25  >N=-0.5
+Farmer, 83, cleared over shooting man on his land - BBC News
+  >P=1.5625  >N=0.0
+U.S., Mexico launch new round of negotiations on sugar trade
+  >P=0.625  >N=0.0
+Tillerson recuses himself from Keystone pipeline issues US secretary of state says he will not work on issues related to the controversial pipeline due to ExxonMobil ties.
+  >P=2.0625  >N=-0.75
+Police say Ohio couple staged murder with ketchup, texted photos
+  >P=0.0  >N=0.25
+First-year doctors will be allowed to work 24-hour shifts starting in July
+  >P=0.5  >N=0.125
+Panic as King Kong model catches fire at premiere
+  >P=0.625  >N=1.0
+Bartow, FL police officer on Administrative leave after Facebook comment referring to Obama as a 'gorilla'
+  >P=0.25  >N=0.0
+EPA chief Scott Pruitt says carbon dioxide is not a primary contributor to global warming
+  >P=0.75  >N=-0.125
+Police confused as to why woman hauled dead body 1,600 kilometres in suitcase
+  >P=0.0  >N=-0.73125
+‘Knees together’ judge resigns after judicial council suggests removal
+  >P=0.75  >N=0.0
+Marble flower pot revealed to be ancient Roman sarcophagus
+  >P=0.5  >N=0.125
+NASA finds lunar spacecraft that vanished 8 years ago
+  >P=0.0  >N=0.5
+Two Convicted of Conspiracy, Two Acquitted in Malheur Occupation Trial
+  >P=0.0  >N=-0.25
+School investigating social media post threatening to ‘exterminate' black students
+  >P=0.0  >N=-1.366071429
+DREAMer Daniela Vargas to be released, her attorney says
+  >P=0.5  >N=0.125
+Waymo Asks Court to Block Uber’s Self-Driving Car Project
+  >P=0.25  >N=-0.208333333
+South Pasadena High School was placed on lockdown Friday morning as authorities investigated a social media posting, officials said.
+  >P=0.775  >N=-0.125
+SEC rejects application to list Bitcoin ETF
+  >P=0.0  >N=0.0
+It’ll take $4.59 trillion investment in the Infrastructure of the U.S. to bring things up to a B, or adequate grade, by 2025, according to a new report by the American Society of Civil Engineers
+  >P=1.25  >N=-2.0
+8 women rescued from million dollar Georgia home in human trafficking case
+  >P=0.5  >N=0.0
+Listeria from raw milk cheese kills two in US: Six cases of listeria have been recorded in Connecticut and Vermont, where the deaths occurred, as well as New York and Florida.
+  >P=0.7166666669999999  >N=-0.5
+Fred Weintraub, Founder Of The Bitter End And 'Enter The Dragon' Producer, Dies At 88
+  >P=0.0  >N=-1.3275000000000001
+Man wrongly convicted gets $175,000 for 13 years in prison
+  >P=0.125  >N=0.25
+Attorney records Wilmington officer lying about state law during traffic stop
+  >P=0.625  >N=-0.25
+The $1-billion deal to sell Dick Clark Productions to China's Wanda Group is dead
+  >P=1.25  >N=-0.2
+Canada's highest court upholds ruling that Donald Trump did mislead investors
+  >P=0.625  >N=0.0
+Dutch government withdraws landing permission for Turkish foreign minister's aircraft
+  >P=0.25  >N=-0.375
+The Dutch are 'Nazi remnants' - Erdogan
+  >P=0.25  >N=0.125
+Plot to hit German shopping centre with multiple suicide bombers is foiled after police are tipped off about 'imminent attack'
+  >P=1.5  >N=-0.975
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+FIFA President: Trump Travel Ban could Prevent US Hosting World Cup 2026
+  >P=0.25  >N=-0.5
+The US state department has instructed New York City's chief medical examiner not to disclose the cause of death of Russia's ambassador to the United Nations
+  >P=1.625  >N=-1.0625
+FBI probes ‘odd’ link between Trump server and Russia’s Alfa Bank
+  >P=0.0  >N=0.0
+Mexican authorities have found at least 242 bodies in hidden graves in the eastern state of Veracruz that were discovered by mothers searching for their missing children
+  >P=1.0  >N=-1.90625
+Turkey warns Netherlands of 'severe sanctions'
+  >P=0.25  >N=0.5
+Earth's oceans are warming 13% faster than thought, and accelerating
+  >P=0.5  >N=-1.125
+ISIS kills "anyone who argues with them," says defector
+  >P=0.0  >N=0.5
+Government accused of obstructing the homeless from voting while spending millions on helping rich expats register: Election chiefs protest over rules which require the young and poor without a home to print out a form – while the ‘15-year rule’ for expats is axed.
+  >P=2.1875  >N=-1.527777778
+The world is facing its largest humanitarian crisis since 1945, the United Nation's humanitarian chief said as he pleaded for help to avoid "a catastrophe". More than 20 million people are facing starvation and famine in Yemen, Somalia, South Sudan and Nigeria.
+  >P=3.25  >N=1.25
+Oil giant Shell warns public faith in fossil fuel industry is 'disappearing' and calls for carbon taxes - "Shell is to increase its spending on renewable energy to $1bn a year"
+  >P=1.5833333330000001  >N=1.0
+White men an 'endangered species' on boards, Tesco chairman claims
+  >P=0.375  >N=0.0
+Jeremy Corbyn says a second Scottish independence referendum would be 'absolutely fine'
+  >P=0.5625  >N=0.125
+172,000 humans will be relocated to make way for giant national panda park in western China. Earlier this month, the central government gave its approval for the 27,134-square-kilometer park which will cover parts of Sichuan, Gansu and Shaanxi provinces.
+  >P=2.291666667  >N=0.25
+UN: World facing largest humanitarian crisis since 1945
+  >P=1.125  >N=0.5
+2 former JPMorgan execs face lifetime ban for hiring kids of China's elite
+  >P=0.75  >N=-0.46875
+Russia's Prime Minister Responds to Corruption Allegations by Banning Opposition Leader on Instagram
+  >P=1.0416666669999999  >N=-1.1875
+One in 10 firms bidding for Trump's Mexico wall project are Hispanic-owned
+  >P=0.5  >N=-0.25
+China to turn 800,000 hectares of marginal farmland into forests or grassland
+  >P=0.625  >N=0.0
+Colossal 3,000-year-old statue of Ramses II unearthed in Cairo
+  >P=0.0  >N=0.0
+Father releases pictures of dying daughter to raise awareness of bullying
+  >P=0.375  >N=-0.375
+Putin Met with New CEO of ExxonMobil Today
+  >P=0.125  >N=0.0
+Shell Is Abandoning Canada’s Oilsands: Says it’s focused on becoming a “company of the future”
+  >P=1.0  >N=0.0
+Pakistan's War on Atheism
+  >P=0.5  >N=-0.375
+Netherlands cancels flight permit for Turkish FM
+  >P=0.25  >N=-0.25
+UN privacy watchdog says "little or no evidence" that mass surveillance works
+  >P=0.25  >N=-0.983333333
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Research into cannabis dementia treatment 'held up by drug laws'. Cannabinoids can help remove dangerous dementia proteins from brain cells, researchers say.
+  >P=1.6875  >N=-1.625
+Syria: At least 40 killed more than 120 others wounded in dual Damascus bombing targeting Shia Iraqis
+  >P=0.25  >N=-0.375
+Trump Trade Nominee Lighthizer Needs Waiver Over Work for China and Brazil
+  >P=1.4375  >N=0.0
+'Out of sight, out of mind': Humanitarian crisis worsens in Ukraine as world focuses on Syria, Iraq
+  >P=1.375  >N=-0.5
+India more than doubles maternity leave to 26 weeks
+  >P=0.75  >N=0.0
+Democrats question Trump 'conflict of interest' with Deutsche Bank investigation
+  >P=0.458333333  >N=0.0
+We won’t sell Saudis our land: Maldivian opposition
+  >P=0.0  >N=-0.4375
+Carbon dioxide levels in atmosphere hit new high
+  >P=0.65  >N=0.25
+Turkey-PKK conflict: UN investigators found some 2,000 people were killed in 18 months of fighting, and accuse Turkish forces of serious human rights violations.
+  >P=2.0  >N=0.333333333
+The Netherlands blocks Turkish FM’s plane from landing in Amsterdam, Erdogan livid
+  >P=0.0  >N=-0.208333333
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+Hounded and ridiculed for complaining of rape - Rakhines in Myanmar
+  >P=0.25  >N=-0.75
+Assad: Trump shows nothing 'concrete' in ISIS effort; calls foreign troops 'invaders'
+  >P=0.5  >N=-0.25
+Indonesian Buddhists caned under sharia for first time
+  >P=0.5  >N=0.0
+One in three terror suspects in UK now white amid rise in far-right extremism
+  >P=0.5  >N=0.5
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+President of South Korea Impeached.
+  >P=0.0  >N=0.0
+India’s first lunar probe found orbiting moon eight years after losing radio contact: NASA finds the Chandrayaan spacecraft 200 kilometres above the lunar surface
+  >P=0.625  >N=0.25
+Canadian TD bank forcing employees to break the law due to sales pressure
+  >P=1.1875  >N=0.25
+Iran accuses Israel of hiring assassins to take out nuclear scientists
+  >P=0.0  >N=-0.375
+Turkish minister to go to Rotterdam by land after foreign minister blocked: report
+  >P=0.0  >N=-0.875
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+Volkswagen pleads guilty to evading US government diesel emissions rules concerning 600,000 vehicles
+  >P=0.375  >N=0.625
+YouTube has chosen Jeddah, Saudi Arabia for its first ever FanFest event in the Middle East on Friday, as Saudi Arabia is home to the biggest number of YouTube consumers per capita in the world
+  >P=1.0  >N=-0.75
+6 million people are at risk of starving in East Africa, and climate change deserves part of the blame
+  >P=1.0  >N=0.5
+The U.K.’s post-Brexit trade deal with the European Union could take more than a decade to conclude
+  >P=0.25  >N=0.0
+Leaked emails reveal Nigel Farage's long-standing links to Julian Assange
+  >P=0.0  >N=0.0
+Fukushima disaster evacuees told to return to abandoned homes: People who fled after March 2011 nuclear meltdown face losing housing subsidies if they do not go back, despite radiation fears
+  >P=0.0  >N=-0.9375
+Bone by bone, Iraqis unearth a mass grave: 'We will be out there digging until no one is left'
+  >P=0.75  >N=-1.3958333330000001
+World facing greatest humanitarian crisis since 1945
+  >P=0.875  >N=0.375
+A film about a slain Putin critic gets a screening — just off Red Square
+  >P=1.0357142860000002  >N=-0.9125
+Two explosions killed at least 28 people in the old city of Damascus on Saturday, a monitoring group said, in one of the bloodiest attacks yet seen in the heart of the Syrian capital.
+  >P=1.125  >N=0.59375
+Chinese Embassy demands apology from German T-shirt retailer with slogans it says are insulting to China. T-shirts with slogans like "Save a dog, Eat a Chinese," ''Save a shark, Eat a Chinese," and an image of two faux Chinese alphabets having sex, with the caption "Now I understand Chinese."
+  >P=2.25  >N=-2.833333333
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+Family of technician slain by factory robot sues everyone involved
+  >P=0.0  >N=-0.75
+Robert Mugabe last week splurged more than US$1 million when he chartered an ultra-luxurious Boeing 767-200 Extended Range aircraft to Singapore and Ghana
+  >P=0.0  >N=0.25
+World faces worst humanitarian crisis since 1945 - Twenty million people face starvation without an immediate injection of funds in Yemen, South Sudan, Somalia and Nigeria
+  >P=1.0  >N=0.75
+Czech President pokes fun at media, declaring himself ‘agent of Putin, Trump, China & Israel’
+  >P=0.875  >N=0.125
+Turkish president Erdogan calls Netherlands 'Nazi remnants, fascists'
+  >P=0.25  >N=0.0
+Neanderthals may have medicated with penicillin and painkillers
+  >P=0.0  >N=-0.125
+UN says world faces largest humanitarian crisis since 1945
+  >P=1.125  >N=0.5
+Saudi women hope green light to hit the gym will improve lives
+  >P=0.75  >N=-0.208333333
+Germany terror threat: Fears 'several suicide bombers' will launch deadly attack today force closure of huge shopping centre The Limbacher Platz shopping centre in Essen has been surrounded by hundreds of armed police over fears of an imminent attack
+  >P=1.8125  >N=-0.02083333300000001
+White House: Flynn’s Foreign Lobbying Didn’t Raise Red Flags
+  >P=0.0  >N=-0.9375
+German shopping mall shut on police fears of an attack
+  >P=0.5  >N=0.625
+China official says two-child policy showing 'notable results'
+  >P=0.5  >N=0.0
+Senators urge Don Meredith to resign after 'disgusting' relationship with teenage girl
+  >P=0.25  >N=0.25
+The Hague Effect: Russia to Face Charges of Terrorism in Ukraine
+  >P=0.0  >N=-0.25
+Britain could rejoin EU after Brexit, European Commission chief Jean-Claude Juncker says
+  >P=0.75  >N=0.0
+World faces worst humanitarian crisis since WWII – UN
+  >P=0.875  >N=1.0
+Radioactive wild boars have taken over two Japanese towns
+  >P=0.8125  >N=0.0
+Erdogan calls The Netherlands; Fascists and leftovers of Nazi-Germany.
+  >P=0.25  >N=0.0
+A World Bank arbitration panel has determined that Venezuela will not have to pay $1.4 billion to Exxon Mobil Corp. for confiscating company assets during a wave of nationalizations
+  >P=1.625  >N=-1.75
+‘Veiled’ attack foiled: Swiss parliamentarians reject bill to ban burqas
+  >P=0.0  >N=-1.125
+BlackBerry claims QNX automotive software is safe from CIA
+  >P=0.541666667  >N=0.125
+Muhammad Ali Jr questioned at Washington DC airport, day after testifying about similar incident
+  >P=1.75  >N=0.25
+Armed far-left Maoist Insurgents Kill 11 Indian Armed Police in Chhattisgarh State
+  >P=0.25  >N=0.0
+Netherlands cancels landing permission for Turkish minister
+  >P=0.25  >N=0.125
+Trump to Palestinian leader: It’s time for a peace deal
+  >P=0.625  >N=0.0
+China Vows 'Strike' Against Dalai Lama as Tibetans Mark Uprising
+  >P=0.625  >N=0.125
+The leader of the anti-immigrant Northern League party is vowing to go ahead with his first major rally in Naples despite planned protests from radicals and leftists intent on keeping him out of the southern Italy that the League has long disparaged
+  >P=2.0  >N=-0.8125
+UN report: Turkey guilty of 'serious' abuses in Kurdish region
+  >P=0.25  >N=1.0
+15 dead fighting in Yemen
+  >P=0.25  >N=-0.325
+Trump Invites Palestinian Leader To White House To Discuss Peace With Israel
+  >P=0.125  >N=0.0
+Police were called when a protest erupted at a school in North Yorkshire after students were limited to two toilet breaks a day.
+  >P=0.75  >N=-0.125
+Israel's Counter-Terrorism Bureau fears ISIS chemical attacks in Europe in the coming months. — The bureau intends to issue a travel advisory to the tens of thousands of Israelis who are planning to vacation in Europe over the upcoming Passover holiday
+  >P=1.1875  >N=0.75
+Mosul IS battle: Mass grave found at Badoush prison, Iraqi forces say
+  >P=0.0  >N=-0.9375
+Manipur election results 2017: Hung verdict in Manipur;Congress bags 28 seats, BJP gets 21
+  >P=0.625  >N=0.0
+Worst attack in two years, Maoists kill 12 CRPF men in Sukma
+  >P=0.0  >N=1.25
+Iraq: At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+Satyarthis Nobel citation recovered from jungles
+  >P=0.5  >N=0.125
+Preet Bharara Among 46 US Attorneys Asked To Quit By Trump Administration
+  >P=0.25  >N=-1.0
+World Facing 'Largest Humanitarian Crisis' Since 1945: United Nations
+  >P=0.875  >N=-0.125
+Okram Ibobi Singh proves he's the 'constant factor' in strife-torn Manipur
+  >P=0.0  >N=0.0
+BJP will win in 2019 and the way for reforms will be eased: Lord Meghnad Desai
+  >P=1.0  >N=-0.5
+Our focus will be development, not Azam Khan's buffaloes: UP BJP chief
+  >P=1.0  >N=-0.625
+Punjab election highlights: Mixed luck for sitting and former MPs, their sons
+  >P=0.5  >N=-0.65625
+Turkish minister heads to France amid overseas campaigning row
+  >P=0.0  >N=0.0
+Sharif asks clerics to counter terror using mosque's pulpit
+  >P=0.25  >N=0.75
+Opponents of South Korea's ousted Park rally to call for her arrest | Reuters
+  >P=0.25  >N=-0.375
+Travel industry worries about the second Trump travel ban
+  >P=0.625  >N=0.0
+BJP's Big Win In Uttar Pradesh May Lift Sensex To New All-Time Highs
+  >P=0.75  >N=0.125
+Congress takes heart from victory in Punjab
+  >P=0.375  >N=0.125
+Decoding Air India mess: Understating losses, bleeding international ops, crew mismanagement
+  >P=0.0  >N=-0.625
+BrahMos now deadlier, Army and Navy to upgrade existing missiles
+  >P=0.208333333  >N=-0.458333333
+Moto Z (2017) Image Leaks With New Fingerprint Sensor; Snapdragon 835 SoC Expected
+  >P=0.0  >N=-0.75
+Lenovo Vibe B budget 4G smartphone reportedly launched at Rs. 5799
+  >P=0.0  >N=0.125
+WhatsApp Text Status May Return, RCom's 'Joy of Holi', Paytm 2 Percent Fee Revoked, and More: Your 360 Daily
+  >P=0.375  >N=-0.5
+Facebook takes on Google Trips, launches City Guides
+  >P=0.25  >N=0.0
+Badrinath ki Dulhania movie review: Alia Bhatt, Varun Dhawan film is the perfect Holi watch
+  >P=1.3333333330000001  >N=0.125
+Baahubali 2 New Poster: Katappa, Baahubali And The Cliffhanging Moment
+  >P=0.0  >N=0.0
+Rajinikanth's Daughter Aishwaryaa Dhanush's Bharatanatyam Performance At UN Criticized
+  >P=0.125  >N=0.0
+All You Need To Know About Alia Bhatt, Kareena Kapoor's Upcoming 'Special' Performance
+  >P=1.0625  >N=0.25
+India vs Australia: Virat Kohli is Frustrated, Says Mitchell Johnson
+  >P=0.25  >N=-0.375
+I-League 2017: Bengaluru FC play out barren draw with Mohun Bagan, leaders Aizawl FC drop crucial points
+  >P=0.40625  >N=-0.958333333
+Manchester City Cruise Into FA Cup Semi-Finals
+  >P=0.0  >N=0.0
+CoA member Diana Edulji rubbishes reports of Rahul Dravid replacing Anil Kumble as coach
+  >P=0.0  >N=0.5
+Lost in space: How NASA found a missing Indian spacecraft
+  >P=0.0  >N=-1.0555555559999998
+Australia sees second year of Barrier Reef bleaching
+  >P=0.0  >N=0.0
+Dawn data reveals the age of mysterious bright spot on dwarf planet Ceres
+  >P=0.375  >N=-0.59375
+Europa Clipper: Formal Name For NASA's Upcoming Mission To Jupiter Moon
+  >P=0.0  >N=0.25
+Fish eyes may hold key to blindness cure: study
+  >P=0.875  >N=-0.125
+Our brain is ready for action even at rest: study
+  >P=1.3125  >N=0.25
+Trachoma: 5 Things You Didn't Know About This Eye Infection That Cause Blindness
+  >P=0.75  >N=-1.0
+Weight-loss surgery performed on world's heaviest woman  >P=0.375  >N=-0.375
+England v Scotland: Six Nations – live!
+  >P=0.321428571  >N=0.0
+Arsenal v Lincoln City: FA Cup quarter-final – live!
+  >P=0.321428571  >N=0.0
+Under pressure from tech companies, ‘Fair Repair’ bill stalls in Nebraska
+  >P=0.0  >N=0.0
+Bournemouth 3-2 West Ham, Hull 2-1 Swansea and more: clockwatch – as it happened
+  >P=0.0  >N=0.0
+Aitor Karanka praises Middlesbrough’s ‘fighters’ after loss to Manchester City
+  >P=0.0  >N=-0.5
+Romelu Lukaku sets Everton record in three-goal romp over West Brom
+  >P=0.65625  >N=0.0
+Bournemouth’s Joshua King hits hat-trick in thriller with West Ham
+  >P=0.0  >N=0.0
+Hull survival prospects boosted as Oumar Niasse double sees off Swansea
+  >P=0.5  >N=-0.22499999999999998
+Rangers head into daunting Old Firm match with shaky hands on the tiller
+  >P=1.25  >N=-1.0
+Italy 18-40 France: Six Nations – as it happened
+  >P=0.0  >N=0.0
+Song to Song review – Terrence Malick returns to form with lyrical love triangle
+  >P=1.075  >N=0.0
+At Pussy Riot performance on Putin, everyone sees Trump
+  >P=0.375  >N=-0.25
+Robots delivering pizza and house viewing by VR: is 5G really the future?
+  >P=0.71875  >N=-0.625
+Being a global free-trading nation isn’t as easy as it looks
+  >P=0.625  >N=0.75
+Brexit and Bochum haunt Vauxhall in the new battle for Ellesmere Port
+  >P=0.375  >N=-0.25
+After Brexit, Israel senses a chance to boost trade with UK
+  >P=0.21875  >N=0.125
+Shell’s sale of dirty tar sands assets cleans up debt and spruces image
+  >P=1.0  >N=-0.333333333
+Jeremy Corbyn 'absolutely fine' with second Scottish vote
+  >P=0.4375  >N=0.0
+Western Australian election: Labor wins in 'savage result' for Liberals – as it happened
+  >P=0.5  >N=0.0
+Western Australian election: Mark McGowan declares victory for Labor after record-breaking swings
+  >P=1.375  >N=0.125
+Donald Trump's first 100 days as president – daily updates
+  >P=0.0  >N=-0.5
+Manchester City and David Silva catch Middlesbrough cold to reach semi
+  >P=0.0  >N=-0.336538462
+Philip Hammond gave us a budget for tax avoiders and giant firms | John McDonnell
+  >P=0.375  >N=0.125
+Middlesbrough 0-2 Manchester City: FA Cup quarter-final – as it happened
+  >P=0.0  >N=0.0
+From Brecht to Lorca, the playwrights who became theatre's freedom fighters
+  >P=0.0  >N=0.0
+Nathan Lane: ‘I have played a lot of morally questionable people
+  >P=0.6875  >N=-1.125
+Prison psychiatrists warn care is ‘at breaking point’
+  >P=0.5  >N=0.0
+Democrats question Trump 'conflict of interest' with Deutsche Bank investigation
+  >P=0.458333333  >N=0.0
+Call to boycott Tesco over 'endangered' white men claim
+  >P=0.6875  >N=-0.125
+South Korea expert interrupted by children on BBC World News goes viral
+  >P=1.25  >N=-1.25
+Gaggle of Cambridge University students criticise geese-cull plans
+  >P=0.0  >N=0.25
+Better than Buffy? Spare a thought for the Vampire Diaries
+  >P=0.625  >N=-0.625
+Conservatives cheer EPA cuts that activists fear 'will be borne by lungs'
+  >P=0.75  >N=0.0
+Logan Tomkins escapes shadow of elder brothers in new life at Salford
+  >P=0.6875  >N=0.0
+SXSW panel opens window into dangers of facial recognition software
+  >P=0.375  >N=1.0
+Graham Swift: ‘As a novelist, I’m in for the long haul’
+  >P=0.0  >N=0.0
+Stockpiles of nuclear weapons around the world – in data
+  >P=0.25  >N=-0.5
+Ask Alys Fowler: can I train my cider gum from a pot plant into a tree?
+  >P=0.5  >N=-0.583333333
+Jacob Polley: ‘I’m a fool as a writer – you have to take risks’
+  >P=0.5625  >N=-0.5
+Death of truth: when propaganda and 'alternative facts' first gripped the world
+  >P=0.75  >N=-0.8125
+This week’s best radio: Jarvis Cocker heads to Morocco's mountains
+  >P=0.5625  >N=0.0
+Alys Fowler: thinking of a green wall? Give climbing plants a go instead
+  >P=0.25  >N=-1.2083333330000001
+Ivanka Trump: the president's moral compass or just another mouthpiece?
+  >P=1.1607142860000002  >N=0.25
+Geri's 90s: Ginger Spice's nostalgia show will drive you to distraction
+  >P=0.71875  >N=-0.375
+England need to make their familiar strengths pay against Scotland | Robert Kitson
+  >P=1.3229166669999999  >N=0.25
+One in 10 firms bidding for Trump's Mexico wall project are Hispanic-owned
+  >P=0.5  >N=-0.25
+Four decades after the Battle of the Sexes, the fight for equality goes on
+  >P=0.25  >N=-0.75
+‘All my friends had some nightmare experience trying to get pregnant. My story took the cake’
+  >P=0.875  >N=-0.875
+Romeo and Juliet review – hot, hormonal inner-city tragedy
+  >P=0.25  >N=-0.5
+The Vicarage, Holmes Chapel, Cheshire: hotel review
+  >P=0.125  >N=0.0
+Drug addiction isn't going away so why are treatment centres being slashed?
+  >P=1.125  >N=0.166666667
+Every Hidden Thing by Kenneth Oppel review – heat, dust and dinosaur bones
+  >P=0.125  >N=-1.28125
+Technology could redefine doctor-patient relationship | Richard Vize
+  >P=0.0  >N=0.0
+Four infinitely adaptable recipes for leftover food | Food waste recipes
+  >P=0.375  >N=-0.5
+Enlightened Princesses review – royals who shaped modern Britain
+  >P=0.21875  >N=0.25
+Want a different take on Trump? Try Ivanka, who gives great hair and better Instagram
+  >P=2.104166667  >N=0.125
+What I’m really thinking: the gay Christian
+  >P=1.1770833330000001  >N=0
+Letter to my younger self: you'll be called a little girl with an idea
+  >P=0.625  >N=-0.4625
+Secret Teacher: buying supplies my school can't afford costs me a fortune
+  >P=0.25  >N=0.5
+Greek activists target sales of homes seized over bad debts
+  >P=0.4375  >N=-1.433823529
+Replacing EU hospitality workers after Brexit 'will take 10 years'
+  >P=0.25  >N=0.0
+Modern tribes: the boot camp bore
+  >P=0.0  >N=0.166666667
+Writers unite! The return of the protest novel
+  >P=0.375  >N=-0.25
+Can high-intensity interval training delay the ageing process?
+  >P=1.375  >N=-0.25
+From Seaspeak to Singlish: celebrating other kinds of English
+  >P=0.0  >N=-0.25
+Weekend reading: Budget, Buffy and BBC4
+  >P=0.0  >N=0.0
+Clive James: ‘I couldn't believe how non-weird Sam Neill was’
+  >P=0.125  >N=0.0
+Is this the end of Britain as a place of sanctuary for refugees? | Martin Plaut
+  >P=0.375  >N=0.0
+Germany's rightwing AfD wants to jettison postwar safeguards
+  >P=0.375  >N=0.125
+The 1930s were humanity's darkest, bloodiest hour. Are you paying attention?
+  >P=1.25  >N=0.625
+Beauty: a big hello to a gamechanger of a dry mask
+  >P=0.5  >N=-0.5625
+White men 'endangered species' in UK boardrooms, says Tesco chairman
+  >P=0.0  >N=0.0
+Got it covered: fashion wakes up to Muslim women’s style
+  >P=0.875  >N=0.0
+Self-employed? See if you'll pay more in national insurance
+  >P=0.541666667  >N=0.0
+What’s the best way to teach my daughter to drive?
+  >P=1.28125  >N=0.0
+Sixty years ago, abuse hid in plain sight. But we still closed our eyes | Ian Jack
+  >P=0.625  >N=-0.4625
+Isas back in favour after tax allowance hike
+  >P=0.75  >N=-0.25
+Budget 2017: tax on dividends will be a raid on 2 million small investors
+  >P=1.0  >N=-0.125
+OmNICshambles: how it all went wrong for 'spreadsheet Phil' Hammond | Heather Stewart and Larry Elliott
+  >P=0.3125  >N=-0.759615385
+My workout: ‘Going to circus school is like being a child again’
+  >P=0.75  >N=-0.25
+Now we should go after companies that force workers to be self-employed
+  >P=0.625  >N=0.0
+Walking with dinosaurs: fossil hunting on the North Yorkshire coast
+  >P=0.75  >N=-0.25
+Why are Britain’s new homes built so badly?
+  >P=0.875  >N=-0.319444444
+Simon Amstell: 'I thought: ‘I’ll never be happy''
+  >P=1.125  >N=-1.25
+Which painter had a pet pug called Trump? The Weekend quiz
+  >P=0.75  >N=0.0
+‘Think of it as an utterly invaluable learning experience’ – our work expert responds
+  >P=1.4375  >N=0.0
+The Falklands war hero fighting for his state pension
+  >P=0.75  >N=-0.375
+Has TalkTalk’s security been breached yet again?
+  >P=0.75  >N=-0.53125
+In my version of the mother-in-law joke, the punchline is our happiness together
+  >P=1.0  >N=-0.625
+Why photos of stillborn babies matter
+  >P=0.0  >N=-0.5
+People's History of Pop review – 'We’re on the cusp of something terrifying!'
+  >P=0.375  >N=-0.625
+Lynne Reid Banks: raising a family on a kibbutz was everything my mother detested
+  >P=0.5  >N=0.875
+How to make a feast without packaged food | A taste of home
+  >P=0.479166667  >N=-0.25
+Why I love… musician Sampha
+  >P=0  >N=0
+Tim Dowling: Touring is taking its toll. Then my wife tells me we're moving house
+  >P=1.375  >N=0.125
+Saturday's best TV: Geri's 1990s; Dogs Behaving Badly
+  >P=0.5625  >N=-0.444444444
+Blind date: ‘We talked about having children’
+  >P=0.75  >N=-0.375
+Panic on the machair as a predator approaches
+  >P=0.5  >N=0.75
+China: Xi Jinping wants ‘Great Wall of Steel’ in violence-hit Xinjiang
+  >P=0.75  >N=-0.375
+Daniel Morgan: how a 30-year-old murder still haunts Britain's powerful
+  >P=0.28125  >N=0.5
+Justin Bieber review – searching for a sense of purpose
+  >P=0.75  >N=-0.25
+Reza Aslan outrages Hindus by eating human brains in CNN documentary
+  >P=0.125  >N=-0.375
+Dreamer detained by Ice agents in Mississippi to be released
+  >P=1.0  >N=-0.625
+Talking Horses: Saturday's best bets for Sandown and Wolverhampton
+  >P=0.5625  >N=0.0
+Ireland’s Joe Schmidt concedes Six Nations title after defeat in Wales
+  >P=0.0  >N=0.25
+Prize crossword No 27,142
+  >P=0.5  >N=-0.333333333
+McLaren left under pressure before F1 season with car failure in Spain
+  >P=0.0  >N=0.0
