@@ -29,5 +29,5 @@ def startScrapping():
         with open(file, "w") as f:
             f.write("\n".join(news))
 
-        return file
+    return file
 

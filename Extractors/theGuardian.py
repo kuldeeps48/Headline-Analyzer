@@ -71,4 +71,4 @@ while True:
 
 with open(file, "w") as tf:
     for headline in headlines:
-        tf.write(headline)
+        tf.write(headline + "\n")

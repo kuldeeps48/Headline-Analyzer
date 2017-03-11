@@ -1,14 +1,11 @@
 # -*- coding: utf-8 -*-
-
+import images.mainuiImages # images for mainUI
 from PyQt4 import QtCore, QtGui
-from PyQt4.QtCore import  *
+from PyQt4.QtCore import *
 from PyQt4.QtGui import *
 import sys, time
 
-import posTagging
-import images.mainuiImages # images for mainUI
-import Extractors.googleNews
-from Extractors import googleNews
+import extractorRunner
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -25,22 +22,13 @@ except AttributeError:
         return QtGui.QApplication.translate(context, text, disambig)
 
 class Ui_window(object):
-    
-    def runScrapper(self, source):
-        if source == "google news":
-            print("Starting Google News Extraction")
-            fileToAnalyze = googleNews.startScrapping()
-            print("Finished extraction")
-            print("Calling Analyzer on file ", fileToAnalyze)
-            posTagging.analyze(fileToAnalyze)
 
-        else:
-            pass
-
-
-    def start_call(self):
+    def start_call(self): # function to call after entering custom headline
         headline = self.lineEdit.text()
-        print("\nDisplaying entered headline...\n")
+        file = "./data/custom.txt"
+        with open(file, "w") as f:
+            f.write(headline + "\n")
+        # call analyzer and display output
         print(headline)
 
 
@@ -56,7 +44,7 @@ class Ui_window(object):
         icon.addPixmap(QtGui.QPixmap(_fromUtf8(":/images/Project/Images/icon.ico")), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         window.setWindowIcon(icon)
         window.setStyleSheet(_fromUtf8("background-image: url(:/images/Project/Images/background-images.jpg);\n"
-""))
+""))    # ```````````````````````````````````````````````````
         self.pushButton = QtGui.QPushButton(window)
         self.pushButton.setGeometry(QtCore.QRect(700, 60, 115, 115))
         self.pushButton.setStyleSheet(_fromUtf8("background-image: url(:/images/Project/Images/TOI.png);\n"
@@ -64,8 +52,8 @@ class Ui_window(object):
         self.pushButton.setText(_fromUtf8(""))
         self.pushButton.setObjectName(_fromUtf8("pushButton"))
         #######Button Event########
-        self.pushButton.clicked.connect(self.runScrapper)
-
+        self.pushButton.clicked.connect(lambda: extractorRunner.runScrapper("times of india"))
+        # ````````````````````````````````````````````````````
         self.pushButton_2 = QtGui.QPushButton(window)
         self.pushButton_2.setGeometry(QtCore.QRect(210, 60, 182, 77))
         self.pushButton_2.setStyleSheet(_fromUtf8("background-image: url(:/images/Project/Images/thehindu.png);\n"
@@ -73,8 +61,8 @@ class Ui_window(object):
         self.pushButton_2.setText(_fromUtf8(""))
         self.pushButton_2.setObjectName(_fromUtf8("pushButton_2"))
         #######Button Event########
-        self.pushButton_2.clicked.connect(self.runScrapper)
-
+        self.pushButton_2.clicked.connect(lambda: extractorRunner.runScrapper("hindu"))
+        # ````````````````````````````````````````````````````
         self.pushButton_3 = QtGui.QPushButton(window)
         self.pushButton_3.setGeometry(QtCore.QRect(450, 80, 199, 35))
         self.pushButton_3.setStyleSheet(_fromUtf8("\n"
@@ -83,8 +71,8 @@ class Ui_window(object):
         self.pushButton_3.setText(_fromUtf8(""))
         self.pushButton_3.setObjectName(_fromUtf8("pushButton_3"))
         #######Button Event########
-        self.pushButton_3.clicked.connect(self.runScrapper)
-
+        self.pushButton_3.clicked.connect(lambda: extractorRunner.runScrapper("guardian"))
+        #```````````````````````````````````````````````````````
         self.pushButton_4 = QtGui.QPushButton(window)
         self.pushButton_4.setGeometry(QtCore.QRect(220, 180, 152, 74))
         self.pushButton_4.setStyleSheet(_fromUtf8("background-image: url(:/images/Project/Images/NYT.png);\n"
@@ -92,8 +80,8 @@ class Ui_window(object):
         self.pushButton_4.setText(_fromUtf8(""))
         self.pushButton_4.setObjectName(_fromUtf8("pushButton_4"))
         #######Button Event########
-        self.pushButton_4.clicked.connect(self.runScrapper)
-
+        self.pushButton_4.clicked.connect(lambda: extractorRunner.runScrapper("new york times"))
+        #````````````````````````````````````````````````````````
         self.pushButton_5 = QtGui.QPushButton(window)
         self.pushButton_5.setGeometry(QtCore.QRect(40, 180, 121, 111))
         self.pushButton_5.setStyleSheet(_fromUtf8("background-image: url(:/images/Project/Images/Googlenews.png);\n"
@@ -101,8 +89,8 @@ class Ui_window(object):
         self.pushButton_5.setText(_fromUtf8(""))
         self.pushButton_5.setObjectName(_fromUtf8("pushButton_5"))
         #######Button Event########
-        self.pushButton_5.clicked.connect(lambda : self.runScrapper("google news"))
-
+        self.pushButton_5.clicked.connect(lambda: extractorRunner.runScrapper("google news"))
+        # ````````````````````````````````````````````````````
         self.pushButton_6 = QtGui.QPushButton(window)
         self.pushButton_6.setGeometry(QtCore.QRect(460, 300, 169, 81))
         self.pushButton_6.setStyleSheet(_fromUtf8("background-image: url(:/images/Project/Images/cnn-m2.png);\n"
@@ -110,8 +98,8 @@ class Ui_window(object):
         self.pushButton_6.setText(_fromUtf8(""))
         self.pushButton_6.setObjectName(_fromUtf8("pushButton_6"))
         #######Button Event########
-        self.pushButton_6.clicked.connect(self.runScrapper)
-
+        self.pushButton_6.clicked.connect(lambda: extractorRunner.runScrapper("CNN"))
+        # ``````````````````````````````````````````````````````````````
         self.pushButton_7 = QtGui.QPushButton(window)
         self.pushButton_7.setGeometry(QtCore.QRect(450, 180, 201, 68))
         self.pushButton_7.setStyleSheet(_fromUtf8("background-image: url(:/images/Project/Images/reddit.png);\n"
@@ -119,8 +107,8 @@ class Ui_window(object):
         self.pushButton_7.setText(_fromUtf8(""))
         self.pushButton_7.setObjectName(_fromUtf8("pushButton_7"))
         #######Button Event########
-        self.pushButton_7.clicked.connect(self.runScrapper)
-
+        self.pushButton_7.clicked.connect(lambda: extractorRunner.runScrapper("reddit news"))
+        # ``````````````````````````````````````````````````````````
         self.pushButton_8 = QtGui.QPushButton(window)
         self.pushButton_8.setGeometry(QtCore.QRect(700, 220, 112, 105))
         self.pushButton_8.setStyleSheet(_fromUtf8("background-image: url(:/images/Project/Images/newsicon.png);\n"
@@ -128,8 +116,8 @@ class Ui_window(object):
         self.pushButton_8.setText(_fromUtf8(""))
         self.pushButton_8.setObjectName(_fromUtf8("pushButton_8"))
         #######Button Event########
-        self.pushButton_8.clicked.connect(self.runScrapper)
-
+        self.pushButton_8.clicked.connect(lambda: extractorRunner.runScrapper("reddit world news"))
+        # ````````````````````````````````````````````````````````````````
         self.pushButton_9 = QtGui.QPushButton(window)
         self.pushButton_9.setGeometry(QtCore.QRect(140, 330, 242, 40))
         self.pushButton_9.setStyleSheet(_fromUtf8("background-image: url(:/images/Project/Images/thetelegraph.png);\n"
@@ -137,8 +125,8 @@ class Ui_window(object):
         self.pushButton_9.setText(_fromUtf8(""))
         self.pushButton_9.setObjectName(_fromUtf8("pushButton_9"))
         #######Button Event########
-        self.pushButton_9.clicked.connect(self.runScrapper)
-
+        self.pushButton_9.clicked.connect(lambda: extractorRunner.runScrapper("telegraph"))
+        # ````````````````````````````````````````````````````````````````
         self.pushButton_10 = QtGui.QPushButton(window)
         self.pushButton_10.setGeometry(QtCore.QRect(30, 50, 121, 91))
         self.pushButton_10.setStyleSheet(_fromUtf8("background-image: url(:/images/Project/Images/bbc.png);\n"
@@ -146,7 +134,7 @@ class Ui_window(object):
         self.pushButton_10.setText(_fromUtf8(""))
         self.pushButton_10.setObjectName(_fromUtf8("pushButton_10"))
         #######Button Event########
-        self.pushButton_10.clicked.connect(self.runScrapper)
+        self.pushButton_10.clicked.connect(lambda: extractorRunner.runScrapper("bbc"))
 
 
         self.line = QtGui.QFrame(window)
@@ -181,7 +169,7 @@ class Ui_window(object):
         self.pushButton_11.setText(_fromUtf8(""))
         self.pushButton_11.setObjectName(_fromUtf8("pushButton_11"))
         #######Button Event########
-        self.pushButton_11.clicked.connect(self.start_call)
+        self.pushButton_11.clicked.connect(lambda : self.start_call())
 
         self.retranslateUi(window)
         QtCore.QMetaObject.connectSlotsByName(window)
