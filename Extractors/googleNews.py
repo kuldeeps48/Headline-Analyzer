@@ -3,7 +3,7 @@ from lxml import html
 import requests
 import datetime
 
-def startScrapping():
+def googleScrapper():
 
     today = str(datetime.date.today())
 

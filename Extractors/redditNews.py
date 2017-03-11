@@ -4,10 +4,10 @@ import prawcore
 import datetime
 
 
-def startScrapping():
-    reddit = praw.Reddit(client_id = 'rDXE3HaRccdKYw',
-                         client_secret = 'ZbYtPc8f3vLfFWqdF_NVsi98ZY4',
-                         user_agent = 'Headline Extractor (by /u/aPerson_)')
+def redditScrapper():
+    reddit = praw.Reddit(client_id='rDXE3HaRccdKYw',
+                         client_secret='ZbYtPc8f3vLfFWqdF_NVsi98ZY4',
+                         user_agent='Headline Extractor (by /u/aPerson_)')
 
     today = str(datetime.date.today())
 

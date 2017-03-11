@@ -1,11 +1,20 @@
 import posTagging
 
-from Extractors.googleNews import startScrapping
+from Extractors.googleNews import googleScrapper
+from Extractors.redditNews import redditScrapper
+from Extractors.redditWorldNews import redditWorldScrapper
+from Extractors.theGuardian import guardianScrapper
+
+
+source_functions = {"google news":googleScrapper(), "reddit news":redditScrapper(), "reddit world news":redditWorldScrapper(),
+                    "guardian":guardianScrapper()}
 
 def runScrapper(source):  # Button press function
-    if source == "google news":
-        print("Starting Google News Extraction")
-        fileToAnalyze = startScrapping()
+    if source in source_functions:
+        print("Starting ", source  ," Extraction")
+        fileToAnalyze = source_functions[source]
+        if source in ("reddit news", "reddit world news"):
+            fileToAnalyze = fileToAnalyze.name
         print("Finished extraction")
         print("Calling Analyzer on file ", fileToAnalyze)
         posTagging.analyze(fileToAnalyze)
