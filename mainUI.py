@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 
 from PyQt4 import QtCore, QtGui
-import sys
+from PyQt4.QtCore import  *
+from PyQt4.QtGui import *
+import sys, time
 sys.path.insert(0, './images')
 import mainuiImages
 
@@ -134,10 +136,25 @@ class Ui_window(object):
         self.lineEdit.setPlaceholderText(_translate("window", "    Choose from above, or enter your headline here", None))
 
 
+# For splash screen ~~
+def drawSplash():
+    # Create and display the splash screen
+    splash_pix = QPixmap('images\splash.jpg')
+    splash = QSplashScreen(splash_pix, Qt.WindowStaysOnTopHint)
+    splash.setMask(splash_pix.mask())
+    splash.show()
+    # app.processEvents()
+
+    # Simulate something that takes time
+    time.sleep(2)
+
+
 
 def startUI():
-    import sys
+
     app = QtGui.QApplication(sys.argv)
+    drawSplash() # Splash screen for 2 seconds
+
     window = QtGui.QDialog()
     ui = Ui_window()
     ui.setupUi(window)
