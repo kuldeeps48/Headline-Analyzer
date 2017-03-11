@@ -4,12 +4,8 @@ from PyQt4 import QtCore, QtGui
 from PyQt4.QtCore import  *
 from PyQt4.QtGui import *
 import sys, time
-import os
-from lxml import html
-import requests
-import datetime
 
-
+import posTagging
 import images.mainuiImages # images for mainUI
 import Extractors.googleNews
 from Extractors import googleNews
@@ -33,8 +29,11 @@ class Ui_window(object):
     def runScrapper(self, source):
         if source == "google news":
             print("Starting Google News Extraction")
-            googleNews.startScrapping()
+            fileToAnalyze = googleNews.startScrapping()
             print("Finished extraction")
+            print("Calling Analyzer on file ", fileToAnalyze)
+            posTagging.analyze(fileToAnalyze)
+
         else:
             pass
 

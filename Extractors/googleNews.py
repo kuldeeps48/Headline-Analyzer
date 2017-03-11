@@ -8,8 +8,8 @@ def startScrapping():
     today = str(datetime.date.today())
 
     directory = './data/googleNews/' + today
-
-    os.makedirs(directory)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
 
     file = directory + '/' + today + ".txt"
 
@@ -29,4 +29,5 @@ def startScrapping():
         with open(file, "w") as f:
             f.write("\n".join(news))
 
+        return file
 

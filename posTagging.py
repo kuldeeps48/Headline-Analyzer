@@ -42,8 +42,8 @@ def ignore_word(tag):
     return tag in neutral_tags
 
 
-def analyze():
-    with open("data/headlines.txt", mode="r") as data:
+def analyze(file):
+    with open(file, mode="r") as data:
         for headline in data:
             print(headline)
 
@@ -115,4 +115,3 @@ def analyze():
         x = input("Type something")
 
 
-analyze()
