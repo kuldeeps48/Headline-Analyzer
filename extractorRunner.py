@@ -21,5 +21,6 @@ def runScrapper(source):  # Button press function
         print("Calling Analyzer on file ", fileToAnalyze)
         analyzer.analyze(fileToAnalyze)
 
-    else:
-        pass
+    else: # Custom Headline
+        analyzer.analyze(source) # Analyze custom headline file
+

@@ -29,8 +29,8 @@ class Ui_window(object):
         file = "./data/custom.txt"
         with open(file, "w") as f:
             f.write(headline + "\n")
-        # call analyzer and display output
-        print(headline)
+        # call analyzer
+        extractorRunner.runScrapper(file)
 
 
     def setupUi(self, window):
