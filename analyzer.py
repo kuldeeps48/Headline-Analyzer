@@ -44,6 +44,8 @@ def ignore_word(tag):
 
 def analyze(file):
     with open(file, mode="r") as data:
+        with open('data\output1.txt', "w") as f: # To remove previous data
+            pass
         for headline in data:
             print(headline)
 
