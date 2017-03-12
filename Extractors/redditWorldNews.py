@@ -17,11 +17,11 @@ def redditWorldScrapper():
     file = directory + "/" + today + ".txt"
 
     if reddit.read_only:
-        with open(file, "w") as file:
+        with open(file, "w") as f:
             try:
                 for submission in reddit.subreddit('worldnews').hot():
                     try:
-                        file.write(submission.title + "\n")
+                        f.write(submission.title + "\n")
                     except UnicodeEncodeError:
                         continue
             except prawcore.exceptions.RequestException:

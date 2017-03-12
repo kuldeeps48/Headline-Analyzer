@@ -14,9 +14,9 @@ def runScrapper(source):  # Button press function
     if source in source_functions:
         subprocess.Popen("python ./ui/progress.py")
         print("Starting ", source  ," Extraction")
+
         fileToAnalyze = source_functions[source]
-        if source in ("reddit news", "reddit world news"):
-            fileToAnalyze = fileToAnalyze.name
+
         print("Finished extraction")
         print("Calling Analyzer on file ", fileToAnalyze)
         analyzer.analyze(fileToAnalyze)
