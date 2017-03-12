@@ -21,15 +21,17 @@ class Window(QtGui.QMainWindow):
         self.setStyleSheet(DEFAULT_STYLE)
         # self.setAttribute(QtCore.Qt.WA_TranslucentBackground)
         self.createItems()
+        self.show()
 
     def createItems(self):
         self.progress = QtGui.QProgressBar(self)
         self.progress.setGeometry(130, 225, 600, 50)
-
+        self.setWindowOpacity(0.87)
         # QLabel
 
 
-        self.show()
+
+
 
     def download(self):
         self.extractProgress = 0
@@ -51,7 +53,6 @@ class Window(QtGui.QMainWindow):
 def showProgress():
     app = QtGui.QApplication(sys.argv)
     GUI = Window()
-    GUI.setWindowOpacity(0.87)
     GUI.download()
     app.processEvents()
 
