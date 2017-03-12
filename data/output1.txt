@@ -9962,3 +9962,550 @@ Fish eyes may hold key to blindness cure: study
 Doctors approve MRP move, manufacturing industry wary
   >P=0.25  >N=0.0
 IMA writes to governor to stall healthcare bill  >P=0.25  >N=-0.25
+US attorney Preet Bharara fired after refusing Jeff Sessions' order to resign
+  >P=0.0  >N=0.625
+US authorities refuse to reveal how Russian ambassador to the United Nations died
+  >P=0.375  >N=-0.208333333
+BBC News: White House intruder arrested near Trump residence, reports say
+  >P=0.25  >N=0.0
+Afghans who worked with U.S. forces told they can no longer apply for special visas
+  >P=0.21875  >N=-0.333333333
+Polygamy is ‘re-criminalized’ in Utah in last-minute vote
+  >P=0.375  >N=0.125
+Idaho man charged with forging documents to get out of trial in forgery case
+  >P=0.333333333  >N=-0.375
+Utah school installs showers and washing machines for homeless students to use
+  >P=0.0  >N=-0.625
+Far-Right and neo-Nazi terror arrests double
+  >P=0.25  >N=0.25
+Military photo scandal widens as more nude photos of female service members emerge
+  >P=0.5  >N=0.25
+Drinking water in three Colorado cities contaminated with toxic chemicals above EPA limits
+  >P=0.0  >N=-0.375
+Minnesota Anti-Vax Mom: Dying from Disease is "Part of the Plan"
+  >P=1.375  >N=0.125
+Super excited 16-year-olds in California can now pre-register to vote online
+  >P=0.25  >N=0.125
+Man charged with felony for kicking 9-month pregnant woman in the stomach on the subway
+  >P=0.458333333  >N=-0.375
+Muhammad Ali Jr stopped again after testifying about first airport detention
+  >P=0.625  >N=0.0
+Low gluten diets may be associated with higher risk of type 2 diabetes
+  >P=0.875  >N=0.3625
+Malware found preinstalled on 38 Android phones used by 2 companies
+  >P=0.25  >N=-0.75
+Hate crime suspect beats Salem restaurant employee with pipe
+  >P=0.375  >N=-0.6875
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+Deadly fungal infection that doctors have been fearing now in U.S.
+  >P=0.75  >N=-0.5208333330000001
+Winter Storm Stella Will Bring Snow to the South, Midwest and Then Will Become a Strong Nor'easter to Start Week
+  >P=1.3125  >N=-0.875
+20-pound iguana rescued from house fire in Oregon
+  >P=0.5  >N=-0.25
+Hundreds of MILF child soldiers released in Philippines
+  >P=0.25  >N=0.0
+Sexual assault in Japan: 'Every girl was a victim'
+  >P=0.625  >N=0.04166666699999999
+Spring Came Early [in the United States]. Scientists Say Climate Change Is a Culprit.
+  >P=0.0  >N=0.0
+Gander Mountain Files Ch. 11 Bankruptcy, Closing 32 Stores
+  >P=0.0  >N=-0.75
+Test meant to screen teachers instead weeded out minorities
+  >P=0.375  >N=-1.0
+After four inmate deaths in 9 days, protesters call for changes in L.A. county jails
+  >P=0.375  >N=0.0
+Scientists say the government’s only pot farm has moldy samples — and no federal testing standards
+  >P=0.25  >N=-0.833333333
+Drunk Rhode Island man steals forklift in Florida, telling deputies he lost his car keys and needed something to drive.
+  >P=1.59375  >N=-0.30555555599999995
+US Deploying Thousands More Ground Troops to Kuwait to Fight in Iraq, Syria
+  >P=0.0  >N=-0.5
+Kerala sex scandal: To save a Catholic priest from disgrace, I falsely said I raped my own daughter, says girl’s father
+  >P=1.125  >N=0.0625
+Muskegon businessman gets jail for receiving $63K of welfare
+  >P=0.8125  >N=0.0
+Turkey referendum: Dutch are Nazi remnants - Erdogan
+  >P=0.25  >N=0.125
+The Netherlands bars Turkish foreign minister's plane from landing
+  >P=0.0  >N=-0.5
+Habitual public masturbator gets life in prison for latest crime
+  >P=0.375  >N=-0.375
+Humane Society now offering more than $42K for information about tortured cat | KSL.com
+  >P=0.375  >N=-1.0625
+Canada says most border-crossing asylum seekers were in U.S. legally
+  >P=0.375  >N=0.375
+Prosecutors considering death penalty for mom of Allentown girl killed in 'rape-murder fantasy'
+  >P=1.0  >N=-0.4375
+Mumps outbreaks reported across USA
+  >P=0.5  >N=-0.375
+Brazilian actress awarded $1.16 million against LA plastic surgeon for botched surgery
+  >P=0.25  >N=-0.625
+( Utah ) Lawmakers approve concealed firearms for 18-year-olds
+  >P=0.0  >N=-0.375
+Kansas wildfires: These cattle ranchers just lost everything
+  >P=0.535714286  >N=-0.555555556
+San Francisco man tracks down stolen car, thieves arrested
+  >P=0.0  >N=-0.303571429
+Footrot Flats creator Murray Ball dies
+  >P=0.0  >N=-0.5900000000000001
+Winds gusting up to 145 km/h (90 mph) across Newfoundland causing destruction across the island
+  >P=1.5  >N=-0.25
+Dozens of Iraqi pilgrims slain in Damascus bombings
+  >P=0.0  >N=0.875
+New bill would let companies force workers to get genetic tests, share results
+  >P=0.625  >N=0.25
+Man involved in sex act with student at Champlin Park High is undocumented, has been taken into custody by ICE
+  >P=1.025  >N=-0.5
+US spies still won't tell Congress the number of Americans caught in dragnet
+  >P=0.25  >N=-0.375
+UK to make use of ticket scalping bots illegal
+  >P=0.479166667  >N=0.0
+DE Supreme Court upholds GPS monitoring for sex offenders
+  >P=0.416666667  >N=0.0
+Valley Students Say USA Themed Student Section Not Aimed At North’s Refugee Athletes
+  >P=0.125  >N=-0.75
+After record-setting outage, 289,000 remain without power in Michigan
+  >P=0.0  >N=0.0
+At least 40 killed in Damascus bombing targeting Shi'ites
+  >P=0.0  >N=0.5
+National #MeetAMuslim day hopes to spark dialogue and debunk misconceptions
+  >P=0.625  >N=0.625
+Man, Woman Poisoned After Drinking Herbal Tea From SF Store
+  >P=0.0  >N=0.0
+In Zimbabwe, grave of Cecil Rhodes draws tourists, debate
+  >P=0.0  >N=-0.1875
+Mosul IS battle: Mass grave found at Badoush prison, Iraqi forces say - BBC News
+  >P=0.25  >N=-0.9375
+ICE agent convicted of accepting cash bribes, sex
+  >P=0.6875  >N=0.0
+Murray Ball the crater of Footrot Flats has passed at the age of 78.
+  >P=0.25  >N=-0.25
+Florida judge denies 'stand your ground' defense in movie theater shooting of texting man
+  >P=0.0  >N=-0.875
+Hoverboard Possibly Responsible For Fire That Critically Injured Girls
+  >P=1.0  >N=-1.0
+Lethal Opiates Delivered By Mail From China, Killing Addicts In The U.S.
+  >P=0.75  >N=-0.75
+Woman arrested after 3 kids found dead in Arcadia fire
+  >P=0.0  >N=-0.575
+Ghaziabad: ‘Denied sex for 10 years’, woman chops off husband’s penis
+  >P=0.0  >N=-0.475
+Mom pulls gun on another mom in school drop-off line
+  >P=2.375  >N=0.0
+Aid groups criticise South Sudan for $10,000 visa fees
+  >P=0.0  >N=0.5
+US Government passed the NASA Authorization Act, promising $19.5 billion in funding in order to 'Get Humans to Mars By 2033'
+  >P=0.375  >N=-0.75
+Second wave of mass bleaching unfolding on Great Barrier Reef
+  >P=0.979166667  >N=0.0
+Director of 'Kong: Skull Island' crowned Vietnam tourism ambassador
+  >P=0.375  >N=0.0
+Alzheimer's could be caused by excess sugar: new study finds 'molecular link'
+  >P=0.75  >N=0.0
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+A Utah family's cat had its eyes sealed shut with hot glue before being tortured to death in an attack animal welfare advocates are calling “the worst case of abuse.”
+  >P=2.1875  >N=-1.0
+TD Bank shares post worst day since 2014 after CBC story... Bank analyst notes TD's 'Wells Fargo moment' as reaction to CBC story reverberates
+  >P=0.25  >N=0.625
+Pastor Arrested for Chopping Up Teen Kept Counseling Kids for 23 Years
+  >P=0.375  >N=-0.375
+Samsung Electronics Completes Acquisition of HARMAN
+  >P=0.0  >N=0.0
+Criss Angel Las Vegas Show Canceled After Stunt Goes Wrong
+  >P=0.0  >N=-1.134615385
+'A Tragedy': Hundreds of Thousands of California Residents Exposed to Contaminated Water
+  >P=0.0  >N=-0.875
+'Vile and evil': Alberta mother who drugged, burned 9-year-old daughter gets life sentence
+  >P=0.875  >N=-0.375
+Baby girl missing in apparent carjacking in Durban South Africa
+  >P=0.625  >N=-0.5
+US created 235,000 jobs in Feb, vs 190,000 expected
+  >P=0.0  >N=-0.25
+ADA serial lawsuit filer abruptly dismisses case days before deposition; Motives questioned
+  >P=0.75  >N=0.0
+Nude Photo Scandal Expands To All US Military Branches
+  >P=0.3125  >N=0.125
+Marines Keep Sharing Women’s Nude Photos in Secret Groups After Getting Busted
+  >P=0.0  >N=-0.1875
+Hounded and ridiculed for complaining of rape
+  >P=0.25  >N=-0.75
+Reward for info increases to $30K after Clearfield cat tortured to death
+  >P=0.333333333  >N=-1.125
+The U.S. is sending 2,500 troops to Kuwait, ready to step up the fight in Syria and Iraq
+  >P=1.125  >N=-0.4375
+Massive Statue of Ancient Egyptian Pharaoh Found in City Slum
+  >P=0.0  >N=-0.5
+South Korean President Impeached
+  >P=0.0  >N=0.0
+Customs: Smuggler arrested at JFK with cocaine taped to legs
+  >P=0.0  >N=0.25
+UPDATE: Missing Witchita woman Toni Anderson's car recovered from Missouri RIver; police say a body found in car
+  >P=0.375  >N=-0.5
+Radioactive boars are stalking residents of Fukushima trying to return to their homes
+  >P=0.375  >N=0.0
+Bursts of energy from another galaxy suspected to be something sailing across the universe
+  >P=0.958333333  >N=0.5
+Hundreds of current and former employees respond to CBC report with stories of pressure to upsell customers at TD Bank... 'We do it because our jobs are at stake': TD bank employees admit to breaking the law for fear of being fired
+  >P=0.875  >N=0.65625
+Time crystals: New form of matter once thought to break laws of physics created by scientists
+  >P=1.0  >N=-1.5
+Reports: Teen accidentally shoots self playing Russian roulette
+  >P=0.291666667  >N=0.0
+Elon Musk: I can fix South Australia power network in 100 days or it's free
+  >P=0.375  >N=-0.375
+Pope signals he's open to married Catholic men becoming priests
+  >P=1.125  >N=0.375
+Police in California search for bikers after violent highway attack captured on video
+  >P=0.25  >N=-0.34375
+Massive oil discovery in Alaska is biggest onshore find in 30 years
+  >P=0.8125  >N=0.375
+UP assembly election result: It's an Indira Gandhi moment for PM Narendra Modi
+  >P=0.75  >N=0.0
+The Latest: Trump tried to call prosecutor before firing
+  >P=1.0625  >N=0.0
+Union Home Minister Rajnath Singh won't celebrate Holi in view of Maoist attack on CRPF jawans in Sukma
+  >P=0.25  >N=-0.5625
+Florida man tries to set ablaze store owned by Indian-Americans
+  >P=0.0  >N=-1.0
+Dutch expel Turkish Minister as police break up protests
+  >P=0.375  >N=0.0
+BJP's sweep in UP could be ominous for Mamata Banerjee
+  >P=1.0  >N=-0.4375
+Punjab Assembly election 2017: Captain Amarinder Singh leads Congress to power after a decade
+  >P=0.75  >N=0.0
+UP Elections 2017: Every 4th winning MLA in state facing serious criminal charges
+  >P=1.0  >N=-0.333333333
+Goa election results: CM among losers as Congress sees chance in hung state
+  >P=0.84375  >N=0.375
+India, Pak. spar over Aseemanand
+  >P=0.4375  >N=0.0
+Twin bomb blasts kill 59 in Damascus, mostly Iraqi Shia pilgrims
+  >P=0.0  >N=0.625
+Sharif asks clerics to counter terror using mosque's pulpit
+  >P=0.25  >N=0.75
+Malaysia, North Korea To Begin Formal Talks Over Return Of Malaysians: Minister
+  >P=0.4375  >N=-0.4375
+Tens of thousands of South Koreans celebrate Park Geun-hye's ouster
+  >P=0.0  >N=0.0
+Sam Ghosh quits Reliance Capital, likely to join Bharti
+  >P=0.25  >N=0.25
+CAG flags glaring errors in railways accounts
+  >P=0.0  >N=0.3125
+No cap on range, supersonic cruise missile Brahmos hits 450 km target in test
+  >P=0.625  >N=-0.583333333
+Pay Rs 10000 crore, Tax Tribunal tells Cairn UK
+  >P=0.25  >N=0.0
+Prime effect: Reliance Jio offers 1GB 4G data at Rs 49
+  >P=0.541666667  >N=0.25
+Moto Z (2017) Image Leaks With New Fingerprint Sensor; Snapdragon 835 SoC Expected
+  >P=0.0  >N=-0.75
+WikiLeaks 'Vault 7' CIA Dump: Are the Files Real and Are They a Risk?
+  >P=0.275  >N=0.03125
+Tata Nexon production-ready, launch soon
+  >P=0.0  >N=0.125
+Salman Khan makes way for good friend Ajay Devgn, backs out of Saragarhi?
+  >P=1.139423077  >N=-0.375
+Zee Cine Awards 2017 complete winners list: Alia Bhatt, Amitabh Bachchan bag top honours
+  >P=0.708333333  >N=-0.208333333
+Badrinath Ki Dulhania collection Day 2: Alia-Varun's rom-com looks set to have a happy Holi
+  >P=1.125  >N=-0.5
+Aishwarya Rai Bachchan has a meltdown, father's condition continues to remain critical
+  >P=0.75  >N=0.25
+#INDvAUS: 5 problematic areas which Virat Kohli & Co need to address to win the series
+  >P=0.75  >N=-0.375
+Australian Newspaper Makes Stunning Claims Against Virat Kohli, Anil Kumble
+  >P=0.0  >N=-0.21875
+FA Cup: Arsene Wenger Off The Hook as Arsenal Crush Lincoln
+  >P=0.0  >N=-0.475
+Bayern Munich open up 10-point lead in Bundesliga after rivals stumble
+  >P=0.5  >N=-0.25
+NASA confirmed Chandrayaan-1 rediscovery based on ISRO predictions
+  >P=0.25  >N=0.0
+Brain is 10 times more active than previously measured: Study
+  >P=1.6875  >N=0.75
+NASA says Orbital ATK's Cygnus cargo launch to space station delayed
+  >P=0.0  >N=-0.5625
+NASA stunned by incredible photo near Saturn
+  >P=0.0  >N=-1.0
+Heart air-lifted from Hyderabad saves teen
+  >P=0.0  >N=0.125
+Fish eyes may hold key to blindness cure: study
+  >P=0.875  >N=-0.125
+Doctors approve MRP move, manufacturing industry wary
+  >P=0.25  >N=0.0
+IMA writes to governor to stall healthcare bill  >P=0.25  >N=-0.25
+Footrot Flats creator Murray Ball dies aged 78
+  >P=0.25  >N=-0.5900000000000001
+BJP landslide in Uttar Pradesh a boost for India prime minister Narendra Modi
+  >P=0.291666667  >N=0.0
+Alone in the outback: attacks on backpackers play on deep-seated fears
+  >P=0.75  >N=1.125
+Moomba festival: police arrest 53 and use pepper spray to control brawls
+  >P=0.0  >N=0.0
+This election was meant to be close, but Western Australia had no doubts | Ben Raue
+  >P=1.375  >N=-0.08333333300000001
+Liberal party defends preference deal with One Nation after WA election loss
+  >P=0.75  >N=-0.5
+Tweet to Katie Hopkins: just say sorry next time | Jess Phillips
+  >P=1.0357142860000002  >N=-0.958333333
+The Observer view on sending US troops to Syria | Observer editorial
+  >P=0.5  >N=-0.5625
+Raped, beaten, exploited: the 21st-century slavery propping up Sicilian farming
+  >P=0.8125  >N=-0.25
+The farming revolution that aims to bring free-range milk to Britain
+  >P=0.125  >N=-0.5
+The Observer view on the big six and energy costs | Observer editorial
+  >P=0.958333333  >N=-0.1875
+How free market helped big six energy firms to rack up huge profits
+  >P=1.2083333330000001  >N=0.25
+If Theresa May gives in over self-employment row, she’s not serious about tax reform | Will Hutton
+  >P=1.6875  >N=-1.125
+Government considering plans to house addicts who sleep rough
+  >P=0.125  >N=-0.276785714
+Bezalel Smotrich: Israel’s far-right demagogue, drawing fringe beliefs to the centre  | Emma Graham-Harrison
+  >P=0.25  >N=-0.5
+Energy companies ‘ripping off’ millions, ministers say
+  >P=0.208333333  >N=0.0
+Reese Witherspoon: how she became Hollywood’s most powerful woman
+  >P=0.28125  >N=0.0
+Xenophobic rhetoric created the conditions for abusing migrants
+  >P=0.125  >N=0.125
+A George Galloway book! Haven’t the kids suffered enough? | Catherine Bennett
+  >P=0.375  >N=0.0
+After Brexit, the two tribes recede –and a Northern Irish identity emerges
+  >P=0.375  >N=0.375
+The English can stop sneering at Scottish football now | Kevin McKenna
+  >P=0.0  >N=-1.125
+First female boss needs wit and talent to restore fire service | The big issue
+  >P=1.5  >N=0.0
+Zero-hours contracts are flexible – for the employers | Letters
+  >P=0.875  >N=0.125
+Daddy, Daddy – can we play too? | Jess Phillips
+  >P=0.125  >N=0.25
+She’s turning 100, and there’s still never been a dame quite like Vera Lynn
+  >P=0.25  >N=0.125
+Scotland is heading for a second independence poll. Is a Yes vote any more likely?
+  >P=0.875  >N=-0.25
+Boycott won’t heal our divide, Israeli star tells fellow artists
+  >P=0.625  >N=-0.5
+Why men still won’t get their hands dirty at home
+  >P=0.625  >N=-0.333333333
+Emma Watson: feminist to the core or carefully polished brand? | the Observer profile
+  >P=0.375  >N=0.0
+Bad blood begins to flow between the neighbours of Downing Street | Andrew Rawnsley
+  >P=0.0  >N=-0.808823529
+House always wins: the dark side of life in Macao’s casino economy
+  >P=0.125  >N=-0.34375
+Hasn’t £13k a day George Osborne already got a job as an MP? | Jess Phillips
+  >P=0.25  >N=0.0
+Amy Winehouse, me and those tattoos:  ‘I’ll never do that pin-up image on anyone else’
+  >P=0.25  >N=-1.125
+Nick Clegg: Philip Hammond should ‘dump’ on Cameron and Osborne
+  >P=0.25  >N=0.0
+Tim Berners-Lee calls for tighter regulation of online political advertising
+  >P=0.25  >N=0.0
+Azed Crossword 2,335
+  >P=0.0  >N=0.0
+Everyman crossword No 3,674
+  >P=0.0  >N=-0.208333333
+Police were called when a protest erupted at a school in North Yorkshire after students were limited to two toilet breaks a day.
+  >P=0.75  >N=-0.125
+Thousands of women go on strike in Ireland in protest at abortion ban
+  >P=0.25  >N=0.125
+Protesters set youth shelter on fire, killing at least 38 girls. Many wounded.
+  >P=0.5  >N=-1.125
+Mexican authorities have found at least 242 bodies in hidden graves in the eastern state of Veracruz that were discovered by mothers searching for their missing children
+  >P=1.0  >N=-1.90625
+Plot to hit German shopping centre with multiple suicide bombers is foiled after police are tipped off about 'imminent attack'
+  >P=1.5  >N=-0.975
+FIFA President: Trump Travel Ban could Prevent US Hosting World Cup 2026
+  >P=0.25  >N=-0.5
+Quebec grocery stores first in Canada to send unused produce to food banks
+  >P=0.25  >N=-0.458333333
+Dutch government withdraws landing permission for Turkish foreign minister's aircraft
+  >P=0.25  >N=-0.375
+Hunters deployed to kill radioactive wild boars as residents return to homes in Fukushima nuclear disaster zone
+  >P=0.625  >N=0.875
+Jeremy Corbyn says a second Scottish independence referendum would be 'absolutely fine'
+  >P=0.5625  >N=0.125
+The Dutch are 'Nazi remnants' - Erdogan
+  >P=0.25  >N=0.125
+Assad: Trump shows nothing 'concrete' in ISIS effort; calls foreign troops 'invaders'
+  >P=0.5  >N=-0.25
+Turkish Cabinet Minister Detained After Standoff With Dutch Police, Set to Be Deported
+  >P=0.375  >N=0.125
+Canada's highest court upholds ruling that Donald Trump did mislead investors
+  >P=0.625  >N=0.0
+Dutch riot police break up pro-Erdogan demonstration in Rotterdam
+  >P=1.125  >N=-0.25
+Turkish protest grows outside consulate in Rotterdam | Several hundred demonstrators waving Turkish flags gathered outside the Turkish consulate in the Dutch city of Rotterdam on Saturday, demanding to see the Turkish minister for family affairs as a dispute between the two countries escalated
+  >P=1.5416666669999999  >N=-0.5
+Government accused of obstructing the homeless from voting while spending millions on helping rich expats register: Election chiefs protest over rules which require the young and poor without a home to print out a form – while the ‘15-year rule’ for expats is axed.
+  >P=2.1875  >N=-1.527777778
+Australian federal government pushes to ban unvaccinated children from childcare centres
+  >P=0.0  >N=-0.25
+Turkish Family Affairs Minister blocked from entering Rotterdam Consulate - Stand-off Minister and Police while hundreds of Turkish protesters go on the street
+  >P=0.75  >N=0.375
+Turkey vows for tenfold retaliation against Dutch govt.
+  >P=0.0  >N=-0.25
+Dutch embassy & consulate in Turkey closed off - Turkish FM sources
+  >P=0.0  >N=-0.7875
+FBI probes ‘odd’ link between Trump server and Russia’s Alfa Bank
+  >P=0.0  >N=0.0
+Trump travel ban: Judge declines to reinstate ruling - BBC News
+  >P=0.875  >N=0.25
+Fury in Cambodia as US asks to be paid back hundreds of millions in war debts
+  >P=0.458333333  >N=-0.5
+The World Wide Web's inventor warns it's in peril on 28th anniversary
+  >P=0.5  >N=-0.25
+Rio de Janeiro said Saturday it plans to vaccinate the state's entire population against yellow fever in response to an outbreak that has killed at least 113 people around Brazil
+  >P=0.75  >N=0.395833333
+Countries around the world must augment controls over the use of pesticides for they are causing 200,000 deaths a year due to poisoning, UN experts have warned
+  >P=1.5  >N=-0.125
+Algeria: Don't Prosecute a Writer for Insulting Islam
+  >P=0.0  >N=-1.0625
+Imams to be told to preach in English at mosques
+  >P=0.25  >N=0.125
+Turkey warns Netherlands of 'severe sanctions'
+  >P=0.25  >N=0.5
+[Holland/Turkey] Turkish minister of family stopped by police in Rotterdam
+  >P=0.0  >N=-0.75
+172,000 humans will be relocated to make way for giant national panda park in western China. Earlier this month, the central government gave its approval for the 27,134-square-kilometer park which will cover parts of Sichuan, Gansu and Shaanxi provinces.
+  >P=2.291666667  >N=0.25
+Turkey-Dutch relations take dip after Turkish visits banned
+  >P=0.0  >N=0.0
+Netherlands bars Turkish ministers as rally dispute escalates: "the Netherlands cannot cooperate in the public political campaigning of Turkish ministers in the Netherlands."
+  >P=0.25  >N=-0.5
+Austria has said the Turkish President Recep Tayyip Erdogan cannot campaign in Austria ahead of April's referendum in Turkey on giving him greater powers
+  >P=0.5  >N=-0.625
+The US state department has instructed New York City's chief medical examiner not to disclose the cause of death of Russia's ambassador to the United Nations
+  >P=1.625  >N=-1.0625
+China is working to develop a new spaceship that can both fly in low-Earth orbit and land on the moon, the announcement comes shortly after the US announced plans to fly two private citizens around the Moon by late 2018, under private aerospace company SpaceX
+  >P=2.0  >N=-1.375
+ISIS kills "anyone who argues with them," says defector
+  >P=0.0  >N=0.5
+Lethal Opiates Delivered By Mail From China, Killing Addicts In The U.S.
+  >P=0.75  >N=-0.75
+Assad: US military forces in Syria are 'invaders'
+  >P=0.25  >N=0.125
+A man and woman have been publicly lashed in Indonesia for allegedly having sex outside of marriage
+  >P=0.75  >N=-0.375
+Donald Trump's prospective Bali estate met with resistance by locals refusing to sell land
+  >P=0.0  >N=-0.75
+A fierce battle for control of Libya’s oil ports is raging this weekend as worried American officials claim that Russia is trying to “do a Syria” in the country, supporting the eastern strongman Khalifa Haftar in an attempt to control its main source of wealth.
+  >P=1.625  >N=-2.125
+Turkish family affairs minister blocked from entering Rotterdam consulate: Dutch police have blocked Turkey's family minister from entering the Turkish consulate in Rotterdam. Foreign Minister Cavusolgu has reportedly arrived in France. The row centers on Ankara's bid for emigre Turkish votes.
+  >P=1.125  >N=-0.25
+The Japanese government, fretting over the future of Toshiba Corp's flagship memory chips unit, is prepared to block a sale to bidders it deems a risk to national security, sources said, a stance that gives U.S. suitors a major advantage
+  >P=2.875  >N=0.916666667
+Holland's Trudeau? Youthful Green surges before vote in campaign dominated by right
+  >P=1.336538462  >N=-1.0833333330000001
+Father releases pictures of dying daughter to raise awareness of bullying
+  >P=0.375  >N=-0.375
+The world is facing its largest humanitarian crisis since 1945, the United Nation's humanitarian chief said as he pleaded for help to avoid "a catastrophe". More than 20 million people are facing starvation and famine in Yemen, Somalia, South Sudan and Nigeria.
+  >P=3.25  >N=1.25
+US Deploying Thousands More Ground Troops to Kuwait to Fight in Iraq, Syria
+  >P=0.0  >N=-0.5
+S. Korea mulls constitutional overhaul following Park ouster
+  >P=0.75  >N=0.0
+Wirathu silenced by Myanmar's top Buddhist body
+  >P=0.0  >N=-0.833333333
+Islamic State has released dozens of prisoners held in jails in the districts of the northern Iraqi city of Mosul that remain under its control, residents said on Saturday. The release of the prisoners on Friday is another sign that the militants are being overwhelmed
+  >P=2.583333333  >N=0.125
+UN: World facing largest humanitarian crisis since 1945
+  >P=1.125  >N=0.5
+Famine 'largest humanitarian crisis in history of UN'
+  >P=1.25  >N=0.75
+Pakistan's War on Atheism
+  >P=0.5  >N=-0.375
+UK government must make plans for possibility of no Brexit deal: lawmakers
+  >P=0.229166667  >N=-0.770833333
+Turkey tells Dutch ambassador: Don't hurry back
+  >P=0.375  >N=-0.625
+Mistaking them for Muslims, Florida man tries to set ablaze store owned by Indian-Americans : World, News
+  >P=0.25  >N=-1.875
+Earth's oceans are warming 13% faster than thought, and accelerating
+  >P=0.5  >N=-1.125
+India more than doubles maternity leave to 26 weeks
+  >P=0.75  >N=0.0
+Scientists discover worlds oldest, 152 million years old crocodile eggs in Portugal
+  >P=0.75  >N=-0.25
+Two arrested after Germany shuts down shopping mall over fears of terrorist attack: A major shopping center in the western German city of Essen has been sealed off after police received warnings of a possible terror plot. Two people have been arrested in connection with the incident.
+  >P=2.979166667  >N=0.596428571
+China stealth jet enters service, navy building 'first class' fleet
+  >P=1.0  >N=0.0
+2 former JPMorgan execs face lifetime ban for hiring kids of China's elite
+  >P=0.75  >N=-0.46875
+South Korean opposition vows justice as Park prepares Blue House exit
+  >P=0.5  >N=-0.1875
+Bitcoin Miners in Venezuela Forced to Pay Bribes or Face Arrests as Government Tries to Shut it Down
+  >P=0.25  >N=-0.928571429
+Oil giant Shell warns public faith in fossil fuel industry is 'disappearing' and calls for carbon taxes - "Shell is to increase its spending on renewable energy to $1bn a year"
+  >P=1.5833333330000001  >N=1.0
+Aid groups criticise South Sudan for $10,000 visa fees
+  >P=0.0  >N=0.5
+Bashar al-Assad says he is open to cooperation with Donald Trump over 'promising' Syria policies
+  >P=0.6875  >N=0.5
+Russia's Prime Minister Responds to Corruption Allegations by Banning Opposition Leader on Instagram
+  >P=1.0416666669999999  >N=-1.1875
+Pope Says Maybe to Married Priests
+  >P=0.0  >N=0.0
+One in three terror suspects in UK now white amid rise in far-right extremism
+  >P=0.5  >N=0.5
+40 dead in Syria terrorist attack
+  >P=0.0  >N=-0.575
+Chinese minister: Trade war with US won't help either side
+  >P=0.0  >N=-0.375
+Suspected rebel-planted mine hits Yemeni ship, kills 2
+  >P=0.0  >N=0.5
+Canada considers not prosecuting every crime due to resource crunch; cases stayed, abandoned in crisis
+  >P=0.9375  >N=-0.5
+Western Australia shuns Hanson's nationalists in state poll
+  >P=0.375  >N=-0.375
+Scientists develop 'Trojan horse' molecule to fight crop fungus linked to cancer
+  >P=0.125  >N=0.375
+Syria: At least 40 killed more than 120 others wounded in dual Damascus bombing targeting Shia Iraqis
+  >P=0.25  >N=-0.375
+Haiti Says Final Farewell to Former President Rene Preval
+  >P=0.0  >N=-0.84375
+Taliban kill eight Afghan police in 'insider attack'
+  >P=0.0  >N=-0.25
+Hate speech Myanmar monk banned from preaching by Buddhist council: Wirathu, who's been dubbed the "Buddhist bin Laden," has repeatedly used his speeches to verbally attack Muslims. The country's highest religious authority has banned his sermons for one year in a bid to calm tensions
+  >P=1.125  >N=-2.0625
+Ugandan man faces deportation after 'failing to prove he's gay'
+  >P=0.458333333  >N=0.5
+China dismisses Philippine concerns over marine activities
+  >P=1.3125  >N=0.0
+'Out of sight, out of mind': Humanitarian crisis worsens in Ukraine as world focuses on Syria, Iraq
+  >P=1.375  >N=-0.5
+Geert Wilders out in the cold in Dutch election scrum
+  >P=0.375  >N=-0.711538462
+Police claim Canadian Cannabis store owners linked to organized crime
+  >P=0.0  >N=-0.625
+Mosul IS battle: Mass grave found at Badoush prison, Iraqi forces say - BBC News
+  >P=0.25  >N=-0.9375
+South Korea: Cheers, tears as Seoul wakes up to life without Park
+  >P=0.375  >N=0.0
+Controversial sex ed textbooks selling out in China
+  >P=1.0  >N=-1.0
+U.S. cannot survive without China, Chinese minister says
+  >P=0.5  >N=-0.75
+As North Korea’s arsenal grows, experts see heightened risk of ‘miscalculation’
+  >P=0.416666667  >N=0.375
+Turkish minister to go to Rotterdam by land after foreign minister blocked: report
+  >P=0.0  >N=-0.875
+The Netherlands blocks Turkish FM’s plane from landing in Amsterdam, Erdogan livid
+  >P=0.0  >N=-0.208333333
+Turkish Minister in Holland; Periscope stream
+  >P=0.0  >N=0.0
+China to turn 800,000 hectares of marginal farmland into forests or grassland
+  >P=0.625  >N=0.0
+Kremlin Critic Says Russian Premier Built Property Empire on Graft
+  >P=0.25  >N=0.0
+Member of British Royal Family to Make First State Visit to Israel, Report Say
+  >P=0.604166667  >N=0.0
+German Social Democrats draw level with Merkel's conservatives
+  >P=0.25  >N=0.0
