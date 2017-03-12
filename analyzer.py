@@ -36,75 +36,77 @@ def ignore_word(tag):
 
 def analyze(file):
     with open(file, mode="r") as data:
-        with open('data\output1.txt', "w") as f: # To remove previous data
+        with open('data\output1.txt', "w") as f: # Open once in write more to remove previous data
             pass
-        for headline in data:
-            print(headline)
+        with open('data\output1.txt', "a") as f: # open file once to append data for each headline
+            for headline in data:
+                print(headline)
 
-            # Convert headline sentence to a list of words
-            words = word_tokenize(headline)
+                # Convert headline sentence to a list of words
+                words = word_tokenize(headline)
 
-            # Tag each word in list with POS tagger
-            tagged_words = nltk.pos_tag(words)
+                # Tag each word in list with POS tagger
+                tagged_words = nltk.pos_tag(words)
 
-            # Initialize Lemmatizer
-            w_lem = WordNetLemmatizer()
+                # Initialize Lemmatizer
+                w_lem = WordNetLemmatizer()
 
-            pos_score = 0
-            neg_score = 0
-            obj_score = 0
+                pos_score = 0
+                neg_score = 0
+                obj_score = 0
 
-            for i in tagged_words:
-                senti_tag = pos_tag = i[1]
+                for i in tagged_words:
+                    senti_tag = pos_tag = i[1]
 
-                # modifier scores before analysis since sentiwordnet fails to recognize them properly
-                if str.lower(i[0]) in Dict:
-                    score = float(Dict[str.lower(i[0])])
-                    if score < 0:
-                        neg_score += score
+                    # modifier scores before analysis since sentiwordnet fails to recognize them properly
+                    if str.lower(i[0]) in Dict:
+                        score = float(Dict[str.lower(i[0])])
+                        if score < 0:
+                            neg_score += score
+                        else:
+                            pos_score += score
+                        continue
+
+                    # Check if word creates no opinion, else tag them properly
+                    # nltk.help.upenn_tagset()
+                    if ignore_word(senti_tag):
+                        continue
                     else:
-                        pos_score += score
-                    continue
+                        senti_tag = pos_to_senti_tag(i[1])
 
-                # Check if word creates no opinion, else tag them properly
-                # nltk.help.upenn_tagset()
-                if ignore_word(senti_tag):
-                    continue
-                else:
-                    senti_tag = pos_to_senti_tag(i[1])
+                    if senti_tag == "unknown":
+                        continue
 
-                if senti_tag == "unknown":
-                    continue
+                    # Lemmatize the word according to its tag
+                    # make argument 2 accurate
+                    try:
+                        lem_word = w_lem.lemmatize(i[0], senti_tag)
+                    except:
+                        continue
 
-                # Lemmatize the word according to its tag
-                # make argument 2 accurate
-                try:
-                    lem_word = w_lem.lemmatize(i[0], senti_tag)
-                except:
-                    continue
+                    # print(lem_word," ", senti_tag)
+                    # Get the numerical equivalent sentiwordnet score
+                    # work on argument 3
+                    try:
+                        breakdown = swn.senti_synset(lem_word + "." + senti_tag + "." + "01")
+                        # print(breakdown)
+                    except nltk.corpus.reader.wordnet.WordNetError:
+                        # print(lem_word," ",senti_tag)
+                        continue
+                    except:
+                        continue
 
-                # print(lem_word," ", senti_tag)
-                # Get the numerical equivalent sentiwordnet score
-                # work on argument 3
-                try:
-                    breakdown = swn.senti_synset(lem_word + "." + senti_tag + "." + "01")
-                    # print(breakdown)
-                except nltk.corpus.reader.wordnet.WordNetError:
-                    # print(lem_word," ",senti_tag)
-                    continue
-                except:
-                    continue
+                    pos_score += breakdown.pos_score()
+                    neg_score += breakdown.neg_score()
+                    obj_score += breakdown.obj_score()
 
-                pos_score += breakdown.pos_score()
-                neg_score += breakdown.neg_score()
-                obj_score += breakdown.obj_score()
+                print("P=", pos_score, end="")
+                print("    |    N=", neg_score)
 
-            print("P=", pos_score, end="")
-            print("    |    N=", neg_score)
-            with open('data\output1.txt',"a") as f:
                 f.write(headline)
                 f.write("  >P="+str(pos_score)+"  >N="+str(neg_score)+"\n")
-            print("\n\n")
+
+                print("\n\n")
 
 
 
