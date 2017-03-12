@@ -1,8 +1,10 @@
-College project: Analysis of news headline using SentiWordNet
+**College project: Analysis of news headline using SentiWordNet**
 
-//WIP
+`//Work In Progress`
 
+For a demo of current stage: 
 - Open project in PyCharm IDE
-- Run main.pyw
-- 4 sources (Guardian, google news, Reddit, world news) can be selected for now
+- Download required dependencies (if `import/module` error shown)
+- Run `main.pyw ` inside PyCharm
+- 4 sources (Guardian, Google news, Reddit, Worldnews) can be selected for now
 - Displays headlines and scores
