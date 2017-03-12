@@ -1,4 +1,4 @@
-import posTagging
+import analyzer
 import subprocess
 
 from Extractors.googleNews import googleScrapper
@@ -19,7 +19,7 @@ def runScrapper(source):  # Button press function
             fileToAnalyze = fileToAnalyze.name
         print("Finished extraction")
         print("Calling Analyzer on file ", fileToAnalyze)
-        posTagging.analyze(fileToAnalyze)
+        analyzer.analyze(fileToAnalyze)
 
     else:
         pass
