@@ -23,6 +23,16 @@ except AttributeError:
         return QtGui.QApplication.translate(context, text, disambig)
 
 class Ui_window(object):
+    def selected_extractor(self, name):
+        button_to_name = {"pushButton":"times of india", "pushButton_2":"hindu", "pushButton_3":"guardian",
+                          "pushButton_4":"new york times", "pushButton_5":"google news", "pushButton_6":"CNN",
+                          "pushButton_7":"reddit news", "pushButton_8":"reddit world news", "pushButton_9":"telegraph",
+                          "pushButton_10":"bbc"}
+
+        sending_button = self.MainWindow.sender()
+        name = button_to_name[str(sending_button.objectName())]
+        print(name)
+        extractorRunner.runScrapper(name)
 
     def start_call(self): # function to call after entering custom headline
         headline = self.lineEdit.text()
@@ -34,6 +44,7 @@ class Ui_window(object):
 
 
     def setupUi(self, window):
+        self.MainWindow = window
         window.setObjectName(_fromUtf8("window"))
         window.resize(846, 582)
         sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Fixed)
@@ -53,7 +64,7 @@ class Ui_window(object):
         self.pushButton.setText(_fromUtf8(""))
         self.pushButton.setObjectName(_fromUtf8("pushButton"))
         #######Button Event########
-        self.pushButton.clicked.connect(lambda: extractorRunner.runScrapper("times of india"))
+        self.pushButton.clicked.connect(self.selected_extractor)
         # ````````````````````````````````````````````````````
         self.pushButton_2 = QtGui.QPushButton(window)
         self.pushButton_2.setGeometry(QtCore.QRect(210, 60, 182, 77))
@@ -62,7 +73,7 @@ class Ui_window(object):
         self.pushButton_2.setText(_fromUtf8(""))
         self.pushButton_2.setObjectName(_fromUtf8("pushButton_2"))
         #######Button Event########
-        self.pushButton_2.clicked.connect(lambda: extractorRunner.runScrapper("hindu"))
+        self.pushButton_2.clicked.connect(self.selected_extractor)
         # ````````````````````````````````````````````````````
         self.pushButton_3 = QtGui.QPushButton(window)
         self.pushButton_3.setGeometry(QtCore.QRect(450, 80, 199, 35))
@@ -72,7 +83,7 @@ class Ui_window(object):
         self.pushButton_3.setText(_fromUtf8(""))
         self.pushButton_3.setObjectName(_fromUtf8("pushButton_3"))
         #######Button Event########
-        self.pushButton_3.clicked.connect(lambda: extractorRunner.runScrapper("guardian"))
+        self.pushButton_3.clicked.connect(self.selected_extractor)
         #```````````````````````````````````````````````````````
         self.pushButton_4 = QtGui.QPushButton(window)
         self.pushButton_4.setGeometry(QtCore.QRect(220, 180, 152, 74))
@@ -81,7 +92,7 @@ class Ui_window(object):
         self.pushButton_4.setText(_fromUtf8(""))
         self.pushButton_4.setObjectName(_fromUtf8("pushButton_4"))
         #######Button Event########
-        self.pushButton_4.clicked.connect(lambda: extractorRunner.runScrapper("new york times"))
+        self.pushButton_4.clicked.connect(self.selected_extractor)
         #````````````````````````````````````````````````````````
         self.pushButton_5 = QtGui.QPushButton(window)
         self.pushButton_5.setGeometry(QtCore.QRect(40, 180, 121, 111))
@@ -90,7 +101,7 @@ class Ui_window(object):
         self.pushButton_5.setText(_fromUtf8(""))
         self.pushButton_5.setObjectName(_fromUtf8("pushButton_5"))
         #######Button Event########
-        self.pushButton_5.clicked.connect(lambda: extractorRunner.runScrapper("google news"))
+        self.pushButton_5.clicked.connect(self.selected_extractor)
         # ````````````````````````````````````````````````````
         self.pushButton_6 = QtGui.QPushButton(window)
         self.pushButton_6.setGeometry(QtCore.QRect(460, 300, 169, 81))
@@ -99,7 +110,7 @@ class Ui_window(object):
         self.pushButton_6.setText(_fromUtf8(""))
         self.pushButton_6.setObjectName(_fromUtf8("pushButton_6"))
         #######Button Event########
-        self.pushButton_6.clicked.connect(lambda: extractorRunner.runScrapper("CNN"))
+        self.pushButton_6.clicked.connect(self.selected_extractor)
         # ``````````````````````````````````````````````````````````````
         self.pushButton_7 = QtGui.QPushButton(window)
         self.pushButton_7.setGeometry(QtCore.QRect(450, 180, 201, 68))
@@ -108,7 +119,7 @@ class Ui_window(object):
         self.pushButton_7.setText(_fromUtf8(""))
         self.pushButton_7.setObjectName(_fromUtf8("pushButton_7"))
         #######Button Event########
-        self.pushButton_7.clicked.connect(lambda: extractorRunner.runScrapper("reddit news"))
+        self.pushButton_7.clicked.connect(self.selected_extractor)
         # ``````````````````````````````````````````````````````````
         self.pushButton_8 = QtGui.QPushButton(window)
         self.pushButton_8.setGeometry(QtCore.QRect(700, 220, 112, 105))
@@ -117,7 +128,7 @@ class Ui_window(object):
         self.pushButton_8.setText(_fromUtf8(""))
         self.pushButton_8.setObjectName(_fromUtf8("pushButton_8"))
         #######Button Event########
-        self.pushButton_8.clicked.connect(lambda: extractorRunner.runScrapper("reddit world news"))
+        self.pushButton_8.clicked.connect(self.selected_extractor)
         # ````````````````````````````````````````````````````````````````
         self.pushButton_9 = QtGui.QPushButton(window)
         self.pushButton_9.setGeometry(QtCore.QRect(140, 330, 242, 40))
@@ -126,7 +137,7 @@ class Ui_window(object):
         self.pushButton_9.setText(_fromUtf8(""))
         self.pushButton_9.setObjectName(_fromUtf8("pushButton_9"))
         #######Button Event########
-        self.pushButton_9.clicked.connect(lambda: extractorRunner.runScrapper("telegraph"))
+        self.pushButton_9.clicked.connect(self.selected_extractor)
         # ````````````````````````````````````````````````````````````````
         self.pushButton_10 = QtGui.QPushButton(window)
         self.pushButton_10.setGeometry(QtCore.QRect(30, 50, 121, 91))
@@ -135,7 +146,7 @@ class Ui_window(object):
         self.pushButton_10.setText(_fromUtf8(""))
         self.pushButton_10.setObjectName(_fromUtf8("pushButton_10"))
         #######Button Event########
-        self.pushButton_10.clicked.connect(lambda: extractorRunner.runScrapper("bbc"))
+        self.pushButton_10.clicked.connect(self.selected_extractor)
 
 
         self.line = QtGui.QFrame(window)
@@ -170,7 +181,7 @@ class Ui_window(object):
         self.pushButton_11.setText(_fromUtf8(""))
         self.pushButton_11.setObjectName(_fromUtf8("pushButton_11"))
         #######Button Event########
-        self.pushButton_11.clicked.connect(lambda : self.start_call())
+        self.pushButton_11.clicked.connect(self.start_call)
 
         self.retranslateUi(window)
         QtCore.QMetaObject.connectSlotsByName(window)

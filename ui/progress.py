@@ -19,18 +19,26 @@ class Window(QtGui.QMainWindow):
         self.setSizePolicy(sizePolicy)
 
         self.setStyleSheet(DEFAULT_STYLE)
-        # self.setAttribute(QtCore.Qt.WA_TranslucentBackground)
+
+        # Label
+        self.label = QtGui.QLabel("Fetching News Headlines From Web", self)
+        self.label.setGeometry(QtCore.QRect(85, 165, 700, 50))
+        self.label.setAlignment(QtCore.Qt.AlignCenter)
+        self.label.setStyleSheet("QLabel {color:white;}")
+        self.font = QtGui.QFont()
+        self.font.setFamily("Vivaldi")
+        self.font.setPointSize(26)
+        self.font.setBold(False)
+        self.font.setWeight(75)
+        self.label.setFont(self.font)
+
         self.createItems()
         self.show()
 
     def createItems(self):
         self.progress = QtGui.QProgressBar(self)
         self.progress.setGeometry(130, 225, 600, 50)
-        self.setWindowOpacity(0.87)
-        # QLabel
-
-
-
+        self.setWindowOpacity(0.9)
 
 
     def download(self):
@@ -42,6 +50,7 @@ class Window(QtGui.QMainWindow):
         time.sleep(0.4)
 
         self.analyseProgress = 0
+        self.label.setText("Analyzing Fetched Headlines")
         while self.analyseProgress < 100:
             self.analyseProgress += 0.00003
             self.progress.setValue(self.analyseProgress)

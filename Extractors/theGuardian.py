@@ -89,6 +89,9 @@ def scrapper():
     # Write in file
     with open(file, "w") as tf:
         for headline in headlines:
-            tf.write(headline + "\n")
+            try:
+                tf.write(headline + "\n")
+            except:
+                pass
 
     return file
