@@ -5,3 +5,5 @@ __pycache__
 Extractors/__pycache__
 images/__pycache__
 ui/__pycache__
+data
+Extractors/data
