@@ -5,5 +5,10 @@ __pycache__
 Extractors/__pycache__
 images/__pycache__
 ui/__pycache__
-data
-Extractors/data
+data/googleNews/*
+data/nyTimes/*
+data/redditNews/*
+data/redditWorldNews/*
+data/theGuardian/*
+data/custom.txt
+data/output1.txt
