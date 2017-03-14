@@ -41,15 +41,15 @@ def get_json(url):
     return json_data
 
 
-# Headline extractor for The Guardian
+# Headline extractor for The New York Times
 # Returns headlines list
-def extractor(url):
+def extractor(base_url):
     headlines = []
     page_no = 0
     
     # Go through each 10 headlines
     while True:
-        url = url + '&page=' + str(page_no)
+        url = base_url + '&page=' + str(page_no)
         json_data = get_json(url)
         
         for single_news in json_data['response']['docs']:
