@@ -43,9 +43,8 @@ def get_json(url):
 
 # Headline extractor for The Guardian
 # Returns headlines list
-def extractor(url, json_data):
+def extractor(url):
     headlines = []
-    total = json_data['response']['meta']['hits']
     page_no = 0
     
     # Go through each 10 headlines
@@ -56,14 +55,11 @@ def extractor(url, json_data):
         for single_news in json_data['response']['docs']:
             headlines.append(single_news['headline']['main'])
 
-    
-        total -= 10
         page_no += 1
         if page_no > PAGE_LIMIT:
             break
         
     return headlines
-
 
 # Module to be called from extractorRunner.py
 # Returns file populated with news headlines
@@ -71,9 +67,7 @@ def scrapper():
     url = url_formatter()
 
     # Fetch JSON data and compute the total number of news articles
-    json_data = get_json(url)
-    
-    headlines = extractor(url, json_data)
+    headlines = extractor(url)
     
     # Compute file path
     today = str(datetime.date.today())
@@ -83,7 +77,7 @@ def scrapper():
         os.makedirs(directory)
 
     file = directory + "/" + today + ".txt"
-    
+
     # Write in file
     with open(file, "w") as tf:
         for headline in headlines:
