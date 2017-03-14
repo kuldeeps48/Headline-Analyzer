@@ -34,7 +34,6 @@ class Ui_window(object):
 
         sending_button = self.MainWindow.sender()
         name = button_to_name[str(sending_button.objectName())]
-        print(name)
         extractorRunner.runScrapper(name)
 
     def start_call(self):  # function to call after entering custom headline
