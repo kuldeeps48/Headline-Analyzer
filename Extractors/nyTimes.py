@@ -6,9 +6,6 @@
 # Returns the headlines from New York Times of the current day
 # API: https://developer.nytimes.com/article_search_v2.json
 #
-# NOTE:
-#  - url_formatter(), extractor() are to be changed according to need
-#  - Do not change the modules: get_json(), scrapper()
 #
 # Date: 10-03-2017
 #
@@ -16,21 +13,33 @@
 
 #!/usr/bin/python3
 import datetime, os, time, requests
+import threading
 
 # Since, it returns too large data, the default number of headlines returned = 100
 # PAGE_LIMIT = no_of_headlines / 10 - 1
-PAGE_LIMIT = 9
+# PAGE_LIMIT = 9
+SOURCE_CODE = "nyTimes"
 
 
-source_code = "nyTimes"
+# Multhreading class
+class booster(threading.Thread):
+    def __init__(self, api_key, headlines, num):
+        threading.Thread.__init__(self)
+        self.api_key = api_key
+        self.page_no = num
+        self.headlines = headlines
 
+    def run(self):
+        threaded_extractor(self.api_key, self.page_no, self.headlines)
 
+'''
 # Formats the Request
-def url_formatter():
+def url_formatter(api_key):
     cur_date = time.strftime("%Y%m%d")
-    api_key = '57502be1c0864fe9a3486459a49634bd'
-    url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?begin_date=' + cur_date + '&end_date=' + cur_date + '&api-key=' + api_key
+    fl = 'headline'
+    url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?begin_date=' + cur_date + '&end_date=' + cur_date + '&api-key=' + api_key + '&fl=' + fl
     return url
+'''
 
 
 # Fetches JSON data and parses it
@@ -41,38 +50,57 @@ def get_json(url):
     return json_data
 
 
-# Headline extractor for The New York Times
-# Returns headlines list
-def extractor(base_url):
-    headlines = []
-    page_no = 0
-    
-    # Go through each 10 headlines
-    while True:
+# Threaded headline extractor
+def threaded_extractor(api_key, page_no, headlines):
+    # Base URL for each thread, Call to url_formatter() removed for optimized time
+    cur_date = time.strftime("%Y%m%d")
+    fl = 'headline'
+    base_url = url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?begin_date=' + cur_date + '&end_date=' + cur_date + '&api-key=' + api_key + '&fl=' + fl
+
+    index = page_no * 10
+
+    # Scrapping headlines for each thread
+    for i in range(5):
+        # Construct URL and get JSON object
         url = base_url + '&page=' + str(page_no)
         json_data = get_json(url)
-        
-        for single_news in json_data['response']['docs']:
-            headlines.append(single_news['headline']['main'])
 
+        # Store headlines in list
+        for single_news in json_data['response']['docs']:
+            headlines.insert(index, single_news['headline']['main'])
+            index += 1
         page_no += 1
-        if page_no > PAGE_LIMIT:
-            break
-        
-    return headlines
+
+
+# Headline extractor for The New York Times
+def extractor(headlines):
+    # Create and start threads
+    threads = []
+    thread1 = booster('57502be1c0864fe9a3486459a49634bd', headlines, 0)
+    thread2 = booster('71e9100fcd7f4330a8247e0bb6ccc739', headlines, 5)
+
+    threads.append(thread1)
+    threads.append(thread2)
+
+    thread1.start()
+    thread2.start()
+
+    # Wait for termination of all threads before proceeding
+    for t in threads:
+        t.join()
+
 
 # Module to be called from extractorRunner.py
 # Returns file populated with news headlines
 def scrapper():
-    url = url_formatter()
-
-    # Fetch JSON data and compute the total number of news articles
-    headlines = extractor(url)
+    # Fetch JSON data and return headlines list
+    headlines = []
+    extractor(headlines)
     
     # Compute file path
     today = str(datetime.date.today())
     
-    directory = "./data/" + source_code + "/" + today
+    directory = "./data/" + SOURCE_CODE + "/" + today
     if not os.path.exists(directory):
         os.makedirs(directory)
 
