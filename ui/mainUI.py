@@ -30,6 +30,9 @@ except AttributeError:
 MainW = 0
 
 class Ui_window(object):
+
+    # analysis_is_done = False
+
     def selected_extractor(self, name):
         button_to_name = {"pushButton": "times of india", "pushButton_2": "hindu", "pushButton_3": "guardian",
                           "pushButton_4": "new york times", "pushButton_5": "google news", "pushButton_6": "CNN",
@@ -47,8 +50,11 @@ class Ui_window(object):
         yPos = MainW.geometry().topLeft().y()
         GUI.setGeometry(xPos,yPos,846,582)
         ########################
-        p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(name, e,)).start()
+        p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(name, e,))
+        p.start()
         GUI.download(e)
+        p.join()
+        # self.analysis_is_done = True
 
     # function to call after entering custom headline
     def start_call(self):
