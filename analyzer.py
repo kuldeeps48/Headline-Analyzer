@@ -5,12 +5,6 @@ from nltk.stem import WordNetLemmatizer
 
 from additional import Dict # use the dictionary
 
-""" TODO:
-2) imporove lemmatiztion
-4) imporve tagging
-5) add quote detection
-"""
-
 
 def pos_to_senti_tag(tag_from_POS):
     if tag_from_POS in ("NN", "NNS", "NNP", "NNPS", "CC"):
