@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import multiprocessing
+
 import images.mainuiImages  # images for mainUI
 from PyQt4 import QtCore, QtGui
 from PyQt4.QtCore import *
@@ -6,6 +8,8 @@ from PyQt4.QtGui import *
 import sys, time
 
 import extractorRunner
+from ui.progress import Loading
+
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -23,6 +27,7 @@ except AttributeError:
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig)
 
+MainW = 0
 
 class Ui_window(object):
     def selected_extractor(self, name):
@@ -34,9 +39,19 @@ class Ui_window(object):
 
         sending_button = self.MainWindow.sender()
         name = button_to_name[str(sending_button.objectName())]
-        extractorRunner.runScrapper(name)
 
-    def start_call(self):  # function to call after entering custom headline
+        e = multiprocessing.Event()
+        # create loading screen
+        GUI = Loading()
+        xPos = MainW.geometry().topLeft().x()
+        yPos = MainW.geometry().topLeft().y()
+        GUI.setGeometry(xPos,yPos,846,582)
+        ########################
+        p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(name, e,)).start()
+        GUI.download(e)
+
+    # function to call after entering custom headline
+    def start_call(self):
         headline = self.lineEdit.text()
         file = "./data/custom.txt"
         with open(file, "w") as f:
@@ -46,6 +61,8 @@ class Ui_window(object):
 
     def setupUi(self, window):
         self.MainWindow = window
+        global MainW
+        MainW = window
         window.setObjectName(_fromUtf8("window"))
         window.resize(846, 582)
         sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Fixed)
