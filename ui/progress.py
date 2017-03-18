@@ -53,6 +53,7 @@ class Loading(QtGui.QMainWindow):
         time.sleep(0.5)
 
         self.label.setText("Analyzing Fetched Headlines")
+        QtGui.QProgressBar.reset(self.progress)
         self.analyseProgress = 0
         while not e.is_set():
             if self.analyseProgress > 98:
