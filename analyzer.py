@@ -97,6 +97,7 @@ def analyze(file):
                                 neg_score += score
                             else:
                                 pos_score += score
+                        continue
 
                     pos_score += breakdown.pos_score()
                     neg_score += breakdown.neg_score()
@@ -108,7 +109,7 @@ def analyze(file):
                     neg_score = -neg_score
 
                 print("Score = ", (pos_score + neg_score))
-                f.write(headline + ">> " + str(pos_score + neg_score))
+                f.write(headline + ">> " + str(pos_score + neg_score) + "\n")
                 # f.write("  >P="+str(pos_score)+"  >N="+str(neg_score)+"\n")
 
                 print("\n")
