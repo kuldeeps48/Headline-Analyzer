@@ -19,6 +19,7 @@ import threading
 # PAGE_LIMIT = no_of_headlines / 10 - 1
 # PAGE_LIMIT = 9
 SOURCE_CODE = "nyTimes"
+from Extractors.apiKeys import code
 
 
 # Multhreading class
@@ -55,7 +56,7 @@ def threaded_extractor(api_key, page_no, headlines):
     # Base URL for each thread, Call to url_formatter() removed for optimized time
     cur_date = time.strftime("%Y%m%d")
     fl = 'headline'
-    base_url = url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?begin_date=' + cur_date + '&end_date=' + cur_date + '&api-key=' + api_key + '&fl=' + fl
+    base_url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?begin_date=' + cur_date + '&end_date=' + cur_date + '&api-key=' + api_key + '&fl=' + fl
 
     index = page_no * 10
 
@@ -76,8 +77,8 @@ def threaded_extractor(api_key, page_no, headlines):
 def extractor(headlines):
     # Create and start threads
     threads = []
-    thread1 = booster('57502be1c0864fe9a3486459a49634bd', headlines, 0)
-    thread2 = booster('71e9100fcd7f4330a8247e0bb6ccc739', headlines, 5)
+    thread1 = booster(code['nyTimes1'], headlines, 0)
+    thread2 = booster(code['nyTimes2'], headlines, 5)
 
     threads.append(thread1)
     threads.append(thread2)
@@ -93,8 +94,9 @@ def extractor(headlines):
 # Module to be called from extractorRunner.py
 # Returns file populated with news headlines
 def scrapper():
-    # Fetch JSON data and return headlines list
+    # Initialize headlines
     headlines = []
+
     extractor(headlines)
     
     # Compute file path

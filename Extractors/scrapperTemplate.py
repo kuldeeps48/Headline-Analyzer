@@ -1,38 +1,33 @@
 ##########
 #
-# theGuardian.py
+# FILENAME.py
 # By Aadarsha Shrestha (aadarsha.shrestha.nepal@gmail.com, aadarsha@tutanota.com)
 #
-# Returns the headlines from The Guardian of the current day
-# API: http://open-platform.theguardian.com
-# 
+# Returns the current day's headlines from SOURCE
+# API:
+#
 # NOTE:
 #  - url_formatter(), extractor() are to be changed according to need
 #  - Do not change the modules: get_json(), scrapper()
-# 
-# Restrictions:	
-#		Up to 12 calls per second
-#		Up to 5,000 calls per day
-#		Access to article text
 #
-# Date: 11-03-2017
+#
+# Date: -03-2017
 #
 ##########
 
-#!/usr/bin/python3
+# !/usr/bin/python3
 import datetime, os, time, requests
 from Extractors.apiKeys import code
 
-
-source_code = "theGuardian"
+source_code = ""
 
 
 # Formats the Request
+# Returns base URL
 def url_formatter():
-    cur_date = time.strftime("%Y-%m-%d")
-    api_key = code['theGuardian']
-    use_date = 'published'
-    url = 'http://content.guardianapis.com/search?from-date=' + cur_date + '&to-date=' + cur_date + '&api-key=' + api_key + '&use-date=' + use_date
+    cur_date = time.strftime("%Y%m%d")
+    api_key = code['']
+    url = '' + cur_date + '' + cur_date + '&api-key=' + api_key
     return url
 
 
@@ -44,14 +39,13 @@ def get_json(url):
     return json_data
 
 
-# Headline extractor for The Guardian
+# Headline extractor
 # Returns headlines list
 def extractor(headlines):
     base_url = url_formatter()
 
     # Fetch JSON data and compute the total number of news articles
     json_data = get_json(base_url)
-
     total = json_data['response']['total']
     page_no = 1
 
@@ -67,8 +61,6 @@ def extractor(headlines):
         page_no += 1
         if total <= 0:
             break
-        
-    return headlines
 
 
 # Module to be called from extractorRunner.py
