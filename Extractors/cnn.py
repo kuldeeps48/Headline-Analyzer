@@ -6,6 +6,10 @@
 # Returns the current day's headlines from CNN
 # API: https://developer.cnn.com
 #
+# Restrictions:
+#   - 5 calls/seconds
+#   - 1000 calls/day
+#
 # NOTE:
 #  - url_formatter(), extractor() are to be changed according to need
 #  - Do not change the modules: get_json(), scrapper()
