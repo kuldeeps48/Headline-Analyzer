@@ -19,6 +19,7 @@ import threading
 # PAGE_LIMIT = no_of_headlines / 10 - 1
 # PAGE_LIMIT = 9
 SOURCE_CODE = "nyTimes"
+from Extractors.apiKeys import code
 
 
 # Multhreading class
@@ -76,8 +77,8 @@ def threaded_extractor(api_key, page_no, headlines):
 def extractor(headlines):
     # Create and start threads
     threads = []
-    thread1 = booster('57502be1c0864fe9a3486459a49634bd', headlines, 0)
-    thread2 = booster('71e9100fcd7f4330a8247e0bb6ccc739', headlines, 5)
+    thread1 = booster(code['nyTimes1'], headlines, 0)
+    thread2 = booster(code['nyTimes2'], headlines, 5)
 
     threads.append(thread1)
     threads.append(thread2)
@@ -112,3 +113,5 @@ def scrapper():
             tf.write(headline + "\n")
 
     return file
+
+scrapper()
