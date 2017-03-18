@@ -57,7 +57,7 @@ class Ui_window(object):
         with open(file, "w") as f:
             f.write(headline + "\n")
         # call analyzer
-        extractorRunner.runScrapper(file)
+        extractorRunner.runScrapper(file, None)
 
     def setupUi(self, window):
         self.MainWindow = window
