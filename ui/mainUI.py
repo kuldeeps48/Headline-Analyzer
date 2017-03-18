@@ -208,27 +208,3 @@ class Ui_window(object):
         window.setWindowTitle(_translate("window", "Opinion Mining Of News Headlines", None))
         self.lineEdit.setPlaceholderText(
             _translate("window", "    Choose from above, or enter your headline here", None))
-
-
-# For splash screen ~~
-def drawSplash():
-    # Create and display the splash screen
-    splash_pix = QPixmap('images\splash.jpg')
-    splash = QSplashScreen(splash_pix, Qt.WindowStaysOnTopHint)
-    splash.setMask(splash_pix.mask())
-    splash.show()
-    # app.processEvents()
-
-    # Simulate something that takes time
-    time.sleep(2)
-
-
-def startUI():
-    app = QtGui.QApplication(sys.argv)
-    drawSplash()  # Splash screen for 2 seconds
-
-    window = QtGui.QDialog()
-    ui = Ui_window()
-    ui.setupUi(window)
-    window.show()
-    sys.exit(app.exec_())
