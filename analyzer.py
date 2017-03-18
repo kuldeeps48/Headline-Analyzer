@@ -34,10 +34,11 @@ def cleanHeadlineString(headline):
 
 
 def analyze(file):
+    outputFile = file[:-4] + "scores.txt"
     with open(file, mode="r") as data:
-        with open('data\output1.txt', "w") as f: # Open once in write more to remove previous data
+        with open(outputFile, "w") as f: # Open once in write more to remove previous data
             pass
-        with open('data\output1.txt', "a") as f: # open file once to append data for each headline
+        with open(outputFile, "a") as f: # open file once to append data for each headline
             for headline in data:
                 if len(headline) > 120: # Skip Huge Headlines
                     continue
