@@ -21,6 +21,7 @@
 
 #!/usr/bin/python3
 import datetime, os, time, requests
+from Extractors.apiKeys import code
 
 
 source_code = "theGuardian"
@@ -29,7 +30,7 @@ source_code = "theGuardian"
 # Formats the Request
 def url_formatter():
     cur_date = time.strftime("%Y-%m-%d")
-    api_key = '77ed6500-5bea-4fbc-9709-27b6fc6d2d60'
+    api_key = code['theGuardian']
     use_date = 'published'
     url = 'http://content.guardianapis.com/search?from-date=' + cur_date + '&to-date=' + cur_date + '&api-key=' + api_key + '&use-date=' + use_date
     return url
