@@ -67,7 +67,7 @@ def scrapper():
     # Compute file path
     today = str(datetime.date.today())
 
-    directory = "./data/" + source_code + "/" + today
+    directory = "./data/timesOfIndia/" + today
     if not os.path.exists(directory):
         os.makedirs(directory)
 
