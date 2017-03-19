@@ -30,6 +30,9 @@ except AttributeError:
 MainW = 0
 
 class Ui_window(object):
+
+    # analysis_is_done = False
+
     def selected_extractor(self, name):
         button_to_name = {"pushButton": "times of india", "pushButton_2": "hindu", "pushButton_3": "guardian",
                           "pushButton_4": "new york times", "pushButton_5": "google news", "pushButton_6": "CNN",
@@ -47,8 +50,11 @@ class Ui_window(object):
         yPos = MainW.geometry().topLeft().y()
         GUI.setGeometry(xPos,yPos,846,582)
         ########################
-        p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(name, e,)).start()
+        p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(name, e,))
+        p.start()
         GUI.download(e)
+        p.join()
+        # self.analysis_is_done = True
 
     # function to call after entering custom headline
     def start_call(self):
@@ -57,7 +63,7 @@ class Ui_window(object):
         with open(file, "w") as f:
             f.write(headline + "\n")
         # call analyzer
-        extractorRunner.runScrapper(file)
+        extractorRunner.runScrapper(file, None)
 
     def setupUi(self, window):
         self.MainWindow = window
@@ -208,27 +214,3 @@ class Ui_window(object):
         window.setWindowTitle(_translate("window", "Opinion Mining Of News Headlines", None))
         self.lineEdit.setPlaceholderText(
             _translate("window", "    Choose from above, or enter your headline here", None))
-
-
-# For splash screen ~~
-def drawSplash():
-    # Create and display the splash screen
-    splash_pix = QPixmap('images\splash.jpg')
-    splash = QSplashScreen(splash_pix, Qt.WindowStaysOnTopHint)
-    splash.setMask(splash_pix.mask())
-    splash.show()
-    # app.processEvents()
-
-    # Simulate something that takes time
-    time.sleep(2)
-
-
-def startUI():
-    app = QtGui.QApplication(sys.argv)
-    drawSplash()  # Splash screen for 2 seconds
-
-    window = QtGui.QDialog()
-    ui = Ui_window()
-    ui.setupUi(window)
-    window.show()
-    sys.exit(app.exec_())
