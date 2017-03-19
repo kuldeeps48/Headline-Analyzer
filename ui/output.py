@@ -16,6 +16,7 @@ from matplotlib.backends.backend_qt4agg import FigureCanvasQTAgg as FigureCanvas
 import matplotlib.pyplot as plt
 from os import path
 from wordcloud import WordCloud
+import os
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -32,16 +33,12 @@ except AttributeError:
         return QtGui.QApplication.translate(context, text, disambig)
 
 
-def drawWordCloud(self):
+def drawWordCloud():
     # Read the whole text.
     text = open(r'..\data\googleNews\2017-03-18\2017-03-18.txt').read()
     # Generate a word cloud image
-    wordcloud = WordCloud().generate(text)
-    # Display the generated image:
-    # the matplotlib way:
-    plt.imshow(wordcloud, interpolation='bilinear',aspect="auto")
-    plt.axis("off")
-    self.canvas.draw()
+    wordcloud = WordCloud(width=491,height=301).generate(text)
+    wordcloud.to_file("..\data\wc.png")
 
 
 def makeGraph(graphView):
@@ -83,13 +80,12 @@ class Ui_Dialog(object):
         makeGraph(self.Graph)
 
         # wordCloud
-        self.figure = plt.figure()
-        self.canvas = FigureCanvas(self.figure)
-        self.wordCloud = MatplotlibWidget(Dialog)
+        self.wordCloud = pic = QtGui.QLabel(Dialog)
         self.wordCloud.setGeometry(QtCore.QRect(60, 40, 491, 301))
         self.wordCloud.setObjectName(_fromUtf8("wordCloud"))
+        drawWordCloud()
+        self.wordCloud.setPixmap(QtGui.QPixmap("..\data\wc.png"))
 
-        drawWordCloud(self.wordCloud)
 
 
 
