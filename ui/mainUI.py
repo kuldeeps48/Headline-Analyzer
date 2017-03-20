@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import multiprocessing
+import subprocess
 
 import images.mainuiImages  # images for mainUI
 from PyQt4 import QtCore, QtGui
@@ -9,6 +10,7 @@ import sys, time
 
 import extractorRunner
 from ui.progress import Loading
+from ui.output import showOutput
 
 
 try:
@@ -43,19 +45,25 @@ class Ui_window(object):
         sending_button = self.MainWindow.sender()
         name = button_to_name[str(sending_button.objectName())]
 
-        e = multiprocessing.Event() #To synchronize progress bar
         # create loading screen#####################
         GUI = Loading()
         xPos = MainW.geometry().topLeft().x()
         yPos = MainW.geometry().topLeft().y()
         GUI.setGeometry(xPos,yPos,846,582)
         ###########################################
+
+        e = multiprocessing.Event()  # To synchronize progress bar
         queue = multiprocessing.Queue() # To get score file from threaded process
         p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(name, e, queue))
         p.start()
         GUI.download(e)
         outputFile = queue.get()
         p.join()
+
+        #Show output
+        outputProcess = subprocess.Popen("python ./ui/output.py " + outputFile, shell=True)
+        outputProcess.wait()
+
 
 
     # function to call after entering custom headline

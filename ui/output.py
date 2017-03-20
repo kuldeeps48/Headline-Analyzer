@@ -32,7 +32,7 @@ def drawWordCloud():
     text = open(displayingfile).read()
     # Generate a word cloud image
     wordcloud = WordCloud(width=560,height=321).generate(text)
-    wordcloud.to_file("..\data\wc.png")
+    wordcloud.to_file("./data/wc.png")
 
 
 def makeGraph(graphView):
@@ -124,7 +124,7 @@ class Ui_Dialog(object):
         self.wordCloud.setGeometry(QtCore.QRect(40, 30, 560, 321))
         self.wordCloud.setObjectName(_fromUtf8("wordCloud"))
         drawWordCloud()
-        self.wordCloud.setPixmap(QtGui.QPixmap("..\data\wc.png"))
+        self.wordCloud.setPixmap(QtGui.QPixmap("./data/wc.png"))
 
 
 
@@ -264,12 +264,9 @@ class Ui_Dialog(object):
         self.Value2.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#ffffff;\">0.0</span></p></body></html>", None))
 
 
-
-
-
-def showOutput(file):
+def showOutput():
     global displayingfile
-    displayingfile = file
+    displayingfile = sys.argv[1]  # Take scores file as command line argument
     app = QtGui.QApplication(sys.argv)
     Dialog = QtGui.QDialog()
     ui = Ui_Dialog()
@@ -280,7 +277,7 @@ def showOutput(file):
     sys.exit(app.exec_())
 
 if __name__ == "__main__":
-    showOutput(r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\redditWorldNews\2017-03-18\2017-03-18scores.txt')
+    showOutput()
 
 
 
