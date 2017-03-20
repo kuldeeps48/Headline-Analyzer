@@ -19,7 +19,7 @@ source_functions = {"google news": googleScrapper, "reddit news": redditScrapper
                     "times of india":toiScrapper}
 
 
-def runScrapper(source,e):  # Button press function
+def runScrapper(source, e, queue):  # Button press function
     if source in source_functions:
         print("Starting ", source, " Extraction")
         fileToAnalyze = source_functions[source]()
@@ -28,9 +28,10 @@ def runScrapper(source,e):  # Button press function
         time.sleep(0.4)  # To ensure progress bar shows done
         e.clear()  # reset flag
         print("Calling Analyzer on file ", fileToAnalyze)
-        analyzer.analyze(fileToAnalyze)
+        output_file = analyzer.analyze(fileToAnalyze)
         time.sleep(0.2)
         e.set()  # Done analysis
+        queue.put(output_file)
 
     else:
         # Custom Headline

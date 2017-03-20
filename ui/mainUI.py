@@ -43,18 +43,20 @@ class Ui_window(object):
         sending_button = self.MainWindow.sender()
         name = button_to_name[str(sending_button.objectName())]
 
-        e = multiprocessing.Event()
-        # create loading screen
+        e = multiprocessing.Event() #To synchronize progress bar
+        # create loading screen#####################
         GUI = Loading()
         xPos = MainW.geometry().topLeft().x()
         yPos = MainW.geometry().topLeft().y()
         GUI.setGeometry(xPos,yPos,846,582)
-        ########################
-        p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(name, e,))
+        ###########################################
+        queue = multiprocessing.Queue() # To get score file from threaded process
+        p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(name, e, queue))
         p.start()
         GUI.download(e)
+        outputFile = queue.get()
         p.join()
-        # self.analysis_is_done = True
+
 
     # function to call after entering custom headline
     def start_call(self):

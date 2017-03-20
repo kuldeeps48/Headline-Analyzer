@@ -109,6 +109,6 @@ def analyze(file):
 
                 print("\n")
 
-
+    return outputFile
 
 
