@@ -6,6 +6,7 @@ from pyqtgraph import PlotWidget
 import pyqtgraph as pg
 from wordcloud import WordCloud
 import sys
+from pathlib import Path
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -33,6 +34,7 @@ def drawWordCloud():
     # Generate a word cloud image
     wordcloud = WordCloud(width=560,height=321).generate(text)
     wordcloud.to_file("./data/wc.png")
+    #wordcloud.to_file("../data/wc.png") #testing
 
 
 def makeGraph(graphView):
@@ -49,6 +51,35 @@ def makeGraph(graphView):
 
 
 class Ui_Dialog(object):
+    def dateSelected(self):
+        x = self.calendarWidget.selectedDate()
+        day = x.day()
+        month = x.month()
+        year = x.year()
+        if day < 10: # since we get 1,2,3,4...instead of 01,02,03...
+            day = "0" + str(day)
+        if month < 10:
+            month = "0" + str(month)
+
+        selected_date = str(year) + "-" + str(month) + "-" + str(day)
+        global displayingfile
+        displayingfile = displayingfile[:-31] # remove previous dates from file location name
+        displayingfile += selected_date + "\\" + selected_date + "scores.txt"
+
+        my_file = Path(displayingfile)
+        if my_file.is_file(): # if file exists for selected date
+            self.Graph.plotItem.clear() #reset graph
+            makeGraph(self.Graph)
+
+            drawWordCloud()
+            self.wordCloud.setPixmap(QtGui.QPixmap("./data/wc.png"))
+            # self.wordCloud.setPixmap(QtGui.QPixmap("../data/wc.png"))  #testing
+
+            global lineNumber
+            lineNumber = 0
+            self.nextFourHeadlines()
+
+
 
     def nextFourHeadlines(self):
         count = 0
@@ -125,6 +156,7 @@ class Ui_Dialog(object):
         self.wordCloud.setObjectName(_fromUtf8("wordCloud"))
         drawWordCloud()
         self.wordCloud.setPixmap(QtGui.QPixmap("./data/wc.png"))
+        #self.wordCloud.setPixmap(QtGui.QPixmap("../data/wc.png")) #testing
 
 
 
@@ -135,6 +167,10 @@ class Ui_Dialog(object):
         self.calendarWidget.setMinimumDate(QtCore.QDate(2017, 1, 2))
         self.calendarWidget.setMaximumDate(QtCore.QDate(2017, 12, 31))
         self.calendarWidget.setObjectName(_fromUtf8("calendarWidget"))
+        self.calendarWidget.clicked.connect(self.dateSelected)
+
+
+        #Calender Label
         self.CalenderLabel = QtGui.QLabel(Dialog)
         self.CalenderLabel.setGeometry(QtCore.QRect(770, 370, 491, 51))
         self.CalenderLabel.setAutoFillBackground(False)
@@ -146,6 +182,7 @@ class Ui_Dialog(object):
         self.CalenderLabel.setWordWrap(True)
         self.CalenderLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.CalenderLabel.setObjectName(_fromUtf8("CalenderLabel"))
+
 
         #Headline1
         self.Headline1 = QtGui.QLabel(Dialog)
@@ -264,9 +301,10 @@ class Ui_Dialog(object):
         self.Value2.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#ffffff;\">0.0</span></p></body></html>", None))
 
 
-def showOutput():
+def showOutput(): #testing: add parameter
     global displayingfile
-    displayingfile = sys.argv[1]  # Take scores file as command line argument
+    displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
+    #displayingfile = file # testing
     app = QtGui.QApplication(sys.argv)
     Dialog = QtGui.QDialog()
     ui = Ui_Dialog()
@@ -278,6 +316,6 @@ def showOutput():
 
 if __name__ == "__main__":
     showOutput()
-
-
+    #for testing purpose
+    #showOutput(r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\nyTimes\2017-03-20\2017-03-20scores.txt')
 
