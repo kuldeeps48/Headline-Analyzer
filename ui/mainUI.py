@@ -36,6 +36,8 @@ class Ui_window(object):
     # analysis_is_done = False
 
     def selected_extractor(self, name):
+        self.customScoreLabel.hide()  # remove custom score label if present
+        QApplication.processEvents()  # redraw UI
         button_to_name = {"pushButton": "times of india", "pushButton_2": "hindu", "pushButton_3": "guardian",
                           "pushButton_4": "new york times", "pushButton_5": "google news", "pushButton_6": "CNN",
                           "pushButton_7": "reddit news", "pushButton_8": "reddit world news",
@@ -63,8 +65,7 @@ class Ui_window(object):
         #Show output
         outputProcess = subprocess.Popen("python ./ui/output.py " + outputFile, shell=True)
         outputProcess.wait()
-
-
+        QApplication.processEvents()  # redraw UI
 
     # function to call after entering custom headline
     def start_call(self):
@@ -73,7 +74,31 @@ class Ui_window(object):
         with open(file, "w") as f:
             f.write(headline + "\n")
         # call analyzer
-        extractorRunner.runScrapper(file, None)
+        e = multiprocessing.Event()
+        queue = multiprocessing.Queue()
+        p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(file, e, queue))
+        p.start()
+        outputFile = queue.get()
+        p.join()
+    
+        with open(outputFile, "r") as f:
+            f.readline()
+            score = f.readline()[3:-1]
+
+        self.customScoreLabel.setGeometry(QtCore.QRect(110, 530, 491, 51))
+        self.customScoreLabel.setAutoFillBackground(False)
+        self.customScoreLabel.setStyleSheet(_fromUtf8("background:transparent;"))
+        self.customScoreLabel.setFrameShadow(QtGui.QFrame.Plain)
+        self.customScoreLabel.setText(_fromUtf8(
+            "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; font-weight:600; color:black;\">\
+            Analyzed Score: " + score +"<u></u></span></p></body></html>"))
+        self.customScoreLabel.setTextFormat(QtCore.Qt.RichText)
+        self.customScoreLabel.setAlignment(QtCore.Qt.AlignCenter)
+        self.customScoreLabel.setWordWrap(True)
+        self.customScoreLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
+        self.customScoreLabel.setObjectName(_fromUtf8("customScoreLabel"))
+
+
 
     def setupUi(self, window):
         self.MainWindow = window
@@ -216,6 +241,10 @@ class Ui_window(object):
         self.pushButton_11.setObjectName(_fromUtf8("pushButton_11"))
         #######Button Event########
         self.pushButton_11.clicked.connect(self.start_call)
+
+        # Label to show custom score
+        self.customScoreLabel = QtGui.QLabel(window)
+
 
         self.retranslateUi(window)
         QtCore.QMetaObject.connectSlotsByName(window)

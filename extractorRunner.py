@@ -35,4 +35,6 @@ def runScrapper(source, e, queue):  # Button press function
 
     else:
         # Custom Headline
-        analyzer.analyze(source)  # Analyze custom headline file
+        output_file = analyzer.analyze(source)  # Analyze custom headline file
+        e.set()  # Done analysis
+        queue.put(output_file)
