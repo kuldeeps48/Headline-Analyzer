@@ -27,7 +27,10 @@ def googleScrapper():
                           /a/span[@class="titletext"]/text()')
 
         with open(file, "w") as f:
-            f.write("\n".join(news))
+            try:
+                f.write("\n".join(news))
+            except UnicodeEncodeError:
+                pass
 
     return file
 
