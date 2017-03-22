@@ -4,67 +4,37 @@
 # By Aadarsha Shrestha (aadarsha.shrestha.nepal@gmail.com, aadarsha@tutanota.com)
 #
 # Returns the current day's headlines from CNN
-# API: https://developer.cnn.com
-#
-# Restrictions:
-#   - 5 calls/seconds
-#   - 1000 calls/day
+# API: (RSS) http://edition.cnn.com/services/rss/
 #
 # NOTE:
-#  - url_formatter(), extractor() are to be changed according to need
-#  - Do not change the modules: get_json(), scrapper()
+#  - Update URLs only
 #
 #
-# Date: 18-03-2017
+# Date: 22-03-2017
 #
 ##########
 
 # !/usr/bin/python3
-import datetime, os, time, requests
-from Extractors.apiKeys import code
-
-source_code = "cnn"
-
-
-# Formats the Request
-# Returns base URL
-def url_formatter():
-    cur_date = time.strftime("%Y%m%d")
-    api_key = code['cnn']
-    url = '' + cur_date + '' + cur_date + '&api-key=' + api_key
-    return url
-
-
-# Fetches JSON data and parses it
-# Returns JSON object
-def get_json(url):
-    response = requests.get(url)
-    json_data = response.json()
-    return json_data
+import datetime, os, feedparser
+SOURCE_CODE = "cnn"
 
 
 # Headline extractor
 # Returns headlines list
 def extractor(headlines):
-    base_url = url_formatter()
+    # URL for RSS feed
+    base_url = []
+    base_url.append('http://rss.cnn.com/rss/edition.rss') # Top Stories
+    base_url.append('http://rss.cnn.com/rss/cnn_latest.rss') # Most Recent
 
-    # Fetch JSON data and compute the total number of news articles
-    json_data = get_json(base_url)
-    total = json_data['response']['total']
-    page_no = 1
+    for i in range(2):
+        # Parse RSS feed
+        feed = feedparser.parse(base_url[i])
 
-    # Return news headlines
-    while True:
-        url = base_url + '&page-size=200' + '&page=' + str(page_no)
-        json_data = get_json(url)
-
-        for single_news in json_data['response']['results']:
-            headlines.append(single_news['webTitle'])
-
-        total -= 200
-        page_no += 1
-        if total <= 0:
-            break
+        # Append headline to list
+        for single_news in feed['entries']:
+            headlines.append(single_news["title"])
+            #headlines.append(unidecode.unidecode(single_news["title"]))
 
 
 # Module to be called from extractorRunner.py
@@ -78,7 +48,7 @@ def scrapper():
     # Compute file path
     today = str(datetime.date.today())
 
-    directory = "./data/" + source_code + "/" + today
+    directory = "./data/" + SOURCE_CODE + '/' + today
     if not os.path.exists(directory):
         os.makedirs(directory)
 
