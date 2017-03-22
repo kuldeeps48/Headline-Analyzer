@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 import multiprocessing
+import os
+import signal
 import subprocess
 
 import images.mainuiImages  # images for mainUI
@@ -7,11 +9,11 @@ from PyQt4 import QtCore, QtGui
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
 import sys, time
+from ui import customLoading
 
 import extractorRunner
 from ui.progress import Loading
 from ui.output import showOutput
-
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -31,8 +33,8 @@ except AttributeError:
 
 MainW = 0
 
-class Ui_window(object):
 
+class Ui_window(object):
     # analysis_is_done = False
 
     def selected_extractor(self, name):
@@ -51,18 +53,18 @@ class Ui_window(object):
         GUI = Loading()
         xPos = MainW.geometry().topLeft().x()
         yPos = MainW.geometry().topLeft().y()
-        GUI.setGeometry(xPos,yPos,846,582)
+        GUI.setGeometry(xPos, yPos, 846, 582)
         ###########################################
 
         e = multiprocessing.Event()  # To synchronize progress bar
-        queue = multiprocessing.Queue() # To get score file from threaded process
+        queue = multiprocessing.Queue()  # To get score file from threaded process
         p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(name, e, queue))
         p.start()
         GUI.download(e)
         outputFile = queue.get()
         p.join()
 
-        #Show output
+        # Show output
         outputProcess = subprocess.Popen("python ./ui/output.py " + outputFile, shell=True)
         outputProcess.wait()
         QApplication.processEvents()  # redraw UI
@@ -76,29 +78,37 @@ class Ui_window(object):
         # call analyzer
         e = multiprocessing.Event()
         queue = multiprocessing.Queue()
+
+        ### Show loading
+        xPos = MainW.geometry().topLeft().x()
+        yPos = MainW.geometry().topLeft().y()
+        gifProcess = subprocess.Popen(['python','./ui/customLoading.py', str(xPos), str(yPos)])
+        ###
+        QApplication.processEvents()
         p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(file, e, queue))
         p.start()
+        QApplication.processEvents()
         outputFile = queue.get()
-        p.join()
-    
+        
+        ### Stop loading
+        gifProcess.kill()
+
         with open(outputFile, "r") as f:
             f.readline()
             score = f.readline()[3:-1]
 
-        self.customScoreLabel.setGeometry(QtCore.QRect(110, 530, 491, 51))
+        self.customScoreLabel.setGeometry(QtCore.QRect(160, 530, 491, 51))
         self.customScoreLabel.setAutoFillBackground(False)
         self.customScoreLabel.setStyleSheet(_fromUtf8("background:transparent;"))
         self.customScoreLabel.setFrameShadow(QtGui.QFrame.Plain)
         self.customScoreLabel.setText(_fromUtf8(
-            "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; font-weight:600; color:black;\">\
-            Analyzed Score: " + score +"<u></u></span></p></body></html>"))
+            "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt;font-family:'Lucida Calligraphy';font-weight:600; color:black;\">\
+            Analyzed Score: " + score + "<u></u></span></p></body></html>"))
         self.customScoreLabel.setTextFormat(QtCore.Qt.RichText)
         self.customScoreLabel.setAlignment(QtCore.Qt.AlignCenter)
         self.customScoreLabel.setWordWrap(True)
         self.customScoreLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.customScoreLabel.setObjectName(_fromUtf8("customScoreLabel"))
-
-
 
     def setupUi(self, window):
         self.MainWindow = window
@@ -244,7 +254,6 @@ class Ui_window(object):
 
         # Label to show custom score
         self.customScoreLabel = QtGui.QLabel(window)
-
 
         self.retranslateUi(window)
         QtCore.QMetaObject.connectSlotsByName(window)
