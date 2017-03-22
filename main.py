@@ -1,4 +1,5 @@
 from ui.mainUI import *
+from pathlib import Path
 
 
 # For splash screen ~~
@@ -14,7 +15,6 @@ def drawSplash():
 
 if __name__ == "__main__":
     app = QtGui.QApplication(sys.argv)
-
     # Splash screen for 2 seconds
     drawSplash()
     # Create main Window

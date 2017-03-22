@@ -65,8 +65,9 @@ class Ui_window(object):
         p.join()
 
         # Show output
-        outputProcess = subprocess.Popen("python ./ui/output.py " + outputFile, shell=True)
+        outputProcess = subprocess.Popen("python ./ui/output.py " + outputFile)
         outputProcess.wait()
+        self.customScoreLabel.show()
         QApplication.processEvents()  # redraw UI
 
     # function to call after entering custom headline
@@ -89,7 +90,7 @@ class Ui_window(object):
         p.start()
         QApplication.processEvents()
         outputFile = queue.get()
-        
+
         ### Stop loading
         gifProcess.kill()
 
