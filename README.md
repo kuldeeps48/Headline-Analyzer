@@ -2,7 +2,7 @@
 
 
 For a demo of current stage: 
-- Open project in PyCharm IDE or run with `python3 main.pyw` command.
+- Open project in PyCharm IDE or run with `python3 main.py` command.
 - Read `requirements.txt`. Download required dependencies. 
 - Run `main.pyw ` inside PyCharm
 - 5 sources (Guardian, Google news, Reddit, Worldnews,

@@ -65,7 +65,7 @@ class Ui_window(object):
         p.join()
 
         # Show output
-        outputProcess = subprocess.Popen("python ./ui/output.py " + outputFile)
+        outputProcess = subprocess.Popen("python -m ui.output " + outputFile)
         outputProcess.wait()
         self.customScoreLabel.show()
         QApplication.processEvents()  # redraw UI
@@ -83,7 +83,7 @@ class Ui_window(object):
         ### Show loading
         xPos = MainW.geometry().topLeft().x()
         yPos = MainW.geometry().topLeft().y()
-        gifProcess = subprocess.Popen(['python','./ui/customLoading.py', str(xPos), str(yPos)])
+        gifProcess = subprocess.Popen("python ./ui/customLoading.py " + str(xPos) + " " + str(yPos))
         ###
         QApplication.processEvents()
         p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(file, e, queue))
