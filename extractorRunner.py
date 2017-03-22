@@ -7,6 +7,7 @@ from Extractors.redditWorldNews import redditWorldScrapper
 from Extractors.theGuardian import scrapper as guardianScrapper
 from Extractors.nyTimes import scrapper as nyTimesScrapper
 from Extractors.timesOfIndia import scrapper as toiScrapper
+from Extractors.cnn import scrapper as cnnScrapper
 
 """Names to use in source_functions when adding remaining scrappers
     These will insure proper calling from MainUI:-
@@ -16,7 +17,7 @@ from Extractors.timesOfIndia import scrapper as toiScrapper
 source_functions = {"google news": googleScrapper, "reddit news": redditScrapper,
                     "reddit world news": redditWorldScrapper,
                     "guardian": guardianScrapper, "new york times": nyTimesScrapper,
-                    "times of india":toiScrapper}
+                    "times of india":toiScrapper, "cnn": cnnScrapper}
 
 
 def runScrapper(source, e, queue):  # Button press function
