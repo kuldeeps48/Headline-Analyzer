@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 
-import images.outputResources  # Image file
+import sys
+from datetime import date, timedelta
+from pathlib import Path
+import images.outputResources
+import pyqtgraph as pg
 from PyQt4 import QtCore, QtGui
 from pyqtgraph import PlotWidget
-import pyqtgraph as pg
 from wordcloud import WordCloud
-import sys, os
-from pathlib import Path
-from datetime import date, timedelta
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -336,7 +336,6 @@ class Ui_Dialog(object):
 
 
 def showOutput():  # testing: add parameter
-    # os.chdir("../") Testing
     global displayingfile
     displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
     # displayingfile = file  # testing

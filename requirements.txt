@@ -3,7 +3,8 @@
 
 # images\mainuiImages.py: 9
 # images\outputResources.py: 9
-# ui\mainUI.py: 6,7,8
+# ui\customLoading.py: 3
+# ui\mainUI.py: 8,9,10
 # ui\output.py: 4
 # ui\progress.py: 2
 PyQt4 == 4.11.4
@@ -23,7 +24,7 @@ praw == 4.4.0
 prawcore == 0.8.0
 
 # ui\output.py: 5,6
-pyqtgraph == 0.10.0.egg
+pyqtgraph == 0.10.0
 
 # Extractors\cnn.py: 23
 # Extractors\googleNews.py: 3

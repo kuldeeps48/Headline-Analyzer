@@ -43,8 +43,6 @@ def analyze(file):
                 if len(headline) > 120: # Skip Huge Headlines
                     continue
 
-                print(headline)
-
                 # remove special characters & make it lower case
                 headline_to_analyze = cleanHeadlineString(headline)
 
@@ -103,11 +101,8 @@ def analyze(file):
                 if neg_score > 0:
                     neg_score = -neg_score
 
-                print("Score = ", (pos_score + neg_score))
                 f.write(headline + ">> " + str(pos_score + neg_score) + "\n")
                 # f.write("  >P="+str(pos_score)+"  >N="+str(neg_score)+"\n")
-
-                print("\n")
 
     return outputFile
 
