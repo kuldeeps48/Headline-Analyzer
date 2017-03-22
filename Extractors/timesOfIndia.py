@@ -19,7 +19,7 @@
 import datetime, os, requests
 from Extractors.apiKeys import code
 
-source_code = "timesOfIndia"
+SOURCE_CODE = "timesOfIndia"
 
 '''
 # Formats the Request
@@ -67,7 +67,7 @@ def scrapper():
     # Compute file path
     today = str(datetime.date.today())
 
-    directory = "./data/timesOfIndia/" + today
+    directory = "./data/" + SOURCE_CODE + "/" + today
     if not os.path.exists(directory):
         os.makedirs(directory)
 
