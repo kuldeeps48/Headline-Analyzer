@@ -44,14 +44,32 @@ def drawWordCloud():
 def makeGraph(graphView):
     pg.setConfigOptions(antialias=True)
 
-    y_axis = []
+    y_axis_pos = []
+    x_axis_pos = []
+    y_axis_neg = []
+    x_axis_neg = []
+    y_axis_zero = []
+    x_axis_zero = []
+    line_counter = 0
     with open(displayingfile, "r") as f:
         for line in f:
             if line.startswith(">>"):
                 num = float(line[3:].rstrip("\n"))
-                y_axis.append(num)
-    x_axis = list(range(1, len(y_axis) + 1))
-    graphView.plot(x_axis, y_axis, pen=(200, 200, 200), symbolBrush=(255, 0, 0), symbolPen='b')
+                line_counter += 1
+                if num > 0:
+                    y_axis_pos.append(num)
+                    x_axis_pos.append(line_counter)
+                if num < 0:
+                    y_axis_neg.append(num)
+                    x_axis_neg.append(line_counter)
+                if num == 0:
+                    y_axis_zero.append(num)
+                    x_axis_zero.append(line_counter)
+
+    graphView.plot(x_axis_pos, y_axis_pos, pen=(200, 200, 200), symbolBrush=(0, 255, 0), symbolPen='r')
+    graphView.plot(x_axis_neg, y_axis_neg, pen=(200,200,200), symbolBrush=(255, 0, 0), symbolPen='b')
+    graphView.plot(x_axis_zero, y_axis_zero, pen=(0, 0, 0), symbolBrush=(255, 255, 255), symbolPen='k')
+
 
 
 class Ui_Dialog(object):
@@ -60,7 +78,14 @@ class Ui_Dialog(object):
         global displayingfile
         global outputDate
         today = outputDate  # Get output date, compute 1 week from that date
-        y_axis = []
+
+        y_axis_pos = []
+        x_axis_pos = []
+        y_axis_neg = []
+        x_axis_neg = []
+        y_axis_zero = []
+        x_axis_zero = []
+        line_counter = 0
         for i in range(0, 7):
             temp = displayingfile[:-31]
             weekDate = today - timedelta(days=i)
@@ -70,13 +95,24 @@ class Ui_Dialog(object):
                     for line in f:
                         if line.startswith(">>"):
                             num = float(line[3:].rstrip("\n"))
-                            y_axis.append(num)
+                            line_counter += 1
+                            if num > 0:
+                                y_axis_pos.append(num)
+                                x_axis_pos.append(line_counter)
+                            if num < 0:
+                                y_axis_neg.append(num)
+                                x_axis_neg.append(line_counter)
+                            if num == 0:
+                                y_axis_zero.append(num)
+                                x_axis_zero.append(line_counter)
+                line_counter += 1
             except FileNotFoundError:  # If data does not exists, ignore
                 continue
 
-        x_axis = list(range(1, len(y_axis) + 1))
         self.Graph.plotItem.clear()  # reset graph
-        self.Graph.plot(x_axis, y_axis, pen=(200, 200, 200), symbolBrush=(255, 0, 0), symbolPen='b')
+        self.Graph.plot(x_axis_pos, y_axis_pos, pen=(200, 200, 200), symbolBrush=(0, 255, 0), symbolPen='r')
+        self.Graph.plot(x_axis_neg, y_axis_neg, pen=(200, 200, 200), symbolBrush=(255, 0, 0), symbolPen='b')
+        self.Graph.plot(x_axis_zero, y_axis_zero, pen=(0, 0, 0), symbolBrush=(255, 255, 255), symbolPen='k')
 
     def dateSelected(self):
         x = self.calendarWidget.selectedDate()
@@ -120,7 +156,9 @@ class Ui_Dialog(object):
                 data1[i] = temp
 
             for i, line in enumerate(data2):  # Remove >> and \n from scores
-                temp = line[3:-1]
+                temp = line[3:8]
+                if temp[0] != "-":
+                    temp = " " + temp
                 data2[i] = temp
 
             lineNumber += 8
@@ -177,6 +215,20 @@ class Ui_Dialog(object):
         self.Graph.setObjectName(_fromUtf8("Graph"))
         makeGraph(self.Graph)
 
+        # Graph Label
+        self.GraphLabel = QtGui.QLabel(Dialog)
+        self.GraphLabel.setGeometry(QtCore.QRect(670, 1, 651, 28 ))
+        self.GraphLabel.setAutoFillBackground(False)
+        self.GraphLabel.setStyleSheet(_fromUtf8("background:transparent;"))
+        self.GraphLabel.setFrameShadow(QtGui.QFrame.Plain)
+        self.GraphLabel.setText(_fromUtf8(
+            "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600; color:#fff2af;\"><u>Opinion Graph Of Headlines</u></span></p></body></html>"))
+        self.GraphLabel.setTextFormat(QtCore.Qt.RichText)
+        self.GraphLabel.setAlignment(QtCore.Qt.AlignCenter)
+        self.GraphLabel.setWordWrap(True)
+        self.GraphLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
+        self.GraphLabel.setObjectName(_fromUtf8("GraphLabel"))
+
         # wordCloud
         self.wordCloud = pic = QtGui.QLabel(Dialog)
         self.wordCloud.setGeometry(QtCore.QRect(40, 30, 560, 321))
@@ -185,8 +237,20 @@ class Ui_Dialog(object):
         self.wordCloud.setPixmap(QtGui.QPixmap("./data/wc.png"))
         # self.wordCloud.setPixmap(QtGui.QPixmap("../data/wc.png")) #testing
 
-
-
+        # WordCloud Label
+        self.WordCloudLabel = QtGui.QLabel(Dialog)
+        self.WordCloudLabel.setGeometry(QtCore.QRect(40, 1, 560, 28))
+        self.WordCloudLabel.setAutoFillBackground(False)
+        self.WordCloudLabel.setStyleSheet(_fromUtf8("background:transparent;"))
+        self.WordCloudLabel.setFrameShadow(QtGui.QFrame.Plain)
+        self.WordCloudLabel.setText(_fromUtf8(
+            "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600; color:#fff2af;\">\
+            <u>Hot Topics Based On Usage Frequency In Headlines</u></span></p></body></html>"))
+        self.WordCloudLabel.setTextFormat(QtCore.Qt.RichText)
+        self.WordCloudLabel.setAlignment(QtCore.Qt.AlignCenter)
+        self.WordCloudLabel.setWordWrap(True)
+        self.WordCloudLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
+        self.WordCloudLabel.setObjectName(_fromUtf8("WordCloudLabel"))
 
         # Calender
         self.calendarWidget = QtGui.QCalendarWidget(Dialog)
@@ -198,7 +262,7 @@ class Ui_Dialog(object):
 
         # Calender Label
         self.CalenderLabel = QtGui.QLabel(Dialog)
-        self.CalenderLabel.setGeometry(QtCore.QRect(770, 370, 491, 51))
+        self.CalenderLabel.setGeometry(QtCore.QRect(760, 370, 491, 51))
         self.CalenderLabel.setAutoFillBackground(False)
         self.CalenderLabel.setStyleSheet(_fromUtf8("background:transparent;"))
         self.CalenderLabel.setFrameShadow(QtGui.QFrame.Plain)
@@ -209,16 +273,6 @@ class Ui_Dialog(object):
         self.CalenderLabel.setWordWrap(True)
         self.CalenderLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.CalenderLabel.setObjectName(_fromUtf8("CalenderLabel"))
-
-        # Headline1
-        self.Headline1 = QtGui.QLabel(Dialog)
-        self.Headline1.setGeometry(QtCore.QRect(40, 392, 521, 51))
-        self.Headline1.setStyleSheet(_fromUtf8("background:transparent;"))
-        self.Headline1.setTextFormat(QtCore.Qt.RichText)
-        self.Headline1.setAlignment(QtCore.Qt.AlignLeading | QtCore.Qt.AlignCenter | QtCore.Qt.AlignHCenter)
-        self.Headline1.setWordWrap(True)
-        self.Headline1.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
-        self.Headline1.setObjectName(_fromUtf8("Headline1"))
 
         # Nextbutton
         self.pushButton = QtGui.QPushButton(Dialog)
@@ -245,16 +299,16 @@ class Ui_Dialog(object):
         self.weekButton.setObjectName(_fromUtf8("weekButton"))
         self.weekButton.clicked.connect(self.oneWeekAnalysis)
 
-        # Value1
-        self.Value1 = QtGui.QLabel(Dialog)
-        self.Value1.setGeometry(QtCore.QRect(580, 392, 71, 51))
-        self.Value1.setStyleSheet(_fromUtf8("background:transparent;"))
-        self.Value1.setTextFormat(QtCore.Qt.RichText)
-        self.Value1.setAlignment(QtCore.Qt.AlignCenter)
-        self.Value1.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
-        self.Value1.setObjectName(_fromUtf8("Value1"))
+        # Headline labels
+        self.Headline1 = QtGui.QLabel(Dialog)
+        self.Headline1.setGeometry(QtCore.QRect(40, 392, 521, 51))
+        self.Headline1.setStyleSheet(_fromUtf8("background:transparent;"))
+        self.Headline1.setTextFormat(QtCore.Qt.RichText)
+        self.Headline1.setAlignment(QtCore.Qt.AlignLeading | QtCore.Qt.AlignCenter | QtCore.Qt.AlignHCenter)
+        self.Headline1.setWordWrap(True)
+        self.Headline1.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
+        self.Headline1.setObjectName(_fromUtf8("Headline1"))
 
-        # Headline2
         self.Headline2 = QtGui.QLabel(Dialog)
         self.Headline2.setGeometry(QtCore.QRect(40, 472, 521, 51))
         self.Headline2.setStyleSheet(_fromUtf8("background:transparent;"))
@@ -282,27 +336,38 @@ class Ui_Dialog(object):
         self.Headline4.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.Headline4.setObjectName(_fromUtf8("Headline4"))
 
+        # Score Labels
         self.Value4 = QtGui.QLabel(Dialog)
         self.Value4.setGeometry(QtCore.QRect(580, 632, 71, 51))
         self.Value4.setStyleSheet(_fromUtf8("background:transparent;"))
         self.Value4.setTextFormat(QtCore.Qt.RichText)
-        self.Value4.setAlignment(QtCore.Qt.AlignCenter)
+        self.Value4.setAlignment(QtCore.Qt.AlignCenter|QtCore.Qt.AlignLeft)
         self.Value4.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.Value4.setObjectName(_fromUtf8("Value4"))
+
         self.Value3 = QtGui.QLabel(Dialog)
         self.Value3.setGeometry(QtCore.QRect(580, 552, 71, 51))
         self.Value3.setStyleSheet(_fromUtf8("background:transparent;"))
         self.Value3.setTextFormat(QtCore.Qt.RichText)
-        self.Value3.setAlignment(QtCore.Qt.AlignCenter)
+        self.Value3.setAlignment(QtCore.Qt.AlignCenter|QtCore.Qt.AlignLeft)
         self.Value3.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.Value3.setObjectName(_fromUtf8("Value3"))
+
         self.Value2 = QtGui.QLabel(Dialog)
         self.Value2.setGeometry(QtCore.QRect(580, 472, 71, 51))
         self.Value2.setStyleSheet(_fromUtf8("background:transparent;"))
         self.Value2.setTextFormat(QtCore.Qt.RichText)
-        self.Value2.setAlignment(QtCore.Qt.AlignCenter)
+        self.Value2.setAlignment(QtCore.Qt.AlignCenter|QtCore.Qt.AlignLeft)
         self.Value2.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.Value2.setObjectName(_fromUtf8("Value2"))
+
+        self.Value1 = QtGui.QLabel(Dialog)
+        self.Value1.setGeometry(QtCore.QRect(580, 392, 71, 51))
+        self.Value1.setStyleSheet(_fromUtf8("background:transparent;"))
+        self.Value1.setTextFormat(QtCore.Qt.RichText)
+        self.Value1.setAlignment(QtCore.Qt.AlignCenter | QtCore.Qt.AlignLeft)
+        self.Value1.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
+        self.Value1.setObjectName(_fromUtf8("Value1"))
 
         self.retranslateUi(Dialog)
         QtCore.QMetaObject.connectSlotsByName(Dialog)
@@ -335,7 +400,7 @@ class Ui_Dialog(object):
                                        None))
 
 
-def showOutput():  # testing: add parameter
+def showOutput():  # testing: add parameter : file
     global displayingfile
     displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
     # displayingfile = file  # testing
@@ -352,4 +417,6 @@ def showOutput():  # testing: add parameter
 if __name__ == "__main__":
     showOutput()
     # for testing purpose
-    # showOutput(r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\nyTimes\2017-03-20\2017-03-20scores.txt')
+    #import os
+    #os.chdir("../")
+    #showOutput(r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\nyTimes\2017-03-20\2017-03-20scores.txt')
