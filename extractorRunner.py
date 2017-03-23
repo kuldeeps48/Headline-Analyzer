@@ -12,7 +12,7 @@ from Extractors.cnn import scrapper as cnnScrapper
 """Names to use in source_functions when adding remaining scrappers
     These will insure proper calling from MainUI:-
 
-    "times of india", "hindu", "CNN", "telegraph", "bbc"
+    "the hindu", "telegraph", "bbc"
 """
 source_functions = {"google news": googleScrapper, "reddit news": redditScrapper,
                     "reddit world news": redditWorldScrapper,

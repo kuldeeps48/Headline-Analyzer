@@ -40,8 +40,8 @@ class Ui_window(object):
     def selected_extractor(self, name):
         self.customScoreLabel.hide()  # remove custom score label if present
         QApplication.processEvents()  # redraw UI
-        button_to_name = {"pushButton": "times of india", "pushButton_2": "hindu", "pushButton_3": "guardian",
-                          "pushButton_4": "new york times", "pushButton_5": "google news", "pushButton_6": "CNN",
+        button_to_name = {"pushButton": "times of india", "pushButton_2": "the hindu", "pushButton_3": "guardian",
+                          "pushButton_4": "new york times", "pushButton_5": "google news", "pushButton_6": "cnn",
                           "pushButton_7": "reddit news", "pushButton_8": "reddit world news",
                           "pushButton_9": "telegraph",
                           "pushButton_10": "bbc"}
