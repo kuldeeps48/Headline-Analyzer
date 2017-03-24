@@ -1,5 +1,6 @@
 import time
 from PyQt4 import QtGui, QtCore
+from PyQt4.QtGui import *
 
 DEFAULT_STYLE = """QProgressBar{border: 1px solid black;
                                 border-radius: 5px;
@@ -48,6 +49,7 @@ class Loading(QtGui.QMainWindow):
                 continue
             self.extractProgress += 0.0001
             self.progress.setValue(self.extractProgress)
+            QApplication.instance().processEvents()
 
         self.progress.setValue(100)
         time.sleep(0.5)
@@ -60,6 +62,7 @@ class Loading(QtGui.QMainWindow):
                 continue
             self.analyseProgress += 0.0001
             self.progress.setValue(self.analyseProgress)
+            QApplication.instance().processEvents()
 
         self.progress.setValue(100)
         time.sleep(0.5)
