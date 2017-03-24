@@ -123,7 +123,7 @@ class Ui_window(object):
         MainW = window
 
         window.setObjectName(_fromUtf8("window"))
-        window.resize(846, 582)
+        window.setFixedSize(846, 582)
         sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Fixed)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
