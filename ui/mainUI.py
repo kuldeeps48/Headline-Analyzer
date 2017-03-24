@@ -1,19 +1,11 @@
 # -*- coding: utf-8 -*-
 import multiprocessing
-import os
-import signal
 import subprocess
-
 import images.mainuiImages  # images for mainUI
 from PyQt4 import QtCore, QtGui
-from PyQt4.QtCore import *
 from PyQt4.QtGui import *
-import sys, time
-from ui import customLoading
-
 import extractorRunner
 from ui.progress import Loading
-from ui.output import showOutput
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -35,8 +27,6 @@ MainW = 0
 
 
 class Ui_window(object):
-    # analysis_is_done = False
-
     def selected_extractor(self, name):
         self.customScoreLabel.hide()  # remove custom score label if present
         QApplication.processEvents()  # redraw UI
@@ -49,24 +39,40 @@ class Ui_window(object):
         sending_button = self.MainWindow.sender()
         name = button_to_name[str(sending_button.objectName())]
 
+        e = multiprocessing.Event()  # To synchronize progress bar
+        queue = multiprocessing.Queue()  # To get score file from threaded process
+        p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(name, e, queue))
+        p.start()
         # create loading screen#####################
         GUI = Loading()
         xPos = MainW.geometry().topLeft().x()
         yPos = MainW.geometry().topLeft().y()
         GUI.setGeometry(xPos, yPos, 846, 582)
+        GUI.download(e)
         ###########################################
 
-        e = multiprocessing.Event()  # To synchronize progress bar
-        queue = multiprocessing.Queue()  # To get score file from threaded process
-        p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(name, e, queue))
-        p.start()
-        GUI.download(e)
         outputFile = queue.get()
-        p.join()
 
+        # Wait Label
+        self.buildingOutputLabel.setGeometry(QtCore.QRect(160, 530, 491, 55))
+        self.buildingOutputLabel.setAutoFillBackground(False)
+        self.buildingOutputLabel.setStyleSheet(_fromUtf8("background:transparent;"))
+        self.buildingOutputLabel.setFrameShadow(QtGui.QFrame.Plain)
+        self.buildingOutputLabel.setText(_fromUtf8(
+            "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt;font-family:'Lucida Calligraphy';\
+            font-weight:600; color:black;\">\
+             **Building Output Window**<u></u></span></p></body></html>"))
+        self.buildingOutputLabel.setTextFormat(QtCore.Qt.RichText)
+        self.buildingOutputLabel.setAlignment(QtCore.Qt.AlignCenter)
+        self.buildingOutputLabel.setWordWrap(True)
+        self.buildingOutputLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
+        self.buildingOutputLabel.setObjectName(_fromUtf8("buildingOutputLabel"))
+        self.buildingOutputLabel.show()
+        QApplication.processEvents()
         # Show output
         outputProcess = subprocess.Popen("python -m ui.output " + outputFile)
         outputProcess.wait()
+        self.buildingOutputLabel.hide()
         self.customScoreLabel.show()
         QApplication.processEvents()  # redraw UI
 
@@ -98,7 +104,7 @@ class Ui_window(object):
             f.readline()
             score = f.readline()[3:-1]
 
-        self.customScoreLabel.setGeometry(QtCore.QRect(160, 530, 491, 51))
+        self.customScoreLabel.setGeometry(QtCore.QRect(160, 530, 491, 55))
         self.customScoreLabel.setAutoFillBackground(False)
         self.customScoreLabel.setStyleSheet(_fromUtf8("background:transparent;"))
         self.customScoreLabel.setFrameShadow(QtGui.QFrame.Plain)
@@ -110,11 +116,13 @@ class Ui_window(object):
         self.customScoreLabel.setWordWrap(True)
         self.customScoreLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.customScoreLabel.setObjectName(_fromUtf8("customScoreLabel"))
+        QApplication.processEvents()
 
     def setupUi(self, window):
         self.MainWindow = window
         global MainW
         MainW = window
+
         window.setObjectName(_fromUtf8("window"))
         window.resize(846, 582)
         sizePolicy = QtGui.QSizePolicy(QtGui.QSizePolicy.Minimum, QtGui.QSizePolicy.Fixed)
@@ -219,6 +227,7 @@ class Ui_window(object):
         #######Button Event########
         self.pushButton_10.clicked.connect(self.selected_extractor)
 
+        # Horizontal Line
         self.line = QtGui.QFrame(window)
         self.line.setGeometry(QtCore.QRect(0, 419, 851, 3))
         font = QtGui.QFont()
@@ -231,6 +240,8 @@ class Ui_window(object):
         self.line.setLineWidth(20)
         self.line.setFrameShape(QtGui.QFrame.HLine)
         self.line.setObjectName(_fromUtf8("line"))
+
+        # Text Input Box
         self.lineEdit = QtGui.QLineEdit(window)
         self.lineEdit.setGeometry(QtCore.QRect(20, 470, 671, 61))
         font = QtGui.QFont()
@@ -241,6 +252,8 @@ class Ui_window(object):
         self.lineEdit.setFont(font)
         self.lineEdit.setMaxLength(327686)
         self.lineEdit.setObjectName(_fromUtf8("lineEdit"))
+
+        # Run button
         self.pushButton_11 = QtGui.QPushButton(window)
         self.pushButton_11.setGeometry(QtCore.QRect(730, 470, 61, 61))
         font = QtGui.QFont()
@@ -253,8 +266,9 @@ class Ui_window(object):
         #######Button Event########
         self.pushButton_11.clicked.connect(self.start_call)
 
-        # Label to show custom score
+        # Information labels
         self.customScoreLabel = QtGui.QLabel(window)
+        self.buildingOutputLabel = QtGui.QLabel(window)
 
         self.retranslateUi(window)
         QtCore.QMetaObject.connectSlotsByName(window)

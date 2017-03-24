@@ -1,81 +1,87 @@
-Police investigating associates of lone attacker
+London killer identified as 52-year-old Khalid Masood
 >> 0.0
-Amid chaos, politician turns into hero
->> 0.375
-How the attack unfolded
+8 arrests as police probe attacker's links
+>> 0.0
+Who was he? What we know about the attacker
 >> 0.125
-Vehicles as weapons a disturbing trend
+Anger: 'Someone drove a car at me'
+>> 0.375
+Pictures: Shocking scenes from Westminster attack
+>> 0.875
+Trump: 'I'm president, you're not'
+>> -0.625
+FBI info may tie Trump associates to Russians during campaign, US officials say
+>> 0.0
+Ivanka Trump WH job raises questions
 >> -0.125
-A city stilled, shocked and then enraged by attack
->> -0.375
-Trump's son criticizes London mayor after attack
->> -0.25
-Police officer killed was father, 15-year police veteran
->> -0.375
-Opinion: The challenge of low-tech terror
->> -1.25
-US officials: Info suggests Trump associates may have coordinated with Russians
->> 0.25
-House intel chairman: Trump's personal communications possibly collected
+Trump's personal communications collected?
+>> 0.0
+Republicans fail to reach health care deal
+>> 0.5
+Belgian police thwart 'terrorist attack'
+>> 0.0
+Jewish center bomb threats: Teen arrested
 >> 0.0
 Chinese officials warned US B-1 bomber
 >> -0.5
+Ferry emerges 3 years after deadly sinking
+>> 0.0
+Laptop ban: Travelers may skip Mideast
+>> -0.5
+Entertaining kids on flights without devices
+>> 0.125
+US helicopters in daring assault against ISIS
+>> 0.0
 Japan's PM embroiled in scandal
 >> -0.125
-Ferry emerges from the water 3 years after sinking that killed 300
->> -0.5
-Laptop ban may force business travelers to skip Mideast airports
->> -0.25
-US helicopters in daring assault against ISIS in Syria
->> 0.0
-Trump making personal calls as Republicans work on health care deal
->> 0.625
-Manafort pushes back on report he worked to help Putin's government
->> 0.0
+Pilot to passengers: 'There's a snake on the plane...'
+>> -0.375
+Woman rescued after 5 days in wilderness
+>> 0.375
+Golfer reveals mom's cancer diagnosis
+>> 0.125
+Jesus' tomb re-opens in Jerusalem
+>> -0.125
+Not sorry over transgender women remarks
+>> -0.08333333300000001
+Phone app tests male fertility
+>> 0.125
 India gives rivers human status
 >> -0.125
-Starbucks to give big jolt to workforce
->> -0.125
-Is the end near for Sears and Kmart?
->> 0.125
 Alaska Airlines killing off Virgin America
 >> -0.15000000000000002
 Wall Street losing faith in Trump agenda
 >> -0.125
-Pharmacist convicted in fungal meningitis outbreak
->> -0.625
-Rare cancer tied to breast implants
->> 0.0
-The 'Baywatch' trailer is everything you imagined
->> -0.375
-Why a Stradivarius costs millions
->> 0.375
-China through the eyes of Andy Warhol
->> 0.0
-Why the Japanese pay $27,000 for a melon
->> 0.0
-Intimate photos reveal The Beatles' private world
+The A to Z of luxury watches
 >> 0.125
+Superstar horse set for $10m showdown
+>> -0.375
+How Western states downplay size of Africa
+>> 0.125
+My Hero: Nine years an orphan, the boy who kept smiling
+>> 0.625
 Story behind woman who became face of Brussels attack
 >> 0.0
-Girl steals Pope's hat
->> 0.5
+Will 100% fruit juice make your child gain weight?
+>> 0.25
 Why flu vaccines fail
 >> 0.625
 Grieving father: 'I don't play Trump songs anymore'
 >> -0.5
-Exploring the wettest destination on the planet
->> 0.0
-World's most insane bungees
->> -0.5
-Woman who emerged from Peru mudslide recounts survival
+Why spring is best time to visit
+>> 0.625
+Mother Teresa portrait made with more than a million staples
 >> -0.25
+Why the Japanese pay $27,000 for a melon
+>> 0.0
+Jonathan Russell, Joshua Stewart: Overdue attack
+>> -0.25
+Mark Galeotti: Trump's WH looking a lot like Putin's Kremlin
+>> 0.0
+Timothy Stanley: A barbarian cannot change Britain
+>> -0.625
 Julian Zelizer: A historic vote on the end of Obamacare
 >> 0.125
-Charles Arthur: Will Uber crisis shake Silicon Valley confidence?
->> 0.125
-Anushay Hossain: Ivanka's role raises red flags
->> 0.0
 No fees on International Payments
 >> -0.5
 Fix your Exchange Rates today with
@@ -90,67 +96,63 @@ Young Indian girls sold to sex tourists for sham marriages
 >> -0.25
 Canadian teenagers sold for sex
 >> 0.0
-Child predator caught by tiny clue in photo
->> 0.25
-Girls drugged and sold as child brides
+London attack: Assailant shot dead after 3 killed near Parliament
+>> -0.5
+JCC bomb threats: Teen suspect arrested in Israel
+>> -0.5
+Nigerian Instagram comedian lands million dollar deal
 >> 0.0
-Million-dollar holiday snaps? Andy Warhol's China photographs up for auction
+'Power Rangers' lacks power in big-screen transformation
 >> 0.375
-London attack: Police investigating associates of lone attacker
+Dubai World Cup: Favorite Arrogate primed for $10 million race
+>> -0.125
+Trump's Wall Street cop promises 'no favoritism' despite ties to banks
 >> 0.0
+What's the real size of Africa? How Western states used maps to downplay size of continent
+>> -0.125
+State Department tightens scrutiny for certain foreigners
+>> -0.375
+What is the House Freedom Caucus and what does it want?
+>> 0.375
+Trump defends wild claims: 'I'm president, and you're not'
+>> -0.5
+Trump administration to approve Keystone XL pipeline
+>> 0.375
+London attack: Khalid Masood named as perpetrator
+>> 0.25
+Inside Paul Ryan's tense meeting with moderates
+>> 0.0
+London tourism at risk after terror attack
+>> -0.75
+Tension and confusion in GOP health care talks
+>> 0.125
+Give the troops a raise
+>> -0.125
+17,000 striking AT&T workers head back to work
+>> 0.0
+Khalid Masood: What we know about the London attacker
+>> 0.0
+Nunes apologizes to House Intel Committee, member says
+>> -0.625
 Police officer killed in London attack was father, 15-year police veteran
 >> -0.375
-US officials: Info suggests Trump associates may have coordinated with Russians
+Bob Iger extends contract at Disney
 >> 0.25
-Stabbing suspect targeted black men in New York
->> 0.25
-House Intel chairman: Trump's personal communications may have been collected
+London victims: Police officer, teacher, American tourist killed
+>> -0.75
+Arianna Huffington: Sexual harassment isn't a 'systemic problem' at Uber
+>> -0.875
+Kochs pledge millions to GOPers in 2018 -- if they vote no on health care bill
 >> 0.375
-Officer, 3 others die in Wisconsin shootings
->> 0.0
-Blow the whistle on Sean Spicer
->> 0.0
-After dramatic day, GOP fails to reach health care deal
->> 1.125
-The route and sequence of the Westminster attacks
->> 0.5
-Trump, desperate for a win, bets on health care
->> 0.375
-Trump's problem with truth
->> 0.0
-Chinese officials warned US bomber during 'routine' East China Sea flyover
->> -0.375
-Missing Tennessee student: Suspect told her he was CIA, dad says
->> 0.125
-South Korea: Sewol ferry emerges from the water 3 years after sinking
->> 0.0
-$27,000 melons? Unwrapping the high price of Japan's luxury fruit habit
->> 0.0
-Terror attack near UK Parliament: Live updates
->> -0.5
-Italian white truffles: On the hunt in the hills of Tuscany
->> -0.25
-Once a boy from the Bronx, he now creates supersonic passenger planes
->> 0.25
-Why maternity and mental health coverage may decide health care bill's fate
->> 1.375
-Why popularity means nothing in race to be Hong Kong's leader
+Paris: Why spring is the best time to visit the capital of France
 >> 0.875
-Manafort pushes back on report he worked to help Putin's government
->> 0.0
-Caviar guide: Pro shares his tips on how to buy and eat sturgeon roe
+Putin critic Denis Voronenkov shot dead in Ukraine
+>> -0.75
+Westminster attack was long overdue and couldn't have been prevented
+>> 1.0
+In interview about his falsehoods, President Trump offers new ones
+>> 0.375
+Belgian police intercept speeding car and thwart 'attempted terrorist attack'
 >> -0.25
-Alaska Airlines is killing off the Virgin America brand
->> -0.025000000000000022
-Japan PM Shinzo Abe embroiled in land-sale scandal
->> -0.125
-Things to do in Austin, Texas, all year round
->> 0.0
-Laptop ban may force business travelers to skip Middle East airports
->> -0.25
-Undocumented immigrant accused of raping classmate
->> -0.125
-US joins first air assault 'behind enemy lines' against ISIS in Syria
->> 0.0
-Which Republicans are opposing the Obamacare repeal bill?
->> 0.125
+Huckabee sings praises of arts funding, asks Trump to spare from budget ax
+>> 0.375

@@ -40,7 +40,7 @@ def drawWordCloud():
     text = open(displayingfile).read()
     # Generate a word cloud image
     circle_mask = np.array(Image.open("./images/mask.png"))
-    wordcloud = WordCloud(mask= circle_mask).generate(text) #, width=560, height=321
+    wordcloud = WordCloud(max_words=300, mask=circle_mask).generate(text)  # , width=560, height=321
 
     wordcloud.to_file("./data/wc.png")
     # wordcloud.to_file("../data/wc.png") #testing
@@ -72,9 +72,8 @@ def makeGraph(graphView):
                     x_axis_zero.append(line_counter)
 
     graphView.plot(x_axis_pos, y_axis_pos, pen=(200, 200, 200), symbolBrush=(0, 255, 0), symbolPen='r')
-    graphView.plot(x_axis_neg, y_axis_neg, pen=(200,200,200), symbolBrush=(255, 0, 0), symbolPen='b')
+    graphView.plot(x_axis_neg, y_axis_neg, pen=(200, 200, 200), symbolBrush=(255, 0, 0), symbolPen='b')
     graphView.plot(x_axis_zero, y_axis_zero, pen=(0, 0, 0), symbolBrush=(255, 255, 255), symbolPen='k')
-
 
 
 class Ui_Dialog(object):
@@ -222,7 +221,7 @@ class Ui_Dialog(object):
 
         # Graph Label
         self.GraphLabel = QtGui.QLabel(Dialog)
-        self.GraphLabel.setGeometry(QtCore.QRect(670, 1, 651, 28 ))
+        self.GraphLabel.setGeometry(QtCore.QRect(670, 1, 651, 28))
         self.GraphLabel.setAutoFillBackground(False)
         self.GraphLabel.setStyleSheet(_fromUtf8("background:transparent;"))
         self.GraphLabel.setFrameShadow(QtGui.QFrame.Plain)
@@ -346,7 +345,7 @@ class Ui_Dialog(object):
         self.Value4.setGeometry(QtCore.QRect(580, 632, 71, 51))
         self.Value4.setStyleSheet(_fromUtf8("background:transparent;"))
         self.Value4.setTextFormat(QtCore.Qt.RichText)
-        self.Value4.setAlignment(QtCore.Qt.AlignCenter|QtCore.Qt.AlignLeft)
+        self.Value4.setAlignment(QtCore.Qt.AlignCenter | QtCore.Qt.AlignLeft)
         self.Value4.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.Value4.setObjectName(_fromUtf8("Value4"))
 
@@ -354,7 +353,7 @@ class Ui_Dialog(object):
         self.Value3.setGeometry(QtCore.QRect(580, 552, 71, 51))
         self.Value3.setStyleSheet(_fromUtf8("background:transparent;"))
         self.Value3.setTextFormat(QtCore.Qt.RichText)
-        self.Value3.setAlignment(QtCore.Qt.AlignCenter|QtCore.Qt.AlignLeft)
+        self.Value3.setAlignment(QtCore.Qt.AlignCenter | QtCore.Qt.AlignLeft)
         self.Value3.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.Value3.setObjectName(_fromUtf8("Value3"))
 
@@ -362,7 +361,7 @@ class Ui_Dialog(object):
         self.Value2.setGeometry(QtCore.QRect(580, 472, 71, 51))
         self.Value2.setStyleSheet(_fromUtf8("background:transparent;"))
         self.Value2.setTextFormat(QtCore.Qt.RichText)
-        self.Value2.setAlignment(QtCore.Qt.AlignCenter|QtCore.Qt.AlignLeft)
+        self.Value2.setAlignment(QtCore.Qt.AlignCenter | QtCore.Qt.AlignLeft)
         self.Value2.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.Value2.setObjectName(_fromUtf8("Value2"))
 
