@@ -16,6 +16,7 @@
 
 # !/usr/bin/python3
 import datetime, os, feedparser
+from urllib.request import urlopen
 SOURCE_CODE = "theHindu"
 
 
@@ -23,14 +24,15 @@ SOURCE_CODE = "theHindu"
 # Returns headlines list
 def extractor(headlines):
     # URL for RSS feed
-    base_url = 'http://www.thehindu.com/news/?service=rss'
+    base_url = 'http://www.thehindu.com/news/national/?service=rss'  # National
 
+    # Parse RSS feed
     feed = feedparser.parse(base_url)
 
     # Append headline to list
     for single_news in feed['entries']:
         headlines.append(single_news["title"])
-        #headlines.append(unidecode.unidecode(single_news["title"]))
+        # headlines.append(unidecode.unidecode(single_news["title"]))
 
 
 # Module to be called from extractorRunner.py
