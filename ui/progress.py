@@ -42,7 +42,7 @@ class Loading(QtGui.QMainWindow):
         self.progress = QtGui.QProgressBar(self)
         self.progress.setGeometry(1, 562, 845, 19)
 
-    def download(self,e):
+    def download(self, e):
         self.extractProgress = 0
         while not e.is_set():
             if self.extractProgress > 99:
@@ -67,15 +67,3 @@ class Loading(QtGui.QMainWindow):
         self.progress.setValue(100)
         time.sleep(0.5)
         self.close()
-
-"""
-~~~~~~For testing only, remove synchronization before running just progress.py~~~~~~
-def showProgress():
-    app = QtGui.QApplication(sys.argv)
-    GUI = Loading()
-    GUI.download()
-    app.processEvents()
-
-if __name__ == "__main__":
-    showProgress()
-"""
