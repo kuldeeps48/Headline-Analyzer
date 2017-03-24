@@ -8,6 +8,9 @@ import pyqtgraph as pg
 from PyQt4 import QtCore, QtGui
 from pyqtgraph import PlotWidget
 from wordcloud import WordCloud
+import numpy as np
+from PIL import Image
+from os import path
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -36,7 +39,9 @@ def drawWordCloud():
     # Read the whole text.
     text = open(displayingfile).read()
     # Generate a word cloud image
-    wordcloud = WordCloud(width=560, height=321).generate(text)
+    circle_mask = np.array(Image.open("./images/mask.png"))
+    wordcloud = WordCloud(mask= circle_mask).generate(text) #, width=560, height=321
+
     wordcloud.to_file("./data/wc.png")
     # wordcloud.to_file("../data/wc.png") #testing
 
@@ -403,7 +408,7 @@ class Ui_Dialog(object):
 def showOutput():  # testing: add parameter : file
     global displayingfile
     displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
-    # displayingfile = file  # testing
+    #displayingfile = file  # testing
     app = QtGui.QApplication(sys.argv)
     Dialog = QtGui.QDialog()
     ui = Ui_Dialog()
