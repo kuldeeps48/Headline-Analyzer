@@ -6,6 +6,7 @@ from PyQt4 import QtCore, QtGui
 from PyQt4.QtGui import *
 import extractorRunner
 from ui.progress import Loading
+from ui.customLoading import ImagePlayer
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -86,19 +87,17 @@ class Ui_window(object):
         e = multiprocessing.Event()
         queue = multiprocessing.Queue()
 
+        p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(file, e, queue))
+        p.start()
         ### Show loading
         xPos = MainW.geometry().topLeft().x()
         yPos = MainW.geometry().topLeft().y()
-        gifProcess = subprocess.Popen("python ./ui/customLoading.py " + str(xPos) + " " + str(yPos))
-        ###
-        QApplication.processEvents()
-        p = multiprocessing.Process(target=extractorRunner.runScrapper, args=(file, e, queue))
-        p.start()
-        QApplication.processEvents()
-        outputFile = queue.get()
+        gif = "./images/loading.gif"
+        player = ImagePlayer(gif, (xPos + 846), (yPos + 435))
+        player.start_movie(e)
+        #####
 
-        ### Stop loading
-        gifProcess.kill()
+        outputFile = queue.get()
 
         with open(outputFile, "r") as f:
             f.readline()
