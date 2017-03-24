@@ -1,5 +1,6 @@
+from PyQt4.QtCore import Qt
 from ui.mainUI import *
-from pathlib import Path
+import time, sys
 
 
 # For splash screen ~~
