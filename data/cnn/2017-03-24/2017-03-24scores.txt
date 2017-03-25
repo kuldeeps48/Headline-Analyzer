@@ -1,11 +1,15 @@
-Police release image of London attacker amid hunt for clues
->> 0.125
-Did London attack expose city's 'weak spot'?
+High stakes for Trump as vote looms on US health plan
+>> 0.625
+Live updates: Health care bill and Trump
+>> 0.625
+Deal of no deal: Trump ready to cast blame
+>> -0.5
+Face of terror: Police release image of London attacker
 >> -0.375
-Defiant vigil: 'We can't let the terrorists win'
->> -0.125
-Trump ultimatum to Congress: Vote with me or I'll blame you
->> -0.15277777800000003
+Did London attack expose 'weak spot'?
+>> -0.375
+London vigil: 'We can't let the terrorists win'
+>> 0.0
 'I'm president, you're not'
 >> -0.625
 Top Democrat: New evidence shows possible Trump-Russia collusion
@@ -14,8 +18,6 @@ Ex-spies on Russian hacking allegations
 >> 0.0
 Killing of Putin critic: Ukraine seeks clues
 >> 0.0
-French far-right candidate Le Pen visits Putin
->> -0.25
 Judge who blocked travel ban gets threats
 >> -0.25
 Laptop ban: What it's going to cost you
@@ -24,48 +26,46 @@ Former Egyptian President Mubarak freed
 >> 0.25
 Brexit: EU says divorce bill may hit $62B
 >> 0.0
+French far-right candidate Le Pen visits Putin
+>> -0.25
 Battle for key ISIS bastion to start in 'days'
 >> 0.0
-No escape! City introduces world's fastest police car
->> 0.0
+No escape! City buys world's fastest cop car
+>> -0.25
 Taliban push Afghan troops from key area
 >> 0.0
 Look! Up in the sky! It's a new kind of cloud
 >> 0.375
-Japan's PM hits back in land-sale scandal
->> -0.125
-Chinese stock mysteriously plunged 90%
->> 0.25
 Are vegetable oils healthy?
 >> 0.75
 Which countries have toughest driving laws?
 >> -0.5
-Woman rescued after 5 days in wilderness
->> 0.375
-Deadly quest for lost civilization
->> -0.5
-Living at risk of the world's greatest infectious killer
->> -1.125
 Jay Z thinks he's found the perfect suitcase
 >> 0.5
+Elizabeth Taylor's 'secret' watch
+>> 0.125
+Meet the tennis-loving iguana
+>> 0.5
+Living at risk of the world's greatest infectious killer
+>> -1.125
 $10M test for 'perfect' horse
 >> 0.625
-What's missing from this White House photo?
->> -0.5
 Revealed: How likely you are to lose your job to robots
 >> 0.125
+What's missing from this White House photo?
+>> -0.5
 President Trump hops into a truck cab
 >> 0.25
 Why flu vaccines fail
 >> 0.625
-Elizabeth Taylor's 'secret' watch
->> 0.125
+Deadly quest for lost civilization
+>> -0.5
 The young star tipped to be F1 great
 >> 0.125
 An island dedicated to wine and food
 >> 0.125
-Angela Pupino: What Trump Jr. doesn't get about London
->> -0.25
+Matteo Garavoglia: Trump has given EU a chance to lead world
+>> 0.625
 Tim Naftali: Being Trump, a president living in his own fantasy world
 >> -0.375
 H.A. Hellyer: Muslims not 'part of the problem' -- telling them they are is
@@ -96,63 +96,63 @@ Carrying on: The day after a terrorist attack
 >> 0.0
 London attack: Watch how it unfolded
 >> 0.125
-Mnuchin talks tech: 'I don't understand these valuations'
+F1: A vintage year for the flying Finns?
 >> 0.0
-Manafort volunteers for questionings at House intel committee
->> 0.0
-Trump administration approves Keystone XL pipeline
+Khalid Masood: from sporty teenager to murderous extremist
+>> 0.875
+Ex-Egyptian President Hosni Mubarak freed after 6 years in detention
 >> 0.375
-Soccer helps the lost find a place to belong
->> -0.75
-Paris: Why spring is the best time to visit the capital of France
->> 0.875
-The Big Bend: A U-shaped skyscraper that aims to be the longest in the world
->> 0.25
-Amber alert canceled, 2 kids found safe in California
->> 0.0
-Trump team ultimatum: No more talks, time to vote
->> -0.125
-Deal or no deal, Trump ready to cast blame
->> -0.5
-Trump card: White House plays its hand in health care battle
->> 0.875
-What's inside the Republican health care bill?
->> 0.625
-Amtrak derailment: Train sideswiped NJ Transit at NY Penn Station
->> 0.0
-Health care bill debate and vote: What happens now
->> 0.75
-Australian GP: 'I feel more relaxed with every year,' says Max Verstappen
->> -1.25
-Reindeer, broken bones and bobsleds: Five unforgettable Alpine Edge moments
->> -0.375
-Stoffel Vandoorne: McLaren's young star tipped to be F1 great
+Hill GOP moderates buck their leaders and Trump
 >> 0.125
-Watch live: US House floor
+How do you drive a snowcat? Let's find out!
+>> -0.375
+Battle for key ISIS bastion to start in 'days,' French defense minister says
 >> 0.0
-Putin meets French far-right candidate Marine Le Pen at Kremlin
->> -0.25
-Amy Schumer drops out of live-action Barbie movie
+Southern Lights put on show for passengers on special flight
 >> 0.0
-GOP lawmaker: Republicans can explain health care bill -- eventually
->> 0.875
-Essential Health Benefits and why they matter
->> 0.75
-Trump defends wild claims: 'I'm President, and you're not'
->> -0.5
-John Mayer misses you, Katy Perry
->> -0.25
-'Life' unleashes alien in scary confines of space
->> -0.5
-Live updates: Health care bill drama and Trump
->> 0.625
+GOP source: Ryan telling Trump they don't have votes on health care
+>> 1.0
+Marine double amputee becomes cop in New York
+>> 0.375
+Federal judge sides with Trump administration in travel ban case
+>> 0.375
+Insurers' pullback has put Obamacare at risk, no matter what Congress does
+>> -0.125
+Steven Mnuchin calls out debt limit as a 'ridiculous concept'
+>> -0.125
 Ukraine seeks clues in killing of Kremlin critic
 >> -0.5
-The cruel double standard that could save Obamacare
->> 0.875
-Australian Rugby Union tackles concussion problem with blue card
->> -1.125
-Bill Clinton gives impassioned eulogy at McGuinness funeral
+Budget director: If you want maternity care under GOP plan, change your state laws
+>> 0.25
+Chloe and Halle talk women's rights, music and Beyoncé
 >> -0.125
-London unites against terror in defiant vigil
->> -0.375
+Team of blind students battling in robotics competition
+>> -0.25
+The Alternative Minimum Tax
+>> 0.125
+AARP to Trump voters: This isn't the change you expected
+>> 0.0
+US, Israel move closer to agreement to curb settlements
+>> 0.0
+Amtrak derailment: Train sideswiped NJ Transit at NY Penn Station
+>> 0.0
+Power of attorney
+>> 0.0
+Undocumented immigrant accused of raping classmate
+>> -0.125
+What's inside the Republican health care bill?
+>> 0.625
+Mnuchin: Trump has 'perfect genes,' has given up KFC
+>> 0.75
+Living wills and health care proxies
+>> 0.75
+Teen's death shows horror of flu epidemic
+>> 1.25
+Why Ryan Gosling giggled during Oscars mix up
+>> 0.375
+Rick Perry: Texas A&M's student body election was 'stolen'
+>> 0.125
+Health care bill debate and vote: What happens now
+>> 0.75
+Bomber dies in blast near Dhaka airport in Bangladesh
+>> -0.125
