@@ -388,7 +388,7 @@ class Ui_Dialog(object):
         self.accuracyLabel.setFrameShadow(QtGui.QFrame.Plain)
         self.accuracyLabel.setText(_fromUtf8(
             "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600; color: #20ee94;\">\
-            <u>Select all headlines with incorrect score. Press Done at last.</u></span></p></body></html>"))
+            <u>Cycle through all headlines and select incorrect scores</u></span></p></body></html>"))
         self.accuracyLabel.setTextFormat(QtCore.Qt.RichText)
         self.accuracyLabel.setAlignment(QtCore.Qt.AlignCenter)
         self.accuracyLabel.setWordWrap(True)
