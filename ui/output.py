@@ -28,11 +28,14 @@ except AttributeError:
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig)
 
-displayingfile = ""
-displayingHeadlines = ["A", "B", "C", "D"]
-displayingScores = [0.0, 0.0, 0.0, 0.0]
-lineNumber = 0
-outputDate = date.today()
+displayingfile = ""  # File on which output is being calcuated
+displayingHeadlines = ["A", "B", "C", "D"]  # default headlines
+displayingScores = [0.0, 0.0, 0.0, 0.0]  # Default scores
+lineNumber = 0  # Keeping track of headlines in file , to display 4 headlines at a time
+outputDate = date.today()  # Default date to show output on is today. Changes when selected from calender
+calculatingAccuracy = False  # Flag to indicate if we are in calculate Accuracy mode
+wrongScoreCounter = 0  # To calculate Accuracy
+headlinesDisplayedCounter = 0
 
 
 def drawWordCloud():
@@ -77,6 +80,22 @@ def makeGraph(graphView):
 
 
 class Ui_Dialog(object):
+    def calcuateAccuracy(self):
+        global headlinesDisplayedCounter
+        headlinesDisplayedCounter = 0
+        global wrongScoreCounter
+        wrongScoreCounter = 0
+        self.checkBox1.show()
+        self.checkBox2.show()
+        self.checkBox3.show()
+        self.checkBox4.show()
+        self.accuracyLabel.show()
+        global lineNumber
+        lineNumber = 0
+        self.nextFourHeadlines()
+        global calculatingAccuracy
+        calculatingAccuracy = True
+
     def oneWeekAnalysis(self):  # Graph plot for 1 week scores
         pg.setConfigOptions(antialias=True)
         global displayingfile
@@ -119,6 +138,21 @@ class Ui_Dialog(object):
         self.Graph.plot(x_axis_zero, y_axis_zero, pen=(0, 0, 0), symbolBrush=(255, 255, 255), symbolPen='k')
 
     def dateSelected(self):
+        # Turn Off accuracy calculation mode before displaying output
+        global headlinesDisplayedCounter
+        headlinesDisplayedCounter = 0
+        global wrongScoreCounter
+        wrongScoreCounter = 0
+        self.checkBox1.hide()
+        self.checkBox2.hide()
+        self.checkBox3.hide()
+        self.checkBox4.hide()
+        self.accuracyLabel.hide()
+        self.accuracyResultLabel.hide()
+        global calculatingAccuracy
+        calculatingAccuracy = False
+        #########################################
+
         x = self.calendarWidget.selectedDate()
         day = x.day()
         month = x.month()
@@ -149,7 +183,10 @@ class Ui_Dialog(object):
             self.nextFourHeadlines()
 
     def nextFourHeadlines(self):
-        count = 0
+        global wrongScoreCounter
+        global headlinesDisplayedCounter
+        global calculatingAccuracy
+
         global lineNumber
         with open(displayingfile, "r") as f:
             data = f.readlines()[lineNumber:lineNumber + 9]
@@ -192,7 +229,34 @@ class Ui_Dialog(object):
                 self.Value4.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt;\
                          color:#ffffff;\"><b>" + displayingScores[3] + "</b></span></p></body></html>", None))
             except IndexError:
-                pass
+                accuracy = "{0:.2f}".format(
+                    ((headlinesDisplayedCounter - wrongScoreCounter) / headlinesDisplayedCounter) * 100) + "%"
+                self.accuracyResultLabel.setText(_fromUtf8(
+                    "<html><head/><body><p align=\"center\"><span style=\" font-size:18pt; font-weight:600; color: #20ee94;\">\
+                    <u>Accuracy </u>" + accuracy + "</span></p></body></html>"))
+                self.accuracyResultLabel.show()
+                self.checkBox1.hide()
+                self.checkBox2.hide()
+                self.checkBox3.hide()
+                self.checkBox4.hide()
+                self.accuracyLabel.hide()
+                return
+
+        headlinesDisplayedCounter += 4
+
+        if calculatingAccuracy:
+            if self.checkBox1.isChecked():
+                wrongScoreCounter += 1
+                self.checkBox1.setChecked(False)
+            if self.checkBox2.isChecked():
+                wrongScoreCounter += 1
+                self.checkBox2.setChecked(False)
+            if self.checkBox3.isChecked():
+                wrongScoreCounter += 1
+                self.checkBox3.setChecked(False)
+            if self.checkBox4.isChecked():
+                wrongScoreCounter += 1
+                self.checkBox4.setChecked(False)
 
     def setupUi(self, Dialog):
         Dialog.setObjectName(_fromUtf8("Dialog"))
@@ -303,6 +367,73 @@ class Ui_Dialog(object):
         self.weekButton.setObjectName(_fromUtf8("weekButton"))
         self.weekButton.clicked.connect(self.oneWeekAnalysis)
 
+        # Calculate accuracy button
+        self.accuracyButton = QtGui.QPushButton(Dialog)
+        self.accuracyButton.setGeometry(QtCore.QRect(1210, 591, 130, 81))
+        self.accuracyButton.setStyleSheet(_fromUtf8("color:white; font-size:14pt; font-weight:600; background:grey; \
+                                                         font-family:'Lucida Calligraphy';border-style: outset;\
+                                                         border-width: 2px;border-radius: 15px;border-color: black;\
+                                                        padding: 4px;"))
+        self.accuracyButton.setAutoDefault(True)
+        self.accuracyButton.isCheckable()
+        self.accuracyButton.setText("Calculate \n Accuracy ")
+        self.accuracyButton.setObjectName(_fromUtf8("accuracyButton"))
+        self.accuracyButton.clicked.connect(self.calcuateAccuracy)
+
+        # Accuracy instruction label
+        self.accuracyLabel = QtGui.QLabel(Dialog)
+        self.accuracyLabel.setGeometry(QtCore.QRect(30, 370, 521, 28))
+        self.accuracyLabel.setAutoFillBackground(False)
+        self.accuracyLabel.setStyleSheet(_fromUtf8("background:transparent;"))
+        self.accuracyLabel.setFrameShadow(QtGui.QFrame.Plain)
+        self.accuracyLabel.setText(_fromUtf8(
+            "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600; color: #20ee94;\">\
+            <u>Select all headlines with incorrect score. Press Done at last.</u></span></p></body></html>"))
+        self.accuracyLabel.setTextFormat(QtCore.Qt.RichText)
+        self.accuracyLabel.setAlignment(QtCore.Qt.AlignCenter)
+        self.accuracyLabel.setWordWrap(True)
+        self.accuracyLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
+        self.accuracyLabel.setObjectName(_fromUtf8("accuracyLabel"))
+        self.accuracyLabel.hide()
+
+        # AccuracyResult Label
+        self.accuracyResultLabel = QtGui.QLabel(Dialog)
+        self.accuracyResultLabel.setGeometry(QtCore.QRect(645, 591, 150, 100))  # 670, 490, 81, 81
+        self.accuracyResultLabel.setAutoFillBackground(False)
+        self.accuracyResultLabel.setStyleSheet(_fromUtf8("background:transparent;"))
+        self.accuracyResultLabel.setFrameShadow(QtGui.QFrame.Plain)
+        self.accuracyResultLabel.setTextFormat(QtCore.Qt.RichText)
+        self.accuracyResultLabel.setAlignment(QtCore.Qt.AlignCenter)
+        self.accuracyResultLabel.setWordWrap(True)
+        self.accuracyResultLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
+        self.accuracyResultLabel.setObjectName(_fromUtf8("accuracyResultLabel"))
+        self.accuracyResultLabel.hide()
+
+        # checkboxes
+        self.checkBox1 = QtGui.QCheckBox(Dialog)
+        self.checkBox1.setGeometry(QtCore.QRect(15, 408, 16, 17))
+        self.checkBox1.setText(_fromUtf8(""))
+        self.checkBox1.setObjectName(_fromUtf8("checkBox1"))
+        self.checkBox1.hide()
+
+        self.checkBox2 = QtGui.QCheckBox(Dialog)
+        self.checkBox2.setGeometry(QtCore.QRect(15, 488, 16, 17))
+        self.checkBox2.setText(_fromUtf8(""))
+        self.checkBox2.setObjectName(_fromUtf8("checkBox2"))
+        self.checkBox2.hide()
+
+        self.checkBox3 = QtGui.QCheckBox(Dialog)
+        self.checkBox3.setGeometry(QtCore.QRect(15, 568, 16, 17))
+        self.checkBox3.setText(_fromUtf8(""))
+        self.checkBox3.setObjectName(_fromUtf8("checkBox3"))
+        self.checkBox3.hide()
+
+        self.checkBox4 = QtGui.QCheckBox(Dialog)
+        self.checkBox4.setGeometry(QtCore.QRect(15, 648, 16, 17))
+        self.checkBox4.setText(_fromUtf8(""))
+        self.checkBox4.setObjectName(_fromUtf8("checkBox4"))
+        self.checkBox4.hide()
+
         # Headline labels
         self.Headline1 = QtGui.QLabel(Dialog)
         self.Headline1.setGeometry(QtCore.QRect(40, 392, 521, 51))
@@ -407,7 +538,7 @@ class Ui_Dialog(object):
 def showOutput():  # testing: add parameter : file
     global displayingfile
     displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
-    #displayingfile = file  # testing
+    # displayingfile = file  # testing
     app = QtGui.QApplication(sys.argv)
     Dialog = QtGui.QDialog()
     ui = Ui_Dialog()
@@ -421,6 +552,6 @@ def showOutput():  # testing: add parameter : file
 if __name__ == "__main__":
     showOutput()
     # for testing purpose
-    #import os
-    #os.chdir("../")
-    #showOutput(r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\nyTimes\2017-03-20\2017-03-20scores.txt')
+    # import os
+    # os.chdir("../")
+    # showOutput(r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\googleNews\2017-03-20\2017-03-20scores.txt')
