@@ -186,6 +186,7 @@ class Ui_Dialog(object):
         global wrongScoreCounter
         global headlinesDisplayedCounter
         global calculatingAccuracy
+        global displayingfile
 
         global lineNumber
         with open(displayingfile, "r") as f:
@@ -240,6 +241,9 @@ class Ui_Dialog(object):
                 self.checkBox3.hide()
                 self.checkBox4.hide()
                 self.accuracyLabel.hide()
+                file_to_store_accuracy = displayingfile[:-20] + "accuracy.txt"
+                with open(file_to_store_accuracy, "w") as f:
+                    f.write(accuracy)
                 return
 
         headlinesDisplayedCounter += 4
