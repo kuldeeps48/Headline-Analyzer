@@ -3069,7 +3069,7 @@ Dict = {"epic": "1", "good": "0.639423077", "upright": "1", "fortunate": "0.9583
         "tremendously": "-0.5", "trappings": "-0.5", "transient": "-0.5", "transeunt": "-0.5", "trampled": "-0.5",
         "tragedy": "-0.5", "traducement": "-0.5", "tracheitis": "-0.5", "tracer": "-0.5", "towny": "-0.5",
         "townie": "-0.5", "torturer": "-0.5", "toothless": "-0.5", "tonsillitis": "-0.5", "toff": "-0.5",
-        "to do": "-0.5", "tingidae": "-0.5", "timeworn": "-0.5", "tiled": "-0.5", "tile": "-0.5", "tigerish": "-0.5",
+        "tingidae": "-0.5", "timeworn": "-0.5", "tiled": "-0.5", "tile": "-0.5", "tigerish": "-0.5",
         "thyroiditis": "-0.5", "thwarted": "-0.5", "thundery": "-0.5", "throw weight": "-0.5", "thrombosed": "-0.5",
         "thrombin": "-0.5", "thriftlessness": "-0.5", "threadbare": "-0.5", "thinness": "-0.5", "thievishness": "-0.5",
         "thickspread": "-0.5", "therewithal": "-0.5", "theresa": "-0.5", "thawed": "-0.5", "tetanic": "-0.5",
