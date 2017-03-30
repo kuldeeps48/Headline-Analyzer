@@ -76,6 +76,16 @@ def analyze(file):
                     except:
                         lem_word = i[0]
 
+                    # Lookup in additional dictionary
+                    if i[0] in Dict:
+                        score = float(Dict[i[0]])
+                        if score < 0:
+                            neg_score += score
+                            continue
+                        else:
+                            pos_score += score
+                            continue
+
                     # print(lem_word," ", senti_tag)
                     # Get the numerical equivalent sentiwordnet score
                     # work on argument 3
@@ -83,13 +93,7 @@ def analyze(file):
                         breakdown = swn.senti_synset(lem_word + "." + senti_tag + "." + "01")
                         # print(breakdown)
                     except:
-                        # modifier scores before analysis since sentiwordnet fails to recognize them properly
-                        if i[0] in Dict:
-                            score = float(Dict[i[0]])
-                            if score < 0:
-                                neg_score += score
-                            else:
-                                pos_score += score
+                        # sentiword lookup failed
                         continue
 
                     pos_score += breakdown.pos_score()
@@ -107,3 +111,4 @@ def analyze(file):
     return outputFile
 
 
+analyze("./data/timesOfIndia/2017-03-28/2017-03-28.txt")
