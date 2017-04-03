@@ -4053,5 +4053,5 @@ Dict = {"epic": "1", "good": "0.639423077", "upright": "1", "fortunate": "0.9583
         "abulic": "-0.875", "abstractionist": "-0.875", "aboulic": "-0.875", "abominable": "-0.875",
         "incorrect": "-0.9375", "damaging": "-0.9375", "slanderous": "-1", "piteous": "-1", "misfortunate": "-1",
         "libelous": "-1", "libellous": "-1", "hapless": "-1", "denigratory": "-1", "denigrative": "-1",
-        "denigrating": "-1", "defamatory": "-1", "calumnious": "-1", "calumniatory": "-1", "dies": "-0.34",
+        "denigrating": "-1", "defamatory": "-1", "calumnious": "-1", "calumniatory": "-1", "dies": "-0.34", "son in law": "0.2",
         }
