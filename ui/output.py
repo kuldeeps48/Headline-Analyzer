@@ -187,6 +187,7 @@ class Ui_Dialog(object):
         global headlinesDisplayedCounter
         global calculatingAccuracy
         global displayingfile
+        global calculatingAccuracy
 
         global lineNumber
         with open(displayingfile, "r") as f:
@@ -230,20 +231,21 @@ class Ui_Dialog(object):
                 self.Value4.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt;\
                          color:#ffffff;\"><b>" + displayingScores[3] + "</b></span></p></body></html>", None))
             except IndexError:
-                accuracy = "{0:.2f}".format(
-                    ((headlinesDisplayedCounter - wrongScoreCounter) / headlinesDisplayedCounter) * 100) + "%"
-                self.accuracyResultLabel.setText(_fromUtf8(
-                    "<html><head/><body><p align=\"center\"><span style=\" font-size:18pt; font-weight:600; color: #20ee94;\">\
-                    <u>Accuracy </u>" + accuracy + "</span></p></body></html>"))
-                self.accuracyResultLabel.show()
-                self.checkBox1.hide()
-                self.checkBox2.hide()
-                self.checkBox3.hide()
-                self.checkBox4.hide()
-                self.accuracyLabel.hide()
-                file_to_store_accuracy = displayingfile[:-20] + "accuracy.txt"
-                with open(file_to_store_accuracy, "w") as f:
-                    f.write(accuracy)
+                if calculatingAccuracy:
+                    accuracy = "{0:.2f}".format(
+                        ((headlinesDisplayedCounter - wrongScoreCounter) / headlinesDisplayedCounter) * 100) + "%"
+                    self.accuracyResultLabel.setText(_fromUtf8(
+                        "<html><head/><body><p align=\"center\"><span style=\" font-size:18pt; font-weight:600; color: #20ee94;\">\
+                        <u>Accuracy </u>" + accuracy + "</span></p></body></html>"))
+                    self.accuracyResultLabel.show()
+                    self.checkBox1.hide()
+                    self.checkBox2.hide()
+                    self.checkBox3.hide()
+                    self.checkBox4.hide()
+                    self.accuracyLabel.hide()
+                    file_to_store_accuracy = displayingfile[:-20] + "accuracy.txt"
+                    with open(file_to_store_accuracy, "w") as f:
+                        f.write(accuracy)
                 return
 
         headlinesDisplayedCounter += 4
