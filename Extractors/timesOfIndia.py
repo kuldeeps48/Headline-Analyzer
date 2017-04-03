@@ -45,8 +45,9 @@ def extractor(headlines):
     base_url = []
     base_url.append('http://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms?feedtype=json') # National
     base_url.append('http://timesofindia.indiatimes.com/rssfeeds/296589292.cms?feedtype=json') # World
+    base_url.append('http://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms?feedtype=json') # Bangalore
 
-    for i in range(2):
+    for i in range(3):
         # Fetch JSON data and refine the data
         json_data = get_json(base_url[i])
         news = json_data['channel']['item']
