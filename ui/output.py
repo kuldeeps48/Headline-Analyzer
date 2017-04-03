@@ -182,6 +182,15 @@ class Ui_Dialog(object):
             lineNumber = 0
             self.nextFourHeadlines()
 
+    def headline_display_color(self, score):
+        rgw = ["#a00000", "#28ff41", "#ffffff"]
+        if score > 0:
+            return rgw[1]  # Green
+        if score < 0:
+            return rgw[0]  # Red
+
+        return rgw[2]  # White
+
     def nextFourHeadlines(self):
         global wrongScoreCounter
         global headlinesDisplayedCounter
@@ -213,23 +222,34 @@ class Ui_Dialog(object):
             displayingScores = data2
 
             try:
-                self.Headline1.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                         color:#ffffff;\"><b>" + displayingHeadlines[0] + "</b></span></p></body></html>", None))
-                self.Headline2.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                         color:#ffffff;\"><b>" + displayingHeadlines[1] + "</b></span></p></body></html>", None))
-                self.Headline3.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                         color:#ffffff;\"><b>" + displayingHeadlines[2] + "</b></span></p></body></html>", None))
-                self.Headline4.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                         color:#ffffff;\"><b>" + displayingHeadlines[3] + "</b></span></p></body></html>", None))
+                if displayingHeadlines[3]:  # If 4 headlines exists to display
+                    color = self.headline_display_color(float(displayingScores[0]))
+                    self.Headline1.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
+                             color:" + color + ";\"><b>" + displayingHeadlines[0] + "</b></span></p></body></html>",
+                                                      None))
+                    self.Value1.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
+                             color:" + color + ";\"><b>" + displayingScores[0] + "</b></span></p></body></html>", None))
 
-                self.Value1.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
-                         color:#ffffff;\"><b>" + displayingScores[0] + "</b></span></p></body></html>", None))
-                self.Value2.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
-                         color:#ffffff;\"><b>" + displayingScores[1] + "</b></span></p></body></html>", None))
-                self.Value3.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
-                         color:#ffffff;\"><b>" + displayingScores[2] + "</b></span></p></body></html>", None))
-                self.Value4.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt;\
-                         color:#ffffff;\"><b>" + displayingScores[3] + "</b></span></p></body></html>", None))
+                    color = self.headline_display_color(float(displayingScores[1]))
+                    self.Headline2.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
+                             color:" + color + ";\"><b>" + displayingHeadlines[1] + "</b></span></p></body></html>",
+                                                      None))
+                    self.Value2.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
+                             color:" + color + ";\"><b>" + displayingScores[1] + "</b></span></p></body></html>", None))
+
+                    color = self.headline_display_color(float(displayingScores[2]))
+                    self.Headline3.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
+                             color:" + color + ";\"><b>" + displayingHeadlines[2] + "</b></span></p></body></html>",
+                                                      None))
+                    self.Value3.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
+                             color:" + color + ";\"><b>" + displayingScores[2] + "</b></span></p></body></html>", None))
+
+                    color = self.headline_display_color(float(displayingScores[3]))
+                    self.Headline4.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
+                             color:" + color + ";\"><b>" + displayingHeadlines[3] + "</b></span></p></body></html>",
+                                                      None))
+                    self.Value4.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt;\
+                             color:" + color + ";\"><b>" + displayingScores[3] + "</b></span></p></body></html>", None))
             except IndexError:
                 if calculatingAccuracy:
                     accuracy = "{0:.2f}".format(
