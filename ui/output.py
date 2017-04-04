@@ -36,6 +36,7 @@ outputDate = date.today()  # Default date to show output on is today. Changes wh
 calculatingAccuracy = False  # Flag to indicate if we are in calculate Accuracy mode
 wrongScoreCounter = 0  # To calculate Accuracy
 headlinesDisplayedCounter = 0
+allHeadlinesShown = False
 
 
 def drawWordCloud():
@@ -79,22 +80,193 @@ def makeGraph(graphView):
     graphView.plot(x_axis_zero, y_axis_zero, pen=(0, 0, 0), symbolBrush=(255, 255, 255), symbolPen='k')
 
 
+def headline_display_color(score):
+    rgw = ["#ff7f7f", "#28ff41", "#ffffff"]
+    if score > 0:
+        return rgw[1]  # Green
+    if score < 0:
+        return rgw[0]  # Red
+
+    return rgw[2]  # White
+
+
 class Ui_Dialog(object):
     def calcuateAccuracy(self):
         global headlinesDisplayedCounter
         headlinesDisplayedCounter = 0
         global wrongScoreCounter
         wrongScoreCounter = 0
+        global calculatingAccuracy
+        calculatingAccuracy = True
+        global allHeadlinesShown
+        allHeadlinesShown = False
+        global lineNumber
+        lineNumber = 0
+
         self.checkBox1.show()
         self.checkBox2.show()
         self.checkBox3.show()
         self.checkBox4.show()
         self.accuracyLabel.show()
-        global lineNumber
-        lineNumber = 0
         self.nextFourHeadlines()
+
+    def noteCheckData(self):
+        global wrongScoreCounter
+        global displayingfile
+        global displayingHeadlines
+        global displayingScores
+
+        with open(displayingfile[:-20] + "wrongHeadlines.txt",
+                  mode="a") as wrongHeadlines:  # To store incorrect headlines and scores
+            try:
+                if self.checkBox1.isChecked():
+                    wrongScoreCounter += 1
+                    wrongHeadlines.write(displayingHeadlines[0] + ">>" + displayingScores[0] + "\n")
+                    self.checkBox1.setChecked(False)
+                if self.checkBox2.isChecked():
+                    wrongScoreCounter += 1
+                    wrongHeadlines.write(displayingHeadlines[1] + ">>" + displayingScores[1] + "\n")
+                    self.checkBox2.setChecked(False)
+                if self.checkBox3.isChecked():
+                    wrongScoreCounter += 1
+                    wrongHeadlines.write(displayingHeadlines[2] + ">>" + displayingScores[2] + "\n")
+                    self.checkBox3.setChecked(False)
+                if self.checkBox4.isChecked():
+                    wrongScoreCounter += 1
+                    wrongHeadlines.write(displayingHeadlines[3] + ">>" + displayingScores[3] + "\n")
+                    self.checkBox4.setChecked(False)
+            except:
+                pass
+
+    def nextFourHeadlines(self):
+        global wrongScoreCounter
+        global headlinesDisplayedCounter
         global calculatingAccuracy
-        calculatingAccuracy = True
+        global displayingfile
+        global calculatingAccuracy
+        global allHeadlinesShown
+        global lineNumber
+
+        if calculatingAccuracy:
+            self.noteCheckData()
+
+        if allHeadlinesShown and calculatingAccuracy:
+            accuracy = "{0:.2f}".format(
+                ((headlinesDisplayedCounter - wrongScoreCounter) / headlinesDisplayedCounter) * 100) + "%"
+            self.accuracyResultLabel.setText(_fromUtf8(
+                "<html><head/><body><p align=\"center\"><span style=\" font-size:18pt; font-weight:600; color: #20ee94;\">\
+                <u>Accuracy </u>" + accuracy + "</span></p></body></html>"))
+            self.accuracyResultLabel.show()
+            self.checkBox1.hide()
+            self.checkBox2.hide()
+            self.checkBox3.hide()
+            self.checkBox4.hide()
+            self.accuracyLabel.hide()
+            file_to_store_accuracy = displayingfile[:-20] + "accuracy.txt"
+            with open(file_to_store_accuracy, "w") as f:
+                f.write(accuracy)
+            calculatingAccuracy = False
+            return
+
+        with open(displayingfile, "r") as f:
+            data = f.readlines()[lineNumber:lineNumber + 9]
+            data1 = data[:8:2]  # line 1-8 in increment of 2 since 2nd line has scores
+            data2 = data[1:9:2]  # line 2-9 in increment of 2 since 1st line has headlines
+            for i, line in enumerate(data1):  # Remove \n from headlines
+                temp = line[:-1]
+                data1[i] = temp
+
+            for i, line in enumerate(data2):  # Remove >> and \n from scores
+                temp = line[3:8]
+                if temp[0] != "-":
+                    temp = " " + temp
+                data2[i] = temp
+
+            lineNumber += 8
+            global displayingHeadlines
+            global displayingScores
+            displayingHeadlines.clear()
+            displayingScores.clear()
+            displayingHeadlines = data1
+            displayingScores = data2
+
+            try:
+                color = headline_display_color(float(displayingScores[0]))
+                self.Headline1.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
+                         color:" + color + ";\"><b>" + displayingHeadlines[0] + "</b></span></p></body></html>",
+                                                  None))
+                self.Value1.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
+                         color:" + color + ";\"><b>" + displayingScores[0] + "</b></span></p></body></html>", None))
+                headlinesDisplayedCounter += 1
+
+            except IndexError:
+                self.Headline1.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
+                                         color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                                  None))
+                self.Value1.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
+                                         color:" + ";\"><b>" + "" + "</b></span></p></body></html>", None))
+                self.checkBox1.hide()
+                allHeadlinesShown = True
+
+            try:
+                color = headline_display_color(float(displayingScores[1]))
+                self.Headline2.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
+                                    color:" + color + ";\"><b>" + displayingHeadlines[
+                    1] + "</b></span></p></body></html>",
+                                                  None))
+                self.Value2.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
+                                    color:" + color + ";\"><b>" + displayingScores[1] + "</b></span></p></body></html>",
+                                               None))
+                headlinesDisplayedCounter += 1
+            except:
+                self.Headline2.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
+                                                    color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                                  None))
+                self.Value2.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
+                                                    color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                               None))
+                self.checkBox2.hide()
+                allHeadlinesShown = True
+
+            try:
+                color = headline_display_color(float(displayingScores[2]))
+                self.Headline3.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
+                                    color:" + color + ";\"><b>" + displayingHeadlines[
+                    2] + "</b></span></p></body></html>",
+                                                  None))
+                self.Value3.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
+                                    color:" + color + ";\"><b>" + displayingScores[2] + "</b></span></p></body></html>",
+                                               None))
+                headlinesDisplayedCounter += 1
+            except:
+                self.Headline3.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
+                                                    color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                                  None))
+                self.Value3.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
+                                                    color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                               None))
+                self.checkBox3.hide()
+                allHeadlinesShown = True
+
+            try:
+                color = headline_display_color(float(displayingScores[3]))
+                self.Headline4.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
+                                    color:" + color + ";\"><b>" + displayingHeadlines[
+                    3] + "</b></span></p></body></html>",
+                                                  None))
+                self.Value4.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
+                                    color:" + color + ";\"><b>" + displayingScores[3] + "</b></span></p></body></html>",
+                                               None))
+                headlinesDisplayedCounter += 1
+            except:
+                self.Headline4.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
+                                                    color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                                  None))
+                self.Value4.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
+                                                    color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                               None))
+                self.checkBox4.hide()
+                allHeadlinesShown = True
 
     def oneWeekAnalysis(self):  # Graph plot for 1 week scores
         pg.setConfigOptions(antialias=True)
@@ -151,6 +323,8 @@ class Ui_Dialog(object):
         self.accuracyResultLabel.hide()
         global calculatingAccuracy
         calculatingAccuracy = False
+        global allHeadlinesShown
+        allHeadlinesShown = False
         #########################################
 
         x = self.calendarWidget.selectedDate()
@@ -181,108 +355,6 @@ class Ui_Dialog(object):
             global lineNumber
             lineNumber = 0
             self.nextFourHeadlines()
-
-    def headline_display_color(self, score):
-        rgw = ["#ff7f7f", "#28ff41", "#ffffff"]
-        if score > 0:
-            return rgw[1]  # Green
-        if score < 0:
-            return rgw[0]  # Red
-
-        return rgw[2]  # White
-
-    def nextFourHeadlines(self):
-        global wrongScoreCounter
-        global headlinesDisplayedCounter
-        global calculatingAccuracy
-        global displayingfile
-        global calculatingAccuracy
-
-        global lineNumber
-        with open(displayingfile, "r") as f:
-            data = f.readlines()[lineNumber:lineNumber + 9]
-            data1 = data[:8:2]  # line 1-8 in increment of 2 since 2nd line has scores
-            data2 = data[1:9:2]  # line 2-9 in increment of 2 since 1st line has headlines
-            for i, line in enumerate(data1):  # Remove \n from headlines
-                temp = line[:-1]
-                data1[i] = temp
-
-            for i, line in enumerate(data2):  # Remove >> and \n from scores
-                temp = line[3:8]
-                if temp[0] != "-":
-                    temp = " " + temp
-                data2[i] = temp
-
-            lineNumber += 8
-            global displayingHeadlines
-            global displayingScores
-            displayingHeadlines.clear()
-            displayingScores.clear()
-            displayingHeadlines = data1
-            displayingScores = data2
-
-            try:
-                if displayingHeadlines[3]:  # If 4 headlines exists to display
-                    color = self.headline_display_color(float(displayingScores[0]))
-                    self.Headline1.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                             color:" + color + ";\"><b>" + displayingHeadlines[0] + "</b></span></p></body></html>",
-                                                      None))
-                    self.Value1.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
-                             color:" + color + ";\"><b>" + displayingScores[0] + "</b></span></p></body></html>", None))
-
-                    color = self.headline_display_color(float(displayingScores[1]))
-                    self.Headline2.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                             color:" + color + ";\"><b>" + displayingHeadlines[1] + "</b></span></p></body></html>",
-                                                      None))
-                    self.Value2.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
-                             color:" + color + ";\"><b>" + displayingScores[1] + "</b></span></p></body></html>", None))
-
-                    color = self.headline_display_color(float(displayingScores[2]))
-                    self.Headline3.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                             color:" + color + ";\"><b>" + displayingHeadlines[2] + "</b></span></p></body></html>",
-                                                      None))
-                    self.Value3.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
-                             color:" + color + ";\"><b>" + displayingScores[2] + "</b></span></p></body></html>", None))
-
-                    color = self.headline_display_color(float(displayingScores[3]))
-                    self.Headline4.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                             color:" + color + ";\"><b>" + displayingHeadlines[3] + "</b></span></p></body></html>",
-                                                      None))
-                    self.Value4.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt;\
-                             color:" + color + ";\"><b>" + displayingScores[3] + "</b></span></p></body></html>", None))
-            except IndexError:
-                if calculatingAccuracy:
-                    accuracy = "{0:.2f}".format(
-                        ((headlinesDisplayedCounter - wrongScoreCounter) / headlinesDisplayedCounter) * 100) + "%"
-                    self.accuracyResultLabel.setText(_fromUtf8(
-                        "<html><head/><body><p align=\"center\"><span style=\" font-size:18pt; font-weight:600; color: #20ee94;\">\
-                        <u>Accuracy </u>" + accuracy + "</span></p></body></html>"))
-                    self.accuracyResultLabel.show()
-                    self.checkBox1.hide()
-                    self.checkBox2.hide()
-                    self.checkBox3.hide()
-                    self.checkBox4.hide()
-                    self.accuracyLabel.hide()
-                    file_to_store_accuracy = displayingfile[:-20] + "accuracy.txt"
-                    with open(file_to_store_accuracy, "w") as f:
-                        f.write(accuracy)
-                return
-
-        headlinesDisplayedCounter += 4
-
-        if calculatingAccuracy:
-            if self.checkBox1.isChecked():
-                wrongScoreCounter += 1
-                self.checkBox1.setChecked(False)
-            if self.checkBox2.isChecked():
-                wrongScoreCounter += 1
-                self.checkBox2.setChecked(False)
-            if self.checkBox3.isChecked():
-                wrongScoreCounter += 1
-                self.checkBox3.setChecked(False)
-            if self.checkBox4.isChecked():
-                wrongScoreCounter += 1
-                self.checkBox4.setChecked(False)
 
     def setupUi(self, Dialog):
         Dialog.setObjectName(_fromUtf8("Dialog"))
@@ -564,7 +636,7 @@ class Ui_Dialog(object):
 def showOutput():  # testing: add parameter : file
     global displayingfile
     displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
-    #displayingfile = file  # testing
+    # displayingfile = file  # testing
     app = QtGui.QApplication(sys.argv)
     Dialog = QtGui.QDialog()
     ui = Ui_Dialog()
@@ -578,6 +650,8 @@ def showOutput():  # testing: add parameter : file
 if __name__ == "__main__":
     showOutput()
     # for testing purpose
-    #import os
-    #os.chdir("../")
-    #showOutput(r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\googleNews\2017-03-20\2017-03-20scores.txt')
+    # import os
+
+    # os.chdir("../")
+    # showOutput(
+    #    r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\googleNews\2017-03-21\2017-03-21scores.txt')
