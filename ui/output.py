@@ -199,12 +199,12 @@ class Ui_Dialog(object):
                          color:" + color + ";\"><b>" + displayingScores[0] + "</b></span></p></body></html>", None))
                 headlinesDisplayedCounter += 1
 
-            except:
+            except IndexError:
                 self.Headline1.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                                         color:" + color + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                         color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
                                                   None))
                 self.Value1.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
-                                         color:" + color + ";\"><b>" + "" + "</b></span></p></body></html>", None))
+                                         color:" + ";\"><b>" + "" + "</b></span></p></body></html>", None))
                 self.checkBox1.hide()
                 allHeadlinesShown = True
 
@@ -220,10 +220,10 @@ class Ui_Dialog(object):
                 headlinesDisplayedCounter += 1
             except:
                 self.Headline2.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                                                    color:" + color + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                                    color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
                                                   None))
                 self.Value2.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
-                                                    color:" + color + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                                    color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
                                                None))
                 self.checkBox2.hide()
                 allHeadlinesShown = True
@@ -240,10 +240,10 @@ class Ui_Dialog(object):
                 headlinesDisplayedCounter += 1
             except:
                 self.Headline3.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                                                    color:" + color + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                                    color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
                                                   None))
                 self.Value3.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
-                                                    color:" + color + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                                    color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
                                                None))
                 self.checkBox3.hide()
                 allHeadlinesShown = True
@@ -260,10 +260,10 @@ class Ui_Dialog(object):
                 headlinesDisplayedCounter += 1
             except:
                 self.Headline4.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                                                    color:" + color + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                                    color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
                                                   None))
                 self.Value4.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
-                                                    color:" + color + ";\"><b>" + "" + "</b></span></p></body></html>",
+                                                    color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
                                                None))
                 self.checkBox4.hide()
                 allHeadlinesShown = True
@@ -633,10 +633,10 @@ class Ui_Dialog(object):
                                        None))
 
 
-def showOutput(file):  # testing: add parameter : file
+def showOutput():  # testing: add parameter : file
     global displayingfile
-    # displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
-    displayingfile = file  # testing
+    displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
+    # displayingfile = file  # testing
     app = QtGui.QApplication(sys.argv)
     Dialog = QtGui.QDialog()
     ui = Ui_Dialog()
@@ -648,10 +648,10 @@ def showOutput(file):  # testing: add parameter : file
 
 
 if __name__ == "__main__":
-    # showOutput()
+    showOutput()
     # for testing purpose
-    import os
+    # import os
 
-    os.chdir("../")
-    showOutput(
-        r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\googleNews\2017-03-21\2017-03-21scores.txt')
+    # os.chdir("../")
+    # showOutput(
+    #    r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\googleNews\2017-03-21\2017-03-21scores.txt')
