@@ -183,7 +183,7 @@ class Ui_Dialog(object):
             self.nextFourHeadlines()
 
     def headline_display_color(self, score):
-        rgw = ["#a00000", "#28ff41", "#ffffff"]
+        rgw = ["#ff7f7f", "#28ff41", "#ffffff"]
         if score > 0:
             return rgw[1]  # Green
         if score < 0:
@@ -561,10 +561,10 @@ class Ui_Dialog(object):
                                        None))
 
 
-def showOutput():  # testing: add parameter : file
+def showOutput(file):  # testing: add parameter : file
     global displayingfile
-    displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
-    # displayingfile = file  # testing
+    #displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
+    displayingfile = file  # testing
     app = QtGui.QApplication(sys.argv)
     Dialog = QtGui.QDialog()
     ui = Ui_Dialog()
@@ -576,8 +576,8 @@ def showOutput():  # testing: add parameter : file
 
 
 if __name__ == "__main__":
-    showOutput()
+    #showOutput()
     # for testing purpose
-    # import os
-    # os.chdir("../")
-    # showOutput(r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\googleNews\2017-03-20\2017-03-20scores.txt')
+    import os
+    os.chdir("../")
+    showOutput(r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\googleNews\2017-03-20\2017-03-20scores.txt')

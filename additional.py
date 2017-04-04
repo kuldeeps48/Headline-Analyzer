@@ -4057,4 +4057,5 @@ Dict = {"epic": "1", "good": "0.639423077", "upright": "1", "fortunate": "0.9583
         "son in law": "0.2", "blast": "-0.2"
     , "terror": "-0.5", "attacks": "-0.2", "hope": "0.2", "inaugurate": "0.25", "inaugurates": "0.25",
         "no negative": "0.3", "look out": "0.2", "win": "0.5", "wins": "0.5", "propose": "0.15", "proposes": "0.15",
+		"elopes": "-0.4",
         }
