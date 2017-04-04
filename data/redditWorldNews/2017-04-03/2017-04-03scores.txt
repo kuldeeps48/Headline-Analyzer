@@ -1,0 +1,138 @@
+Blast reported in St Petersburg metro - BBC News
+>> 0.125
+NHS 111 'put suicidal callers on hold until they hung up'
+>> -0.125
+Lithuania fears Russian propaganda is prelude to eventual invasion | World news
+>> 0.0
+Left-wing candidate wins Ecuador presidential election after both candidates initially claim victory
+>> 0.125
+Anti-Corruption Protests In Russia Continue
+>> 0.125
+Anger as UK tampon tax is used to help fund anti-abortion group
+>> 0.5625
+Spain warns UK not to "lose its cool" over Gibraltar in Brexit talks
+>> 0.0
+Ciudad Juarez newspaper El Norte announces closure, citing violence against journalists in Mexico
+>> 0.0
+People who read the news more likely to be Islamophobic, study finds
+>> 1.5
+Chechen police 'have rounded up more than 100 suspected gay men'
+>> 0.5833333330000001
+Wikileaks releases code that could unmask CIA hacking operations
+>> 0.25
+Mexico newspaper stops printing after reporter shot dead
+>> -0.95
+Pollution linked to coal sites on the increase
+>> 0.0
+Deadly measles outbreak spreads in Europe as anti-vax parents refuse to vaccinate children.
+>> -0.854166666
+Spain Confirms it Would Not Veto Membership of and Independent Scotland to the EU
+>> -1.4
+Gibraltar leader says EU chief Donald Tusk 'behaving like a cuckolded husband'
+>> 0.375
+Germany opens investigation into Turkish group accused of spying on Erdogan opponents in 35 countries
+>> 0.375
+Head of US military kit-testing slams F-35, says it's scarcely fit to fly
+>> -0.22499999999999998
+Second Moscow opposition protest leads to arrests - At least 29 people have been arrested
+>> -0.5625
+Qatar Spends 200 Million Dollar to Assassinate Egyptian President, Egypt Takes Qatar to Court on ‘Terrorism’ Charges
+>> 0.625
+Europe is becoming the global hub for the hosting of child sexual abuse images and videos, suggests a report.
+>> 1.025
+St Petersburg underground rocked by ‘explosion’, reports in Russia claim
+>> -0.375
+Venezuela reverses ruling that stripped congress of legislative powers
+>> 0.0
+Blast in St. Petersburg Metro.
+>> -0.125
+Russian Air Traffic Controllers Willingly Contributed to Killing Polish President, New Evidence Suggests
+>> 2.0
+Lithuania fears Russian invasion as Kremlin misinformation campaign aims to destabilise Baltics, say officials
+>> -1.375
+Anti-corruption protests continue across Russia
+>> 0.125
+FBI Cannot Examine Megaupload Servers, Canada Appeal Court Rules
+>> -0.25
+DNA tests reveal endangered species for sale in dried seafood stores
+>> -0.625
+Neo-Nazi threats force Jewish group in Sweden to close - BBC News
+>> 1.0
+China to create new economic zone outside Beijing
+>> 1.6875
+Explosion in St. Petersburg metro
+>> 0.0
+Mexico newspaper stops printing after reporter shot dead
+>> -0.95
+Ford recalling 52,000 trucks because they may move in park
+>> 0.25
+Israel: New law that would deduct ‘martyr’ payments from Palestinian tax revenues
+>> 0.375
+Canadian study shows maple syrup extract may help combat growing resistance to antibiotics.
+>> 0.25
+Spain tells UK to calm down over Gibraltar-Brexit war threats
+>> -0.428571429
+Donald Trump's US ambassador to UN says there's 'no doubt' Russia meddled in the election
+>> 0.416666667
+St Petersburg metro explosions kill at least ten
+>> -0.25
+Moscow police detains up to 30 anti-corruption protesters.
+>> 0.125
+Students in Hungary march against a bill threatening future of prestigious university
+>> 0.0
+Welfare shakeup 'will push a quarter of a million children into poverty'
+>> -0.36250000000000004
+Government controlled surveillance cameras being placed inside Churches in China
+>> 0.9375
+Stellar Daisy: search for crew of huge cargo ship feared sunk in Atlantic Ocean
+>> 0.125
+UN ambassador Nikki Haley calls for ‘very strong’ stance on Russia
+>> 0.375
+Sandy Hook: 'Help us stop conspiracy theorists'
+>> -0.25
+Jared Kushner is in Iraq
+>> 0.125
+Death toll climbs to 254 in southern Colombia landslide
+>> -0.3125
+ISIL second-in-command reportedly killed in air strike
+>> -0.625
+What life is like for Isis's 400,000 'human shields' in west Mosul
+>> 0.0
+Donald Trump: US will tackle North Korea alone if China fails to act | The Independent
+>> 0.975
+Theresa May 'would go to war' to defend the sovereignty of Gibraltar
+>> -0.475
+Chechnya human rights defender: "I would not even consider a statement about the murder of homosexual"
+>> 0.5
+UK accused of 'losing cool' on Gibraltar by Spanish minister - BBC News
+>> -0.375
+Shares in Turkish Chocolate Company Tumble After April Fools’ Day Ad Goes Wrong
+>> -1.384615385
+Palestinian Authority textbooks teach pupils to be expendable ‘martyrs’
+>> 0.875
+North Korean Slaves Allegedly Building Key Russian World Cup Stadium
+>> -0.25
+Leftist claims victory in Ecuador, conservative asks for recount
+>> 0.5
+Chinese firm files missing person report for exec after huge stock drop
+>> -0.5625
+Polls project that populist Prime Minister Aleksandar Vucic has won Serbia's presidential election.
+>> 0.2916666669999999
+Islamic State group using human shields in Mosul - BBC News
+>> 0.875
+Thousands march in Paris after Chinese man's death by police
+>> -0.3125
+Israel PM warns enemies at missile defense ceremony
+>> 0.25
+Dark Energy May Be Myth, Standard Models Of Universe Overlooked Changing Structure: Study
+>> 0.6770833330000001
+Venezuela's Maduro wins power over oil despite court reversal
+>> 0.0
+Bomb in Egypt Nile Delta city kills 1 policeman, injures 15
+>> -0.5
+South Korea's Lotte to China: Don't blame us for THAAD missiles
+>> 0.25
+KT, Verizon test world’s first 5G live hologram call
+>> 0.446428571
+Jordan says Israel's new settlement undermines peace
+>> 0.0

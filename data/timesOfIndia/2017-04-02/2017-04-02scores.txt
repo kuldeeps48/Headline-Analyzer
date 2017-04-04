@@ -1,0 +1,80 @@
+Watering holes along highways go high and dry following SC order
+>> -0.03749999999999998
+PM Modi inaugurates Chenani-Nashri tunnel; says Kashmir's youth have two paths - tourism or terrorism
+>> -0.5
+DU students arrested for 'stalking' Smriti Irani
+>> 0.0
+'Love' kills more in India than terror
+>> -0.17500000000000004
+Muslims realising terrorism is attempt to defame Islam, says Rajnath Singh
+>> 0.5
+Dalai Lama to keep secret of his 'beautiful skin' to himself
+>> 0.416666667
+PM Modi inaugurates Chenani-Nashri tunnel in J&K
+>> 0.0
+70 million more passengers travel in trains in 2016-17
+>> 0.0
+I am a messenger of Indian culture: Dalai Lama
+>> 0.75
+Krishna was legendary eve-teaser: Prashant Bhushan in reference to 'anti-Romeo squads' in UP
+>> 0.145833333
+UP CM Adityanath can build a temple 'inside' every mosque: Omar Abdullah
+>> 0.375
+Government will help judiciary reduce pendency of cases: Narendra Modi
+>> 0.75
+Himachal professor's idea saves snakebite victims, wows WHO
+>> 0.4
+Kenyan woman who faked assault by locals to 'quietly' leave India
+>> -0.166666667
+Measuring the effects of SC's liquor ban
+>> 0.0
+Chenani-Nashri Jammu and Kashmir's new lifeline: 10 interesting features of this new road tunnel
+>> 1.125
+50% of police posts vacant in UP; national average at 24%
+>> -0.27083330000000005
+PM Narendra Modi to inaugurate Chenani-Nashri tunnel today
+>> 0.125
+Congress's Jaffer Sharief backs RSS chief Mohan Bhagwat for President post
+>> 0.375
+Two crore LPG target brings ‘Ujjwala’ to Odisha cook
+>> 0.0
+Colombia landslide death toll rises to 234: Red Cross
+>> -1.3125
+Soon, a UN force to protect culture
+>> 0.0
+Pakistan sets up unique helpline for women in need
+>> 0.708333333
+Donald Trump: Different strokes
+>> 0.625
+China shuts down 18 illegal live streaming apps
+>> 0.517857142
+Large fire burns in Dubai near site of 2015 blaze
+>> 0.125
+Indonesia landslide: Search resumes for dozens missing
+>> -0.5
+Mixed bag for Suu Kyi's party as Myanmar ballots counted
+>> -0.25
+Armenia set to hold parliamentary elections on Sunday
+>> 0.5
+Chicago police arrest 14 year-old in Facebook rape case
+>> 0.125
+Protesters burn Paraguay parliament over constitutional reform bill
+>> 1.0
+China launches new economic zone in Hebei to promote integration
+>> 1.4375
+Trump advisers richer than previous White House officials
+>> -0.0625
+Colombia landslide leaves 93 dead in Putumayo province: Local police
+>> -0.325
+Park Geun-Hye: From South Korea president to prisoner 503
+>> 0.0
+Suu Kyi's new govt faces first test at Myanmar polls
+>> 0.0
+2 dead, tens of thousands stranded by Australia floods
+>> -0.2
+Landslide buries over 2 dozen people in central Indonesia
+>> 0.0
+White House wealth: Trump staff disclose their finances
+>> -0.25
+Paraguay protesters set fire to Congress building
+>> -0.25

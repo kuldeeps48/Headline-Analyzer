@@ -1,0 +1,160 @@
+April Fool's Day: all the best fake news and pranks
+>> 1.6041666669999999
+All 12 terror raid arrests over Westminster attack released without charge
+>> 1.125
+Duchess of Cornwall visits mural of mafia symbols as she joins Prince Charles on Royal tour of Europe
+>> 0.0
+Boat Race 2017: Choppy waters ahead for the rower who switched from Cambridge to Oxford
+>> -0.5
+Donald Trump leaves executive order ceremony without signing executive order after press asks about Mike Flynn
+>> 0.625
+Postman apologises after accidentally delivering parcel into loo
+>> 0.291666667
+Pictures of the Day: 1 April 2017
+>> 0.0
+UK’s support for Gibraltar will remain 'implacable and rock-like' during Brexit, Boris Johnson says
+>> -0.375
+Fears grow for missing mother and her two sons after family court warns she poses a 'risk of harm' to them
+>> -0.625
+Paraguay rioters set fire to Congress after Senate re-election vote
+>> 0.375
+St Paul's Cathedral row as dean scraps 400-year-old cakes and ale tradition because it is 'not in the spirit' of Lent
+>> 0.21875
+Eurovision threatens to ban Ukraine in row over Russian singer
+>> -0.125
+April Fool's Day: What are the best pranks and where did it come from?
+>> 1.75
+Homeless man accused of murdering mother and son at family's Stourbridge home remanded in custody
+>> -0.125
+Labour puts aside £4 million war chest to fight snap election amid belief vote will be called before 2020
+>> 0.5833333330000001
+Ivanka Trump and Jared Kushner retain scores of property assets while in White House
+>> 0.625
+April Fool's day: The best spoofs and pranks, in pictures
+>> 1.375
+Exclusive: The most powerful Briton in America on what it's really like in Donald Trump's White House
+>> 0.25
+'I don't want to die': Linda Nolan reveals she is 'really scared' after being diagnosed with incurable cancer
+>> 1.96875
+MPs face new expenses scandal as details of payments to members' family are leaked
+>> 0.625
+'Blonde in the boat' Olympic gold medalist swaps sailing for the saddle
+>> 0.0
+Australia floods leave tens of thousands stranded and four missing
+>> -0.375
+More unmarried couples with children breaking up than married couples for first time, ONS figures show
+>> 0.75
+Australia bolsters security checks for flights from Middle East
+>> 0.375
+Gary Barlow taken ill and walks off set during live interview on The One Show
+>> -0.681349207
+British cancer patients 'five times less likely' to get new drugs than French
+>> 1.375
+Prince Charles tried to stop Afghan invasion due to Ramadan, new book claims
+>> 1.25
+Alec Baldwin: My Saturday Night Live Trump character will 'retire' soon
+>> 1.008928571
+Sharp rise in the number of US citizens turned away by Canada
+>> -0.333333333
+Venezuela's Supreme Court shuts down parliament in what opponents say is slide towards dictatorship
+>> -0.011904762000000013
+Dutch student’s chilly surprise when he arrives in Sydney, Nova Scotia rather than Sydney, Australia
+>> 0.3125
+Europe moves to bar Britain from axing EU red tape and cutting taxes after Brexit as price of trade deal
+>> 0.0625
+Business rates chaos as firms forced to pay extra before knowing if they can claim from £300m relief fund
+>> -0.04166666699999999
+New York's notorious Rikers Island prison 'to close' after years of complaints
+>> 0.0
+Dambusters bouncing bomb discovered washed up on a beach in Kent
+>> 0.1875
+Would you let a four-year-old light a fire? A safety group says you should
+>> 0.75
+Law firms to be banned from touting for business in hospitals
+>> 0.625
+The doctor won’t see you now: first county in UK ditches urgent same-day appointments
+>> 0.04166666699999999
+The Pentagon after the 9/11 attack
+>> -0.25
+Ofsted to spy on Facebook accounts of parents and pupils
+>> 0.0
+Revealed: How the Romanian gipsy boy pictured being hugged by Prince Charles won his heart
+>> 0.875
+SpaceX makes history by successfully launching first recycled rocket booster
+>> 0.375
+Having comfy chairs in church is more important than preserving pews, church court rules
+>> 0.625
+Passenger jet in near-miss with large drone at 10,000 feet on Heathrow approach
+>> 0.125
+'Putting it bluntly madam, you are sex mad,' judge tells woman jailed for group sex with underage boys
+>> 1.3125
+Homeless man charged with murder after family with 'hearts of gold' are stabbed in Stourbridge home
+>> 0.333333333
+'Vote for us and get a three-day weekend': Green Party launches audacious bid for the youth vote
+>> 0.541666667
+Germany says Nato defence spending targets 'unrealistic' as Rex Tillerson attends first meeting
+>> -0.875
+Meghan Markle poses in Vanity Fair alongside Emma Watson, Cher, and Justin Trudeau
+>> 0.158653846
+Telegraph cartoons, April 2017
+>> 0.0
+'Britain's biggest Brexit problem will be the French because they're, well, French': Chopper's Brexit Podcast Episode 5
+>> 0.3416666669999999
+NS&I faces calls to scrap 'online only' policy as elderly savers will be blocked from new savings bond
+>> 0.9583333330000001
+Animals of the Week: 31 March 2017
+>> -0.375
+Britain at odds with US over Bashar al-Assad's future in Syria
+>> 0.0
+John Humphrys prompts diplomatic complaint after mentioning 'Mexican stand-off' on Today programme
+>> -0.8812500000000001
+Easter 2017: Dates and the meaning behind Good Friday, Easter Sunday and Easter Monday
+>> 0.639423077
+South African currency plunges after Jacob Zuma fires finance minister in cabinet purge
+>> 0.0
+When is the next UK bank holiday and how many are there in 2017?
+>> 0.5
+Far-Right AfD party leader in Germany 'considers stepping down'
+>> -0.803571429
+Indian state planning law to 'erase' all remnants of 'cruel and humiliating' British colonial rule
+>> -0.1875
+Forget your PB: Brighton Half Marathon organisers admit course is  146m too short
+>> 0.5220588239999999
+Watch David Dimbleby's awkward live Eminem rap about Brexit
+>> 0.046428570999999974
+What is Article 50? The only explanation you need to read
+>> 0.125
+Was Nicola Sturgeon trolling Theresa May as she posed to sign the Section 30 letter?
+>> 0.0
+UK takes back the right to deport as Britain repeals powers from EU
+>> 0.711538462
+Frenchman attacked in Shanghai as Chinese residents of Paris protest over police killing
+>> -0.25
+EU will ban UK from cutting tax or scrapping regulation as price of trade deal
+>> 0.875
+Theresa May had dinner with Boris Johnson after triggering Article 50
+>> -0.25
+Nicola Sturgeon warns Theresa May independence referendum is inevitable in demand letter
+>> -0.3125
+Cambridge college closes to the public after students found tourists wandering into their bedrooms
+>> 0.0
+What is the Great Repeal Bill? The only explanation you need to read
+>> 0.479166667
+Nicola Sturgeon threatens to try and obstruct Great Repeal Bill
+>> 0.354166667
+Royal Marines could be in jeopardy, Defence Secretary Sir Michael Fallon admits
+>> 0.0
+Hope in human life on Mars rises as scientists in Peru successfully grow a potato in Mars simulator
+>> 0.75
+Annotated: What does Nicola Sturgeon's Scottish independence letter say and really mean?
+>> 0.46875
+Blast outside Pakistan mosque kills over  22 and injures at least 70
+>> -0.625
+Obamacare is seen as a right for many Americans, even if it may turn out to be unworkable
+>> 0.21153846200000004
+First picture of Westminster terror attack survivor in hospital after her husband was killed
+>> 0.25
+In full: Nicola Sturgeon's letter to Theresa May
+>> -0.5
+'An utter disaster': Tens of thousands at risk after Cyclone Debbie sweeps away town in Australia
+>> 0.416666667

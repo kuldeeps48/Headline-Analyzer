@@ -1,0 +1,80 @@
+Stale food served in Rajdhani leads to protest
+>> -0.458333333
+Woman donates half of her property to temple
+>> 0.375
+Interpol shuts door on ED for Red Corner notice against Lalit Modi
+>> -0.3125
+2,744 CRPF personnel injured while dealing with riots and protests in 2016: Government
+>> -0.75
+Ganga cleaning: Uma Bharti feels Bavaria can help India with its Danube experience
+>> 0.5
+Attack on Nigerian students deplorable: MEA
+>> -1.0416666669999999
+Mamata Banerjee cautions people against communal instigation
+>> -0.125
+Food poisoning affects 6 on Rajdhani, passengers protest
+>> -0.25
+Menstruating women shouldn't enter places of worship: Congress leader
+>> -0.375
+Budgam encounter ends after militant killed, 3 civilians also lose life
+>> -1.0
+Akhilesh Yadav elected leader of SP in both Houses of UP legislature
+>> 0.0
+19 cases of ISIS activities registered in India: Govt
+>> 0.125
+SC can't order government on passing amendments: Centre on Lokpal Act
+>> -0.125
+Pappu Yadav's MP wife raises his arrest in Lok Sabha
+>> 0.0
+Paramilitary men dying in action considered martyrs: Govt
+>> 0.125
+SC reserves verdict on pleas seeking appointment of Lokpal
+>> -0.5
+71 tourists stranded in Ladakh due to avalanche rescued: Army
+>> 0.6875
+1 injured in crude bomb explosion near railway track in UP
+>> -0.7916666669999999
+Five arrested for assaulting Nigerian students: Noida police
+>> -0.375
+CEOs active on social media help brand building
+>> 1.0
+Carlos the Jackal sentenced to life for Paris bombing
+>> -0.25
+Trump spills beans on grandchild-to-be's gender
+>> 0.125
+Neo-JMB chief killed in anti-terror operation in Sylhet
+>> -0.625
+Donald Trump: Different strokes
+>> 0.625
+Can't allow 'bad actors' to have nukes: US envoy to UN
+>> -1.058823529
+EU court rules Russia sanctions over Ukraine are valid
+>> 0.75
+London attacker's wife 'saddened and shocked'
+>> 0.375
+Malaysia says Kim Jong Nam's body still in the country
+>> -0.125
+'Monster' cyclone Debbie batters northeast Australia
+>> 0.0
+Trump son-in-law meets sanctioned Russian bank chief
+>> -0.25
+Cambodia bans human breast milk exports to US
+>> 0.0
+North Korea tests rocket engine: US officials
+>> 0.125
+Kremlin rejects US, EU calls to free detained protesters
+>> 0.375
+Hong Kong to arrest democracy protest leaders
+>> 0.0
+Saarc countries pull up Pakistan for unpaid dues
+>> 0.75
+Russian police detain opposition leader, hundreds of protesters
+>> -0.4375
+Eight school pupils feared dead in Japan ski resort avalanche
+>> 0.07500000000000001
+South Korea prosecutors seek arrest of ex-president Park
+>> 0.0
+United Airlines bars teenage girls in leggings from flight
+>> 0.375
+Thousands evacuated as cyclone bears down on Australia
+>> -0.178571429

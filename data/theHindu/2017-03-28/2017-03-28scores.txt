@@ -1,0 +1,234 @@
+KKNPP launches mobile medical unit for neighbourhood
+>> 0.0
+Stale food served in Rajdhani leads to protest
+>> 0.375
+VS should direct rantingat CM, says Chennithala
+>> 0.0
+Protests after Chinese employee allegedly disrespects tricolour in Noida
+>> -1.0
+Production in full swing at TTPS
+>> 0.0
+Monsanto meets its match as Hindu nationalists assert power in India
+>> 0.125
+Lalit Modi claims Interpol order is not against him
+>> -0.375
+Akhilesh elected leader of SP Legislature party
+>> 0.0
+Death during rail promotion of ‘Raees’: summons sent to SRK, Excel Entertainment
+>> -0.375
+Five arrested for attacks on Africans in Noida
+>> 0.0
+Chennithala seeks judicial probe into exam lapses
+>> -0.5
+MoRTH rolls out new accident recording and reporting format
+>> 0.0
+Agents of death: female foeticide in Maharashtra
+>> 0.5
+Air India cancels again Ravindra Gaikwad’s ticket
+>> 0.0
+73 thefts at houses of MPs, MLAs in Delhi in 3 years
+>> 0.0
+Court to decide on Stayzilla Vasupal's bail plea by evening
+>> -0.125
+Prohibitory orders in poll-bound Gundlupet after farmer’s death
+>> -0.125
+Supreme Court reserves verdict on pleas seeking appointment of Lokpal
+>> 0.75
+Madras HC relaxes ban on registration of unapproved plots
+>> 0.0
+We want to pass GST Bills through consensus: Jaitley
+>> 0.25
+Supreme Court to hear tomorrow pleas against ban of liquor shops along highways
+>> -0.125
+'Data is the new oil': LS debates the Statistics Amendment Bill
+>> 0.25
+Madhepura MP Pappu Yadav arrested after clashes with police
+>> 0.0
+3 youths, 1 ultra killed during anti-militancy operation in Kashmir
+>> -1.125
+Sushma speaks to Adityanath on attack on Nigerian students in Greater Noida
+>> 0.0
+Polavaram will benefit all 13 districts of A.P.: Naidu
+>> 0.875
+‘Address actual needs of tribal people’
+>> -0.375
+‘Perfect lighting will invigorate theatrical performances’
+>> 0.25
+Dengue haunts Chittoor village
+>> -0.25
+Privileged darshan restricted to protocol VIPs at Tirumala
+>> 0.5
+Navy to bid farewell to long range maritime patrol aircraft on March 29
+>> 0.0
+Be wary of those kicked out by Jayalalithaa, says Panneerselvam
+>> 0.625
+Last woman standing
+>> -0.25
+US techie, son murder: Parents want to perform last rites in Vijayawada
+>> -0.125
+Telangana not to get GST compensation
+>> -0.75
+Stir by goods transport vehicles
+>> 0.5
+NCP leadership meet today
+>> 0.125
+Nine candidates in Malappuram
+>> 0.0
+ARC releases approach paper
+>> 0.0
+Four of a family found dead
+>> -0.75
+‘Most missing girls had love affairs’
+>> 0.5
+Doctors take out silent protest march
+>> 0.125
+Fire destroys 15 acres of forest area in Yadgir
+>> 0.0
+Mercury breaches 41.7C mark in Kalaburagi
+>> 0.0
+‘Ensure proper supply of sand for construction works’
+>> 0.75
+Suicide no more a crime, patients to get cover
+>> -0.15000000000000002
+Decision on District Mineral Fund welcomed
+>> 0.5
+‘Adhere to order on infrastructure in mining areas’
+>> 0.0
+Samjhauta case: NIA not to go after LeT
+>> -0.625
+A new frontier for TB diagnosis
+>> 0.625
+Wheelchair to open Goa’s beaches to all
+>> 0.0
+Monsoon forecast offers little relief
+>> -0.25
+30 beach mineral godowns sealed
+>> 0.0
+Unsold BS-III vehicles can be registered
+>> -0.625
+Can vaccination cause cancer, asks HC
+>> 0.0
+Court questions credibility of foreign medical degrees
+>> -0.5
+SC disallows abortion of 27-week foetus
+>> 0.25
+Tamil language fest from April 1
+>> 0.0
+Pak. victim’s kin pardons Indians
+>> -0.125
+Dhinakaran’s plea to defer trial rejected
+>> -0.125
+Court acquits man of rape charges, says relationship was consensual
+>> 0.375
+HC pulls up SEC for postponing civic polls
+>> 0.375
+As Centre seals hydrocarbon extraction deals; TN ryots hope promises will be kept
+>> 0.375
+Find alternatives to pellet guns: SC
+>> -0.125
+J&K Muslims are a minority: Centre
+>> 0.125
+PM urged to act against racist attacks
+>> 0.0
+BJP wants to split Biju Janata Dal, says MP
+>> 0.25
+Australia to probe racist attack
+>> 0.25
+Only illegal abattoirs targeted, says U.P. government
+>> 0.0
+Uproar in House over airline ban on Sena MP
+>> -0.125
+Supreme Court for policy to curb farmer suicides
+>> 0.0
+Lawyers to abstain from work
+>> 0.0
+GST Bills get cold welcome
+>> -0.375
+Now it’s Bhim’s turn to demand closure of liquor shops
+>> -0.25
+Rahul to address Congress MPs
+>> 0.0
+Stayzilla founder seeks bail
+>> -0.125
+Shivpal, Azam denied U.P. Leader of Opposition post
+>> -1.625
+‘Triple talaq not in SC purview’
+>> -0.625
+Resident doctors at Ahmedabad hospital end strike
+>> 0.125
+TRS pushing Telangana into financial mess: CPI leader
+>> 0.125
+BJP trying to sneak in corporate funding: Opposition
+>> -0.625
+BWSSB relaxes STP rule for apartments
+>> 0.25
+Government staff boycott Prajavani in Nizamabad
+>> 0.0
+SR&BGNR Govt. College showcases its achievements
+>> 0.0
+To quench thirst of wild animals
+>> -0.125
+Massive fire at Pune’s National Chemical Laboratory
+>> 0.0
+Ponnam threatens indefinite fast
+>> -0.375
+Three women held for chain snatching
+>> 0.0
+Taking the prasadam route to ‘woo’ voters in Nanjangud
+>> 0.0
+‘Expedite process of issuance of title deeds’
+>> 0.0
+‘Summer of Science’ from April 1
+>> 0.0
+Shivamogga administration steps up drought mitigation works
+>> 0.75
+Bar case: prosecutor can’t appear in HC
+>> 0.0
+New agri colleges to come up
+>> 0.75
+‘Probe how MLA got title deed’
+>> 0.125
+Karshaka sanghom withdraws stir
+>> -0.375
+Shivanna, former MP, joins BJP
+>> -0.125
+Teacher held under POCSO
+>> 0.0
+Good response to Hassan-Yeshwantpur train
+>> 0.75
+Complaint against former members of NEKRTC society
+>> -0.375
+BJP dares Siddaramaiah to come out with ‘happiness indices’
+>> -0.375
+Vanajeevi wants green message on currency notes
+>> 0.125
+Police unearth alleged marks card racket at KSOU
+>> -0.25
+Protest against Kasturirangan report to be intensified
+>> 0.125
+Shuchi hit owing to shortage of funds: Health Minister
+>> 1.0
+‘Retired nurse’ was a quack: Health officials
+>> 0.375
+‘Illegal’ abortion brings back focus on sex determination
+>> 0.125
+‘Need 3 months to relocate casinos’
+>> 0.0
+Pune athlete eyes Ironman Triathlon
+>> 0.25
+Don’t employ women on night shifts: House panel
+>> 0.0
+Police seek cancellation of bail to former naxalite
+>> -0.125
+With four days left to file RTE applications, no end to glitches
+>> 0.0
+II PU students can now see how papers are evaluated
+>> 0.125
+Case booked against cow vigilante group
+>> -0.25
+Blast in court: Kerala police conducts inquiries in Madurai
+>> -0.125
+79 kg of sea cucumbers seized
+>> 0.0
+CPI(M) finds Home’s work satisfactory
+>> 0.3125

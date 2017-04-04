@@ -1,0 +1,242 @@
+Liquor shops to remain open from 9.30 a.m. to 9.30 p.m.
+>> -0.375
+JNU rejoices national ranking, students slam fellowship delays
+>> 0.875
+TN leads MHRD’s top-100 colleges list with 37
+>> -0.208333333
+12-year-old girl’s suicide: mother, paramour held
+>> -0.025000000000000022
+Bhumi puja done at TRS Foundation Day meeting venue
+>> 0.0
+More funds, autonomy to institutions with better ranking: Prakash Javadekar
+>> 1.25
+Six DU colleges among India’s top 10 in HRD ministry’s ranking
+>> 0.416666667
+SC asks CBI to file status report of probe into Aircel-Maxis deal
+>> 0.0
+Sraddha to reach out to laggards in class
+>> 0.125
+BJP has bright future, says S.M. Krishna at poll rally in Gundlupet
+>> -0.5
+Punjab Police team leaves for Mumbai to arrest Rakhi Sawant
+>> 0.0
+6 CRPF men injured as militants strike near Srinagar
+>> -0.625
+Best colleges in India
+>> 0.5625
+My sister is not interested in politics: Naveen Patnaik
+>> -0.125
+Vaiko jailed for sedition
+>> -0.25
+Robbers held
+>> -0.5
+State govt. ‘worst in the last 55 years’, says S.M. Krishna
+>> 0.0
+Top 10 colleges, universities in India
+>> -0.208333333
+Miscreants destroy tomato plants
+>> -0.25
+Will take India to U.N. rights council: African envoys
+>> 0.125
+Former ‘Salwa Judum’ member killed by Naxals
+>> -0.28125
+ED probe on against company, Karti P. Chidambaram, 2 other directors
+>> -0.875
+A quick guide to the sexual harassment at workplace law
+>> 0.0
+Seven arrested on charge of attempting to murder Udupi DC, AC
+>> -0.625
+All you need to know about Chenani-Nashri: India's longest tunnel
+>> 0.3125
+Pakistan army resorts to shelling, firing along LoC in Poonch
+>> 0.375
+Iran releases 15 Indian fishermen
+>> 0.0
+Truckers strike across southern states set to intensify
+>> 0.5
+Army jawan found in possession of grenades at Srinagar airport, arrested
+>> 0.0
+Funeral of slain NRI techie, son performed
+>> 0.25
+Induction of MLAs from other parties into Cabinet criticised
+>> 0.375
+Cabinet shuffle fuels protests, discontent in TDP
+>> -0.625
+Lokesh, 10 others inducted into Cabinet
+>> 0.0
+Affordable start-up space still a dream for techies in Malabar
+>> 0.5
+My release a victory for judicial system, says Satyam Babu
+>> 1.5833333330000001
+These clothes mean love
+>> 0.325
+Naveen Patnaik meets BJD’s new panchayat leaders
+>> 0.375
+Kochiites, Vigilance to jointly fight graft
+>> -0.25
+Digital innovation to bring down cost of surgeries: expert
+>> 0.696428571
+Cage aquaculture spreading fast
+>> -0.25
+TDB going slow in corruption cases
+>> 0.125
+Desperate consumers throng liquor outlets
+>> -0.5
+Gangai Amaran strikes a chord with R.K. Nagar voters
+>> -0.25
+2 held in huge haul of scrapped currency
+>> -0.125
+Techies’ bid to clean up Thettiyar
+>> 0.25
+Fun, excitement fill the air at all-woman treasure hunt
+>> 0.8125
+14 phones seized in J&K prison
+>> -1.125
+Sweaters, jackets knit together a case
+>> 0.375
+U.S. criticises India for rights abuses
+>> -0.625
+Poll panel to buy new EVMs for 2019 elections
+>> 0.4375
+KUDA to develop mega township on 180 acres
+>> 0.0
+Farmer threatens to end life in Minister’s presence
+>> 0.25
+Rupee dreams: Tribal youth opting for jobs over studies
+>> 0.0
+Counterfeiting of new notes worries agencies
+>> 0.625
+PMKK inaugurated at Kavoor
+>> 0.0
+Bagalawad tense after Valmiki portrait is desecrated
+>> -0.125
+Concern over growing crime rate, traffic issues in Hubballi
+>> 1.0
+Send proposal to form revenuevillages, Minister tells officials
+>> 0.25
+Campaign to keep Marina Beach litter free
+>> 0.0
+Apollo inks pact on colorectal treatment
+>> -0.5
+HC comes to rescue of debtor ‘without means’
+>> 0.125
+Thousands take JEE(Main) exam
+>> 0.25
+Team Vishal does an encore
+>> 0.0
+Expert panel okays amendment of environment nod for power project
+>> 0.875
+German tourist alleges rape at Mamallapuram
+>> 0.25
+Deepa supporters confident of win
+>> 0.125
+AI gives free tickets to 3 Bangladeshi patients
+>> 0.375
+Lankan Navy arrests six Indian fishermen for drug trafficking
+>> 0.0
+Students held for stalking Smriti Irani released
+>> 0.0
+Dalai Lama thanks border guard after 58 years
+>> -0.458333333
+11 bodies, four skulls found in Bhakra canal
+>> -0.75
+Minor girl raped inside Puri temple
+>> -0.21875
+Centre may remove cap on parent maintenance
+>> 0.5
+‘Hasina not protecting Hindus’
+>> -1.375
+Collector inaugurates pulse polio programme
+>> -0.625
+ED questions suspects on shell firms
+>> 0.0
+Will Mamata meet Hasina? It’s a suspense
+>> 0.0
+Disha, for a better life for autistics
+>> 0.625
+IPL opening match to draw a sell-out crowd in city
+>> -0.375
+Sexual abuse of minors: three held in two cases
+>> -0.4
+Urjit, deputies get a pay hike
+>> 0.0
+Tension in Manthani overdalit youth’s death
+>> -0.625
+Panic spreads as elephants run amok
+>> -0.15625
+Their books, in their colours
+>> 0.0
+State to recruit graduates for special intelligence cadre
+>> 1.21875
+Now, spotlight on centres for persons with disabilities
+>> -0.5
+Over 1 kg of gold seized
+>> -0.875
+Researchers find evidence of rabies virus in Indian bats
+>> 0.625
+Bloggers soak up Malabar’s pristine beauty
+>> 0.3125
+‘Centre, State diluting implementation of EGS’
+>> 0.125
+Nalini Netto takes charge
+>> 0.0
+CRPF mess had no food safety licence
+>> -0.208333333
+Licenses of nearly 800 liquor vendors to be renewed in Goa
+>> 0.875
+‘Cong. distributing money, liquor to lure voters’
+>> -0.125
+NTPC Ramagundam misses target
+>> 0.0
+Bypoll results not a referendum on State govt.: Krishna
+>> -0.5
+Jatha on need for transformative politics from April 17
+>> 0.0
+Congress, BJP make last-ditch effort to woo voters as polling day nears
+>> 0.10416666699999999
+Eshwarappa’s remarks condemned
+>> -0.291666667
+Scouts and Guides take up task of cleaning waterbodies in Hassan
+>> 0.25
+2.73 lakh Chitradurga farmers get relief for crop loss
+>> -0.25
+‘Ensure basic amenities to people’
+>> 0.625
+Activist alleges irregularities in procurement of commodities in Anna Bhagya scheme
+>> 0.625
+MPM workers demand modification of VRS, severance package
+>> -0.25
+2.23 lakh register for VITEEE
+>> 0.0
+Tiger found dead at Bandipur National Park
+>> -0.325
+Agricultural crisis finds no mention in bypoll campaigns
+>> 0.208333333
+Lalu’s son launches DSS to counter RSS
+>> 0.0
+RS majority key to fight black money: Swamy
+>> -0.241071429
+Successive droughts a main reason for frequent bouts of farm suicides
+>> 0.85
+Have full faith in EC, BJP says on EVM issue
+>> -0.375
+Govt. will help reduce pendency: PM
+>> 0.375
+Day cruise, forest trails planned at Chilika lagoon
+>> 0.0
+‘Parties’ views sought on electoral bonds’
+>> 0.0
+40 Muslims flee U.P. village
+>> 0.0
+Gabbar Singh to ride again in Ramanagaram
+>> 0.25
+‘Liquor’s social cost outweighs commercial loss’
+>> -1.0
+Crime Branch sleuths call on Mangalam office
+>> 0.0
+Opposition not satisfiedwith Vigilance probe
+>> -1.4375
+‘Nagpur Congress leaders never acknowledge ground-level workers’
+>> -0.875
+Now, doctors fall prey to foreign job fraud
+>> 0.125
