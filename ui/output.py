@@ -561,10 +561,10 @@ class Ui_Dialog(object):
                                        None))
 
 
-def showOutput(file):  # testing: add parameter : file
+def showOutput():  # testing: add parameter : file
     global displayingfile
-    #displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
-    displayingfile = file  # testing
+    displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
+    #displayingfile = file  # testing
     app = QtGui.QApplication(sys.argv)
     Dialog = QtGui.QDialog()
     ui = Ui_Dialog()
@@ -576,8 +576,8 @@ def showOutput(file):  # testing: add parameter : file
 
 
 if __name__ == "__main__":
-    #showOutput()
+    showOutput()
     # for testing purpose
-    import os
-    os.chdir("../")
-    showOutput(r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\googleNews\2017-03-20\2017-03-20scores.txt')
+    #import os
+    #os.chdir("../")
+    #showOutput(r'C:\Users\Kuldeep\Desktop\Project\HeadlineMining Gitlab\data\googleNews\2017-03-20\2017-03-20scores.txt')
