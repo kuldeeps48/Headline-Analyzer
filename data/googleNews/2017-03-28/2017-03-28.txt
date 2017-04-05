@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Budgam operation was difficult as we had to fight both militants and locals: CRPF
 Oppo employees allege Chinese official insulted Indian flag; FIR lodged
 India condemns attack on Nigerians: Top developments
@@ -36,3 +37,43 @@ Pollen season is here with a vengeance
 Health bodies cautiously welcome passage of Mental healthcare
 Just 20 Minutes of Afternoon Power Nap Can Boost Your Creativity at Work
 'Medicinal diet' can cut diabetes risk: Study
+=======
+India vs Australia: Forget the bland 2-1 scoreline, this series was Test cricket at its sublime best
+Attack on Nigerian students in Greater Noida: Hundreds booked, 5 arrested
+Air India nixes Shiv Sena MP Ravindra Gaikwad's plan to fly from Mumbai to Delhi
+Land leasing, renting to attract GST from July 1
+Oppo India official allegedly disrespects national flag, draws flak
+One militant killed in encounter with security forces in Budgam; two civilians also killed
+Supreme Court reserves judgment on pleas seeking appointment of Lokpal
+RSS chief talks of social justice and inter-caste marriages
+Akhilesh Yadav elected leader of Samajwadi Party in both Houses of UP Legislature
+Triple Talaq: Mulsim Law Board's stand in SC rebuffs Quran, Constitution
+Howling winds, heavy rain pound Australia's northeast; massive damage to houses
+'Bad actors' can't be allowed to have nuclear weapons: Nikki Haley
+Brexit set to begin with fewest UK civil servants since 1940s
+Trump's son-in-law Jared Kushner met executives of US sanctioned Russian bank, will testify
+Closing Bell: Sensex ends 172 pts higher, Nifty at 9100; Axis Bank up 3%
+Why a merger with Flipkart could be the only saving grace for eBay in India
+Keeping China out of railways sector is bad for India, says Chinese daily
+Uddhav and Rashmi put down Rs 11.6 cr for Matoshree-2.0
+Samsung Galaxy S8 Launch Needs to Be Perfect, Say Analysts
+Moto G5 India Launch Set for April 4, Will Be Exclusive to Amazon
+Truecaller To Get Video Calling Soon With Help From Google
+Apple iOS 10.3, macOS 10.12.4, watchOS 3.2, tvOS 10.2 Updates Now Available: Here's What's New
+I'm more popular and a better actor than Kapil: Sunil Grover
+'Baahubali 2 : The Conclusion's' songs are getting fantastic reviews
+Shah Rukh Khan and Akshay Kumar to clash at the box-office on Independence Day weekend
+Priyanka Chopra proud of sister Parineeti chopra singing debut
+Watchman's son once bullied by his peers is today India's best all rounder – Ravindra Jadeja
+India vs Australia: Steve Smith Apologises, Says 'Have Let My Emotions Slip'
+India vs Australia 2017: Steve Smith disappointed with BCCI; invites the Indian team for a beer
+Injured Virat Kohli May Miss Start Of IPL 2017
+NASA JunoCam unveils close view of Jupiter's stunning swirling storms as Juno probe makes fifth flyby
+Have you ever seen a fish like this one? It's 20-feet long, weighs 700 kgs
+City hot? You ain't felt anything yet
+Indian cities may face deadly heatwaves due to global warming, warn scientists
+Seasonal Allergy: 5 Tips You Should Follow to Keep Allergies Under Control
+Mental Healthcare Bill: The Parliament Decriminalises Attempt to Commit Suicide
+Just 20 Minutes of Afternoon Power Nap Can Boost Your Creativity at Work
+Madhya Pradesh: Dogs eat up patient in govt hospital
+>>>>>>> cbcde5e3053d1ad7764f11a0d592f74d68bf5972

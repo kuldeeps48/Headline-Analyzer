@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Budgam operation was difficult as we had to fight both militants and locals: CRPF
 >> -0.375
 Oppo employees allege Chinese official insulted Indian flag; FIR lodged
@@ -73,3 +74,80 @@ Health bodies cautiously welcome passage of Mental healthcare
 Just 20 Minutes of Afternoon Power Nap Can Boost Your Creativity at Work
 >> 0.125
 'Medicinal diet' can cut diabetes risk: Study>> -0.125
+=======
+India vs Australia: Forget the bland 2-1 scoreline, this series was Test cricket at its sublime best
+>> 1.5625
+Attack on Nigerian students in Greater Noida: Hundreds booked, 5 arrested
+>> 0.125
+Air India nixes Shiv Sena MP Ravindra Gaikwad's plan to fly from Mumbai to Delhi
+>> 0.0
+Land leasing, renting to attract GST from July 1
+>> 0.0
+Oppo India official allegedly disrespects national flag, draws flak
+>> -1.0
+One militant killed in encounter with security forces in Budgam; two civilians also killed
+>> -0.875
+Supreme Court reserves judgment on pleas seeking appointment of Lokpal
+>> 0.75
+RSS chief talks of social justice and inter-caste marriages
+>> 0.5
+Akhilesh Yadav elected leader of Samajwadi Party in both Houses of UP Legislature
+>> 0.0
+Triple Talaq: Mulsim Law Board's stand in SC rebuffs Quran, Constitution
+>> -0.125
+Howling winds, heavy rain pound Australia's northeast; massive damage to houses
+>> -0.25
+'Bad actors' can't be allowed to have nuclear weapons: Nikki Haley
+>> -0.25
+Brexit set to begin with fewest UK civil servants since 1940s
+>> 0.125
+Trump's son-in-law Jared Kushner met executives of US sanctioned Russian bank, will testify
+>> 0.375
+Closing Bell: Sensex ends 172 pts higher, Nifty at 9100; Axis Bank up 3%
+>> 0.875
+Why a merger with Flipkart could be the only saving grace for eBay in India
+>> 0.625
+Keeping China out of railways sector is bad for India, says Chinese daily
+>> 0.0
+Uddhav and Rashmi put down Rs 11.6 cr for Matoshree-2.0
+>> -0.125
+Samsung Galaxy S8 Launch Needs to Be Perfect, Say Analysts
+>> 0.625
+Moto G5 India Launch Set for April 4, Will Be Exclusive to Amazon
+>> -0.375
+Truecaller To Get Video Calling Soon With Help From Google
+>> 0.75
+Apple iOS 10.3, macOS 10.12.4, watchOS 3.2, tvOS 10.2 Updates Now Available: Here's What's New
+>> 0.75
+I'm more popular and a better actor than Kapil: Sunil Grover
+>> 0.875
+'Baahubali 2 : The Conclusion's' songs are getting fantastic reviews
+>> 0.75
+Shah Rukh Khan and Akshay Kumar to clash at the box-office on Independence Day weekend
+>> -0.125
+Priyanka Chopra proud of sister Parineeti chopra singing debut
+>> 0.5
+Watchman's son once bullied by his peers is today India's best all rounder – Ravindra Jadeja
+>> 1.125
+India vs Australia: Steve Smith Apologises, Says 'Have Let My Emotions Slip'
+>> 0.875
+India vs Australia 2017: Steve Smith disappointed with BCCI; invites the Indian team for a beer
+>> -0.125
+Injured Virat Kohli May Miss Start Of IPL 2017
+>> -0.875
+NASA JunoCam unveils close view of Jupiter's stunning swirling storms as Juno probe makes fifth flyby
+>> -0.125
+Have you ever seen a fish like this one? It's 20-feet long, weighs 700 kgs
+>> 0.25
+City hot? You ain't felt anything yet
+>> 0.5
+Indian cities may face deadly heatwaves due to global warming, warn scientists
+>> -1.375
+Seasonal Allergy: 5 Tips You Should Follow to Keep Allergies Under Control
+>> -0.25
+Mental Healthcare Bill: The Parliament Decriminalises Attempt to Commit Suicide
+>> 0.375
+Just 20 Minutes of Afternoon Power Nap Can Boost Your Creativity at Work
+>> 0.125
+Madhya Pradesh: Dogs eat up patient in govt hospital>> 0.75
+>>>>>>> cbcde5e3053d1ad7764f11a0d592f74d68bf5972

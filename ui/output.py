@@ -433,7 +433,7 @@ class Ui_Dialog(object):
         self.CalenderLabel.setStyleSheet(_fromUtf8("background:transparent;"))
         self.CalenderLabel.setFrameShadow(QtGui.QFrame.Plain)
         self.CalenderLabel.setText(_fromUtf8(
-            "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600; color:#fff2af;\"><u>Select a date from calender below to plot that day\'s graph</u></span></p></body></html>"))
+            "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; font-weight:600; color:#fff2af;\"><u>Select a date from calender below to change day</u></span></p></body></html>"))
         self.CalenderLabel.setTextFormat(QtCore.Qt.RichText)
         self.CalenderLabel.setAlignment(QtCore.Qt.AlignCenter)
         self.CalenderLabel.setWordWrap(True)
