@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Russia 'tried to hijack US election', says US senator
 >> 0.8125
 Brexit: UK sets out plans to replace all EU laws
@@ -14,10 +15,27 @@ US hails Turkey as 'a trusted ally' in Ankara talks
 >> 1.125
 Insurer Lloyd's of London confirms new Brussels subsidiary
 >> 0.375
+=======
+Brexit: UK sets out plans to replace all EU laws
+>> -0.5625
+Trump-Russia ties: Senate pledges thorough inquiry
+>> 0.0
+Turkey-US talks begin in Ankara amid rising tension
+>> -0.375
+'Exploding' soup dumpling video angers Asian foodies
+>> 0.75
+North Carolina 'bathroom' law: Deal reached on repeal
+>> 0.0
+Insurer Lloyd's of London confirms new Brussels subsidiary
+>> 0.375
+PwC keeps Oscars despite best film blunder
+>> 0.1875
+>>>>>>> f9d85dee8069ba7b45f2c1eb12cc498e5ceaf874
 American Airlines pilot dies on Dallas-Albuquerque flight
 >> -0.09000000000000002
 Italian police in Venice arrest three Jihadists
 >> 0.0
+<<<<<<< HEAD
 Deadly shark washes up after Cyclone Debbie
 >> -0.02083333300000001
 Coffee cup fee could cut use by 300 million, study suggests
@@ -28,10 +46,21 @@ Cat ownership rise driven by men, survey suggests
 >> 0.25
 'Exploding' soup dumpling video angers Asian foodies
 >> 0.75
+=======
+Kuki Gallmann's Kenya safari lodge burned down
+>> -0.678571429
+Coffee cup fee could cut use by 300 million, study suggests
+>> 0.5
+Family of Chinese victim of Paris killing calls for calm
+>> 0.125
+Pee Wee Pumps: High heels for babies spark outrage
+>> -0.22499999999999998
+>>>>>>> f9d85dee8069ba7b45f2c1eb12cc498e5ceaf874
 Signs of hope after years of Syria's war
 >> 0.0
 Is 'luxury co-living' a solution to loneliness in big cities?
 >> 0.8125
+<<<<<<< HEAD
 Pee Wee Pumps: High heels for babies spark outrage
 >> -0.22499999999999998
 James Polk: The dead president who just can't rest in peace
@@ -42,12 +71,31 @@ French artist turns chicken for three-week egg hatching
 >> 0.375
 Did this alleged Russian spy help Trump win election?
 >> 0.875
+=======
+Kilted yoga star targeted by homophobic hate mail
+>> -0.3125
+James Polk: The dead president who just can't rest in peace
+>> 0.33571428600000003
+Bizarre Ronaldo statue overshadows airport naming event
+>> 0.25
+French artist turns chicken for three-week egg hatching
+>> 0.375
+Indian red faces over tallest flag at Pakistan border
+>> 0.875
+Did this alleged Russian spy help Trump win election?
+>> 0.875
+Can a snake eat a human?
+>> -0.25
+>>>>>>> f9d85dee8069ba7b45f2c1eb12cc498e5ceaf874
 Will ultranationalists decide Turkey's referendum?
 >> 0.25
 'You may as well kill us': Human cost of India's meat 'ban'
 >> 0.341666667
+<<<<<<< HEAD
 Can a snake eat a human?
 >> -0.25
+=======
+>>>>>>> f9d85dee8069ba7b45f2c1eb12cc498e5ceaf874
 Is this the most dangerous backwater in the world?
 >> -0.75
 Letter from Africa: Should degrees be necessary for leaders?
@@ -56,6 +104,7 @@ Trumplomacy: Shy Melania braves spotlight for women of courage
 >> 0.25
 The Hindu hardliner running India's most populous state
 >> 0.625
+<<<<<<< HEAD
 World Cup 2026: Fifa reveals allocation for 48-team tournament
 >> -0.375
 Tony Bellew: WBC make cruiserweight Emeritus Champion
@@ -64,6 +113,14 @@ Neil Taylor: Fifa looks into Wales defender's leg-breaking challenge on Seamus C
 >> 0.25
 Red Bull: The key areas where Christian Horner's team need to improve
 >> 0.6875
+=======
+Arsene Wenger thinks Sanchez & Ozil want to stay but is coy on own future
+>> 0.791666667
+Neil Taylor: Fifa looks into Wales defender's leg-breaking challenge on Seamus Coleman
+>> 0.25
+Tony Bellew: WBC make cruiserweight Emeritus Champion
+>> 0.604166667
+>>>>>>> f9d85dee8069ba7b45f2c1eb12cc498e5ceaf874
 Secure exit? How will Brexit affect UK security?
 >> 0.625
 Signed and delivered – now what?
@@ -74,6 +131,7 @@ Reality Check: Can the UK change its mind?
 >> 0.125
 Brexit: All you need to know about the UK leaving the EU
 >> 0.3125
+<<<<<<< HEAD
 Kim Jong-nam's body to be released to North Korea
 >> 0.125
 US Kabul embassy fires staff over drugs
@@ -84,16 +142,24 @@ Bangladesh stand-off comes to deadly end with 'militant' blast
 >> -0.839583333
 Greece to pay Bangladeshis over shooting
 >> 0.25
+=======
+>>>>>>> f9d85dee8069ba7b45f2c1eb12cc498e5ceaf874
 Trump to meet China's Xi in Florida next week
 >> 0.25
 Family of Chinese victim of Paris killing calls for calm
 >> 0.125
+<<<<<<< HEAD
+=======
+'Exploding' soup dumpling video angers Asian foodies
+>> 0.75
+>>>>>>> f9d85dee8069ba7b45f2c1eb12cc498e5ceaf874
 Cyclone Debbie: Saturated cockatoo in photo dies
 >> -0.881666667
 US state department employee 'concealed contacts with China'
 >> 0.75
 Virat Kohli: India captain clarifies 'hostile' Australia remark
 >> 0.229166667
+<<<<<<< HEAD
 Ex-Cyclone Debbie: Australia floods force more evacuations
 >> 0.25
 Toshiba shareholders angry as chip unit sale approved
@@ -106,10 +172,35 @@ Nigerian student beaten in India in alleged racist attack
 >> -0.75
 Thirsty snake drinks from water bottle
 >> -0.875
+=======
+Toshiba shareholders angry as chip unit sale approved
+>> -0.416666667
+Indonesian man's body found inside python - police
+>> 0.0
+Storm forces mass school closures
+>> 0.0
+Indian red faces over tallest flag at Pakistan border
+>> 0.875
+Samsung Galaxy S8 hides home button and gains Bixby AI
+>> -0.125
+Melbourne plane crash: Cockpit recorder did not contain audio
+>> -0.125
+Elephants in dramatic muddy escape
+>> -0.625
+New population of rare tigers found in eastern Thailand
+>> 0.625
+Nigerian student beaten in India in alleged racist attack
+>> -0.75
+>>>>>>> f9d85dee8069ba7b45f2c1eb12cc498e5ceaf874
 Samsung Galaxy S8 and S8+: First look
 >> 0.0
 Elephants escape Cambodian mud hole
 >> -0.625
+<<<<<<< HEAD
+=======
+Cyclone Debbie: Footage shows 'monster' storm hit Queensland
+>> 0.0
+>>>>>>> f9d85dee8069ba7b45f2c1eb12cc498e5ceaf874
 Exploitative or empowering?
 >> 0.0
 'You may as well kill us'

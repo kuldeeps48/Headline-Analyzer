@@ -1,0 +1,200 @@
+Retired NBA Star Tim Duncan's Ex-Adviser to Admit to Fraud
+>> -0.04166666699999999
+Variety Puzzle: Acrostic
+>> 0.583333333
+Haiti’s Violent Politics Are Taken to Court. In Boston.
+>> 0.15625
+WWE Flexes Sports Entertainment Muscle at WrestleMania
+>> 0.125
+Under Trump, Pentagon Seizing More Control Over Warfighting
+>> 0.0
+German Police Arrest Suspect in Dortmund House Explosion
+>> 0.5
+Lewandowski Hat-Trick as Bayern Crush Augsburg, Leipzig Win
+>> -0.1875
+Conservative Split Over Import Tax Imperils Trump’s Reform Goal
+>> 0.5
+Spain’s Desire for Gibraltar Complicates ‘Brexit’ Talks With E.U.
+>> 0.25
+After Brexit, Scotland Lays a Path to Another Independence Vote
+>> 0.0
+Deadline Up, Families Remain in Lead-Contaminated Housing in Indiana
+>> 0.5
+Bomb Wounds at Least 16 Near Police Training Center in Nile Delta
+>> 0.625
+Man Accused of Islamic State Ties Convicted of Previous Plot
+>> 0.3125
+Israeli Police Kill Palestinian Who Stabbed Three in Jerusalem
+>> -0.25
+Koeman Slams 'Crazy' Liverpool Antics After Feisty Derby
+>> 0.375
+The Latest: 3 Arrested in Atlanta Fire and Overpass Collapse
+>> 0.0
+UK Police Appeal for Info in Hate Crime Attack on Youth
+>> -0.9375
+Norway Minister: 2-State Mideast Solution 'Under Pressure'
+>> 0.25
+Peru Finance Minister Says Flood Damages Merit Wider Fiscal Gap
+>> 0.9375
+Ford Recalling 53,000 Trucks That Can Roll Away While Parked
+>> -0.333333333
+Cubs on New Mission, Indians, Red Sox Re-Load
+>> -0.0625
+Roof Issues Threaten to Delay Mercedes-Benz Stadium Opening
+>> 0.125
+UK Police Arrest 12 at London Protest, Block Clashes
+>> -0.208333333
+US House Race Offers Insight Into Shifting Democratic Party
+>> 0.5
+How the AP-NORC Poll on Donald Trump Was Conducted
+>> 0.0
+Stephanie Davidson and Dov Waxman: Long Walks Lead to 14 Questions
+>> -0.125
+Moscow and Mongolia, Bridged by Skype
+>> 0.0
+Three Transients Arrested in Atlanta Highway Bridge Collapse
+>> -0.25
+Ramos Rested Against Alaves as Real Battle Fixture Pile-Up
+>> 0.65
+Boston Pops Celebrate Famed Composer John Williams
+>> 0.0
+AP-NORC Poll: Majority of Americans Favor Russia Probe
+>> 0.0
+Ferguson Mayor Seeks Third Term as Challenged City's Face
+>> -0.25
+Coutinho Inspires Liverpool to Derby Victory Over Everton
+>> 0.5
+24 Dead After River Overflows, Destroying Homes in Colombia
+>> -0.325
+The Latest: Venezuela Opposition Celebrates Court Reversal
+>> -0.6875
+Can't Afford to Bury Loved Ones? Often, States Can't Help
+>> 1.5
+Winterthur Exhibit Offers Insight Into Detecting Art Fraud
+>> 0.0
+How Women Over 50 Can Keep Their Careers on Track
+>> -0.5
+Women’s Crucial Role in Combating Climate Change
+>> 0.03125
+Policyholders in Limbo After Rare Failure of Insurer
+>> 0.375
+A Voice From Paris on Climate Change
+>> 0.0
+Dealing with a Mouse Infestation
+>> 0.0
+Destroyer's Name Honors Aviator Who Tried to Save Comrade
+>> 1.5
+Israeli Police Kills Palestinian Who Stabbed 3 in Jerusalem
+>> 0.0
+Trump's Rollback of Coal Rules Electrifies Wyoming Workers
+>> 0.25
+A Pentagon Test for Boeing’s Mr. Fix-It
+>> -0.25
+Health Care Defeat Means GOP Risks Blame in '18 Elections
+>> -0.25
+Severe Weather Strikes Virginia Beach
+>> -0.5
+Bill O’Reilly Thrives at Fox News, Even as Harassment Settlements Add Up
+>> 0.40625
+Myanmar Trains Midwives to Tackle Maternal Death Rate
+>> 0.0625
+French Election Race Tightens as Rivals Campaign in South
+>> 0.5
+Clashes, Fire at Paraguay Congress After Re-election Vote
+>> 0.25
+No Joke: Snows Hit Northern New England on April Fools' Day
+>> 1.0416666669999999
+Bestiality Crimes Targeted by New State Laws, FBI Reporting
+>> 1.0
+Iraqi State-Run TV Says Islamic State Second-In-Command Killed in Airstrike
+>> 0.28125
+Kulasekara Takes Four to Help Sri Lanka Level Series
+>> -0.25
+Nico Muhly on Why Choral Music Is Slow Food for the Soul
+>> 0.25
+Colombia Landslide Kills at Least 14, 60 Injured
+>> -0.75
+Supreme Court Showdown Looms With Far-Reaching Consequences
+>> -0.08333333300000001
+Farhad’s and Mike’s Week in Tech: When Twitter Confuses and Facebook Copies
+>> 0.0
+More Aggressive US Strikes in Somalia Said to Risk Civilians
+>> -0.333333333
+Russia Opens Criminal Case Against New Moscow Protest Backers
+>> 0.04166666699999999
+Messi Behaviour on Pitch 'Impeccable', Says Luis Enrique
+>> -0.1875
+Russian Foreign Ministry Poked Fun at Hacker Scandal
+>> 0.25
+Presidential Hopeful Fillon Warns France Could Face Greece's Fate
+>> 0.5
+Wisconsin Man Suspected of Killing 4 Dies of Wounds
+>> -0.34
+Spanish Police Arrest 38, Dismantle Fake Credit Card Ring
+>> 0.04166666699999999
+British Police Says All Those Arrested After London Attack Now Released
+>> -0.1875
+Merkel: Migrants and Germans Can Learn From Each Other
+>> -0.25
+China to Establish New Economic Zone Near Beijing
+>> 1.3125
+UK Police Release Final Man Questioned in Terror Attack
+>> 1.2083333330000001
+Top Official in South Africa's ANC Has 'Reservations' Over Gordhan Removal
+>> 0.04166666699999999
+Figure Skating: Hanyu Dethrones Fernandez to Win World Title
+>> -0.375
+AP FACT CHECK: Trump's Week of Feints and False Advertising
+>> -0.125
+Cyprus President: Restart Stalled Peace Talks Immediately
+>> -0.375
+Alstria Aims to Double Property Portfolio to Six Billion Euros
+>> 0.125
+International Court Says Violence in Congo May Amount to War Crimes
+>> -1.5
+Athletics: Jepkosgei Smashes Three World Records at Prague Half Marathon
+>> -0.5
+Germany Criticises Trump Orders on Trade Deficits, Import Duty Evasion
+>> -0.375
+Macron Throws Electoral Net Wide, Meeting Sarkozy's Man in the South
+>> 0.125
+Gunmen Kidnap Somali Journalist Outside Capital: Editor
+>> -0.125
+China Launches New Economic Zone in Hebei to Promote Integration
+>> 1.4375
+Philippines Seeks to Rename Marine Zone After China Shows Interest
+>> 0.708333333
+Norway Kicks Off Minke Whale Hunt as Scant Demand
+>> -0.6625
+Mystery Surrounds Nobel Prize Handover as 'Intimate' Dylan Gigs in Sweden
+>> 1.125
+German Prosecutors Expect Rulings in VW Scandal This Year: Report
+>> 0.375
+South Africa's Gigaba Will Not Be Reckless About Nuclear Funding
+>> -0.625
+Dalai Lama Arrives in India's Northeast on His Way to Region Disputed by China
+>> -0.125
+Egypt's President Leaves Cairo for Washington to Meet Trump
+>> 0.0
+VW: Internal Investigation of Emissions Cheating Needs Time
+>> 1.0
+South Africa's New Finance Minister Had 'Robust' Talks With Ratings Agencies
+>> 0.125
+Mourinho Looking Forward to 'Interesting' Transfer Window
+>> 0.625
+China Central Bank Says Economy Stable but Complexities 'Cannot Be Underestimated'
+>> 1.2083333330000001
+British Role in European Security 'Unconditional': Foreign Minister
+>> -0.3125
+South Africa's New Finance Minister Vows 'Radical' Change
+>> 0.583333333
+Iran Rejects U.S. Terror Claim by Mattis, Blames Saudi
+>> -1.125
+Armenia Set to Hold Parliamentary Elections on Sunday
+>> 0.5
+My Son, My Daughter: A Mother’s Evolution
+>> 0.0
+Love Lessons From the (Very) First Couple
+>> 0.60625
+Turkish FM: 50,000 Return to Areas Ankara Controls in Syria
+>> 0.0

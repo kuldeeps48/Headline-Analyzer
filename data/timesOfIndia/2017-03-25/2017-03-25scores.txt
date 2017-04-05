@@ -1,0 +1,80 @@
+No money spent from public exchequer on PM Modi's social media outreach, reveals RTI reply
+>> -0.583333333
+Senior advocate Ram Jethmalani hospitalised in Kochi
+>> -0.1875
+Development of all, appeasement of none: Yogi's mantra for UP
+>> 0.6875
+Rajinikanth cancels visit to Sri Lanka
+>> 0.0
+India to seal border with Pakistan by 2018: Rajnath Singh
+>> 0.3125
+Arun Jaitley defamation case: Arvind Kejriwal put on trial
+>> -0.625
+No decision on Greater Nagaland: Government
+>> -0.08333333300000001
+Need to defend universities as free spaces: Vice President Hamid Ansari
+>> 1.4
+'Policemen of just one caste are being suspended or transferred', says Akhilesh about Adityanath government
+>> 0.7857142860000002
+UP IPS officer suspended for 'indiscipline', had tweeted that Yadav cops being 'targeted'
+>> 0.5
+Former Congress Telengana MP creates a scene again, police bodily carry him away
+>> -1.1770833330000001
+Will 'raise hand' where needed: Raut on AI staffer assault case
+>> 0.958333333
+Give details of 271 illegal immigrants: India to US
+>> -0.25
+India on par with US, China because of Modi: S M Krishna
+>> 0.625
+Bill to decriminalise suicide tabled in LS
+>> -0.4
+GoM to meet today on policy for women
+>> 0.125
+SC to EC: Respond to PIL on no tamper tests for EVMs
+>> 0.04166666699999999
+SC refuses to recall order of SIT probe against Sinha
+>> -0.375
+Punish lawyers who go on strikes: Law Commission
+>> 0.25
+Spelling out rejection reason will hit lawyers' career: Govt
+>> 0.09999999999999998
+Saudi embassy confirms UK attacker had been in Saudi Arabia
+>> 0.375
+Donald Trump: Different strokes
+>> 0.625
+European Union takes road to Rome for 60th anniversary
+>> 0.0
+US immigration judge grants asylum to Singapore teen blogger
+>> 0.125
+Number of newly-minted millionaires at Europe's big banks is shrinking
+>> 0.25
+Egypt's former leader Hosni Mubarak freed
+>> 0.40625
+Police arrest two more over British parliament attack
+>> -0.25
+China is not militarising South China Sea: Li Keqiang
+>> 0.75
+Six Russian soldiers killed in Chechnya base attack
+>> -0.09375
+Beijing to open first driverless subway line
+>> -0.25
+Ivanka Trump: A White House force, just not an 'employee'
+>> 0.03571428600000004
+Trump faces vote on healthcare amid revolt
+>> 0.25
+North Korea maintains readiness for nuclear test at any time: South Korea
+>> 0.625
+World leaders stand with Britain after London attack
+>> -0.96875
+Trump's son criticises London mayor after attack
+>> 0.0
+Police officer, 3 others killed in Wisconsin town
+>> -0.5
+Pak court may block FB to prevent blasphemy
+>> 0.291666667
+Jane Austen faked her marriage twice
+>> 0.25
+Trump speaks to May after terror attack, offers support
+>> -0.25
+33 dead in US-led north Syria air strike
+>> -0.2

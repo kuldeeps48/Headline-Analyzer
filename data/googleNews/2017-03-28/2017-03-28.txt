@@ -1,3 +1,43 @@
+<<<<<<< HEAD
+Budgam operation was difficult as we had to fight both militants and locals: CRPF
+Oppo employees allege Chinese official insulted Indian flag; FIR lodged
+India condemns attack on Nigerians: Top developments
+Streak, runs, tons and wickets: Look back at India's incredible Test season
+Shiv Sena MP made two attempts to book seat for Delhi, Air India cancelled both tickets
+'Suspicious package' near White House cleared, suspect in custody
+Digvijay goofs up on Twitter again with Rahuls Cabinet
+'Menstruation impure' remark lands KPCC leader in a spot
+BJP painting negative picture of Bihar with crime figures: Minister
+Punjab government allows red beacon for ministers; revokes order after social media ire
+Howling winds, heavy rain pound Australia's northeast; massive damage to houses
+PM May to fire the starting gun on Brexit
+China will never own Islamabad's problem: Former Pak envoy
+China's military facilities on man-made SCS islands nearly ready: Report
+Land leasing, renting to attract GST from July 1
+Uber to stop operating in Denmark
+Why a merger with Flipkart could be the only saving grace for eBay in India
+7th Pay Commission: Why Allowance Committee Is Taking More Time To Submit Report
+Xiaomi Redmi 4A review: An entry-level phone never looked so good
+Truecaller now lets you recharge your phone, make video calls
+Samsung Galaxy S8, Galaxy S8+ Images, Specifications, Accessories Leaked a Day Ahead of Launch
+Motorola Moto G5 India launch set on April 4; all you need to know about Amazon-exclusive smartphone sale
+'Spider-Man: Homecoming' trailer: Young Peter Parker learns how to be a true superhero
+Sunil Grover: I'm more popular and a better actor than Kapil Sharma
+Priyanka Chopra proud of sister Parineeti Chopra's singing debut
+1 month to Baahubali 2: A look at SS Rajamouli's journey so far
+World Cup qualifiers: Argentina's Lionel Messi banned for four games after insulting official against Chile
+AFC Asian Cup Qualifiers: Sunil Chhetri's Strike Ends India's 64-Year-Old Jinx in Myanmar
+Sri Lanka vs Bangladesh, 2nd ODI in Dambulla: As It Happened
+From Ravindra Jadeja's rise to Umesh Yadav's transformation, key takeaways from India's home season
+Nasa unveils enhanced-color image of a mysterious "Dark Spot" on Jupiter
+Trump's climate rollback could undermine our promises to the rest of the world
+Rare deadly heatwaves could strike every year even if global warming targets are met, warn scientists
+NASA develops stopwatch with the ability to measure a fraction of a billionth of a second!
+Pollen season is here with a vengeance
+Health bodies cautiously welcome passage of Mental healthcare
+Just 20 Minutes of Afternoon Power Nap Can Boost Your Creativity at Work
+'Medicinal diet' can cut diabetes risk: Study
+=======
 India vs Australia: Forget the bland 2-1 scoreline, this series was Test cricket at its sublime best
 Attack on Nigerian students in Greater Noida: Hundreds booked, 5 arrested
 Air India nixes Shiv Sena MP Ravindra Gaikwad's plan to fly from Mumbai to Delhi
@@ -36,3 +76,4 @@ Seasonal Allergy: 5 Tips You Should Follow to Keep Allergies Under Control
 Mental Healthcare Bill: The Parliament Decriminalises Attempt to Commit Suicide
 Just 20 Minutes of Afternoon Power Nap Can Boost Your Creativity at Work
 Madhya Pradesh: Dogs eat up patient in govt hospital
+>>>>>>> cbcde5e3053d1ad7764f11a0d592f74d68bf5972

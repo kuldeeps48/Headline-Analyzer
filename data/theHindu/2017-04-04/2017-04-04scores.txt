@@ -1,0 +1,278 @@
+Slump in water level in Banasura Sagar reservoir raises concern
+>> 0.25
+Kanthallur garlic on the road to unique branding
+>> 0.333333333
+Haryana excise dept allows 43 liquor shops to relocate 500m beyond highway
+>> -0.625
+Woman kills children, ends life
+>> -0.5
+‘CPI(M), Cong raking up emotional issues to divert attention’
+>> 1.75
+Live bullet found in army jawan’s bag at Srinagar airport
+>> 0.321428571
+Self-help groups to provide local cuisine on trains
+>> 0.75
+BJP to take on LF in Tripura, Amit Shah to visit state
+>> 0.25
+Green Tribunal seeks roadmap to phase out BS-III vehicles
+>> -0.708333333
+Soaring temperature forces change in school timings in Chhattisgarh
+>> 0.0
+New tree-living crab species found in Kerala
+>> 0.375
+BJP demands sacking of Lalu’s Minister son Tej Pratap
+>> 0.125
+I am a non-vegetarian but avoid eating what is prohibited in Constitution: Venkaiah
+>> 0.25
+S.M. Krishna should look back at his regime that ended with Cong. rout, says Siddaramaiah
+>> 0.5
+ED attaches Rs.5 crore in Afroz Fatta ‘hawala network’ case
+>> -0.625
+Foreign tourists with e-visa can stay up to 2 months
+>> 0.125
+Rajasthan revokes State highway status for stretches within city limits
+>> -0.375
+Police cane PFI activists in Mangaluru after attack
+>> -0.25
+Gujarat gets its first woman DGP
+>> 0.125
+U.N. hopes those behind attacks on Africans in India will be punished
+>> 0.425
+Gave approval to Aircel-Maxis deal in normal course of business: Chidambaram
+>> 0.0625
+Declare cow as national animal, ban slaughter of all bovine animals: Ajmer Dargah Deewan
+>> 0.0625
+ED cracks down on shell firms, arrests two
+>> -0.803571429
+China should not interfere in India's internal affairs: Minister Kiren Rijiju
+>> 0.25
+Tusker’s 4-month-long ordeal comes to an end
+>> 0.0
+Headmaster elopes with Class X girl in Odisha
+>> 0.5
+Rain claims two lives in Manipur, destroys houses
+>> -0.125
+No split yet, but Naveen’s BJD a party divided
+>> -0.614583333
+NGT calls for report on sand mining in A.P., Telangana
+>> 0.25
+Boat operators happy with T.N., Puducherry agreeing to ban
+>> 0.875
+Understand my compulsions: Naidu
+>> 0.375
+ACP begins inquiry into Dalit youth’s death in Manthani
+>> -0.3125
+Savouring success, Revanth on cloud nine
+>> 0.0
+‘Bulb line’ project fails to see light of the day
+>> 0.416666667
+Illegal sand extraction thrives in CRZ
+>> 0.0
+BMTC hopes to boost its private company charter with fresh fleet
+>> -0.375
+HC warns State Election Commission of contempt
+>> -0.125
+‘Ensure schoolchildren’ssafety in govt. buses too’
+>> 0.0
+HC poser to Tangedco over exam results
+>> 0.0625
+Maran brothers appear in CBI court
+>> 0.0
+Case against former judge adjourned
+>> -0.21875
+Top police officials visit R.K. Nagar
+>> -0.208333333
+Tasmac losing 25% revenue due to SC ban
+>> 0.0625
+‘AIADMK split temporary’
+>> 0.0
+Rohingya Muslims in Jammu possessing Aadhaar cards sets off alarm bells
+>> 0.775
+Steps to prevent fireworks accidents
+>> -0.5
+Girl raped by classmate in Odisha
+>> 0.0
+BJP legislator’s daughter attacked
+>> 0.0
+Activists allege police atrocities on tribal women
+>> -0.75
+U.S. report turns spotlight on Vyapam scam
+>> -0.125
+No plan to split BJD, we will win on our own: BJP
+>> 0.416666667
+Nitish calls for a Bihar-style coalition
+>> 0.0
+EC, Kejriwal continue to spar
+>> 0.0
+Robbers sabotage rail signal, loot passengers
+>> 0.125
+Introspection time for Congress: Venkaiah
+>> 0.625
+Pirates seize boat with 11 Indian crew
+>> -0.375
+BJP the only alternative to TRS: Laxman
+>> 0.25
+Govt. seeks opinion on changes in RTI Act
+>> -0.625
+Adityanath says ready for talks on temple row
+>> 0.375
+ED attaches properties in Rajasthan ambulance scam
+>> -0.5
+Ruling party councillors stage walkout
+>> 0.25
+Singapore expels Indian Imam for ‘divisive speech’
+>> 0.0
+Governor agreed for swearing in after seeing resignation letters of rebel MLAs?
+>> 0.25
+Mayor promises effective implementation of plans
+>> 0.416666667
+Police open fire at murder accused as he assaults constable in a bid to flee
+>> -0.875
+PM’s Israel trip may see UAV deal
+>> 0.291666667
+Apex court’s ruling leaves 300 clubs in State in a tizzy
+>> 0.375
+Defence Ministry nod to buy Barak missiles
+>> 0.0625
+Chennai Metro ride likely to be costliest in country
+>> 0.875
+Top colleges committed to excellence, say officials
+>> 0.541666667
+Student steals car for fun, ends up in lock-up
+>> 1.375
+E-seva centre opened at Tiruvannamalai
+>> -0.5
+Four involved in 22 robbery, housebreak-in theft cases arrested
+>> -0.25
+Residents oppose sand quarrying in Palar
+>> 0.0
+In Telangana, mother drowns baby boy soon after delivery
+>> -0.25
+Housing scheme for EPF subscribers soon
+>> 0.125
+Mayoral electionpostponedin Ballari
+>> 0.0
+Gang hacks former councillor to death
+>> -0.28125
+Police crack kidnap case in hours
+>> -0.375
+CM calls for steps to secure release of fishermen in Sri Lanka
+>> 0.833333333
+Speaker orders action as removed official takes charge
+>> 0.0
+Court relied on deposition of semi-literate witness: Saibaba’s wife
+>> 0.625
+Lorry strike to continue
+>> -0.125
+EC issues notice to Dhinakaran faction on ‘two leaves’ symbol
+>> 0.5
+Vaiko jailed in sedition case filed by DMK regime
+>> -0.25
+Relief package for coconut growers sought
+>> 0.125
+This Karnataka govt. the worst in 55 years: Krishna
+>> -0.625
+Surveyor suspended for ‘helping’ private firm encroach govt. land
+>> -0.5
+‘CM medal adds responsibility to ensure safety in district’
+>> 0.125
+BJP to hold protests against ‘anti-people’ policies of MCC
+>> 0.0
+Week-long ‘Badi Bata’ gets off to a colourful start
+>> -0.6
+Naval sailor found hanging
+>> 0.0
+Congress rewinds to 1921 Ottappalam meet
+>> 0.0
+12-year-old’s suicide: priest, mother held
+>> -0.4
+Udupi DC, AC attacked
+>> 0.0
+Targeting 2019, BJP stays in poll mode
+>> -0.375
+CB sleuths inspect Mangalam TV office
+>> 0.125
+Broken up by man, killed by inbreeding
+>> 0.25
+Deep-sea fishing: probe details sought
+>> 0.125
+506 KTDC staff may lose jobs
+>> -0.5
+Spending cuts likely
+>> 0.5
+Plastic-free campaign picking up in Kannur
+>> 0.75
+Ordinance likely on liquor permit authority
+>> -0.25
+Veterinarians, other staff threaten to boycott FMD drive
+>> 0.09375
+Illicit liquor flow on the rise in Kasaragod
+>> -0.5625
+UDF local bodies to resist relocation of liquor shops
+>> 0.0
+IISc tops national rankings, IIT-Madras comes second
+>> 0.625
+10 lakh farmers to get compensation for crop loss in 10 days
+>> -0.125
+Paddy harvest in Aranmula puncha begins
+>> 0.0
+Pathanamthitta tops in Plan fund utilisation
+>> 0.625
+5 Kerala varsities among top 100
+>> -0.208333333
+Stone for Ayyappa temple mast to be laid on April 7
+>> 0.125
+No proof against Indresh, Pragya in Ajmer blast: NIA
+>> -0.5333333330000001
+Heavy rush at liquor outlets
+>> 0.0
+BJP has a bright future in the country, says Krishna
+>> 0.375
+UoM, JSS University among top 50 varsities in India
+>> -0.208333333
+Poor flow in Cauvery, summer heat dampen tourists’ spirit
+>> -0.30902777800000003
+New variety of onion yields good results
+>> 1.2227564100000001
+4-month ordeal ends for Odisha elephant
+>> -0.375
+Pranab hopeful of reviving Vikramshila University
+>> 1.0
+‘Operation missing key’ executed in nick of time
+>> 0.125
+Munnar shuts down in protest
+>> -0.303571429
+PIL by ‘Traffic’ Ramaswamy dismissed
+>> 0.0
+Lokesh gets IT in A.P. reshuffle
+>> 0.125
+Sand miners attack Udupi official
+>> -0.25
+SC allows Gujarat govt. to ease out DGP Pandey
+>> -0.875
+Illegal extraction of sand thriving in Shivamogga
+>> 0.4375
+BJP activists demand proper supply of sand
+>> 0.25
+Artificial limb camp organised
+>> -0.645833333
+Many apply for Rangayana’s Chinnara Mela
+>> 0.0
+Government has failed to check trafficking of cattle: Eshwarappa
+>> 0.0
+Kerala varisity beats the odd to score high in NIRF ranking
+>> 1.025
+“We will always be the protectors of the minority community”
+>> 0.25
+Outlets to open early, close late
+>> -0.25
+JNU rejoices national ranking, students slam fellowship delays
+>> 0.875
+TN leads MHRD’s top-100 colleges list with 37
+>> -0.208333333
+12-year-old girl’s suicide: mother, paramour held
+>> -0.025000000000000022
+Bhumi puja done at TRS Foundation Day meeting venue
+>> 0.0
+More funds, autonomy to institutions with better ranking: Prakash Javadekar
+>> 1.25

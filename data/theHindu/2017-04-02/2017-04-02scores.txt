@@ -1,0 +1,230 @@
+Uttar Pradesh Chief Minister Yogi Adityanath’s first Cabinet meeting on April 4
+>> 0.375
+Varsity official seeks actionagainst Syndicate member
+>> 0.0
+India attaches highest importance to ties with Bangladesh: Mahajan
+>> 1.0
+Introspect Punjab polls result, says EC to AAP
+>> -0.25
+Plachimada prepares for fresh agitation
+>> 0.0
+Centre grants ‘Y’ security for O. Panneerselvam
+>> 0.375
+Speculation about Congressman Rane’s defection to BJP renews
+>> -0.125
+EVM row: We have full faith in Election Commission, says BJP
+>> 0.25
+Supreme Court rejects plea to stop MPs from practising other professions
+>> 0.04166666699999999
+14 cell phones seized from Baramulla sub-jail inmates
+>> -1.0
+Kashmir has to decide between tourism and terrorism: PM Modi
+>> 0.25
+Black money hunt: India seeks Swiss details of over 10 persons
+>> -0.491071429
+Chandrababu Naidu’s son Nara Lokesh takes oath as Minister
+>> -0.375
+Tremors felt in parts of Chitradurga and Tumakuru districts
+>> -0.25
+Asia’s largest tulip garden opens for visitors
+>> 0.125
+Shutdown in Kashmir Valley ahead of Prime Minister Narendra Modi’s visit
+>> 0.291666667
+ISRO embraces private sector to outsource satellite manufacture
+>> 0.0
+Govt to help judiciary to reduce pendency of cases: Narendra Modi
+>> 0.5
+Education, healthcare to be out of GST
+>> 0.708333333
+Rehman Malik, Pak ex-Minister, falls to All Fools Day prank
+>> 0.9375
+Indian woman alleges racial profiling at Frankfurt airport, Sushma Swaraj seeks report
+>> 0.0
+Suspicious death of Dalit youth snowballing
+>> -0.625
+Constable’s lead helps solve 19 burglaries
+>> 0.125
+Truckers’ strike hitstobacco sector
+>> -0.125
+Who is to blame for wasting Assembly time?
+>> 0.5
+11 new faces, including Lokesh, in Cabinet; 4 from YSRCP make it
+>> 0.10416666699999999
+An agitation gives way to uneasy silence
+>> -0.75
+Vinayakan, Rajisha felicitated
+>> 0.0
+Chandy brings freshhopes to Kuttanad
+>> 0
+Warm send-off for Vijayanand
+>> 0.4
+Food poisoning: 300 CRPF men hospitalised
+>> -0.25
+Delhi University students follow Smriti Irani’s car, arrested
+>> 0.28125
+Will hang slaughterers of cow, says Raman Singh
+>> -0.125
+It’s ‘Amar, Akbar, Anthony’ in BJP's youth wing
+>> 0.0
+Now, China flags Tawang rail link
+>> -0.125
+India, Malaysia to fight Islamic State together: Najib Razak
+>> 0.625
+Highway liquor ban to hit 40% outlets, say analysts
+>> 0.0
+TTD’s online centralised donor management system a hit
+>> 0.0
+Volunteers to make your air travel hassle-free at RGIA
+>> 0.291666667
+Satyam Babu will walk free on Sunday
+>> 0.75
+Militants strike ahead of Modi visit
+>> -0.125
+Himachal moving towards a debt trap: CAG
+>> 1.125
+How Ahmedabad beat the heat
+>> 0.125
+Tap Central funds for skill development schemes: S.P. Singh
+>> 0.583333333
+Idea of court room at Bharosa centre mooted
+>> 0.125
+Kudumbasree way to better nutrition
+>> 0.625
+Too many quality concerns
+>> 0.575
+Another ‘White Revolution’ in the making?
+>> -0.125
+Jaffer Sharief backs RSS chief Bhagwat for President
+>> 0.375
+Thomas Chandy sworn in as Minister
+>> -1.0
+Bidriware imitations everywhere
+>> 1.125
+Voters in bypolls can now verify their votes
+>> 0.25
+City budget gets focal points from public right, not details
+>> -0.03846153799999996
+As river sand becomes more controlled, illegal market thrives
+>> 0.3125
+Beary dialect to get its first dictionary by May
+>> 0.125
+No stopping this well-oiled mafia
+>> -0.11666666600000003
+Native cotton takes root once again
+>> 0.125
+‘Cannot release water from Cauvery’
+>> -0.416666667
+Searching for roots of life in verdant Attappady
+>> -0.25
+Congress, BJP trade ‘nexus’ charge
+>> 0.0
+CM meets trade union leaders
+>> 0.0
+Pakistan pilgrims reach Ajmer for Urs
+>> 0.0
+Bastar gets full-time IG
+>> 0.625
+High-level committee for U-17 FIFA World Cup
+>> -0.0625
+‘Regularisation of unauthorised houses will be done quickly’
+>> 0.125
+I have not done anything wrong: Kamat
+>> -2.009615385
+Bastar gets full-time IG
+>> 0.625
+Will save your livelihood, Goa CM assures liquor traders
+>> 0.8125
+Shifting of offices from CADA building gains pace
+>> 0.0
+Children denied nutrition in inter-govt. squabbles
+>> -1.125
+Ministry gives nod for electrification of Hubballi-Bengaluru railway line
+>> -0.125
+Students protest at Egmore
+>> 0.0
+Gold coins of Vijayanagar era found
+>> 0.0
+Arappor Iyakkam moves HC to permit farmers meet
+>> -0.25
+EPO pensioners too to get ESI medical services
+>> 0.125
+Liquor outlets in Tamil Nadu comply with SC order
+>> 0.0
+When our saviours need to be saved
+>> 0.375
+Akhilesh insulted me, says upset Mulayam
+>> -0.6944444439999999
+Cong. accuses PDP govt. of harassment
+>> -0.5
+Civil-military parity row to end
+>> 0.25
+Family with AIDS told to leave Meerut village
+>> -0.25
+5 woodcutters from T.N. held, logs seized
+>> -0.875
+Saving charm of old Kolkata
+>> 0.84375
+Man kills estranged girlfriend
+>> -0.5
+Neyveli unit to go on stream in 2018
+>> 0.0
+Smart cards for all by May: CM
+>> 0.8125
+Perarivalan writes to Maharashtra SIC
+>> 0.0
+Been there, done that, won’t change
+>> 0.125
+Uncertainty grips State as liquor dries up
+>> 0.625
+Osmania University’s humble beginning
+>> -0.25
+Smart India Hackathon, a true brainteaser
+>> 0.625
+Sindhu named sportsperson of the year
+>> 0.25
+No role in official’s transfer: Kodiyeri
+>> -0.333333333
+Restaurants, bars go dry as highway liquor ban kicks in
+>> -0.3125
+Where is Gandhi’s satyagraha centenary in Champaran
+>> 0.125
+ED cracks down on 300 shell firms
+>> -0.803571429
+UP cow slaughter ban: What is it the lowdown
+>> 0.375
+Stand-off in Kochi Corporation over waste removal ends
+>> -0.56875
+A generation of Dalit singers breaks the mould of caste
+>> 0.5
+Blooming bulbs in tulip garden kick off Kashmir tourist season
+>> -0.6
+Three zones proposed for KSRTC
+>> 0.0
+Let’s not be described as intolerant, says President
+>> -0.625
+For these bhasha pundits, each and every word means money
+>> 0.0
+Rise in demand for piped gas connections
+>> -0.125
+Delivery of foodgrains from FCI this month
+>> 0.0
+Ken-Betwa: Forest body for lowering dam height
+>> -0.25
+Treasury transactions in State to go online
+>> 0.25
+Darting an elephant, with the wrong aim
+>> -0.759615385
+Priority to rescue KSRTC: Minister
+>> 0.25
+De-notification of highways to overcome SC ban on liquor outlets suggested
+>> -0.04166666699999999
+KTDC closes down 29 of 40 beer parlours
+>> -0.303571429
+CPI(M) seeks legislation on constructions in Munnar
+>> 0.0
+SSLC row: Vigilance probe ordered
+>> -0.25
+Mystery behind removal of Vigilance chief: Chennithala
+>> 0.0
+KPCC seeks actionagainst Jacob Thomas
+>> -0.75

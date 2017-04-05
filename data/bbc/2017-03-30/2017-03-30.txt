@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Russia 'tried to hijack US election', says US senator
 Brexit: UK sets out plans to replace all EU laws
 Kim Jong-nam's body to be released to North Korea
@@ -23,19 +24,52 @@ Did this alleged Russian spy help Trump win election?
 Will ultranationalists decide Turkey's referendum?
 'You may as well kill us': Human cost of India's meat 'ban'
 Can a snake eat a human?
+=======
+Brexit: UK sets out plans to replace all EU laws
+Trump-Russia ties: Senate pledges thorough inquiry
+Turkey-US talks begin in Ankara amid rising tension
+'Exploding' soup dumpling video angers Asian foodies
+North Carolina 'bathroom' law: Deal reached on repeal
+Insurer Lloyd's of London confirms new Brussels subsidiary
+PwC keeps Oscars despite best film blunder
+American Airlines pilot dies on Dallas-Albuquerque flight
+Italian police in Venice arrest three Jihadists
+Kuki Gallmann's Kenya safari lodge burned down
+Coffee cup fee could cut use by 300 million, study suggests
+Family of Chinese victim of Paris killing calls for calm
+Pee Wee Pumps: High heels for babies spark outrage
+Signs of hope after years of Syria's war
+Is 'luxury co-living' a solution to loneliness in big cities?
+Kilted yoga star targeted by homophobic hate mail
+James Polk: The dead president who just can't rest in peace
+Bizarre Ronaldo statue overshadows airport naming event
+French artist turns chicken for three-week egg hatching
+Indian red faces over tallest flag at Pakistan border
+Did this alleged Russian spy help Trump win election?
+Can a snake eat a human?
+Will ultranationalists decide Turkey's referendum?
+'You may as well kill us': Human cost of India's meat 'ban'
+>>>>>>> f9d85dee8069ba7b45f2c1eb12cc498e5ceaf874
 Is this the most dangerous backwater in the world?
 Letter from Africa: Should degrees be necessary for leaders?
 Trumplomacy: Shy Melania braves spotlight for women of courage
 The Hindu hardliner running India's most populous state
+<<<<<<< HEAD
 World Cup 2026: Fifa reveals allocation for 48-team tournament
 Tony Bellew: WBC make cruiserweight Emeritus Champion
 Neil Taylor: Fifa looks into Wales defender's leg-breaking challenge on Seamus Coleman
 Red Bull: The key areas where Christian Horner's team need to improve
+=======
+Arsene Wenger thinks Sanchez & Ozil want to stay but is coy on own future
+Neil Taylor: Fifa looks into Wales defender's leg-breaking challenge on Seamus Coleman
+Tony Bellew: WBC make cruiserweight Emeritus Champion
+>>>>>>> f9d85dee8069ba7b45f2c1eb12cc498e5ceaf874
 Secure exit? How will Brexit affect UK security?
 Signed and delivered – now what?
 More EU sorrow than anger
 Reality Check: Can the UK change its mind?
 Brexit: All you need to know about the UK leaving the EU
+<<<<<<< HEAD
 Kim Jong-nam's body to be released to North Korea
 US Kabul embassy fires staff over drugs
 'Exploding' soup dumpling video angers Asian foodies
@@ -54,6 +88,26 @@ Nigerian student beaten in India in alleged racist attack
 Thirsty snake drinks from water bottle
 Samsung Galaxy S8 and S8+: First look
 Elephants escape Cambodian mud hole
+=======
+Trump to meet China's Xi in Florida next week
+Family of Chinese victim of Paris killing calls for calm
+'Exploding' soup dumpling video angers Asian foodies
+Cyclone Debbie: Saturated cockatoo in photo dies
+US state department employee 'concealed contacts with China'
+Virat Kohli: India captain clarifies 'hostile' Australia remark
+Toshiba shareholders angry as chip unit sale approved
+Indonesian man's body found inside python - police
+Storm forces mass school closures
+Indian red faces over tallest flag at Pakistan border
+Samsung Galaxy S8 hides home button and gains Bixby AI
+Melbourne plane crash: Cockpit recorder did not contain audio
+Elephants in dramatic muddy escape
+New population of rare tigers found in eastern Thailand
+Nigerian student beaten in India in alleged racist attack
+Samsung Galaxy S8 and S8+: First look
+Elephants escape Cambodian mud hole
+Cyclone Debbie: Footage shows 'monster' storm hit Queensland
+>>>>>>> f9d85dee8069ba7b45f2c1eb12cc498e5ceaf874
 Exploitative or empowering?
 'You may as well kill us'
 Pirate patrols

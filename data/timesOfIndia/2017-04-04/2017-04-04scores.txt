@@ -1,0 +1,120 @@
+Our position for bilateral redressal of all India-Pak issues hasn't changed: India on Nikki Haley's remark
+>> 0.9375
+Live bullet found in Army jawan's bag at Srinagar airport
+>> 0.321428571
+Terrorism must be dealt with urgently: President
+>> 0.125
+Arvind Kejriwal's Rs 3.42 crore legal bill: 'Dacoity and loot' says BJP; not a personal battle, counters AAP
+>> -0.5
+Jawan caught with grenades at Srinagar airport granted bail
+>> -0.25
+Prashant Bhushan apologises for Lord Krishna remarks, deletes tweet
+>> 0.0
+Those behind attacks on Africans in India must be punished: UN
+>> -0.2
+Man held for rape of minor daughter who gave birth
+>> -0.34375
+BJP slams Kejriwal for seeking public fund to pay off his legal bills
+>> -0.09999999999999998
+Only 13 of 145 Ganga projects completed under Namami Gange programme
+>> 0.0
+Pakistan violates ceasefire in Rajouri, third incident of unprovoked firing in 24 hours
+>> -0.625
+China shouldn't interfere in India's internal affairs: Rijiju on Dalai Lama's visit
+>> 1.0
+Ram Jethmalani offers to defend Arvind Kejriwal for 'free'
+>> 0.4
+UP's Yogi Adityanath govt to set up 25 courts for speedy disposal of cases against SCs, STs
+>> 1.375
+Aadhaar is secure, concerns misplaced: Ravi Shankar Prasad, Minister for Electronics and IT
+>> 0.125
+BJP to hold awareness drive in 120 Lok Sabha seats which it lost in 2014
+>> 0.03819444400000005
+My sister is not interested in politics: Naveen Patnaik
+>> -0.125
+UP govt promises smooth roads by mid June, to spend Rs 3,000 crore
+>> 0.5
+Trump may get involved in India-Pakistan peace process, Nikki Haley hints
+>> 0.0
+Bad weather forces Dalai Lama to reschedule Tawang trip
+>> -1.058823529
+Trump, Xi Jinping will be 'odd couple' at first summit
+>> 0.375
+'Gas' attack kills 58 in rebel-held Syria town
+>> -0.25
+Trump signs bill blocking online privacy 
+>> -0.125
+Putin lays flowers at blast site in Saint Petersburg
+>> 0.55
+Saudi Arabia increases fighter pilots' pay by up to 60 percent
+>> 0.25
+Germany's Merkel wants to limit Brexit fallout
+>> 0.25
+262 Turks with official passports seek asylum in Germany
+>> -0.375
+Syrian government intensifies attacks around Damascus, Hama
+>> -0.2
+Donald Trump's son-in-law Jared Kushner visits Iraq
+>> 0.07500000000000001
+Donald Trump: Different strokes
+>> 0.625
+Leopard shuts down Nepal airport
+>> -0.303571429
+EU sees no future for Assad in Syria: Foreign ministers
+>> -0.833333333
+Japan, US, S Korea hold drill against North Korea
+>> 0.0
+Cuban uses condoms, fruit to make own wine
+>> -0.02083333300000001
+Donald Trump says US is ready to act alone on North Korea
+>> 0.625
+Movie on H-1B woes stirs anti-immigrant lobby
+>> -0.75
+Colombia landslide death toll rises to 234: Red Cross
+>> -1.3125
+Soon, a UN force to protect culture
+>> 0.0
+Pakistan sets up unique helpline for women in need
+>> 0.708333333
+China shuts down 18 illegal live streaming apps
+>> 0.517857142
+Applying for blue book is passport to humiliation: Transgenders
+>> 0.625
+Discontentment widespread among CISF men
+>> 0.0
+Birds love these two men in Bengaluru
+>> 0.2
+Female gangs on prowl in Bengaluru's streets
+>> 0.0
+Multiple entrance tests exhaust students, fill university coffers
+>> -0.125
+Siddaramaiah govt worst in 5 decades of my career: S M Krishna
+>> -0.5
+Court dismisses plea seeking curbs on Tamil Nadu ministers visiting Sasikala
+>> -0.125
+Three Water Adalats to be held today
+>> 0.25
+'Need to address Metro commuters' last-mile connectivity concerns'
+>> 0.375
+No temple on school premises: Lokayukta P Vishwanatha Shetty
+>> -0.333333333
+Nigerian's body flown to native country
+>> 0.125
+Malleswaram, Shivajinagar to be focus of smart city plan
+>> 0.75
+Tougher H-1B clause for IT programmers
+>> 0.0
+Dance teacher arrested on charges of raping student
+>> 0.0
+Illegal liquor outlets likely to increase as result of SC order, say experts
+>> 0.5
+Post demonetisation, banned notes are new bait for fraudsters in Bengaluru
+>> 0.125
+Maid falls to death from 9th floor, activists cry foul
+>> -0.8784722220000001
+Maid falls to death from 9th floor, activists cry foul
+>> -0.8784722220000001
+Younger MPs have better attendance, debate more
+>> -0.1875
+Need better infra to add Aadhaar numbers to degrees: Universities
+>> 0.375

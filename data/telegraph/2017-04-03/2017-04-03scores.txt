@@ -1,0 +1,158 @@
+St Petersburg Metro explosion: CCTV image of suspect emerges after at least 10 killed by 'briefcase' bomb
+>> -1.0
+Terminally ill boy denied 'potentially life-saving' treatment by NHS 'would be given it in any US hospital'
+>> 0.15277777800000003
+Donald Trump welcomes Egypt's president and says he has 'been close to him ever since the first time we met'
+>> 0.25
+Everything we know about the explosion in St Petersburg
+>> 0.0
+Gibraltar 'not for sale', Boris Johnson declares as Tories hit back over 'Spanish land grab'
+>> -0.75
+Gibraltar accuses EU of behaving like a 'cuckolded husband who is taking it out on the children'
+>> 0.5
+Gibraltar row: Theresa May urges 'jaw-jaw, not war-war' with Spain
+>> -2.0
+Mob of up to 30 joined 'appalling' attack on Croydon asylum seeker
+>> -0.375
+Bath Abbey sparks backlash as rector replaces 400-year-old morning prayers with 'contemporary' service
+>> 0.375
+Watch: Theresa May is given a military welcome in Jordan
+>> 0.5
+Exclusive: The most powerful Briton in America on what it's really like in Donald Trump's White House
+>> 0.25
+Ambiance is dead: the curse of the LED is well and truly upon us
+>> 0.766666667
+Theresa May flies to Middle East as she seeks 'bold, confident future' for post-Brexit Britain
+>> 0.5
+Explosion on St Petersburg Metro in Russia, in pictures
+>> 0.0
+Notebook written by unknown 17th-century William Shakespeare scholar leaves Antiques Roadshow expert 'trembling'
+>> 0.28125
+Donald Trump's henchmen filmed me peeing on his golf course, protesting grandmother tells court
+>> 0.0
+Girl, 9, escapes car as mother and two siblings are swept to their deaths in Australian floods
+>> 0.125
+'Game changing' menopause pill cuts hot flushes by three quarters
+>> 0.625
+Watch: Prince Charles and the Duchess of Cornwall sample Italian food in Florence
+>> -0.25
+Prince Charles presented with a king during card game in Florence
+>> 0.0
+Joan Bakewell: modern women should have children first and then focus on their career
+>> -0.125
+Theresa May warns Donald Trump against unilateral action on North Korea
+>> 0.0
+Italy hunts for Emperor Caligula's long-lost third pleasure ship, after reports of snagged fishing nets in Lake Nemi
+>> -0.30555555599999995
+Croydon attack: Up to 20 people watched teenage asylum seeker beaten by gang, neighbours claim
+>> -0.25
+Daredevils branded 'stupid idiots' for balancing on one leg at top of 250ft scaffolding
+>> -0.166666667
+Yorkshire Ripper questioned over 17 unsolved crimes - including hammer attack on 14-year-old girl
+>> 0.75
+NHS 111 'put suicidal callers on hold until they hung up'
+>> -0.125
+Croydon is a welcoming community – we will not stand idly by while hateful thugs sully our home
+>> -0.03125
+Donald Trump senior adviser Jared Kushner to visit Iraq, says official
+>> 0.3125
+Theresa May calls attack on asylum seeker 'abominable' and backs Tory MP who described attackers as 'scum'
+>> -0.375
+Donald Trump says US prepared to go it alone on North Korea nuclear threat
+>> 0.5
+Somali pirates hijack Indian commercial ship in second attack in weeks
+>> -1.0
+New Scotland Yard chief takes £40,000 pay cut
+>> 0.625
+Five things to know about Donald Trump's meeting with Egyptian president Abdel Fattah el-Sisi
+>> 0.0
+Revealed: Self-styled 'grammar vigilante' corrects badly punctuated shop signs in dead of night
+>> -0.519444444
+Unlikely friendships in the animal kingdom, in pictures
+>> -1.4375
+French presidential election: Poll tracker and odds
+>> 0.375
+Bradley Lowery could get life-saving treatment after inspirational youngster is picked for cell trial
+>> 0.5
+Elderly couple married for 70 years die just four minutes apart
+>> 0.9107142860000002
+North Korea's military arsenal
+>> 0.0
+The Gibraltar story, in pictures
+>> 0.0
+Gibraltar row: How the internet reacted to 'war with Spain' talk
+>> -0.25
+Britain will get money back from the EU instead of paying to leave under plans being considered by ministers
+>> 0.625
+Spain appears to back independent Scotland's membership of EU as row over Gibraltar escalates
+>> 0.09999999999999998
+Wrestlers John Cena and Nikki Bella get engaged at WWE WrestleMania
+>> 0.125
+Royal Navy 'far weaker' than it was during Falklands War
+>> 0.125
+Pictures of the Day: 3 April 2017
+>> 0.0
+Birthday surprise for Doris Day as she discovers she is 95 - two years older than she thought
+>> 0.6875
+Scottish MP reveals his accent is so thick it has to be translated when he speaks in the Commons
+>> 1.375
+Search for survivors goes on as Colombia death toll rises
+>> 0.0625
+Justin Trudeau challenges Friends' Matthew Perry to rematch fight
+>> 0.125
+The 10 things you might have missed this weekend
+>> -1.5
+Local Mexican newspaper closes citing killings of journalists
+>> 0.0
+Man rescued after shark attacks kayak off Queensland coast
+>> 0.025000000000000022
+Teenage girl arrested after 20 people watched race hate attack on 17-year-old asylum seeker
+>> 0.5625
+Pilots' poor English skills putting passengers at risk
+>> -0.02777777800000003
+A quarter of shops will banish queues by 2021 as 'tap and go' technology replaces tills
+>> 0.458333333
+Want to age like a Hollywood actress? Go to bed at 8pm, says Anna Friel
+>> -0.375
+Religion now the butt of workplace humour as sexist jokes have become taboo, survey finds
+>> 0.75
+EPSRC Photography Competition 2017
+>> 0.0
+Sex offenders and serious criminals could escape justice under new bail curbs, police leaders warn
+>> 0.375
+Rowing neighbours are reporting each other to the police over inappropriate use of drones
+>> -0.75
+South Africa braces for Black Monday protests calling for Zuma ousting
+>> -0.241071429
+The Royal Marines, RAF, 1 Mercians and the US Army train together, in pictures
+>> 0.375
+Donald Trump rolls out red carpet for Egypt's strongman in shift from human rights to security
+>> 0.0625
+Viewers shocked to hear Sir Tom Jones swear during The Voice final as a fan invades the stage
+>> 0.375
+Child locked locked in bedroom by grandparents is taken into care
+>> 0.375
+Hundreds of bikini-clad skiers take to the Russian slopes
+>> -0.375
+Humpback whale 'knew rescuers were trying to help' when it was saved from fishing nets for a second time
+>> 0.75
+Duke and Duchess of Cornwall's European Tour, in pictures
+>> 0.5
+Duchess of Cornwall visits mural of mafia symbols as she joins Prince Charles on Royal tour of Europe
+>> 0.0
+Duchess of Cornwall visits plaque for her great-grandmother in Florence and says she would love to buy her home back
+>> 0.9916666670000001
+Video: Armed police shoot dogs dead after members of public injured as six animals go on Bolton rampage
+>> -0.15833333300000008
+At least 18 injured in bonfire blast at Paris carnival
+>> 0.0
+Civil rights activist Darcus Howe dies aged 74
+>> 0.15999999999999998
+Boris Johnson's mother lost her Faberge egg after answering scam ad in the Lady magazine, sister reveals
+>> -0.30555555599999995
+French polling watchdog issues warning after Russian news report claims Francois Fillon regains lead
+>> 0.375
+Sir Clive Sinclair divorces wife 36 years his junior he met when she was lapdancer at Stringfellows
+>> 0.09375
+'Disappearing' golden eagle sparks murder mystery row on Scottish estate
+>> -0.34375

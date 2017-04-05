@@ -1,0 +1,166 @@
+PARAGUAY: Protesters set fire to Congress after secret vote
+>> 0.125
+U.S. sweeping up Russian hackers in a broad global dragnet
+>> 0.5625
+Michael Flynn's request for immunity in Trump-Russia probe 'rejected by Senate Intelligence Committee'
+>> 0.25
+Russian President Vladimir Putin says humans not responsible for climate change
+>> -0.125
+Iran rejects U.S. terror claim by Mattis, blames Saudi
+>> -1.125
+Fish are sentient animals who form friendships and experience 'positive emotions', landmark study suggests
+>> 0.875
+China opposes India hosting Dalai Lama in disputed border region
+>> -0.125
+Russia blocks access to Internet pages promoting new Moscow protest
+>> 0.5
+UK and US accuse Russia of 'interfering in other parts of the globe'
+>> -1.0
+Trump administration stops disclosing troop deployments in Iraq and Syria
+>> 0.25
+EU tells UK: 'We will not punish you. Brexit is punishment enough'
+>> 0.25
+UN suspends missions to Gaza after Hamas shuts border
+>> 0.0
+EU draft proposals point to Ireland as priority in Brexit talks
+>> 0.09375
+UK, France, Germany condemn Israeli approval of new settlement
+>> 0.8125
+The number of Americans refused entry into Canada has skyrocketed
+>> -0.25
+McDonald’s Canada cyberattack exposed 95,000 job-seekers’ personal information
+>> 0.125
+Frenchman stabbed in Shanghai in attack possibly linked to Paris protests
+>> -0.25
+Tillerson: US to maintain Ukraine-related sanctions on Russia until Crimea is returned
+>> 0.375
+South Sudan’s people are starving, and fighters are blocking aid
+>> 0.125
+China’s Xinjiang passes law to curb ‘religious extremism’
+>> 0.0
+Suicide bomber kills 24 near Shia mosque in Pakistan
+>> -0.4
+Anti-Islam rallies & counter-protest in London
+>> -0.375
+Defense Sec. James Mattis: North Korea "has got to be stopped"
+>> 0.375
+Palestinians demand sanctions against Israel over new settlement
+>> 0.375
+Qatar Airways to offer free laptops on US flights as solution to electronics ban
+>> 0.375
+South Africa's High Court decriminalizes Marijuana (Dagga) use and possession.
+>> 0.275
+Venezuela: Supreme Court backtracks on Congress ruling
+>> 0.666666667
+Julian Assange waits for Ecuador's election to decide his future
+>> 0.375
+Israel Moves to Approve First New West Bank Settlement In 20 Years
+>> -0.125
+Philippines seeks to rename marine zone after China shows interest
+>> 0.708333333
+UN slams Israel over Emek Shilo settlement
+>> -0.5
+At least 11 buried in landslide in Indonesia's Java
+>> -0.375
+Gothenburg celebrates becoming a city of one million
+>> 0.375
+Trump sends letter to Vietnam's president to promote ties
+>> 0.125
+Teenager suffers serious head injuries in Croydon 'hate crime' attack
+>> -0.9375
+SpaceX makes aerospace history with successful landing of a used rocket
+>> 0.625
+Mike Flynn indicates he would testify in Trump-Russia inquiry in exchange for immunity
+>> -0.125
+Venezuela's Supreme Court Cancels Stripping of Legislative Powers From Congress
+>> 0.166666667
+Wikileaks releases Part 3 of CIA Vault7 - project "Marble"
+>> 0.25
+Europe to push new laws to access encrypted apps data
+>> 0.07500000000000001
+Iraqi state-run TV says Islamic State's second-in-command has been killed
+>> 0.21875
+Chinese activists who voiced support for Hong Kong’s pro-democracy protests sentenced to prison
+>> -0.25
+"Maduro has staged a coup d'état": Venezuela's high court dissolves National Assembly
+>> 0.15000000000000002
+UK police arrest 12 at London protest, block clashes
+>> -0.208333333
+Venezuela says murders soared to 60 per day in 2016
+>> -0.375
+Cassini's Last Dance: NASA Spacecraft Embarks on a Final Suicidal Mission
+>> -0.375
+Philippines' Duterte invites EU critics, wants to 'slap them'
+>> 0.25
+Chechnya passes bill allowing schoolgirls to wear hijab in class
+>> 0.25
+An ISIS car bomb factory has been discovered in the Iraqi city of Mosul
+>> -0.25
+Cyclone Debbie: Communities struggling to reach emergency services say 'nobody came to see us'
+>> 0.291666667
+Turkey Bans All Services of Periscope
+>> 0.3125
+Russia not interfering in French elections, says candidate Fillon
+>> -1.5
+Americans are increasingly blocked at Canada border - report - BBC News
+>> 0.0
+Mexico singer Pepe Aguilar's son held for people smuggling
+>> -0.375
+EU delay on Brexit trade deal hits Sturgeon's referendum timetable
+>> 0.0
+Venezuelan court backtracks on powers bid
+>> 0.0
+Cargo Vessels Evade Detection, Raising Fears of Huge Trafficking Operations
+>> -1.0
+Japan racism survey reveals one in three foreigners experience discrimination
+>> 0.0
+Russia's Putin says climate change in Arctic good for economy
+>> 0.139423077
+Turkey blocks Booking.com in competition law case
+>> 0.0
+Paraguay rioters set fire to Congress after Senate re-election vote
+>> 0.375
+Google reveals latest UK tax bill
+>> 0.0
+24 dead after river overflows, destroying homes in Colombia
+>> -0.325
+Good news for elephants: China's legal ivory trade is 'dying' as prices fall
+>> 1.639423077
+Russian submarines increase combat patrols to Cold War levels
+>> -0.586538462
+Palestinian-American Beaten By Jewish Defense League At AIPAC Fracas
+>> -0.875
+Eurovision threatens to ban Ukraine over Russian singer row
+>> -0.125
+Venezuela moves to defuse Supreme Court powers dispute - BBC News
+>> 0.666666667
+Japan kills more than 300 whales in annual Antarctic hunt
+>> -0.5
+Production shut down as ‘human waste’ found in Coke cans in Ireland
+>> -0.553571429
+Canada extends ISIS mission in Iraq to June 30.
+>> 0.0
+Meningitis outbreak in Nigeria kills nearly 300
+>> -0.25
+BBC News: Germany rejects US pressure for Nato spending rise
+>> 0.5
+Lady official: Unmarried Duterte can joke about extramarital affairs
+>> -0.375
+Canadian Troops Operate in East Mosul as Mission Extended
+>> 0.0
+British 'Implacable' in Support for Gibraltar: Foreign Minister
+>> -1.125
+Ukrainian language pushed out of Crimean schools
+>> 0.0
+Indonesia: At least 11 buried in landslide in Java
+>> -0.375
+The world's first glow-in-the-dark frog found in Argentina
+>> -0.56875
+Discovery: We now know what Tyrannosaurus Rex faces really looked like
+>> 0.53125
+Peru says other countries should withdraw envoys from Venezuela
+>> -0.25
+How Karen Millen lost the battle for her name – and her fortune
+>> -0.555555556
+Iran rejects U.S. terror claim by Mattis, blames Saudi
+>> -1.125

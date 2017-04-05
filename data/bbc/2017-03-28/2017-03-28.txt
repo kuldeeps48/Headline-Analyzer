@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+Cyclone Debbie: Deadly storm batters Australia
+Cyclone Debbie seen from space
+Paris clashes after French police kill Chinese man
+Trump to sweep away Obama climate change policies
+Carlos the Jackal : Third French life sentence for notorious militant
+Tennessee couple tried to sell baby on Craigslist, say police
+Turkey 'spied on pro-Gulen opponents' in Germany
+Ahmed Kathrada: South Africa's anti-apartheid veteran dies
+Measles outbreak across Europe
+Mosul battle: Coalition urged to review tactics after civilian deaths
+Police investigating 'human waste in Coca Cola cans'
+Attacks on Nigerian students shock India
+Exhausted runner helped to finish line in US race
+London attacker's wife condemns actions
+Battered cockatoo and more Cyclone Debbie tales
+Bookshop turns classics into clickbait to get people reading
+The US beauty queen making her invisible illness visible
+Fighting sexual harassment on India's streets
+Why are people paying $6 for a bag of human waste?
+Will Smith reunites with Fresh Prince of Bel-Air pals
+Russia protests: Why Navalny rattles Kremlin
+Woman saved by 'wonder dog' in South Australia
+A girl called Allah? The rules on surnames
+=======
 Cyclone Debbie: 'Monster' storm batters Australia
 Paris clashes after French police kill Chinese man
 Trump to sweep away Obama climate change policies
@@ -19,11 +44,22 @@ How A Chorus Line creator Michael Bennett breathed life back into Broadway
 Woman saved by 'wonder dog' in South Australia
 Amateur cityscape photographer wins international award
 Orange is the New Black: Samira Wiley and Lauren Morelli tie the knot
+>>>>>>> cbcde5e3053d1ad7764f11a0d592f74d68bf5972
 'I was sterilised against my will'
 Freedom Caucus: Do these 29 white men run America?
 South Africa: The Manenberg school which is top of the class
 How will Brussels react to Brexit?
 Trumplomacy: State Dept's baffling jargon on Syria
+<<<<<<< HEAD
+Reality Check: Will the UK pay a €60bn 'divorce bill'?
+Davis Cup: Andy Murray will miss Great Britain's quarter-final against France
+Lionel Messi: Barcelona and Argentina forward banned for 'insulting' assistant ref
+British & Irish Lions: New Zealand fans offer free accommodation
+Cyclone Debbie: Deadly storm batters Australia
+Attacks on Nigerian students shock India
+South Korea ferry disaster: Sewol remains 'not human'
+Pakistan TV's Aamir Liaquat Hussain must apologise for 'hate speech'
+=======
 Reality Check: Will the UK pay a â‚¬60bn 'divorce bill'?
 Leggings and yoga pants: When tight trousers get controversial
 The man who quit heroin and became a fruit juice millionaire
@@ -38,6 +74,7 @@ Johanna Konta beats Lara Arruabarrena to reach last eight in Miami
 Cyclone Debbie: 'Monster' storm batters Australia
 Attacks on Nigerian students shock India
 South Korea Sewol ferry disaster: Human remains found
+>>>>>>> cbcde5e3053d1ad7764f11a0d592f74d68bf5972
 Paris clashes after French police kill Chinese man
 Samsung plans to relaunch refurbished Note 7 devices
 India win fourth Test to claim series against Australia
@@ -45,7 +82,10 @@ American Airlines ties up partnership with China Southern
 Kimberley fossil tracks are Australia's 'Jurassic Park'
 Singapore couple jailed for starving Philippine maid
 School children killed in Japanese avalanche
+<<<<<<< HEAD
+=======
 'Swirl face' sexual offender in Vancouver after release
+>>>>>>> cbcde5e3053d1ad7764f11a0d592f74d68bf5972
 Hong Kong escalator malfunction: Two men arrested
 Planet Nine: Astronomers want help from amateur stargazers
 Woman saved by 'wonder dog' in South Australia
