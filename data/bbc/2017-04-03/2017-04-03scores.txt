@@ -1,0 +1,142 @@
+St Petersburg metro explosion kills 10 in Russia
+>> -0.5
+Trump Supreme Court pick Neil Gorsuch faces Senate showdown
+>> -0.583333333
+South Africa's credit rating has been cut to junk status
+>> 0.5
+Brexit and Gibraltar: May laughs off Spain 'war' talk
+>> -0.725
+Trump son-in-law Jared Kushner in Iraq with top US general
+>> -0.08333333300000001
+Ordnance Survey's 3D digital map of UK offers stunning views
+>> 0.15625
+Egypt finds remains of 3,700-year-old pyramid
+>> 0.25
+Neo-Nazi threats force Jewish group in Sweden to close
+>> 0.75
+Charges over attack on UK asylum teen
+>> 0.3125
+Graphene-based sieve turns seawater into drinking water
+>> 0.0
+China sets target for 80% of citizens to speak Mandarin by 2020
+>> 0.625
+African envoys: India attacks on Nigerians 'racial'
+>> 0.0
+Disney animators explain why cartoon characters only have three fingers
+>> -0.125
+New York train kills teen retrieving phone from subway track
+>> 0.125
+Taiwan grandma carried fish in £900 Louis Vuitton handbag
+>> 0.0
+Meet the 'Grammar Vigilante' of Bristol
+>> 0.0
+Why things really are more fun when you're a teenager
+>> 0.59375
+Around the world in 80 days and on two wheels
+>> -0.5
+'Special' train ride for grandfather's ashes
+>> 0.46875
+Fireworks fanfare for South Korea's tallest building
+>> 0.0
+Xiongan district becomes hot property in China
+>> 1.0
+Kenya's rising ballet star Joel Kioko
+>> 0.0
+Uganda's female body builders battling stigma
+>> -0.25
+Marine Le Pen: Who's funding France's far right?
+>> 0.0
+Reality Check: Does Spain have more to lose than the UK?
+>> 0.0
+Mosul from the sky: Evidence of IS using human shields
+>> 0.0
+Tick tock: The importance of knowing the right time
+>> 1.586538462
+Knives out for President Zuma
+>> -0.375
+One man's hunt for his brothers' killers
+>> -0.375
+The woman on a mission to get rid of bad dating photos
+>> -0.433823529
+California's drought is over. Now what?
+>> 0.25
+Free Syrian Police go unarmed to help their community
+>> -0.1875
+Trucking water to Uganda's refugee camps
+>> 0.0
+David Moyes: FA to ask Sunderland boss to explain himself over 'slap' remark
+>> 1.375
+Nikita Parris in England Euro 2017 women squad but Eniola Aluko misses out
+>> -0.375
+Chinese Grand Prix: Antonio Giovinazzi replaces Pascal Wehrlein for second race
+>> -0.125
+Alan Shearer - no more twists in Premier League title race
+>> 0.291666667
+Johanna Konta: Injured and ill British number one to miss Charleston tournament
+>> -1.527777778
+Masters 2016: Louis Oosthuizen's 'unbelievable' hole-in-one
+>> 0.0
+African envoys: India attacks on Nigerians 'racial'
+>> 0.0
+Dalai Lama meets Indian guard from 1959 flight from Tibet
+>> 0.04166666699999999
+Taiwan grandma carried fish in £900 Louis Vuitton handbag
+>> 0.0
+China sets target for 80% of citizens to speak Mandarin by 2020
+>> 0.625
+Trump ready to 'solve' North Korea problem without China
+>> 0.375
+Xiongan district becomes hot property in China
+>> 1.0
+Badminton: India celebrates PV Sindhu's 'revenge' against Marin
+>> -0.25
+Somalia piracy: India ship hijacked in new attack
+>> 0.375
+Exhausted horse saved from floods in Australia
+>> 0.0
+Stellar Daisy: Growing concern for missing ship crew
+>> 0.5
+Catholic Church must reform confession, abuse survivor says
+>> 1.0
+Ayaan Hirsi Ali cancels Australia tour over 'security concerns'
+>> 0.25
+IPL 2017 quiz: Virat Kohli, Chris Gayle & MS Dhoni
+>> 0.0
+Andy Warhol portrait of Mao sells in Hong Kong
+>> 0.0
+Ikutaro Kakehashi: Roland founder and music pioneer dies aged 87
+>> -0.02750000000000008
+Fireworks fanfare for South Korea's tallest building
+>> 0.0
+Sewol disaster: South Korea ferry examined
+>> -0.375
+Aquariums flout Japan's ban on dolphin catching method
+>> -0.0625
+Software turns 2D X-rays into 3D images to aid surgeons
+>> 0.0
+Untouchable heir
+>> -0.5
+Place of refuge
+>> 0.375
+Toughing it out
+>> -0.375
+End of an art?
+>> 0.25
+In pictures
+>> 0.0
+Exploitative or empowering?
+>> 0.0
+'You may as well kill us'
+>> 0.341666667
+Pirate patrols
+>> 0.0
+Can a snake eat a human?
+>> -0.25
+Galaxy S8
+>> 0.0
+Loved and loathed
+>> 0.125
+Fawlty language
+>> 0.0
+'Anti-Romeo squads'
+>> -0.375
