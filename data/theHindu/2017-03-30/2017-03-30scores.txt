@@ -1,0 +1,206 @@
+Stamping, tagging of fliers’ hand baggage to end from April 1
+>> 0.5
+Amit Shah meets Shankarsinh Vaghela, terms it “courtesy” call
+>> 0.0
+Social security cover for scheme workers soon: EPFO
+>> 0.5
+Summer is here!
+>> 0.375
+Ceiling fans with springs, sensors to check suicides in Kota
+>> 0.5
+Parliament vs Bollywood: a cricket match coming soon
+>> -0.125
+Tamil Nadu farmers protest at Jantar Mantar
+>> 0.0
+6 dacoits arrested in Chickballapur
+>> 0.0
+Constitution Bench to hear triple talaq pleas on May 11
+>> 0.125
+Former Kerala DGP argues in SC on 13 political murders
+>> -0.15625
+Nigeria summons Indian envoy, protests racist attack on its citizens
+>> -0.5
+Crack in tracks apparently led to derailment: Railways
+>> 0.625
+Nigeria summons Indian envoy over Greater Noida attacks
+>> -0.125
+NDFB(S) militants killed in encounter
+>> -0.5
+Farm owner trampled to death by elephant
+>> -0.8125
+UP slaughterhouse ban: Meat shops being converted to tea shops
+>> 0.25
+Saseendran gets hero’s welcome in Kozhikode
+>> 0.625
+'Bring legislature to ensure Right to Health'
+>> 0.46153846200000004
+Two killed in fire at Kolkata hotel
+>> -0.25
+‘Niravu’ presents its success story in Lakshadweep
+>> 0.125
+Bloggers get a taste of Kozhikode’s hospitality
+>> 0.375
+Advance summer bringsno cheer to potter families
+>> 0.125
+Most parents don’t know risks of diaper use: study
+>> -0.25
+Guideline value may be cut in State
+>> 1.125
+TTD launches mobile app for devotees
+>> 0.0
+‘No immediate heatwave threat to A.P., TS’
+>> -0.25
+Six NH will criss-cross Amaravati, says Naidu
+>> -0.3125
+Amaravati, Polavaram on top of agenda, says CM
+>> -0.208333333
+Eight coaches of Mahakaushal Express derail in UP
+>> 0.375
+A visit to Sachin's adopted village
+>> 0.625
+Talks on with Sri Lanka: Lanba
+>> -0.125
+Adopted by Sachin Tendulkar
+>> 0.625
+5 new satellites this year to raise ISRO capacity
+>> 0.375
+Operator blacklisted for making Dhoni’s Aadhaar form public
+>> 0.0
+Sena shuts meat shops in Gurgaon
+>> 0.0
+Amit Shah rules out early elections in Gujarat
+>> -0.125
+SC directs Centre to prepare media guidelines for police briefings
+>> 0.0
+Another African national attacked in Noida
+>> -0.125
+Westinghouse files for bankruptcy
+>> -0.75
+Former GMCT principal dead
+>> -0.54375
+More facilities for hearing impaired schools soon: CM
+>> -0.625
+OPS faction mulls own TV channel
+>> 0.0
+Vaiko against Hindi signage on highways
+>> 0.0
+Bank cashier stages heist drama, arrested
+>> 0.4375
+VRS up 400%in Central police forces
+>> 0.375
+Thangam Thennarasu slams Sengottiyan on TET
+>> 0.25
+‘Teacher’ held for joining school with fake order
+>> -0.583333333
+Oppn. seeks loan waiver for farmers
+>> 0.0
+OPS to vacate government bungalow
+>> -0.25
+With summer here, water holes are getting ready
+>> 1.0
+Two charge sheets filed in IS module secret meeting case
+>> -0.125
+Stalin flays BJP’s ‘double standards’ on hydrocarbon exploration project
+>> 0.25
+How BS-IV engines cut emissions drastically
+>> 0.5
+‘Dhinakaran will eye CM’s chair if he wins’
+>> 0.25
+Leaders sold ticket, say BSP workers
+>> 0.75
+Lok Sabha passes GST Bills after marathon debate
+>> 0.0
+Govt. embarrassed in Rajya Sabha
+>> -0.333333333
+Capstone in humanoid shape found at Narmeta
+>> 0.375
+Dipika Pallikal wins arbitration award
+>> 0.5
+‘Campaign on issues of public importance’
+>> 0.0
+Foodgrain bonanza for Telangana this year
+>> 0.25
+Rahul to meet farmers today
+>> 0.125
+Sit-in continues at Thanjavur Collectorate
+>> 0.0
+HC sets aside murder charge against Engg student
+>> 0.125
+23 held over bid to stage stir at Marina
+>> 0.3375
+TN may prune guideline value
+>> 0.625
+TVF CEO Arunabh Kumar booked for sexual harassment
+>> 0.125
+Karimnagar bids to become Smart City
+>> 0.5
+Call for accelerated shift to renewables, energy efficiency
+>> 0.208333333
+India can benefit from decentralised energy solutions: expert
+>> 1.3333333330000001
+Hassan’s menstruation comment invites wrath
+>> 0.125
+Software-based system for preparing question paper mooted
+>> 0.25
+Rice brand boosts farm sector
+>> 0.375
+INA secures Bakshi Cup
+>> 0.0
+Curtains down on Kochi-Muziris Biennale
+>> -0.303571429
+TB vaccine trial on adults begins in June
+>> 0.0
+The ‘tail end’ of a ritual in Kerala temple
+>> 0.25
+HC slams Vigilance for ‘excess’ actions
+>> -0.25
+People may tolerate corruption, but not arrogance: Goa BJP Chief
+>> 0.25
+BJP to discuss Pranab’s successor
+>> 0.0
+BJP picks Seema Savle as PCMC panel chief
+>> 0.0
+Goa BJP to felicitate Amit Shah on April 9
+>> 0.0
+Anna Hazare hints at launch of agitation for Lokpal again
+>> -0.25
+Syro-Malabar Church sticks to tradition
+>> 0.0
+Chennithala alleges graft in exams
+>> 0.0
+Folk artistes rediscovering self esteem in Telangana
+>> 0.25
+Teenager rescued from well
+>> 0.9666666669999999
+NIA files chargesheet in Kanakamala secret meeting case
+>> -0.25
+VACB inquiry into cracks in Enathu bridge
+>> 0.125
+Govt bound to evictencroachers: Kanam
+>> -0.25
+Surya Namaskar akin to namaz: Adityanath
+>> -0.25
+ASHA workers take out Secretariat march
+>> -0.375
+Nalini Netto is new Chief Secretary
+>> 0.875
+Medical board says Kalabhavan Mani died of methyl alcohol poisoning
+>> -0.25
+NIA charge-sheets eight IS operatives
+>> 0.125
+Former judge to probe phone call row
+>> -0.59375
+Anna Hazare hints at relaunching agitation for Lokpal
+>> -0.25
+CBI arrests key accused in nurses recruitment scam
+>> 0.125
+Two of family killed in accident
+>> -0.25
+Kasaragod head post office to anchor POPSK
+>> -0.75
+CEOs plan to ‘go under’ to stop pollution
+>> -0.25
+High Court restrains govtfrom releasing prisoners
+>> 0.275
+Woman hacks son to death
+>> -0.3125

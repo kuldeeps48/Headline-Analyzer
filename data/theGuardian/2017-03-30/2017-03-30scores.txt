@@ -1,0 +1,230 @@
+'Great repeal bill' will create sweeping powers to change laws for Brexit
+>> 1.2916666669999999
+Expected goals and Big Football Data: the statistics revolution that is here to stay
+>> 0.625
+Brexit: Davis unveils great repeal bill white paper - Politics live
+>> 0.425595238
+Borussia Dortmund step up youth recruitment drive with Mo Dahoud signing
+>> 0.28125
+Cricket could feature at 2024 Olympic Games, says ICC chief executive
+>> 0.625
+JP Morgan 'considering Dublin move' as Lloyd's of London picks Brussels - business live
+>> 0.946428571
+India's high-rise Pakistan-baiting monument flagging due to heavy winds
+>> 0.5874999999999999
+Article 50 letter: how press reacted on both sides of the Channel
+>> 0.0
+The arts thrive in Putin’s Russia – though they play a complex game of censorship | Natalia Antonova
+>> 0.125
+Are rugby union and its calendar stretched to breaking point? | Paul Rees
+>> 0.46875
+If you live outside the UK, tell us what you think about Brexit
+>> 0.696428571
+The curious disappearance of climate change, from Brexit to Berlin | Andrew Simms
+>> -0.25
+Indie music and teen TV: a bromance made in sad boy heaven
+>> 0.3541666669999999
+The Islamic Enlightenment by Christopher de Bellaigue – review
+>> -0.375
+Cameron’s legacy is secure – he’s the man who sold millennials down the river | Rhiannon Lucy Cosslett
+>> 0.696428571
+Good news for elephants: China's legal ivory trade is 'dying' as prices fall
+>> 1.639423077
+Do Scots really back Sturgeon over Brexit? The polls suggest not | John Curtice
+>> -0.28125
+High court rejects challenge to ban on assisted dying
+>> -0.85
+In our Google era, indexers are the unsung heroes of the publishing world
+>> -0.04166666699999999
+Lloyd's of London plans to open Brussels office by middle of 2018
+>> 0.0
+Thousands told to evacuate as ex-Cyclone Debbie wreaks havoc
+>> -0.125
+Christopher Nolan and Sofia Coppola urge fans to watch films in cinemas, not on Netflix
+>> -0.625
+UK games industry: 40% of companies considering relocating after Brexit
+>> 0.125
+Sinixt First Nation wins recognition in Canada decades after 'extinction'
+>> -0.5
+Immigration crackdown enables worker exploitation, labor department staff say
+>> 0.375
+Snoops may soon be able to buy your browsing history. Thank the US Congress | Bruce Schneier
+>> 0.6875
+Talking Horses: Thursday's best bets for Warwick and Taunton
+>> 0.5625
+Rescue teams search Snowdonia for missing helicopter
+>> -0.875
+Child sexual exploitation offences increase fivefold in Manchester
+>> 0.5
+Cristiano Ronaldo sculptor: it is impossible to please everyone
+>> 0.0
+John, I'm only decorating: David Bowie's old apartment on sale for $6.5m
+>> 0.375
+Paraguay fears dictatorship as president moves to amend constitution
+>> -0.25
+Ex-cyclone Debbie: 52,000 without power in south-east Queensland – live
+>> 0.321428571
+Champagne producers try to regain fizz as weak pound dents UK sales
+>> -0.125
+LastPass warns users to exercise caution while it fixes 'major' vulnerability
+>> 0.625
+Crackdown on contactless card security flaw welcomed by MPs
+>> 0.5
+How long will I be able to avoid the cloud?
+>> 0.375
+Supported housing is a vital lifeline. So why is it being cut? | David Orr
+>> 1.5
+Joe Hockey: don't be too harsh on Donald Trump, it's early days
+>> 0.166666667
+God and coal: Trump won on both issues in West Virginia but inspires doubt
+>> 0.125
+Coventry at Wembley, Boat Race drama and Gigi Buffon at his best | Classic YouTube
+>> 1.75
+Warm-ups and throwing to first: how to solve baseball's time killers
+>> 0.5
+I thought my career as a doctor was over. It was the arts that saved me
+>> 0.8125
+David Davis says article 50 letter was not a threat to EU on security
+>> 0.0
+Channel 4 is overdue an escape from the London media bubble | Martin Kelner
+>> -0.625
+Unlike a divorce, the terms of Brexit aren’t up for discussion | Joris Luyendijk
+>> 0.375
+Ministers urged to end 'cruel' policy on child refugees' relatives
+>> -0.125
+Football transfer rumours: Morata, Lukaku or Sánchez to Chelsea?
+>> 0.0
+The Explosion Chronicles by Yan Lianke review – boomtime in rural China
+>> 0.625
+Dairy is scary. The public are waking up to the darkest part of farming | Chas Newkey-Burden
+>> 0.625
+'They're going to kill me next': Yemen family fears drone strikes under Trump
+>> -0.25
+George Michael laid to rest in Highgate cemetery in London
+>> -0.125
+In both the US and UK, social workers can heal society's deep divisions | Anna Scheyett
+>> 0.75
+Danny Webb quits as Leyton Orient manager after only two months
+>> 0.0
+Tobacco display ban hits sales at Budgens and Londis owner
+>> 0.0
+Adam Diment, the superstar spy novelist who vanished for four decades
+>> -0.375
+Labor warns sugar deal could offend free trade agreement with Singapore
+>> 0.125
+Amal Clooney calls for collection of evidence of Isis atrocities
+>> -0.5
+Katy Perry among 86 artists announced for Glastonbury 2017
+>> 0.0
+How to cook the perfect miso ramen
+>> 0.708333333
+Montpellier owner’s interest in Gloucester prompts authorities' concern
+>> 0.458333333
+The Autopsy of Jane Doe review – brisk but dour Scandi mortuary creepshow
+>> 0.01041666699999999
+Who are the footballers celebrated in these statues? – quiz
+>> 0.125
+Painting disabled people as ‘workshy’: that’s what benefits cuts are all about | Frances Ryan
+>> 0.0625
+Where shows go to die and then don't – why we should all celebrate Channel 5's birthday
+>> 0.3125
+Abuse survivor urges politicians to introduce child protection measures
+>> -0.275
+Reusable incentives could slash disposable coffee cup waste
+>> 0.25
+Don't blackmail us over security, EU warns May
+>> 0.375
+Digital innovation category: award winner and runners up
+>> 1.0
+Student diversity and widening participation: award winner and runners up
+>> 0.75
+Buildings that inspire category: award winner and runners up
+>> 0.625
+International projects category: award winner and runners up
+>> 0.375
+Marketing and comms campaign category: award winner and runners up
+>> 0.5
+Teaching excellence category: award winner and runners up
+>> 1.625
+Art Sex Music by Cosey Fanni Tutti review – elder stateswoman of the avant garde
+>> 1.0625
+Social and community impact category: award winner and runners up
+>> 0.75
+Sustainability project category: award winner and runner up
+>> 0.875
+Student experience: award winner and runners up
+>> 0.75
+Business partnership category: award winner and runners up
+>> 0.75
+Entrepreneurship category: award winner and runners up
+>> 0.5
+Employability initiative category: award winner and runners up
+>> 0.75
+Advancing staff equality category: award winner and runners up
+>> 0.5
+Research impact category: award winner and runners up
+>> 0.5
+MasterChef review: mince with ketchup, custard ravioli and … a new market
+>> 0.5
+Fake views: can you spot the city copy?
+>> -0.802083333
+Climate change: China calls US 'selfish' after Trump seeks to bring back coal
+>> 1.0
+Poundland takes on Asda with low-cost clothing range
+>> -0.3875
+Senate sits on to deal with Racial Discrimination Act and company tax cuts – as it happened
+>> 0.0
+Hammond was right to raise tax for self-employed, inquiry to say
+>> 0.586538462
+Children in northern England being failed by educational divide, study finds
+>> 0.25
+Cyberbullying in the workplace: 'I became paranoid'
+>> -0.375
+As tenants in common, could we specify that our children inherit our property?
+>> -0.225
+Ten empowering female characters in children's books
+>> 0.0
+Britain’s treaty with Europe is dead. Time to strike a new one  | Simon Jenkins
+>> 0.925
+BA has its head in the clouds over buy-on-board food
+>> -0.3125
+Douglas Coupland: 'The nine to five is barbaric'
+>> 0.375
+Derek Hudson's best photograph: a Death Squad mercenary stops for lunch in El Salvador
+>> 0.625
+Ken Livingstone to appear before Labour body in expulsion hearing
+>> 0.0
+Top 10 ecstatic musical showstoppers
+>> -0.333333333
+Guardian University Awards 2017: the winners
+>> 0.25
+Thursday briefing: Thank me, says Dave. And Ivanka Trump, civil servant
+>> 0.25
+A requiem for the overnight sleeper - and a European way of life | Andrew Martin
+>> 0.0
+One Nation copies Greens penalty rates plan to embarrass Labor and unions
+>> -0.625
+Thursday’s best TV: Galapagos; The Last Kingdom; The Legacy
+>> 0.4375
+Dmitry Medvedev: the whipping boy for Russia's discontented
+>> -0.125
+Amber Rudd to tell tech firms: do more to combat terrorism
+>> -0.625
+Domestic abuse should be punished more severely than non-domestic, judges told
+>> -0.816666667
+Using security as Brexit bargaining chip is reckless and lacks credibility
+>> 0.25
+Shooting lobby calls on Victorian government to penalise duck hunters who act illegally
+>> 0.75
+Cedar cuts a bold dash among the grey ranks
+>> 0.875
+Cyclone Debbie in context: how severe was the storm in comparison with other weather events?
+>> -0.125
+Ronaldo or bust: social media gives statue of footballer a black eye
+>> -0.841071429
+Michaelia Cash fails to justify claim low-paid workers often in high-income households
+>> 0.09583333300000008
+Could tiny houses help solve Australia's affordable housing crisis?
+>> -0.125
+Sarah Wilson on living with anxiety: there’s no sugarcoating mental illness
+>> -0.8958333330000001

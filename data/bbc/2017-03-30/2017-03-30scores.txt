@@ -1,0 +1,130 @@
+Russia 'tried to hijack US election', says US senator
+>> 0.8125
+Brexit: UK sets out plans to replace all EU laws
+>> -0.5625
+Kim Jong-nam's body to be released to North Korea
+>> 0.125
+Ronaldo statue: Sculptor Emanuel Santos defends his bizarre work
+>> 0.15000000000000002
+Campaigners seek 'to sell US politicians' browsing data'
+>> 0.0
+US Kabul embassy fires staff over drugs
+>> 0.0
+US hails Turkey as 'a trusted ally' in Ankara talks
+>> 1.125
+Insurer Lloyd's of London confirms new Brussels subsidiary
+>> 0.375
+American Airlines pilot dies on Dallas-Albuquerque flight
+>> -0.09000000000000002
+Italian police in Venice arrest three Jihadists
+>> 0.0
+Deadly shark washes up after Cyclone Debbie
+>> -0.02083333300000001
+Coffee cup fee could cut use by 300 million, study suggests
+>> 0.5
+Cannes Film Festival poster sparks airbrushing row
+>> 0.0
+Cat ownership rise driven by men, survey suggests
+>> 0.25
+'Exploding' soup dumpling video angers Asian foodies
+>> 0.75
+Signs of hope after years of Syria's war
+>> 0.0
+Is 'luxury co-living' a solution to loneliness in big cities?
+>> 0.8125
+Pee Wee Pumps: High heels for babies spark outrage
+>> -0.22499999999999998
+James Polk: The dead president who just can't rest in peace
+>> 0.33571428600000003
+Kilted yoga star targeted by homophobic hate mail
+>> -0.3125
+French artist turns chicken for three-week egg hatching
+>> 0.375
+Did this alleged Russian spy help Trump win election?
+>> 0.875
+Will ultranationalists decide Turkey's referendum?
+>> 0.25
+'You may as well kill us': Human cost of India's meat 'ban'
+>> 0.341666667
+Can a snake eat a human?
+>> -0.25
+Is this the most dangerous backwater in the world?
+>> -0.75
+Letter from Africa: Should degrees be necessary for leaders?
+>> 0.375
+Trumplomacy: Shy Melania braves spotlight for women of courage
+>> 0.25
+The Hindu hardliner running India's most populous state
+>> 0.625
+World Cup 2026: Fifa reveals allocation for 48-team tournament
+>> -0.375
+Tony Bellew: WBC make cruiserweight Emeritus Champion
+>> 0.604166667
+Neil Taylor: Fifa looks into Wales defender's leg-breaking challenge on Seamus Coleman
+>> 0.25
+Red Bull: The key areas where Christian Horner's team need to improve
+>> 0.6875
+Secure exit? How will Brexit affect UK security?
+>> 0.625
+Signed and delivered – now what?
+>> -0.25
+More EU sorrow than anger
+>> -0.71875
+Reality Check: Can the UK change its mind?
+>> 0.125
+Brexit: All you need to know about the UK leaving the EU
+>> 0.3125
+Kim Jong-nam's body to be released to North Korea
+>> 0.125
+US Kabul embassy fires staff over drugs
+>> 0.0
+'Exploding' soup dumpling video angers Asian foodies
+>> 0.75
+Bangladesh stand-off comes to deadly end with 'militant' blast
+>> -0.839583333
+Greece to pay Bangladeshis over shooting
+>> 0.25
+Trump to meet China's Xi in Florida next week
+>> 0.25
+Family of Chinese victim of Paris killing calls for calm
+>> 0.125
+Cyclone Debbie: Saturated cockatoo in photo dies
+>> -0.881666667
+US state department employee 'concealed contacts with China'
+>> 0.75
+Virat Kohli: India captain clarifies 'hostile' Australia remark
+>> 0.229166667
+Ex-Cyclone Debbie: Australia floods force more evacuations
+>> 0.25
+Toshiba shareholders angry as chip unit sale approved
+>> -0.416666667
+Tonnes of rubbish is being cleared from Mount Everest
+>> 1.125
+Elephants in dramatic muddy escape
+>> -0.625
+Nigerian student beaten in India in alleged racist attack
+>> -0.75
+Thirsty snake drinks from water bottle
+>> -0.875
+Samsung Galaxy S8 and S8+: First look
+>> 0.0
+Elephants escape Cambodian mud hole
+>> -0.625
+Exploitative or empowering?
+>> 0.0
+'You may as well kill us'
+>> 0.341666667
+Pirate patrols
+>> 0.0
+Can a snake eat a human?
+>> -0.25
+Galaxy S8
+>> 0.0
+Loved and loathed
+>> 0.125
+Fawlty language
+>> 0.0
+'Anti-Romeo squads'
+>> -0.375
+Debbie hits
+>> 0.0
