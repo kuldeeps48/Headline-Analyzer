@@ -1,7 +1,9 @@
 from PyQt4.QtCore import Qt
 from ui.mainUI import *
 import time, sys
-
+import ctypes
+myappid = u'project.analytics.1.0'  # So that windows shows our icon in taskbar
+ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
 
 # For splash screen ~~
 def drawSplash():
@@ -11,7 +13,7 @@ def drawSplash():
     splash.setMask(splash_pix.mask())
     splash.show()
     # Simulate something that takes time
-    time.sleep(2)
+    time.sleep(3)
 
 
 if __name__ == "__main__":

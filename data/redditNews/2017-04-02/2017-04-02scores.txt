@@ -1,0 +1,192 @@
+Woman charged with child abuse for circumcising her 4-year-old son
+>> 0.433333333
+FDA approves first drug for aggressive multiple sclerosis
+>> 0.166666667
+Judge steams as Uber exec withholds documents and pleads the 5th
+>> 0.0
+$13M in Settlements Paid to Women Who Accused Bill O’Reilly of Harassment
+>> -0.291666667
+Theresa May would "go to war" to defend sovereignty of Gibraltar
+>> -0.475
+At least 193 dead, 220 missing in Colombia after rivers overflow
+>> -1.2
+Man accused of trying to kidnap, rape, marry woman he met on Facebook
+>> -0.5
+ISIS second-in-command has been killed in an airstrike: Iraqi military
+>> 0.0
+The untouchable Red Bull heir in Thailand - BBC News
+>> -0.6875
+Chicago police arrest 14-year-old in rape on Facebook Live
+>> 0.446428571
+Abu Hamza’s son stripped of British passport after waging jihad in Syria
+>> 0.0
+Russian government posts April Fools' Day prank offering "election interference"
+>> 1.0
+Chechen Authorities Arresting and Killing Gay Men, Russian Paper Says
+>> -0.04166666699999999
+Ten Sovereign Citizens Face 320 Felonies in Tennessee
+>> 0.0
+Woman stabbed 32 times by ex-boyfriend marries first responder who rescued her
+>> 0.875
+Pakistan sets up unique helpline for women in need
+>> 0.708333333
+Japan kills 333 whales in annual Antarctic hunt
+>> -0.5
+Anti-Putin protesters plan next move as jailed opponent considers election bid
+>> 0.125
+Twenty tortured, then murdered in Pakistan Sufi shrine: police
+>> -0.8125
+1m African migrants may be en route to Europe, says former UK envoy
+>> 0.21875
+Man tased after striking officer, yelling ‘Allah Akbar’ in Goodwill scuffle
+>> 0.75
+90% of Florida experiencing "severe drought".
+>> -0.75
+Woman Arrested in 'Make My Day' Home Invasion Case Has 'a Lot of Regrets,' Defends Shooter
+>> 0.629166667
+At least 20 injured in explosion at crowded Paris family carnival
+>> 0.0
+Mother denied access to Alexandria Park Community Centre multicultural playgroup for being Australian
+>> -0.75
+Lawyers want California schools to stop asking citizenship-related questions
+>> 0.375
+Mother-of-three guilty of terrorism offence after retweeting Isil leader's speech to 30 followers
+>> 0.0
+'Cruel and unusual': Supreme Court rejects how Texas evaluates mental disability in death-row inmates
+>> -0.645833333
+Mormon leader encourages more baptisms for the dead
+>> -0.2
+Refugees start to gather in Calais again, months after camp was closed
+>> -0.520833333
+German police accused of Christmas market attack cover-up
+>> 0.375
+Woman held victim for 2 years, tried to impregnate her with boyfriends sperm
+>> 0.5625
+Multiple people shot at Virginia Motorsports Park
+>> -0.625
+Mother and son who 'gave shelter to homeless man' stabbed to death at family home
+>> -0.9375
+Arkansas governor signs ‘sex-selection’ abortion ban bill
+>> 0.0
+2 Sue Trump and U.S. Officials, Claiming They Are on ‘Kill List’
+>> 0.125
+UPDATE: Wife admits to murdering husband; body found in refrigerator
+>> -0.625
+5 Children Killed in Spearfish House Fire
+>> 0.0
+ICE Arrests Green Card Applicants In Lawrence, Signaling Shift In Priorities
+>> -0.458333333
+Japan Declares Sale of Bitcoin Exempt from Consumption Tax
+>> -0.333333333
+Man sentenced in DUI crash that killed wife as they had sex
+>> -0.25
+U.S-led Coalition strikes against ISIS have killed 229 civilians: Pentagon report
+>> -0.375
+Nottinghamshire villagers hold pothole's 2nd birthday party
+>> 0.125
+A shrine custodian stabbed and clobbered devotees with clubs
+>> 0.0
+Ford recalls F-250 pickups that could roll while in park
+>> -0.25
+One child is dead, others hospitalized after carbon monoxide leak at hotel pool in Niles, Michigan
+>> 0.3
+Christian nurse Sarah Kuteh sacked after telling cancer patient he had better chance of survival if he prayed to God
+>> 1.59375
+Colombia mudslides kill more than 200
+>> 0.0
+Temple squirter strikes again at UNESCO sites in Kyoto, Nara
+>> -0.125
+Jury awards $136k to former Hale Co. official who claimed white employees were 'purged'
+>> 0.65625
+China reports six new bird flu cases, one death
+>> 1.6875
+Mylan announces nationwide EpiPen recall over potential defect
+>> -0.625
+Oregon set to double recycling rate to 10 cents a can
+>> 1.125
+Truck carrying 30,000 pounds of bananas crashes in New Hampshire
+>> 0.625
+CIBC CEO explains why bank is replacing Canadian staff with workers from India - Business - CBC News
+>> 0.375
+Police make 14 arrests as rival groups clash at joint Britain First-EDL protest in London
+>> -0.02083333300000001
+Detroit firefighters cut medical-emergency response time by more than half
+>> 0.625
+Teenager fights for his life after 'hate crime' attack in Croydon
+>> -0.9375
+China plans panda preserve 3 times size of Yellowstone park
+>> 0.25
+Keesler airman sentenced for assaulting fellow airmen
+>> -0.375
+Palestinian rights groups demand Hamas reopen border
+>> -0.25
+UK: Teenage asylum seeker brutally attacked in London
+>> 0.125
+LDS Church announces five new temples
+>> 0.375
+Kentucky’s Last Abortion Clinic Saved From ‘Imminent Closure’
+>> 0.0
+Cyber Fraud Bill Would Make Political ‘Fake News’ Against The Law
+>> -0.02083333300000001
+Large fire burns in Dubai near site of dramatic 2015 blaze
+>> 0.625
+Toxic waste 'too dangerous' for Ohio landfills to be trucked to Wayne County
+>> 0.375
+Dutch student flies to Sydney, Nova Scotia by accident instead of Sydney, Australia
+>> -0.875
+The Latest: Colombia President declares state of emergency
+>> 0.5
+Comcast says it will not sell customer browsing histories
+>> -0.5
+Airman’s 6-year sentence for stealing $420,000 to cover gambling losses upheld
+>> -0.5
+China bans beards and veils in Xinjiang
+>> 0.5
+3 Arrested in Connection With Interstate 85 Overpass Collapse
+>> -0.375
+Interior minister, police chief fired after Paraguay clashes
+>> 0.375
+FBI releases 25 previously unseen photos from 9/11 attack at Pentagon
+>> -0.125
+Officer demoted after telling man he couldn't record police
+>> 0.0
+Canada joins recall of EpiPens
+>> 0.0
+White House aides' finances revealed in disclosure documents
+>> 0.0
+German diplomat's son loses parole bid in Virginia killings
+>> -0.25
+Prosecutors: Woman killed on Valentine’s Day was injected with cyanide
+>> 0.125
+Cholera spreads in famine-threatened Somalia
+>> 0.125
+Suspect discussed smoking crack before I-85 collapse, affidavit shows
+>> -0.125
+James Rosenquist, Pop Art Pioneer, Dies at 83
+>> -0.09000000000000002
+Woman overdosed on heroin in a Chuck E Cheese restroom while her two kids played in the restaurant
+>> 0.125
+Beer Giant Commits to 100% Renewable Energy
+>> 0.583333333
+Gilbert Baker, inventor of gay rights rainbow flag, dies at 65
+>> -0.5066666670000001
+In suit, 10 women allege sex abuse at Hawaii women's prison
+>> -0.30000000000000004
+Connecticut bill would allow cops to use drones equipped with lethal weapons.
+>> -0.25
+Teen sentenced for his role in overdose deaths of 2 classmates
+>> 0.0
+Obama Officials Made List of Russia Probe Documents To Keep Them Safe
+>> 0.166666667
+Colorado woman's remains found under grave of WWII veteran
+>> -0.0625
+Chance the Rapper announces arts fund for Chicago public schools
+>> 0.09375
+Inherent Resolve Strikes Target ISIS in Syria, Iraq
+>> 0.125
+World's leading marijuana expert says he has never smoked a joint
+>> 0.125
+Colombia landslide kills 112, scores injured
+>> 0.0
+'I took care of dude,' 911 caller says he killed driver that hit child
+>> 0.0

@@ -1,0 +1,194 @@
+Trump's chief strategist Steve Bannon stripped of national security council role
+>> 0.5
+Kansas City voters approve lower penalty for pot possession: $25 fine and no jail
+>> -0.5958333329999999
+Payless Files For Bankruptcy, Will Immediately Close 400 Stores
+>> -0.125
+Federal appeals court rules Civil Rights law prohibits LGBT job discrimination
+>> 0.5
+Bill would ban ISPs in NYS from selling personal information
+>> 0.5
+Oregon's Marijuana Industry Sold 11,000 Lbs. of Pot in 3 Months
+>> 0.5
+Girl dives from truck after being kidnapped, sexually assaulted and injected with meth
+>> 1.0
+Most Americans unwilling to give up privacy to thwart attacks: Reuters/Ipsos poll
+>> -0.5125
+Rhino released back into wild immediately attacks people riding elephants
+>> 0.325
+US-Mexico border crossings at 17-year low
+>> -0.3875
+Astronaut John Glenn to be interred at Arlington Cemetery
+>> 0.0
+Nuclear plant shutdowns tied to coal pollution, decreased birth weights
+>> -0.25
+Boy who sparked major police hunt after vanishing from his bed overnight is found hiding under his bed
+>> 0.375
+Boko Haram kidnap 22 girls,women in northeast Nigeria.
+>> -0.125
+Texas man up in arms over arrest for shooting at men trying to kidnap his fiancée
+>> 0.125
+Lakewood, NJ mall plan opposed because it would allow non-Jews and ‘hanging out’
+>> 0.0
+F-16 Jet Crashes Near Joint Base Andrews
+>> -0.34375
+U.S. court rules 1964 civil rights law protects LGBT workers from bias
+>> 0.375
+Thanks to a new battery storage system, Molokai may be the first Hawaiian island to go entirely off the grid.
+>> 0.625
+Navy Instructor Pilots Refusing to Fly Over Safety Concerns
+>> 0.375
+Feds order Wells Fargo to rehire whistleblower and pay him $5.4 million
+>> 0.25
+These 10 companies control everything you buy
+>> 0.4375
+US official: North Korea fires a possible ballistic missile
+>> 0.04166666699999999
+Last month wind power provided enough energy for 136% of Scottish households
+>> 0.333333333
+Third Black Employee Sues Fox News for Racial Discrimination
+>> -0.584821429
+Wife of Pulse gunman to be extradited to Florida
+>> 0.125
+CNN Faces Growing Racial Discrimination Lawsuit
+>> 0.0
+Students across Switzerland are taking to the streets to protest education budget cuts
+>> 0.9583333330000001
+Islamic State says US 'being run by an idiot'
+>> 0.46875
+Report: Car insurance rates much higher in minority areas
+>> 0.0
+2 US citizens from McAllen Texas allegedly shot by Mexican Armed Forces in Reynosa
+>> -0.25
+New Pittsburg, Kan., High School principal resigns after student journalists question her credentials
+>> 1.4
+Police: Shoplifter trapped in store after closing calls 911
+>> -0.125
+Skincare company pulls 'white is purity' ad after backlash
+>> 0.1875
+Why cops shoot: An unprecedented review of Florida police shootings reveals how fear and bias breed confusion
+>> -0.9583333330000001
+Taser International, now Axon, to offer free body cameras for every US police officer
+>> -0.5
+APNewsBreak: Thousands of defects found on oil train routes
+>> -0.125
+Kansas high school principal resigns after student reporters raise concerns
+>> 0.9
+Maricopa County Sheriff Paul Penzone to shut down controversial 'Tent City'
+>> 0.196428571
+EBay founder commits $100 million to combat 'fake news'
+>> -0.8958333330000001
+Roman Polanski loses bid to resolve rape case
+>> 0.0
+Court: Civil Rights Law covers LGBT workplace bias
+>> -0.375
+JAB snaps up Panera Bread for more than $7 billion
+>> 0.625
+N.J. woman enraged by 'fancy white people' attacks man, Porsche with hammer: cops
+>> -1.05
+Death Behind Bars: Reno jail inmates dying from suicide, accidents and homicide
+>> 0.21250000000000002
+California Senate Passes 'Sanctuary State' Bill
+>> 0.25
+Strangers living a mile apart discover they’re sisters
+>> -0.5
+Israeli firm to provide drinking water — from the air — for India and Vietnam
+>> 0.25
+Fate of Jehovah's witnesses existence on the line in Russia
+>> -0.25
+Guatemalans deliberately infected with STDs sue Johns Hopkins University for $1bn
+>> 0.625
+Russian Supreme Court Considers Outlawing Jehovah's Witness Worship
+>> 0.666666667
+Anger as Berlin refuses to light Brandenburg Gate in Russian colors after attack
+>> -0.0625
+California Senate OKs statewide immigrant sanctuary bill
+>> 0.0
+Israel appoints its first female Muslim diplomat
+>> 0.0
+Uber is '5,000 times worse than Google's Waymo at self-driving cars'
+>> 0.458333333
+Judge blocks Seattle law allowing Uber, Lyft drivers to unionize - CNET
+>> 0.0
+Private payrolls grew 263K in March vs. 185K est.: ADP
+>> -0.125
+Hackers Are Emptying ATMs With a Single Drilled Hole and $15 Worth of Gear
+>> 0.125
+Russia: 'chemical attack' on Syrian town was caused when Syrian planes bombed rebel weapons depot, causing gas leak
+>> -0.125
+Millions in Southeast at risk of high winds, tornadoes and large hail
+>> 0.15000000000000002
+A new Impossible Foods factory will produce 1 million pounds of 'meat' per month
+>> -0.125
+More Trouble at Fox News: Ailes Faces New Sexual Claims and O’Reilly Loses Two Advertisers - NYTimes.com
+>> 0.65625
+Chicago Facebook Live sex assault: Teen suspect's mother turns him in
+>> 0.738095238
+Alberta rushed $10-million grant, eliminated ethical oversight, for unproven health program
+>> 1.3125
+Man who had legs amputated after possible spider bite may lose arms.
+>> 0.354166667
+Lonely Engineer Builds, Marries Robot - Geek.com
+>> -0.3125
+Forgotten inmate prompts state warning
+>> 0.0
+Alabama to rule on legality of teachers having sex with students if both are of legal age
+>> 0.5
+Owasso Officer Found Not Guilty Of Excessive Force
+>> -0.3125
+No End in Sight to NYC Commute Horror: 8/21 Tracks Still Unusable
+>> -1.229166666
+Mercedes-Benz Pulls 'O'Reilly Factor' Ads Following Sexual Harassment Controversy
+>> 0.125
+Border wall bids include tourist attraction, solar panels
+>> -0.125
+EU to cut gas dependency on Russia with Israel pipeline
+>> 0.125
+Civil Rights Act Protects Gay Workers, Court Rules
+>> -0.04166666699999999
+Trump signs repeal of U.S. broadband privacy rules
+>> 0.5
+Boy loses arm after being mauled by family’s wolf hybrids
+>> -0.125
+Louisiana death row inmates sue over 'extreme' use of solitary confinement
+>> -0.395833333
+Woman serving life for collar bomb robbery dies in prison
+>> -0.8400000000000001
+Manchester ‘crucifixion’ fundraiser cancelled as clergy calls it blasphemous
+>> -0.625
+Drunken driver gets prison in fatal crash; mom had done same
+>> 1.125
+Slain Toronto doctor Elana Fric-Shamji’s husband assaulted her weeks before killing: court documents
+>> 0.0
+Stinky cooking odours constitute a crime, Italy's supreme court rules
+>> -0.208333333
+Woman found wet, mostly naked - says she is a mermaid
+>> 0.5
+Manhunt Intensifies After Texas Deputy County Constable Shot Dead Outside Courthouse
+>> -0.95
+Son accused of killing his father
+>> -0.25
+Marvel boss says some retailers are blaming sales fall on diverse characters
+>> 0.875
+Midland, Texas doctor charged with sexual assault of a child
+>> 0.75
+Miami-Dade police officer accused of beating wife after attending comedy show
+>> 0.125
+Atleast 58 killed in 'chemical attack' in Syria
+>> -0.75
+Charges: Homeless man rapes St. Paul woman who let him stay in home
+>> -1.0
+Internet slams Pepsi, Kendall Jenner after ad employs protest imagery
+>> 0.0
+Worst Chemical Attack in Years in Syria; U.S. Blames Assad
+>> -1.125
+'Those kids loved their mom,' family grieves for Richmond mother
+>> 0.625
+Justin Trudeau: Robots are going to steal some jobs, but Canada has a plan to help
+>> 0.291666667
+Baltimore cop accused of sexting teen acquitted on Md. charges
+>> 0.125
+Oil hits one-month high near $55 on tighter supplies
+>> 0.15000000000000002
+Here’s How They Play Monopoly in America, and Who Wins
+>> 0.5

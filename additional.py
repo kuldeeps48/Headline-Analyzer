@@ -1349,7 +1349,7 @@ Dict = {"epic": "1", "good": "0.639423077", "upright": "1", "fortunate": "0.9583
         "promiscuity": "0.25", "prominence": "0.25", "prolificacy": "0.25", "prolate": "0.25", "project": "0.25",
         "prodigy": "0.25", "prodigality": "0.25", "procession": "0.25", "processing": "0.25", "privy": "0.25",
         "privily": "0.25", "privateness": "0.25", "privacy": "0.25", "priodontes": "0.25", "princedom": "0.25",
-        "primogeniture": "0.25", "primarily": "0.25", "priest doctor": "0.25", "pridefulness": "0.25", "pricy": "0.25",
+        "primogeniture": "0.25", "primarily": "0.25", "priest":"0.25", "doctor": "0.25", "pridefulness": "0.25", "pricy": "0.25",
         "pricker": "0.25", "pricey": "0.25", "priceless": "0.25", "prevent": "0.25", "presumptuous": "0.25",
         "pressed": "0.25", "presidency": "0.25", "prepossess": "0.25", "prepared": "0.25", "preoccupied": "0.25",
         "preform": "0.25", "preeminently": "0.25", "preeminent": "0.25", "predestine": "0.25", "predestinate": "0.25",
@@ -1390,7 +1390,7 @@ Dict = {"epic": "1", "good": "0.639423077", "upright": "1", "fortunate": "0.9583
         "ornamental": "0.25", "orientation": "0.25", "orgasm": "0.25", "organically": "0.25", "organic": "0.25",
         "optimistic": "0.25", "optimism": "0.25", "opportune": "0.25", "opinionative": "0.25", "opinionated": "0.25",
         "operational": "0.25", "openhearted": "0.25", "open eyed": "0.25", "opaqueness": "0.25", "oospore": "0.25",
-        "oomph": "0.25", "ontology": "0.25", "onomasticon": "0.25", "one on one": "0.25", "on": "0.25",
+        "oomph": "0.25", "ontology": "0.25", "onomasticon": "0.25", "one on one": "0.25",
         "omniscient": "0.25", "oligosaccharide": "0.25", "oligocene": "0.25", "oldish": "0.25", "old womanish": "0.25",
         "old maidish": "0.25", "off hand": "0.25", "oed": "0.25", "odds on": "0.25", "odd pinnate": "0.25",
         "obviating": "0.25", "obtrusiveness": "0.25", "obsessed": "0.25", "obsess": "0.25", "obsequious": "0.25",
@@ -4057,5 +4057,5 @@ Dict = {"epic": "1", "good": "0.639423077", "upright": "1", "fortunate": "0.9583
         "son in law": "0.2", "blast": "-0.2"
     , "terror": "-0.5", "attacks": "-0.2", "hope": "0.2", "inaugurate": "0.25", "inaugurates": "0.25",
         "no negative": "0.3", "look out": "0.2", "win": "0.5", "wins": "0.5", "propose": "0.15", "proposes": "0.15",
-		"elopes": "-0.4",
+		"elopes": "-0.4", "tears of joy": "0.25"
         }

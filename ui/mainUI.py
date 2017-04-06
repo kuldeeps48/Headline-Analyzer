@@ -77,8 +77,52 @@ class Ui_window(object):
         self.customScoreLabel.show()
         QApplication.processEvents()  # redraw UI
 
+    def extractAllAndCompare(self):
+        names = ["times of india", "the hindu", "guardian", "new york times", "google news", "cnn",
+                 "reddit news", "reddit world news", "telegraph", "bbc"]
+
+        outputfiles = ""
+        self.customScoreLabel.hide()
+        import datetime, os
+        today = str(datetime.date.today())
+        directory = "./data/allFiles/" + today
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+        storageFile = directory + "/allValueFiles.txt"
+        # if not os.path.exists(storageFile):
+        e = multiprocessing.Event()  # To synchronize
+        queue = multiprocessing.Queue()  # To get score file from threaded process
+        from multiprocessing.dummy import Pool as ThreadPool
+        from itertools import repeat
+        pool = ThreadPool(4)
+        results = pool.starmap_async(extractorRunner.runScrapper, zip(names, repeat(e), repeat(queue)), chunksize=1)
+        while not results.ready():
+            self.extractingAllLabel.setText(_fromUtf8(
+                "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt;font-family:'Lucida Calligraphy';\
+                font-weight:600; color:black;\">\
+                 Extracting And Analyzing All Sources: " + str(
+                    10 - results._number_left) + "/10<u></u></span></p></body></html>"))
+            self.extractingAllLabel.show()
+            QApplication.processEvents()
+        pool.close()
+        pool.join()
+        self.extractingAllLabel.hide()
+
+        for i in range(10):
+            outputfiles += " " + queue.get()
+
+        with open(storageFile, "w") as temp:
+            temp.write(outputfiles)
+
+        QApplication.processEvents()
+        # Show comparision graph
+        outputProcess = subprocess.Popen("python -m ui.comparingAll " + storageFile)
+        outputProcess.wait()
+        QApplication.processEvents()
+
     # function to call after entering custom headline
     def start_call(self):
+        self.customScoreLabel.hide()
         headline = self.lineEdit.text()
         file = "./data/custom.txt"
         with open(file, "w") as f:
@@ -115,6 +159,7 @@ class Ui_window(object):
         self.customScoreLabel.setWordWrap(True)
         self.customScoreLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.customScoreLabel.setObjectName(_fromUtf8("customScoreLabel"))
+        self.customScoreLabel.show()
         QApplication.processEvents()
 
     def setupUi(self, window):
@@ -240,6 +285,20 @@ class Ui_window(object):
         self.line.setFrameShape(QtGui.QFrame.HLine)
         self.line.setObjectName(_fromUtf8("line"))
 
+        # Extract all and conclude button
+
+        self.extractAllButton = QtGui.QPushButton(window)
+        self.extractAllButton.setGeometry(QtCore.QRect(250, 428, 300, 30))
+        self.extractAllButton.setStyleSheet(_fromUtf8("color:grey; font-size:14pt; font-weight:600; background:#a8ffe9; \
+                                                         font-family:'Lucida Calligraphy';border-style: outset;\
+                                                         border-width: 2px;border-radius: 15px;border-color:grey;\
+                                                        padding: 4px;"))
+        self.extractAllButton.setAutoDefault(True)
+        self.extractAllButton.isCheckable()
+        self.extractAllButton.setText("Extract All And Compare")
+        self.extractAllButton.setObjectName(_fromUtf8("extractAllButton"))
+        self.extractAllButton.clicked.connect(self.extractAllAndCompare)
+
         # Text Input Box
         self.lineEdit = QtGui.QLineEdit(window)
         self.lineEdit.setGeometry(QtCore.QRect(20, 470, 671, 61))
@@ -266,9 +325,20 @@ class Ui_window(object):
         self.pushButton_11.clicked.connect(self.start_call)
 
         # Information labels
+        """
         self.customScoreLabel = QtGui.QLabel(window)
         self.buildingOutputLabel = QtGui.QLabel(window)
-
+        self.extractingAllLabel = QtGui.QLabel(window)
+        self.extractingAllLabel.setGeometry(QtCore.QRect(130, 530, 600, 55))
+        self.extractingAllLabel.setAutoFillBackground(False)
+        self.extractingAllLabel.setStyleSheet(_fromUtf8("background:transparent;"))
+        self.extractingAllLabel.setFrameShadow(QtGui.QFrame.Plain)
+        self.extractingAllLabel.setTextFormat(QtCore.Qt.RichText)
+        self.extractingAllLabel.setAlignment(QtCore.Qt.AlignCenter)
+        self.extractingAllLabel.setWordWrap(True)
+        self.extractingAllLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
+        self.extractingAllLabel.setObjectName(_fromUtf8("extractingAllLabel"))
+        """
         self.retranslateUi(window)
         QtCore.QMetaObject.connectSlotsByName(window)
 
