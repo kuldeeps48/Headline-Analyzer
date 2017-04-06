@@ -82,7 +82,7 @@ class Ui_window(object):
                  "reddit news", "reddit world news", "telegraph", "bbc"]
 
         outputfiles = ""
-
+        self.customScoreLabel.hide()
         import datetime, os
         today = str(datetime.date.today())
         directory = "./data/allFiles/" + today
@@ -122,6 +122,7 @@ class Ui_window(object):
 
     # function to call after entering custom headline
     def start_call(self):
+        self.customScoreLabel.hide()
         headline = self.lineEdit.text()
         file = "./data/custom.txt"
         with open(file, "w") as f:
@@ -158,6 +159,7 @@ class Ui_window(object):
         self.customScoreLabel.setWordWrap(True)
         self.customScoreLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.customScoreLabel.setObjectName(_fromUtf8("customScoreLabel"))
+        self.customScoreLabel.show()
         QApplication.processEvents()
 
     def setupUi(self, window):
@@ -284,7 +286,7 @@ class Ui_window(object):
         self.line.setObjectName(_fromUtf8("line"))
 
         # Extract all and conclude button
-        """
+
         self.extractAllButton = QtGui.QPushButton(window)
         self.extractAllButton.setGeometry(QtCore.QRect(250, 428, 300, 30))
         self.extractAllButton.setStyleSheet(_fromUtf8("color:grey; font-size:14pt; font-weight:600; background:#a8ffe9; \
@@ -296,7 +298,7 @@ class Ui_window(object):
         self.extractAllButton.setText("Extract All And Compare")
         self.extractAllButton.setObjectName(_fromUtf8("extractAllButton"))
         self.extractAllButton.clicked.connect(self.extractAllAndCompare)
-        """
+
         # Text Input Box
         self.lineEdit = QtGui.QLineEdit(window)
         self.lineEdit.setGeometry(QtCore.QRect(20, 470, 671, 61))
@@ -323,6 +325,7 @@ class Ui_window(object):
         self.pushButton_11.clicked.connect(self.start_call)
 
         # Information labels
+        """
         self.customScoreLabel = QtGui.QLabel(window)
         self.buildingOutputLabel = QtGui.QLabel(window)
         self.extractingAllLabel = QtGui.QLabel(window)
@@ -335,7 +338,7 @@ class Ui_window(object):
         self.extractingAllLabel.setWordWrap(True)
         self.extractingAllLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.extractingAllLabel.setObjectName(_fromUtf8("extractingAllLabel"))
-
+        """
         self.retranslateUi(window)
         QtCore.QMetaObject.connectSlotsByName(window)
 

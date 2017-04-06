@@ -13,7 +13,7 @@ def drawSplash():
     splash.setMask(splash_pix.mask())
     splash.show()
     # Simulate something that takes time
-    time.sleep(2)
+    time.sleep(3)
 
 
 if __name__ == "__main__":
