@@ -1,0 +1,136 @@
+Nunes steps down from US election Russian hacking probe
+>> 0.071428571
+Republicans go 'nuclear' to ram through Trump court nominee
+>> -0.375
+Syria chemical 'attack': Father mourns twins Aya and Ahmed
+>> -0.5
+China's President Xi Jinping arrives in Florida for Trump talks
+>> 0.375
+Syria chemical 'attack': Damascus attaches conditions to UN inquiry
+>> -0.25
+Hitler colouring book removed by Dutch shop after outrage
+>> -0.125
+Facebook to tackle fake news with educational campaign
+>> -0.08333333300000001
+French election: Francois Fillon hit with flour
+>> 0.375
+St Petersburg metro attack: Russia police arrest eight
+>> -0.25
+California murder suspect Tiffany Li raises $65m bail
+>> -0.75
+South China Sea: Philippines' Duterte sends troops to unoccupied islands
+>> -0.125
+Thailand king signs constitution paving way for polls
+>> 0.0
+Mother 'threw anorexic daughter's body into the sea'
+>> -0.25
+US TV shows face writers' strike threat
+>> -0.5
+Mar-a-Lago: The price of Trump's 'Winter White House'
+>> 0.25
+From Pepsi to Nivea: Some of the worst advertising fails
+>> -0.25
+Is Russia clamping down on Jehovah Witnesses?
+>> 0.071428571
+Why did Pepsi ad create such a row?
+>> 0.625
+Is Pokemon Go helping stop suicide at hotspot in Japan?
+>> -0.275
+Teenager tells of her growing leg collection
+>> 0.5
+The boy who recreated La La Land to ask Emma Stone to prom
+>> 1.0
+French election: Is online far right a threat to democracy?
+>> 0.0
+Father grieves for twins killed in Syria 'chemical attack'
+>> -0.125
+Aung San Suu Kyi: Transition from human rights heroine
+>> 0.5
+The country where 70% of millennials are homeowners
+>> 0.125
+Saving NZ flood victims on the back of a lorry
+>> -0.0625
+The jockey who raced again after reading his own obituary
+>> 0.0
+Is the humble Lada now a classic car?
+>> 0.5
+Masters 2017: Dustin Johnson pulls out in Augusta due to back injury
+>> 0.770833333
+County Championship: Leicestershire deducted 16 points on eve of season opener
+>> -0.125
+Jesse Lingard: Man Utd midfielder signs new Old Trafford deal
+>> 0.75
+Aintree 2017: Lizzie Kelly guides Tea For Two to victory
+>> 0.375
+Miguel Francis: Great Britain switch will help fulfil my potential
+>> 0.354166667
+Fernando Alonso denies claims he could leave McLaren-Honda mid-season
+>> -0.75
+China's President Xi Jinping arrives in Florida for Trump talks
+>> 0.375
+South China Sea: Philippines' Duterte sends troops to unoccupied islands
+>> -0.125
+Thailand king signs constitution paving way for polls
+>> 0.0
+Aung San Suu Kyi: No ethnic cleansing of Myanmar Muslim minority
+>> -1.2083333330000001
+New Zealand floods force evacuations after Tropical Storm Debbie
+>> 0.0625
+Huawei defeats Samsung in patent battle in China
+>> 0.9375
+Is Pokemon Go helping stop suicide at hotspot in Japan?
+>> -0.275
+Misbah-ul-Haq: Pakistan captain to retire from internationals after West Indies tour
+>> -0.25
+Australia warns of Anzac Day terror threat in Turkey
+>> -0.75
+Rockhampton: Homes in Australian city flooded as river peaks
+>> 0.1875
+India man held after postcard divorce
+>> 0.0
+Japanese castle seeks lord and lady for one night
+>> 0.0
+Pheromones may help foil reef-killing starfish
+>> 0.0625
+Pink Star diamond sets new world record in Hong Kong
+>> -0.125
+Floods force New Zealand residents to flee town
+>> 0.625
+How an Afghan amputee ended up playing for Arsenal
+>> 0.75
+Please get along, people tell presidents
+>> 0.75
+Ganges: The river that became a person
+>> 0.0
+Showdown looms
+>> -0.5
+'Cheriegate' conman
+>> 0
+A global icon, isolated
+>> -0.375
+Saving the Ganges
+>> 0.25
+Prime location
+>> 0.291666667
+Sweeping changes
+>> 0.3125
+Long struggle
+>> -0.4375
+Untouchable heir
+>> -0.5
+Place of refuge
+>> 0.375
+Toughing it out
+>> -0.375
+End of an art?
+>> 0.25
+In pictures
+>> 0.0
+Exploitative or empowering?
+>> 0.0
+'You may as well kill us'
+>> 0.341666667
+Pirate patrols
+>> 0.0
+Can a snake eat a human?
+>> -0.25

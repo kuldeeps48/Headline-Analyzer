@@ -325,9 +325,10 @@ class Ui_window(object):
         self.pushButton_11.clicked.connect(self.start_call)
 
         # Information labels
-        """
+
         self.customScoreLabel = QtGui.QLabel(window)
         self.buildingOutputLabel = QtGui.QLabel(window)
+        """
         self.extractingAllLabel = QtGui.QLabel(window)
         self.extractingAllLabel.setGeometry(QtCore.QRect(130, 530, 600, 55))
         self.extractingAllLabel.setAutoFillBackground(False)
