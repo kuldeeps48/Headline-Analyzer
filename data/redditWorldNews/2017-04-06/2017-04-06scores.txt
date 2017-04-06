@@ -1,0 +1,152 @@
+It’s now illegal in Russia to share an image of Putin as a gay clown
+>> -0.291666667
+U.S. coal companies ask Trump to stick with Paris climate deal
+>> 0.08333333300000001
+A gay couple in Osaka has become the first same-sex couple to be recognized as foster parents in Japan.
+>> 1.1458333330000001
+Turkey jails 30 more lawyers, bringing total to 400
+>> 0.0
+Russian lawmaker dead after allegedly slipping and hitting his head
+>> -1.075
+US-led coalition killed more Syrian civilians than Isis or Russia in March, figures show
+>> -0.25
+Syrian President Bashar al-Assad tells paper he sees no 'option except victory' in Syria
+>> -0.208333333
+Donald Trump 'won't discuss climate change' at meeting with Xi Jinping despite US and China being worst polluters
+>> 0.0
+First ever picture of a black hole could be taken within days, scientists say
+>> -0.116071429
+Russia attack: Loud explosion in St Petersburg residential building near where police raids uncovered explosives
+>> -0.0625
+Donald Trump says 'you'll see' when asked about America's Syria policy
+>> 0.291666667
+Russia Covering Up Assad's Poison Gas Use in Syria, Chemical Warfare Experts Claim
+>> -0.32499999999999996
+'I am angry. I will kill people': Rodrigo Duterte promises death for criminals in speech to kids
+>> -0.354166667
+SpaceX’s reused Falcon 9 rocket nail the landing a second time
+>> 0.8125
+U.S. To Lose $1.6B As Mexican Vacationers Choose Canada
+>> -0.5
+Russia Calls Syria Gas Attack A 'Monstrous Crime,' But Refuses To Trust U.S. Conclusions
+>> -0.32499999999999996
+Israel appoints its first female Muslim diplomat
+>> 0.0
+Hamas executes three Palestinians in Gaza, says they collaborated with Israel
+>> -0.2
+Russian authorities detain suspected accomplices of metro bomber: Ifax
+>> 0.25
+South Africa lifts ban on domestic rhino horn sales
+>> 0.0
+Macron and Le Pen clash during debate: 'You are saying the same lies that we've heard from your father for 40 years'
+>> 0.125
+Teen lost 19 family members in Syria chemical attack: 'I saw the explosion'
+>> -0.805555556
+Rep. Devin Nunes steps aside from Russia probe
+>> -0.625
+Congress Russian probe chief steps aside
+>> -0.25
+Germany to outlaw child marriages
+>> -0.08333333300000001
+Russia Protests Awakening: Alexei Navalny Shakes Up a Slumbering Russia
+>> 0.75
+LGBT activists organized a hotline offering assistance to those wishing to escape Chechnya
+>> 0.625
+Philippines to occupy and fortify Spratly islands it holds - The Washington Post
+>> 0.3125
+A father bids farewell to twin toddlers after Syria attack
+>> -0.125
+At least 70 people have been killed in a suspected chem attack on a rebel-held town in Syria
+>> -0.625
+Kurds 're-energize' independence referendum plan for post-jihadist Iraq
+>> 0.0
+British PM Refuses to Wear Headscarf in Riyadh Visit
+>> -0.625
+Gay men managed to escape Chechnya after torture reveal eerie details
+>> -0.591666667
+Turkish warplanes strike Kurdish militants, eight killed: governor
+>> -0.375
+Autopsy results from Syria attack to be examined in The Hague, Turkey says
+>> 0.125
+Israeli killed in Palestinian car ramming in West Bank: army
+>> -0.5
+Mar-a-Lago: The price of Trump's 'Winter White House' - BBC News
+>> 0.5
+Ketamine depression treatment 'should be rolled out' - BBC News
+>> 0.552083333
+ICE deports convicted Russian spy
+>> 0.0
+Putin’s ex-wife returns to the spotlight with a dashing young husband and a fancy French villa
+>> -0.125
+India will become permanent member of UN Security Council: Swaraj - Times of India
+>> 0.625
+Gay men being tortured and murdered in Chechen prisons, claim detainees
+>> -0.479166667
+eBay founder Pierre Omidyar commits $100m to fight 'fake news' and hate speech
+>> -1.3333333330000001
+Recent census shows 1 in 10 Irish people say they have no religion, a 73.6% increase since 2011
+>> -0.833333333
+Kremlin says Syrian gas attack 'unacceptable' but U.S. data on it not objective
+>> -1.59375
+European Parliament approved visa waiver for Ukraine
+>> 0.0
+Chairmen Nunes "temporarily stepping down" from Russia investigation
+>> -0.303571429
+Deported Isis suspect now planning court battle in bid to return to Ireland
+>> -0.125
+Postmortems confirm Syria chemical attack, Turkey says | World news
+>> -0.5
+Syria "chemical weapon" attack proven by autopsies Turkey says as Trump blames Assad regime
+>> 0.0
+St Petersburg metro attack: 'Bomb' found in city raid
+>> -0.125
+Cook Islands bans commercial fishing to protect whales and other marine life
+>> -1.75
+Hebrew University launches cannabis research center
+>> 0.0
+Death toll climbs from suspected chemical attack in Syria some world leaders calling "war crime"
+>> -0.8125
+Not enough mail in New Zealand, postal services deliver letters AND fried chicken
+>> 1.25
+South China Sea: Duterte orders Philippines military to occupy islands
+>> 0.8125
+Moroccan girl, 14, 'whipped by parents' Punished for acting too 'Western'
+>> 0.25
+The Italian mafia invests in restaurants and other businesses
+>> -0.25
+New Irish Census report reveals country that is older, less religious and speaks less Irish
+>> 0.5625
+Duterte orders Philippines military to occupy islands in South China Sea
+>> 0.8125
+World Health Organization: Syria chemical attack likely involved nerve agent
+>> -0.6875
+Israeli killed and another wounded in West Bank car-ramming attack
+>> -1.5
+4 US service members arrested over the weekend on Okinawa
+>> 0.0
+Trans women forced to go to army conscription in Thailand
+>> -0.375
+Hamas hails "heroic" ramming attack that killed Israeli in West Bank
+>> -0.0625
+Autopsy 'shows chemical weapons used in Syria attack'
+>> -0.25
+Syrian doctors describe treating children after suspected gas attack
+>> 0.0
+Angkor Wat’s Collapse From Climate Change Has Lessons for Today
+>> 0.125
+Nunes Recuses Himself From House Intelligence Russia Inquiry
+>> 0.375
+Nunes to Step Aside from House Intelligence Committee
+>> -0.5625
+St Petersburg metro attack: 'Bomb' found in city raid
+>> -0.125
+'Clearly a war crime': International community denounces chemical attack in Syria but fails to act
+>> -1.0833333330000001
+Thai king signs constitution, paving way for election
+>> 0.375
+Six in 10 people believe their lives will improve with autonomous vehicles
+>> 1.125
+Trump boosts coal as China takes the lead on climate change
+>> 0.625
+Germany devours book on Angela Merkel decision to open borders
+>> 0.25
