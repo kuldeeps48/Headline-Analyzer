@@ -1,0 +1,158 @@
+St Petersburg metro blast: 11 killed, dozens injured, metro system shut down
+>> -0.553571429
+Putin: 'We always consider all options'
+>> 0.5625
+Video: Bystanders rush to rescue trapped passengers
+>> 0.25
+Gallery: Panic and destruction at St. Petersburg station
+>> -0.5
+Terror expert: Russia bigger target than US
+>> 0.375
+Eyewitness recalls horror: 'Everyone expected death'
+>> -0.770833333
+Democrats try to oppose Trump's judge pick
+>> 0.0
+'Chaos president' needs course correction
+>> 0.25
+3 ways Trump could go it alone
+>> 0.0
+Trump's son-in-law travels to Iraq
+>> 0.0
+Russell Brand explains split with Katy Perry
+>> 0.625
+Comedian blasts white women who voted for Trump
+>> -0.375
+Golfer loses trophy after email from viewer
+>> -0.25
+Russian group hacked us, says athletics governing body
+>> 0.25
+Russia prank teases election interference
+>> 0.5
+Woman charged for filming maid's fall
+>> 0.208333333
+Opposition cries foul in Ecuador election
+>> -0.5347222220000001
+Federer to take 8-wk break after latest win
+>> 0.25
+There will be another global pandemic, experts say
+>> 0.25
+World's oldest university opens to public
+>> -0.125
+Britain's classic red telephone boxes get a makeover
+>> 0.8125
+Marathons linked to acute kidney injury, study says -- but it's temporary
+>> 0.08333333300000001
+Belgian altar boy goes to fight for ISIS, then returns on welfare
+>> 0.6875
+Learning, as an adult woman, you have autism
+>> -1.0
+Watch all light disappear into this material
+>> 0.270833333
+China bans Muslim beards and veils
+>> 0.5
+'Python fever': Hunting for snakes in the Everglades
+>> -0.375
+Steak, asparagus and silence? A Masters champion's perfect day
+>> 1.3333333330000001
+Death from a simple case of flu
+>> 0.8125
+Dinosaur skulls and mammoth tusks: Antique oddities target new collectors
+>> 0.6875
+Beer tastes different when you're in the air
+>> 0.625
+Michael D'Antonio: Ivanka and Jared's millions won't help them
+>> 0.0
+Dean Obeidallah: What Alec Baldwin gets wrong about his Trump impression
+>> -0.634615385
+David A. Andelman: President Trump, what's your endgame?
+>> 0.0
+Daniel Keating: Stress really is killing us
+>> 0.71875
+Timothy Stanley: Hillary Clinton, it's too soon
+>> -0.25
+No fees on International Payments
+>> -0.958333333
+Fix your Exchange Rates today with
+>> -0.25
+Buy and Sell in 33 currencies with
+>> 0.4375
+Thousands risk their lives to reach USA
+>> -0.25
+Raped 43,000 times, but fighting back
+>> 0.625
+Young Indian girls sold to sex tourists for sham marriages
+>> 1.0
+Canadian teenagers sold for sex
+>> 0.5
+Child predator caught by tiny clue in photo
+>> 0.25
+Girls drugged and sold as child brides
+>> 0.75
+Report: Unidentified device caused metro blast
+>> 0.0
+Emergency response to Russia metro blast
+>> 0.125
+Confusion on platform after Russia metro blast
+>> -0.25
+How ISIS is evolving
+>> 0.125
+Missing Tennessee student: From kissing allegation to manhunt
+>> -0.375
+Senate Dems reach filibuster threshold on Gorsuch setting up 'nuclear option' change
+>> -0.25
+Trump, Egypt's leader bond over terror fight
+>> -0.25
+Storm claims Mississippi woman making 911 call for help
+>> 0.625
+St. Petersburg metro explosion: 11 dead in Russia blast
+>> -0.2
+Tesla is worth more than Ford -- and GM is in sight
+>> 0.5
+When $65,000 a year for a drug is applauded
+>> 0.125
+Trump is right. Europe is getting its act together
+>> 1.211538462
+How my daughter died from a simple case of flu
+>> 0.5
+Russia: Metro passengers describe horrific scenes in St. Petersburg
+>> -0.75
+Fox News hit with new Ailes harassment suit in wake of O'Reilly bombshell
+>> 0.13124999999999998
+Tel Aviv's cool new lifeguard stand 'hotel'
+>> 0.15625
+Mike Epps apologizes for kangaroo incident
+>> -0.625
+Divisions remain when it comes to repealing Obamacare
+>> 0.0
+Hatch: 'Nuclear option' looks necessary to approve Gorsuch
+>> 0.0
+Donald Trump's Arab fantasy
+>> -0.25
+What Kate Hudson is reading this week
+>> 0.125
+Trump won't throw out a first pitch. But it isn't because he can't
+>> -0.708333333
+Lexi Thompson pays the price for TV viewer's intervention after misplacing ball-mark
+>> 0.75
+Trade changes could affect vital US medical devices made in Mexico
+>> 1.0
+Wife of Tennessee teacher accused of kidnapping wants divorce
+>> 0.125
+Russia attack: Live updates
+>> 0.071428571
+Steve Nash: NBA MVP race 'says more about voter than the players'
+>> 0.375
+The Senate is about to change forever
+>> 0.125
+Why Fox stock is immune to Bill O'Reilly scandal
+>> -0.15625
+Eric Schmidt Fast Facts
+>> 0.0
+Trump prepares for critical week of diplomacy
+>> -0.5
+NCAA Men's Basketball Tournament Fast Facts
+>> 0.0
+Bob Dylan Fast Facts
+>> 0.0
+Here's how senators plan to vote on Supreme Court nominee Neil Gorsuch
+>> 0.666666667

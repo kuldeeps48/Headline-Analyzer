@@ -1,0 +1,62 @@
+Aung San Suu Kyi: No ethnic cleansing of Myanmar Muslim minority
+>> -1.2083333330000001
+Is Pokemon Go helping stop suicide at hotspot in Japan?
+>> -0.275
+New Zealand floods force evacuations after Tropical Storm Debbie
+>> 0.0625
+Rockhampton: Homes in Australian city flooded as river peaks
+>> 0.1875
+North Korean missile fired ahead of US-China summit
+>> 0.25
+Taiwan announces submarine building ahead of Trump-Xi summit
+>> 0.0
+India man held after postcard divorce
+>> 0.0
+Pakistan blast: Lahore census team hit by suspected suicide bombing
+>> -0.6000000000000001
+Malaysia MP: 'Ok for rape victims to marry their rapists'
+>> 0.0
+Man loses legs to flesh-eating bug in Australia
+>> -0.5
+India probe after 'cow vigilantes kill Muslim man'
+>> -0.625
+Pink Star diamond sets new world record in Hong Kong
+>> -0.125
+Dolphins 'shake and toss' octopus prey, research finds
+>> 1.125
+What American and Chinese people want
+>> 0.25
+Ganges: The river that became a person
+>> 0.0
+'Electronic skin' to monitor your health
+>> 0.5
+Five flashpoints of US-China trade
+>> 0.5
+Showdown looms
+>> -0.5
+Saving the Ganges
+>> 0.25
+Prime location
+>> 0.291666667
+Sweeping changes
+>> 0.3125
+Long struggle
+>> -0.4375
+Untouchable heir
+>> -0.5
+Place of refuge
+>> 0.375
+Toughing it out
+>> -0.375
+End of an art?
+>> 0.25
+In pictures
+>> 0.0
+Exploitative or empowering?
+>> 0.0
+'You may as well kill us'
+>> 0.341666667
+Pirate patrols
+>> 0.0
+Can a snake eat a human?
+>> -0.25
