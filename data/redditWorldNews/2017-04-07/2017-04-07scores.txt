@@ -1,0 +1,170 @@
+Vehicle driven into people in Stockholm - BBC News
+>> 0.25
+US military has launched more than 50 missiles aimed at Syria
+>> 0.25
+Twitter is suing the US government over a demand to unmask the people behind an anti-Trump account
+>> 0.75
+Kremlin says U.S. strike on Syria is "aggression against sovereign state in violation of international law"
+>> 0.125
+#SAunites LIVE: Protests gathering momentum across SA
+>> 0.446428571
+The US warned the Russians ahead of Syria missile strikes: Official
+>> -0.375
+Man hailed by Donald Trump as an 'excellent journalist' labels Syrian chemical attack a 'false flag' operation
+>> 0.5
+Anti-Zuma protests across South Africa - BBC News
+>> -0.125
+Trump says ready to act alone on North Korea
+>> 0.5
+Rep. Devin Nunes steps aside from Russia probe
+>> -0.625
+UK government 'fully supports' US air strike in Syria
+>> 0.375
+Scientists say they have detected an atmosphere around an Earth-like planet for the first time.
+>> -0.25
+Kremlin says strikes do significant damage to US-Russia ties: Report
+>> -0.625
+Second attack on Syrian town hit by chemical weapons reported after Trump strikes in Idlib
+>> -0.125
+Vladimir Putin says US missile strike on Syria is act of "aggression" and "violation of international law"
+>> -0.625
+Russia warns of 'negative consequences' if U.S. targets Syria
+>> -0.78125
+US air strikes in Syria: Russia suspends agreement that prevents direct conflict with American forces
+>> -0.458333333
+President Trump calls on "civilised nations" to join US in "seeking to end the slaughter and bloodshed in Syria"
+>> 0.0
+Scotland could leave the UK, and join Canada instead, says author - BBC News
+>> -0.375
+World's First: After Decriminalizing Weed, Israel Creates a Buzz With New Marijuana Research Center
+>> -0.625
+Congressman: 'I don't think' Assad is behind Syria attack
+>> 0.5
+Second attack on Syrian town hit by chemical weapons reported after Trump strikes in Idlib
+>> -0.125
+Russia's cruise missile-armed frigate heading for Syria’s Tartus
+>> -0.25
+France issues warning against military action in Syria
+>> -0.375
+US hints at military action to retaliate against Assad
+>> -0.25
+ISIS confirms death of American media maven, FBI “Most Wanted Terrorist”
+>> 0.0625
+US air strikes: Nigel Farage turns on Donald Trump over Syria bombings
+>> -0.175
+'Jacob Zuma must step down' - Durban protesters
+>> -0.616071429
+ISIS used US missile strike to launch new offensive near Palmyra, Homs governor tells RT
+>> -0.321428571
+Russia's Supreme Court has upheld the decision of a Russian city to ban Jehovah's Witnesses as an extremist group.
+>> 1.4166666669999999
+US military warned Russia 1 hour before launching airstrikes
+>> -0.5
+Strike on Syria. Reactions by world leaders.
+>> -0.375
+Killing of Orcas in Front of Tourists Could Spell End of Whaling for Island Nation
+>> 0.0
+Vladimir Putin says US air strikes on Syria army 'illegal' and badly damage relations with Russia
+>> -1.069444444
+Malcolm Turnbull hints Australia may be joining US strike on Assad regime
+>> 0.125
+Chechnya’s Proof There’s No Gay Purge: "You cannot arrest or repress people who just don’t exist in the republic."
+>> -0.33928571400000007
+Eyewitness says Syrian Military anticipated U.S. raid
+>> -0.125
+Artwork Nazis stole in WWII returning to Jewish owner's heir
+>> 0.0
+Philippine President Orders Military to Seize Islands in South China Sea
+>> 0.125
+South Africans protest against Zuma; violence hits Johannesburg
+>> 0.0
+Russia may abandon International Space Station to join forces with China
+>> -0.4375
+The Latest: Germany and France say Assad brought on attack
+>> -0.25
+Putin Calls U.S. Syria Strike Aggression, Stops Air Cooperation
+>> 0.125
+UK to unmask owners of expensive houses bought via offshores
+>> 0.5
+US strike kills 9 civilians, 4 children — Syria state media
+>> 0.0
+Video of aftermath of Syria gas attack staged, Russian Foreign Ministry says
+>> -1.0
+Trump accept's Xi's invitation to visit China: Xinhua
+>> 1.1875
+Oil prices leap after U.S. missile strike on Syria
+>> 0.0
+Russia Suspends Agreement That Prevents Direct Conflict With American Forces
+>> -0.333333333
+Female Tehran marathon participants forced to run on inside track, apart from the male runners.
+>> -0.5
+Seoul Test-Fires Ballistic Missile Capable Of Hitting Pyongyang
+>> 0.0
+Mobile footage of missile strike in Syria
+>> -0.125
+Putin slams 'trumped-up' US strike against Syria
+>> -0.5
+Russia challenges Trump to say what he would do about Syria
+>> -0.375
+ISIS swoops after Donald Trump Syria missile strike with attack 20 miles away
+>> -0.708333333
+Russia says it is suspending deal with U.S. to prevent mid-air incidents over Syria in response to US strike
+>> 0.0
+U.S. missile strikes at Syria base 'in violation of international law': Putin
+>> -1.09375
+19 years old killed during opposition protests in Venezuela
+>> -0.5625
+US says no role for Assad following gas 'attack'
+>> -0.583333333
+Syria claims US air strike killed seven people, including four children
+>> -0.25
+Russia says US air strikes in Syria came 'within an inch' of military clash with their forces
+>> -0.125
+Syria war: Russia condemns US missile strike on 'chemical weapons' base .
+>> -0.34375
+Stockholm attack has been linked to terror
+>> -1.25
+Polish law change unleashes 'massacre' of trees
+>> 0.375
+Russia suspends agreement that prevents direct conflict with American forces
+>> -0.333333333
+Russian military posts drone footage of aftermath of US strike on Syria
+>> -0.25
+Syrian opposition rejoices over US air strike on Assad regime airbase
+>> -0.3125
+Anti-Zuma protesters make their voices heard around SA
+>> -0.145833333
+Japan backs US ‘resolve’ on Syria: Shinzo Abe
+>> 0.375
+Attempt to smuggle anti-aircraft cannon into Poland foiled
+>> -0.625
+‘Another Neo-Con puppet’: Trump’s former backers jump ship after Syria airstrike
+>> 0.09375
+Trump tipped off Australia before launching missile strike
+>> -0.6
+Westminster attack: woman who fell from bridge dies of injuries
+>> 0.4099999999999999
+Russia Calls Syria Gas Attack A 'Monstrous Crime,' But Refuses To Trust U.S. Conclusions
+>> -0.32499999999999996
+Arabs praise 'Abu Ivanka' aka Trump for Syria strike
+>> -0.125
+World leaders react to US missile strike in Syria
+>> -0.625
+Fifth Westminster attack victim dies
+>> 0.15999999999999992
+Oil prices leap after U.S. missile strike on Syria
+>> 0.0
+Russia suspends flight safety memorandum over Syria after US missile strike – Foreign Ministry
+>> -0.375
+Syrians who have lived under Assad’s bombs celebrate US missile strike
+>> -0.625
+British DJ sentenced to year in Tunisian jail for Muslim call to prayer remix
+>> 0.25
+Russia recognizes western Jerusalem as Israel’s capital, eastern Jerusalem for Palestinian state
+>> 0.25
+Russia Launches First Central American Satnav System in Nicaragua
+>> 0.0
+Syria army says six dead in US missile strike
+>> -0.44999999999999996
+Legally grown pot to be sold over counter in Uruguayan drug stores
+>> 1.0625
