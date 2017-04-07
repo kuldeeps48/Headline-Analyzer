@@ -1,8 +1,7 @@
 **`College project: Analysis of news headline using SentiWordNet`**
 
 
-For a demo of current stage: 
-- Open project in PyCharm IDE or run with `python3 main.py` command.
+- Open run with `python3 main.py` command.
 - Read `requirements.txt`. Download required dependencies. 
 - Run `main.pyw ` inside PyCharm
 - 5 sources (Guardian, Google news, Reddit, Worldnews,
