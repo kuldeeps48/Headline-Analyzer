@@ -1,0 +1,196 @@
+Jhelum recedes in south Kashmir
+>> 0.0
+Chidambaram reacts to Tarun Vijay’s remarks
+>> 0.0
+German national attacked in Delhi
+>> 0.25
+Kamal Haasan narrowly escapes fire tragedy
+>> -0.625
+Bangladesh PM Sheikh Hasina accorded ceremonial welcome
+>> 0.625
+Indian shot dead in Washington robbery
+>> -1.2
+Vellore CMC doctors perform life-saving surgery on unborn baby
+>> 0.125
+Delay in Dugarajapatnam port work resented
+>> -0.375
+Children watched parents burn
+>> -0.125
+‘Dhinakaran used two PAN cards’
+>> 0.0
+OPS’ son, brother seek bail
+>> 0.0
+Complaint against coffin campaign
+>> -0.3125
+DMK promises probe into Jaya’s death
+>> -0.3125
+People will vote as per their conscience: DMK candidate
+>> 0.375
+Rail zone: Konathala files PIL in High Court
+>> 0.4
+TU-142M to reach City of Destiny today
+>> 0.125
+Telemedicine centres launched in State
+>> 0.25
+Nara Lokesh assumes office
+>> 0.0
+Architecture students get curious about Amaravati plan impact
+>> -0.125
+‘We have been over-regulated, under-governed’
+>> -0.375
+26 PFI activists granted bail
+>> -0.25
+Four sentenced under POCSO Act in Yadgir
+>> 0.0
+Encroachment clearance drive begins in Dharwad
+>> -0.03125
+Health of ‘patients’ stumps MCI team
+>> 0.5
+Rumble strips: Illegal as well as unhealthy
+>> -0.283333333
+Persistance pays for this multiple gold medallist
+>> 0.0
+HC asks State to look into plea on minority commission
+>> 0.375
+Transgenders eager to don the police uniform
+>> 0.625
+Unseasonal rain, gusty winds wreak havoc in Gurmitkal
+>> -0.5
+It was a sea of humanity at Nanjangud
+>> 0.5
+A versatile actor gets her due, finally
+>> 1.0625
+‘Difficult to meet BS-VI deadline’
+>> 0.0
+Flood situation eases in Kashmir
+>> -0.3125
+AIADMK mouthpiece takes BJP head-on
+>> -0.75
+Dhinakaran sees political conspiracy behind I-T raids
+>> -0.375
+Rajasthan explains its actions post-lynching
+>> 0.125
+Drop Health Minister from Cabinet: Stalin
+>> 0.625
+Panel’s directive on ‘Two Leaves’ symbol
+>> 0.125
+Khan died of injuries on chest, abdomen
+>> -0.625
+Sheikh Hasina to raise water sharing with Narendra Modi
+>> 0.125
+Security arrangements in place for polling tomorrow
+>> 0.75
+‘Depression a major issue among youth’
+>> 0.75
+Mysurean wins arm wrestling title
+>> 0.5
+Resort at Hodachahalli closed
+>> -0.0625
+Four films from Karnataka bag five national awards
+>> 0.0
+Coconut, jaggery sales hit by stir
+>> -0.475
+CRS nod for electric trains on Ramanagaram-Mandya section
+>> 0.25
+‘Dalits will not support fascist forces’
+>> -0.125
+Vaccination drive inaugurated
+>> 0.46875
+Kollywood hits a six at National Film Awards
+>> 0.0
+Communal tension hit for a six in Udupi
+>> -0.3125
+Govt. favours booth-wise counting of votes in polls
+>> 0.5625
+Tarun causes stir with racist remark
+>> -0.22499999999999998
+Rs. 141.13 cr. in new notes seized by I-T Dept., ED
+>> -0.875
+Cong. keen to cash in on GST
+>> -0.125
+BJP Kisan Morcha hails farm loan waiver in U.P.
+>> 0.0
+Opposition seeks apology from Naqvi
+>> -0.9375
+Gundlupet’s loyalty to its sitting MLAs
+>> -0.8125
+BJP lodges complaint against Laxmi Hebbalkar
+>> -0.3125
+Raucous campaigning comes to a close
+>> -0.5
+Karnataka byelections: Contest is between Siddaramaiah, Yeddyurappa
+>> 0.375
+SC seeks response on plea for reining in cow vigilantes
+>> -0.25
+We owe no legal duty to offer a grace period: Centre tell Supreme Court on demonetisation
+>> 0.15833333399999994
+Ken-Betwa link hits green hurdle
+>> -0.333333333
+Trinamool MP delays AI flight
+>> 0.375
+Curb violence on Rohingyas, India tells Myanmar
+>> 0.0
+There are glaring inequities in our social system, says Ashwani Kumar
+>> 0.3125
+Rising mercury sinks tourism sector
+>> 0.25
+North India to get DNA bank for wildlife
+>> 0.125
+BJP links Lalu kin to land scam
+>> -0.125
+‘Beti Bachao Beti Padhao failed in J&K’
+>> -0.75
+Marathi cinema hogs the spotlight
+>> 0.0
+Beggars, Lamanis, spoiling Goan culture: Minister
+>> 0.375
+‘A.P. indulging in misinformation campaign against TS project’
+>> -0.125
+Naidu gets warm reception in Warangal
+>> 0.875
+Arookutty utilises 100% Plan funds
+>> 0.0
+Vallal Alagappar Museum declared open
+>> 0.0625
+Kerala seeks more timeto implement liquor ban
+>> -0.25
+Olive Ridley hatchlings released into sea
+>> -0.125
+Freed fishermen reach home
+>> 0.625
+UP loan waiver: BJP farmers’ cell takes swipe at Patel
+>> 0.375
+EC inquiry committee finds no fault with Bhind VVPAT
+>> -0.614583333
+Avishna’s health condition worsens
+>> 1.0
+All-women team digs deep, finds success
+>> 1.1875
+‘Getting compensation for drowned fishermen should be made easy’
+>> 0.25
+Court grants CB custody of TV scribes
+>> 0.0
+Spending curbs no solutionto tackle revenue shortfall
+>> -0.333333333
+EC might need over 16 lakh paper trail machines for 2019 polls
+>> 0.125
+Farm policies must benefit farmers, says scientist
+>> 0.375
+No estimates of undeposited black money in old notes: government
+>> -0.199404762
+Tarun Vijay lands in trouble with 'black people' remarks, later apologises on Twitter
+>> -0.553571429
+Dalai Lama reaches Tawang, to start religious discourses
+>> -0.375
+Air India lifts ban on Shiv Sena MP Ravindra Gaikwad
+>> 0.0
+Police used door mats to save couple set afire as people were unwilling to help
+>> 0.5
+Tax evasion of more than Rs 1.37 lakh crore detected in last three years
+>> 0.25
+Police looking for 10 more ‘cow vigilantes’ in Alwar case
+>> 0.0
+Mid-air collision averted at Delhi airport
+>> 0.0
+Mob set afire couple alleging sorcery
+>> -0.125
