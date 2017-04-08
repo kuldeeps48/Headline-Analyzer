@@ -286,7 +286,7 @@ class Ui_window(object):
         self.line.setObjectName(_fromUtf8("line"))
 
         # Extract all and conclude button
-
+        """
         self.extractAllButton = QtGui.QPushButton(window)
         self.extractAllButton.setGeometry(QtCore.QRect(250, 428, 300, 30))
         self.extractAllButton.setStyleSheet(_fromUtf8("color:grey; font-size:14pt; font-weight:600; background:#a8ffe9; \
@@ -298,7 +298,7 @@ class Ui_window(object):
         self.extractAllButton.setText("Extract All And Compare")
         self.extractAllButton.setObjectName(_fromUtf8("extractAllButton"))
         self.extractAllButton.clicked.connect(self.extractAllAndCompare)
-
+        """
         # Text Input Box
         self.lineEdit = QtGui.QLineEdit(window)
         self.lineEdit.setGeometry(QtCore.QRect(20, 470, 671, 61))
@@ -328,7 +328,6 @@ class Ui_window(object):
 
         self.customScoreLabel = QtGui.QLabel(window)
         self.buildingOutputLabel = QtGui.QLabel(window)
-        """
         self.extractingAllLabel = QtGui.QLabel(window)
         self.extractingAllLabel.setGeometry(QtCore.QRect(130, 530, 600, 55))
         self.extractingAllLabel.setAutoFillBackground(False)
@@ -339,7 +338,6 @@ class Ui_window(object):
         self.extractingAllLabel.setWordWrap(True)
         self.extractingAllLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.extractingAllLabel.setObjectName(_fromUtf8("extractingAllLabel"))
-        """
         self.retranslateUi(window)
         QtCore.QMetaObject.connectSlotsByName(window)
 

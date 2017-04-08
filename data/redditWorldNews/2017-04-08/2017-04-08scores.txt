@@ -1,0 +1,154 @@
+14,000-year-old village unearthed on B.C. island by UVic student. Oldest Settlement in North America.
+>> 0.25
+Bolivia UN Envoy on Syria Attack: 'History Teaches Us' US Lies to Justify Wars
+>> -0.125
+Vehicle driven into people in Stockholm - BBC News
+>> 0.25
+Syrian jets take off from air base US missiles struck
+>> -1.31875
+Eyewitness says Syrian military anticipated U.S. raid and evacuated personnel and materiel.
+>> -0.125
+Sweden truck attack suspect 'is 39-year-old from Uzbekistan who posted jihadist propaganda'
+>> 1.0
+China and the United States 'agree to greater cooperation' in curbing North Korea's nuclear ambitions
+>> 1.175
+Russian PM says U.S. Syria strikes '1 step away' from clashing with Russia
+>> -0.895833333
+Italy just banned Uber in favor of taxis
+>> 0.660714286
+Xi Jinping told Donald Trump he understood the US response 'because of the death of children'
+>> 0.0625
+Syrian jets carry out attacks from base hours after US missile strike
+>> -1.54375
+South Korea to deploy drones to track North Korean troops
+>> 0.0
+Russian military posts drone footage of aftermath of US strike on Syria
+>> -0.25
+US military has launched more than 50 missiles aimed at Syria
+>> 0.25
+Chechnya’s Proof There’s No Gay Purge: "You cannot arrest or repress people who just don’t exist in the republic."
+>> -0.33928571400000007
+Google is now fact-checking your searches to combat 'fake news'
+>> 0.291666667
+Syrian Airbase Targeted By U.S. Missiles Still Operational
+>> 0.125
+Syria was warned of US strike threat: military source
+>> -0.125
+Trump's options for North Korea include placing nukes in South Korea
+>> -0.25
+Kremlin says U.S. strike on Syria is "aggression against sovereign state in violation of international law"
+>> 0.125
+Venezuela opposition leader Henrique Capriles has been banned from holding political office for 15 years
+>> -0.9375
+Octopuses Can Edit Their Own Genetic Code to Increase Intelligence
+>> 0.25
+#SAunites LIVE: Protests gathering momentum across SA
+>> 0.446428571
+Stockholm attack: 'Homemade bomb' found in lorry used to kill at least four people in Sweden
+>> -0.5
+Anti-Zuma protests across South Africa - BBC News
+>> -0.125
+European Parliament’s biggest political group calls for EU-wide ban on Islamic face veils
+>> 1.25
+Google adds search results 'fact check' flag - BBC News
+>> 1.0
+Cuba will open up to a U.N. human rights expert for first time in a decade
+>> 1.875
+Media Blocked in Serbia as People Protest Over Win by Putin-Candidate
+>> 0.125
+Twitter is suing the US government over a demand to unmask the people behind an anti-Trump account
+>> 0.75
+ISIS In Iraq Hangs Civilian Bodies From Electrical Poles In Mosul Fight
+>> 0.25
+New Pyramid Discovered in Egypt
+>> 0.625
+The US warned the Russians ahead of Syria missile strikes: Official
+>> -0.375
+Japanese scientists want to be first to drill into the Earth's mantle
+>> 0.0
+Monitor: Syrian warplanes take off from airbase hit by US cruise missiles
+>> -0.475
+Kremlin: Risk of US-Russia collision in Syria 'significantly increased'
+>> -0.25
+Swedish authorities say truck attack suspect held
+>> 0.25
+Colombia ends search for flood survivors; death toll at 314
+>> -0.5
+Two suspects in custody after fatal Stockholm truck attack
+>> 0.375
+UK government 'fully supports' US air strike in Syria
+>> 0.375
+Syrian military knew the US raid was coming and evacuated personnel and equipment: ABC News
+>> 0.25
+Main Venezuela opposition leader barred from office for 15 years
+>> -0.1875
+US air strikes in Syria: Russia suspends agreement that prevents direct conflict with American forces
+>> -0.458333333
+Russia warns of serious consequences from U.S. strike in Syria
+>> 0.0
+Vogue cover model murdered for not wearing Islamic clothing
+>> -1.25
+Trump says ready to act alone on North Korea
+>> 0.5
+Italy admits police brutality at Genoa G8 summit, pays out thousands to victims
+>> 0.375
+Qatar World Cup 2022 organisers slash budget by up to 50%
+>> -0.5
+EU offers Sweden support after Stockholm attack
+>> -0.25
+US Investigating whether Russia bombed a Syrian hospital to cover up chemical weapons attack
+>> 0.375
+Judge drops 2 non-capital charges in 9/11 case at Guantanamo
+>> 0.0
+Kremlin says strikes do significant damage to US-Russia ties: Report
+>> -0.625
+Sweden arrests man for 'terrorist crime' after truck attack
+>> -0.25
+Angered by U.S. anti-missile system, China takes economic revenge
+>> 0.0625
+Octopuses can edit their own brain genes, study finds
+>> 0.9375
+Italy court blocks Uber services in Italy, citing unfair competition
+>> -0.75
+Rep. Devin Nunes steps aside from Russia probe
+>> -0.625
+Russian warship steams toward US destroyers that launched Syria strikes | Fox News
+>> 0.03125
+US threatens further strikes on Syria as Russia warns of 'serious consequences'
+>> -0.375
+Stockholm ‘Terrorist’ Truck Attack Suspect Arrested: Police
+>> 0.25
+Russia says U.S. strikes in Syria an 'illegitimate' attempt to distract from Iraq
+>> -0.5
+Scientists say they have detected an atmosphere around an Earth-like planet for the first time.
+>> -0.25
+Mexico to grant residency to 588 stranded Cubans
+>> 0.25
+Syrian warplanes take off from air base hit by U.S., carry out strikes in Homs countryside
+>> -1.06875
+Russia Pledges to ‘Increase Effectiveness’ of Syrian Air Defenses
+>> 0.0
+Serbian Opposition rally claims election was rigged - dead people and non-existing citizens voted.
+>> -0.47083333299999985
+Second attack on Syrian town hit by chemical weapons reported after Trump strikes in Idlib
+>> -0.125
+Sixth victim in British Parliament terror attack dies
+>> -1.09
+Seoul Test-Fires Ballistic Missile Capable Of Hitting Pyongyang
+>> 0.0
+Russia says US air strikes in Syria came 'within an inch' of military clash with their forces
+>> -0.125
+Earthquake measuring 5.9 magnitude rocks Philippines, south of Manila
+>> -0.375
+Russia warns of 'negative consequences' if U.S. targets Syria
+>> -0.78125
+Anonymous Infiltrates Amaq News Agency of ISIS with Malware
+>> -0.25
+Allies praise U.S. strike on Syria as Russia and Iran condemn it
+>> 0.375
+Syria war: US warns of 'more' after missile strikes
+>> 0.0
+Hundreds injured as Polish high-speed train collides with truck
+>> 0.3999999999999999
+Military action against Syria marks an about-face in policy for Trump
+>> 0.0

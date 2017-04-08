@@ -24,12 +24,11 @@ import datetime, os, time, requests
 from Extractors.apiKeys import code
 
 
-source_code = "theGuardian"
+SOURCE_CODE = "theGuardian"
 
 
 # Formats the Request
-def url_formatter(y, m, d):
-    extract_date = y + '-' + m + '-' + d
+def url_formatter(extract_date):
     api_key = code['theGuardian']
     use_date = 'published'
     url = 'http://content.guardianapis.com/search?from-date=' + extract_date + '&to-date=' + extract_date + '&api-key=' + api_key + '&use-date=' + use_date
@@ -46,8 +45,8 @@ def get_json(url):
 
 # Headline extractor for The Guardian
 # Returns headlines list
-def extractor(headlines, y, m, d):
-    base_url = url_formatter(y, m, d)
+def extractor(headlines, extract_date):
+    base_url = url_formatter(extract_date)
 
     # Fetch JSON data and compute the total number of news articles
     json_data = get_json(base_url)
@@ -76,13 +75,14 @@ def extractor(headlines, y, m, d):
 def scrapper(y, m, d):
     # Initialize headlines list
     headlines = []
+    extract_date = y + '-' + m + '-' + d
 
-    extractor(headlines, y, m, d)
+    extractor(headlines, extract_date)
 
     # Compute file path
     store_date = y + '-' + m + '-' + d # 2017-04-06
 
-    directory = "./data/" + source_code + "/" + store_date
+    directory = "./data/" + SOURCE_CODE + "/" + store_date
     if not os.path.exists(directory):
         os.makedirs(directory)
 
