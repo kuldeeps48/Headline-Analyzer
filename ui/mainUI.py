@@ -322,6 +322,7 @@ class Ui_window(object):
         self.customScoreLabel.setWordWrap(True)
         self.customScoreLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.customScoreLabel.setObjectName(_fromUtf8("customScoreLabel"))
+        self.customScoreLabel.hide()
 
         # Building Output label
         self.buildingOutputLabel = QtGui.QLabel(window)
@@ -338,6 +339,7 @@ class Ui_window(object):
         self.buildingOutputLabel.setWordWrap(True)
         self.buildingOutputLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.buildingOutputLabel.setObjectName(_fromUtf8("buildingOutputLabel"))
+        self.buildingOutputLabel.hide()
 
         # Extracting All label
         self.extractingAllLabel = QtGui.QLabel(window)

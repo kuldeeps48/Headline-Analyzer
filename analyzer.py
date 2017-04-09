@@ -165,8 +165,8 @@ def analyze(file):
                             continue
 
                     # print(lem_word," ", senti_tag)
-
                     # Get the numerical equivalent sentiwordnet score
+                    # work on argument 3
                     try:
                         breakdown = swn.senti_synset(lem_word + "." + senti_tag + "." + "01")
                         # print(breakdown)
@@ -176,6 +176,7 @@ def analyze(file):
 
                     pos_score += breakdown.pos_score()
                     neg_score += breakdown.neg_score()
+                    # obj_score += breakdown.obj_score()
 
                 # print("P=", pos_score, end="")
                 # print("    |    N=", neg_score)
@@ -183,5 +184,6 @@ def analyze(file):
                     neg_score = -neg_score
 
                 f.write(headline + ">> " + str(pos_score + neg_score) + "\n")
+                # f.write("  >P="+str(pos_score)+"  >N="+str(neg_score)+"\n")
 
     return outputFile
