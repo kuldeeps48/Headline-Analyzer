@@ -19,23 +19,26 @@ source_functions = {"google news": googleScrapper, "reddit news": redditScrapper
                     "the hindu": hinduScrapper, "bbc": bbcScrapper}
 
 
-def runScrapper(source, e, queue):  # Button press function
+def runScrapper(source, e, queue):
     if source in source_functions:
         print("Started ", source, " Extraction")
         fileToAnalyze = source_functions[source]()
         print("Finished extraction")
-        e.set()  # Done extraction
-        time.sleep(0.4)  # To ensure progress bar shows done
-        e.clear()  # reset flag
+        # Set sync flag to done
+        e.set()
+        # To ensure progress bar shows done
+        time.sleep(0.4)
+        # Reset sync done flag before calling analyzer
+        e.clear()
         print("Calling Analyzer on file ", fileToAnalyze)
         output_file = analyzer.analyze(fileToAnalyze)
-        time.sleep(0.2)
-        e.set()  # Done analysis
+        # Done analysis, set flag
+        e.set()
+        # Store the file name where the analyzer stored it's scores
         queue.put(output_file)
         print("Done Analysis")
-
     else:
         # Custom Headline
-        output_file = analyzer.analyze(source)  # Analyze custom headline file
+        output_file = analyzer.analyze(source)
         e.set()  # Done analysis
         queue.put(output_file)

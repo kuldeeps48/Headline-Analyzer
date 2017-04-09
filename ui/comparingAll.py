@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-
 import sys
-from datetime import date
 import pyqtgraph as pg
 from PyQt4 import QtCore, QtGui
 from pyqtgraph import PlotWidget
@@ -16,21 +14,20 @@ except AttributeError:
 try:
     _encoding = QtGui.QApplication.UnicodeUTF8
 
-
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig, _encoding)
 except AttributeError:
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig)
 
-displayingfile = []  # File on which output is being calcuated
+displayingfile = []  # File which contain path of all other newspaper's files
 
 
 def makeGraph(graphView):
     global displayingfile
     pg.setConfigOptions(antialias=True)
 
-    prev = 2
+    prev = 2  # Gap after making bar graph of 1 newspaper
     for file in displayingfile:
         y_axis_pos = []
         y_axis_neg = []
@@ -39,22 +36,24 @@ def makeGraph(graphView):
             for line in f:
                 if line.startswith(">>"):
                     num = float(line[3:].rstrip("\n"))
-
                     if num > 0:
                         y_axis_pos.append(num)
                     if num < 0:
                         y_axis_neg.append(num)
                     if num == 0:
                         y_axis_zero.append(1)
-        pos_x = [prev]
-        neg_x = [prev + 0.5]
-        neu_x = [prev + 1]
+        pos_x = [prev]  # Green bar
+        neg_x = [prev + 0.5]  # Red bar after a gap of 0.5 in x axis
+        neu_x = [prev + 1]  # White bar after a gap of 1 in x axis from Green bar
+
         pos_y = [sum(y_axis_pos)]
-        neg_y = [abs(sum(y_axis_neg))]
+        neg_y = [abs(sum(y_axis_neg))]  # To display in it positive y-axis, take absolute value
         neu_y = [sum(y_axis_zero)]
+
         pos = pg.BarGraphItem(x=np.array(pos_x), height=np.array(pos_y), width=0.5, brush=(0, 198, 53))
         neg = pg.BarGraphItem(x=np.array(neg_x), height=np.array(neg_y), width=0.5, brush=(255, 94, 94))
         neutral = pg.BarGraphItem(x=np.array(neu_x), height=np.array(neu_y), width=0.5, brush=(232, 255, 248))
+
         graphView.addItem(pos)
         graphView.addItem(neg)
         graphView.addItem(neutral)
@@ -106,6 +105,7 @@ class Ui_Dialog(object):
         self.sourceLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.sourceLabel.setObjectName(_fromUtf8("sourceLabel"))
 
+        # Time of india label
         self.TOILabel = QtGui.QLabel(Dialog)
         self.TOILabel.setGeometry(QtCore.QRect(765, 328, 100, 22))
         self.TOILabel.setAutoFillBackground(False)
@@ -120,6 +120,7 @@ class Ui_Dialog(object):
         self.TOILabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.TOILabel.setObjectName(_fromUtf8("TOILabel"))
 
+        # The hindu label
         self.TheHinduLabel = QtGui.QLabel(Dialog)
         self.TheHinduLabel.setGeometry(QtCore.QRect(688, 328, 100, 22))
         self.TheHinduLabel.setAutoFillBackground(False)
@@ -134,6 +135,7 @@ class Ui_Dialog(object):
         self.TheHinduLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.TheHinduLabel.setObjectName(_fromUtf8("TheHinduLabel"))
 
+        # The guardian label
         self.guardianLabel = QtGui.QLabel(Dialog)
         self.guardianLabel.setGeometry(QtCore.QRect(612, 328, 100, 22))
         self.guardianLabel.setAutoFillBackground(False)
@@ -148,6 +150,7 @@ class Ui_Dialog(object):
         self.guardianLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.guardianLabel.setObjectName(_fromUtf8("guardianLabel"))
 
+        # The new york time label
         self.nytLabel = QtGui.QLabel(Dialog)
         self.nytLabel.setGeometry(QtCore.QRect(305, 328, 100, 22))
         self.nytLabel.setAutoFillBackground(False)
@@ -162,6 +165,7 @@ class Ui_Dialog(object):
         self.nytLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.nytLabel.setObjectName(_fromUtf8("nytLabel"))
 
+        # Google new label
         self.googleLabel = QtGui.QLabel(Dialog)
         self.googleLabel.setGeometry(QtCore.QRect(227, 328, 100, 22))
         self.googleLabel.setAutoFillBackground(False)
@@ -176,6 +180,7 @@ class Ui_Dialog(object):
         self.googleLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.googleLabel.setObjectName(_fromUtf8("googleLabel"))
 
+        # CNN label
         self.cnnLabel = QtGui.QLabel(Dialog)
         self.cnnLabel.setGeometry(QtCore.QRect(150, 328, 100, 22))
         self.cnnLabel.setAutoFillBackground(False)
@@ -190,6 +195,7 @@ class Ui_Dialog(object):
         self.cnnLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.cnnLabel.setObjectName(_fromUtf8("cnnLabel"))
 
+        # Reddit label
         self.redditLabel = QtGui.QLabel(Dialog)
         self.redditLabel.setGeometry(QtCore.QRect(377, 328, 100, 22))
         self.redditLabel.setAutoFillBackground(False)
@@ -204,6 +210,7 @@ class Ui_Dialog(object):
         self.redditLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.redditLabel.setObjectName(_fromUtf8("redditLabel"))
 
+        # Reddit World news label
         self.worldnewsLabel = QtGui.QLabel(Dialog)
         self.worldnewsLabel.setGeometry(QtCore.QRect(455, 328, 100, 22))
         self.worldnewsLabel.setAutoFillBackground(False)
@@ -218,6 +225,7 @@ class Ui_Dialog(object):
         self.worldnewsLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.worldnewsLabel.setObjectName(_fromUtf8("worldnewsLabel"))
 
+        # Telegraph label
         self.telegraphLabel = QtGui.QLabel(Dialog)
         self.telegraphLabel.setGeometry(QtCore.QRect(535, 328, 100, 22))
         self.telegraphLabel.setAutoFillBackground(False)
@@ -232,6 +240,7 @@ class Ui_Dialog(object):
         self.telegraphLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.telegraphLabel.setObjectName(_fromUtf8("telegraphLabel"))
 
+        # BBC label
         self.bbcLabel = QtGui.QLabel(Dialog)
         self.bbcLabel.setGeometry(QtCore.QRect(72, 328, 100, 22))
         self.bbcLabel.setAutoFillBackground(False)
@@ -249,10 +258,9 @@ class Ui_Dialog(object):
 
 def showOutput():
     global displayingfile
-    temp = sys.argv[1].split()  # Take scores file as command line argument #testing
     with open(sys.argv[1], "r") as f:
-        displayingfile = f.readlines()[0].split()
-    displayingfile = sorted(displayingfile)
+        displayingfile = f.readlines()[0].split()  # Read 1st line, make a list by splitting on space
+    displayingfile = sorted(displayingfile)  # Sort the list since threads return files randomly
     app = QtGui.QApplication(sys.argv)
     Dialog = QtGui.QDialog()
     ui = Ui_Dialog()

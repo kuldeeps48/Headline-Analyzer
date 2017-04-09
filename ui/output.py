@@ -1,16 +1,14 @@
 # -*- coding: utf-8 -*-
-
 import sys
 from datetime import date, timedelta
 from pathlib import Path
-import images.outputResources
+import images.outputResources  # Output window resources(UI images)
 import pyqtgraph as pg
 from PyQt4 import QtCore, QtGui
 from pyqtgraph import PlotWidget
 from wordcloud import WordCloud
 import numpy as np
 from PIL import Image
-from os import path
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -28,8 +26,9 @@ except AttributeError:
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig)
 
+# Globals
 displayingfile = ""  # File on which output is being calcuated
-displayingHeadlines = ["A", "B", "C", "D"]  # default headlines
+displayingHeadlines = ["A", "B", "C", "D"]  # Default headlines
 displayingScores = [0.0, 0.0, 0.0, 0.0]  # Default scores
 lineNumber = 0  # Keeping track of headlines in file , to display 4 headlines at a time
 outputDate = date.today()  # Default date to show output on is today. Changes when selected from calender
@@ -38,19 +37,20 @@ wrongScoreCounter = 0  # To calculate Accuracy
 headlinesDisplayedCounter = 0
 allHeadlinesShown = False
 
-
+# Function to construct wordcloud
 def drawWordCloud():
-    # Read the whole text.
+    # Read the whole text
     text = open(displayingfile).read()
     # Generate a word cloud image
     circle_mask = np.array(Image.open("./images/mask.png"))
-    wordcloud = WordCloud(max_words=300, mask=circle_mask).generate(text)  # , width=560, height=321
-
+    wordcloud = WordCloud(max_words=300, mask=circle_mask).generate(text)
+    # Store it in file
     wordcloud.to_file("./data/wc.png")
-    # wordcloud.to_file("../data/wc.png") #testing
 
 
+# Function to make graph
 def makeGraph(graphView):
+    # Anti-aliasing for smooth lines
     pg.setConfigOptions(antialias=True)
 
     y_axis_pos = []
@@ -63,7 +63,7 @@ def makeGraph(graphView):
     with open(displayingfile, "r") as f:
         for line in f:
             if line.startswith(">>"):
-                num = float(line[3:].rstrip("\n"))
+                num = float(line[3:].rstrip("\n"))  # Ignore ">>" at beginning and remove "\n" from end
                 line_counter += 1
                 if num > 0:
                     y_axis_pos.append(num)
@@ -80,44 +80,46 @@ def makeGraph(graphView):
     graphView.plot(x_axis_zero, y_axis_zero, pen=(0, 0, 0), symbolBrush=(255, 255, 255), symbolPen='k')
 
 
+# To set color of headlines being displayed based on their score
 def headline_display_color(score):
     rgw = ["#ff7f7f", "#28ff41", "#ffffff"]
-    if score > 0:
-        return rgw[1]  # Green
     if score < 0:
         return rgw[0]  # Red
+    if score > 0:
+        return rgw[1]  # Green
 
     return rgw[2]  # White
 
 
 class Ui_Dialog(object):
+    # Function to call when clicking on Accuracy Mode button
     def calcuateAccuracy(self):
         global headlinesDisplayedCounter
-        headlinesDisplayedCounter = 0
         global wrongScoreCounter
-        wrongScoreCounter = 0
         global calculatingAccuracy
-        calculatingAccuracy = True
         global allHeadlinesShown
-        allHeadlinesShown = False
         global lineNumber
         lineNumber = 0
-
+        headlinesDisplayedCounter = 0
+        wrongScoreCounter = 0
+        calculatingAccuracy = True
+        allHeadlinesShown = False
         self.checkBox1.show()
         self.checkBox2.show()
         self.checkBox3.show()
         self.checkBox4.show()
         self.accuracyLabel.show()
+        # Call nextFourHeadlines function to get headlines and display them
         self.nextFourHeadlines()
 
+    # Store incorrectly marked headlines in accuracy mode before "Next" button changes headlines
     def noteCheckData(self):
         global wrongScoreCounter
         global displayingfile
         global displayingHeadlines
         global displayingScores
-
-        with open(displayingfile[:-20] + "wrongHeadlines.txt",
-                  mode="a") as wrongHeadlines:  # To store incorrect headlines and scores
+        # To store incorrect headlines and scores
+        with open(displayingfile[:-20] + "wrongHeadlines.txt", mode="a") as wrongHeadlines:
             try:
                 if self.checkBox1.isChecked():
                     wrongScoreCounter += 1
@@ -138,6 +140,7 @@ class Ui_Dialog(object):
             except:
                 pass
 
+    # Bring 4 headlines from file and display them
     def nextFourHeadlines(self):
         global wrongScoreCounter
         global headlinesDisplayedCounter
@@ -148,58 +151,69 @@ class Ui_Dialog(object):
         global lineNumber
 
         if calculatingAccuracy:
+            # if we are calculating accuracy, store the currently marked incorrect headlines before bringing next 4
             self.noteCheckData()
 
+        # If we have shown all headlines and we are in accuracy mode
         if allHeadlinesShown and calculatingAccuracy:
-            accuracy = "{0:.2f}".format(
-                ((headlinesDisplayedCounter - wrongScoreCounter) / headlinesDisplayedCounter) * 100) + "%"
+            accuracy = "{0:.2f}".format(((headlinesDisplayedCounter - wrongScoreCounter) / headlinesDisplayedCounter) * 100) + "%"
             self.accuracyResultLabel.setText(_fromUtf8(
                 "<html><head/><body><p align=\"center\"><span style=\" font-size:18pt; font-weight:600; color: #20ee94;\">\
                 <u>Accuracy </u>" + accuracy + "</span></p></body></html>"))
             self.accuracyResultLabel.show()
+            # Hide accuracy mode elements like buttons and instruction after accuracy is shown
             self.checkBox1.hide()
             self.checkBox2.hide()
             self.checkBox3.hide()
             self.checkBox4.hide()
             self.accuracyLabel.hide()
+            # Store accuracy in a file for further use
             file_to_store_accuracy = displayingfile[:-20] + "accuracy.txt"
             with open(file_to_store_accuracy, "w") as f:
                 f.write(accuracy)
+            # Turn of accuracy mode flag
             calculatingAccuracy = False
             return
 
+        # Open the file from where we are reading headlines and score
         with open(displayingfile, "r") as f:
-            data = f.readlines()[lineNumber:lineNumber + 9]
-            data1 = data[:8:2]  # line 1-8 in increment of 2 since 2nd line has scores
-            data2 = data[1:9:2]  # line 2-9 in increment of 2 since 1st line has headlines
-            for i, line in enumerate(data1):  # Remove \n from headlines
+            data = f.readlines()[lineNumber:lineNumber + 9]  # Get 8 lines which would have 4 headlines and 4 scores
+            data1 = data[:8:2]  # line 0-7 in increment of 2 since 1st line has headlines
+            data2 = data[1:9:2]  # line 1-8 in increment of 2 since 2nd line has scores
+
+            # Remove \n from headlines
+            for i, line in enumerate(data1):
                 temp = line[:-1]
                 data1[i] = temp
-
-            for i, line in enumerate(data2):  # Remove >> and \n from scores
+            # Remove >> and \n from scores
+            for i, line in enumerate(data2):
                 temp = line[3:8]
                 if temp[0] != "-":
-                    temp = " " + temp
+                    temp = " " + temp  # For consistent display in output, if not negative sign(-) in score, add blank space for positive
                 data2[i] = temp
 
+            # Increment global line counter
             lineNumber += 8
             global displayingHeadlines
             global displayingScores
+            # Clear previous headlines and scores
             displayingHeadlines.clear()
             displayingScores.clear()
+            # Add new headlines and scores
             displayingHeadlines = data1
             displayingScores = data2
 
+            # Displaying headlines in proper format
             try:
+                # Find which color to use to display headline based on it's score
                 color = headline_display_color(float(displayingScores[0]))
                 self.Headline1.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
-                         color:" + color + ";\"><b>" + displayingHeadlines[0] + "</b></span></p></body></html>",
-                                                  None))
+                         color:" + color + ";\"><b>" + displayingHeadlines[0] + "</b></span></p></body></html>",None))
                 self.Value1.setText(_translate("Dialog", "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; \
                          color:" + color + ";\"><b>" + displayingScores[0] + "</b></span></p></body></html>", None))
                 headlinesDisplayedCounter += 1
-
-            except IndexError:
+            except:
+                # If we get any exception, set headlines and score to blank and assume that we have displayed all headlines
                 self.Headline1.setText(_translate("Dialog", "<html><head/><body><p align=\"justify\"><span style=\" font-size:12pt;\
                                          color:" + ";\"><b>" + "" + "</b></span></p></body></html>",
                                                   None))
@@ -268,11 +282,13 @@ class Ui_Dialog(object):
                 self.checkBox4.hide()
                 allHeadlinesShown = True
 
-    def oneWeekAnalysis(self):  # Graph plot for 1 week scores
+    # Function to call to make 1 week graph
+    def oneWeekAnalysis(self):
         pg.setConfigOptions(antialias=True)
         global displayingfile
         global outputDate
-        today = outputDate  # Get output date, compute 1 week from that date
+        # Get output date, compute 1 week from that date
+        today = outputDate
 
         y_axis_pos = []
         x_axis_pos = []
@@ -282,9 +298,9 @@ class Ui_Dialog(object):
         x_axis_zero = []
         line_counter = 0
         for i in range(0, 7):
-            temp = displayingfile[:-31]
-            weekDate = today - timedelta(days=i)
-            temp += str(weekDate) + "\\" + str(weekDate) + "scores.txt"
+            temp = displayingfile[:-31]  # Remove till date part from directory name
+            weekDate = today - timedelta(days=i)  # Get date
+            temp += str(weekDate) + "\\" + str(weekDate) + "scores.txt"  # Set file name properly
             try:
                 with open(temp, "r") as f:
                     for line in f:
@@ -309,11 +325,14 @@ class Ui_Dialog(object):
         self.Graph.plot(x_axis_neg, y_axis_neg, pen=(200, 200, 200), symbolBrush=(255, 0, 0), symbolPen='b')
         self.Graph.plot(x_axis_zero, y_axis_zero, pen=(0, 0, 0), symbolBrush=(255, 255, 255), symbolPen='k')
 
+    # Function to call when pressing a date in calender
     def dateSelected(self):
-        # Turn Off accuracy calculation mode before displaying output
+        # Reset everything before displaying new output
         global headlinesDisplayedCounter
-        headlinesDisplayedCounter = 0
+        global calculatingAccuracy
+        global allHeadlinesShown
         global wrongScoreCounter
+        headlinesDisplayedCounter = 0
         wrongScoreCounter = 0
         self.checkBox1.hide()
         self.checkBox2.hide()
@@ -321,13 +340,11 @@ class Ui_Dialog(object):
         self.checkBox4.hide()
         self.accuracyLabel.hide()
         self.accuracyResultLabel.hide()
-        global calculatingAccuracy
         calculatingAccuracy = False
-        global allHeadlinesShown
         allHeadlinesShown = False
         #########################################
 
-        x = self.calendarWidget.selectedDate()
+        x = self.calendarWidget.selectedDate()  # Get the selected date from calender
         day = x.day()
         month = x.month()
         year = x.year()
@@ -336,26 +353,29 @@ class Ui_Dialog(object):
         if month < 10:
             month = "0" + str(month)
 
-        selected_date = str(year) + "-" + str(month) + "-" + str(day)
+        selected_date = str(year) + "-" + str(month) + "-" + str(day)  # Make selected date in proper format: year-month-day
         global outputDate
-        outputDate = date(int(year), int(month), int(day))  # Set selected date as output data
+        outputDate = date(int(year), int(month), int(day))
         global displayingfile
-        displayingfile = displayingfile[:-31]  # remove previous dates from file location name
-        displayingfile += selected_date + "\\" + selected_date + "scores.txt"
+        displayingfile = displayingfile[:-31]  # remove till date in file name
+        displayingfile += selected_date + "\\" + selected_date + "scores.txt"  # set new file name based on our new date
 
-        my_file = Path(displayingfile)
-        if my_file.is_file():  # if file exists for selected date
+        my_file = Path(displayingfile)  # Get absolute path of our file
+        # if file exists for selected date
+        if my_file.is_file():
             self.Graph.plotItem.clear()  # reset graph
+            # Make new graph
             makeGraph(self.Graph)
-
+            # Draw new wordcloud
             drawWordCloud()
             self.wordCloud.setPixmap(QtGui.QPixmap("./data/wc.png"))
-            # self.wordCloud.setPixmap(QtGui.QPixmap("../data/wc.png"))  #testing
-
             global lineNumber
             lineNumber = 0
+            # Display first 4 headlines
             self.nextFourHeadlines()
 
+########################################################################################################################
+################################# Output window graphics elements ######################################################
     def setupUi(self, Dialog):
         Dialog.setObjectName(_fromUtf8("Dialog"))
         Dialog.resize(1355, 696)
@@ -396,12 +416,12 @@ class Ui_Dialog(object):
         self.GraphLabel.setObjectName(_fromUtf8("GraphLabel"))
 
         # wordCloud
-        self.wordCloud = pic = QtGui.QLabel(Dialog)
+        self.wordCloud = QtGui.QLabel(Dialog)
         self.wordCloud.setGeometry(QtCore.QRect(40, 30, 560, 321))
         self.wordCloud.setObjectName(_fromUtf8("wordCloud"))
         drawWordCloud()
+        # Set the image obtain from file into out window
         self.wordCloud.setPixmap(QtGui.QPixmap("./data/wc.png"))
-        # self.wordCloud.setPixmap(QtGui.QPixmap("../data/wc.png")) #testing
 
         # WordCloud Label
         self.WordCloudLabel = QtGui.QLabel(Dialog)
@@ -494,9 +514,9 @@ class Ui_Dialog(object):
         self.accuracyLabel.setObjectName(_fromUtf8("accuracyLabel"))
         self.accuracyLabel.hide()
 
-        # AccuracyResult Label
+        # Accuracy Score Label
         self.accuracyResultLabel = QtGui.QLabel(Dialog)
-        self.accuracyResultLabel.setGeometry(QtCore.QRect(645, 591, 150, 100))  # 670, 490, 81, 81
+        self.accuracyResultLabel.setGeometry(QtCore.QRect(645, 591, 150, 100))
         self.accuracyResultLabel.setAutoFillBackground(False)
         self.accuracyResultLabel.setStyleSheet(_fromUtf8("background:transparent;"))
         self.accuracyResultLabel.setFrameShadow(QtGui.QFrame.Plain)
@@ -607,40 +627,17 @@ class Ui_Dialog(object):
 
     def retranslateUi(self, Dialog):
         Dialog.setWindowTitle(_translate("Dialog", "Analysis Of Extracted Headlines", None))
-        self.Headline1.setText(_translate("Dialog",
-                                          "<html><head/><body><p align=\"justify\"><span style=\" font-size:10pt; color:#ffffff;\">Headline 1</span></p></body></html>",
-                                          None))
-        self.Value1.setText(_translate("Dialog",
-                                       "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#ffffff;\">0.0</span></p></body></html>",
-                                       None))
-        self.Headline2.setText(_translate("Dialog",
-                                          "<html><head/><body><p align=\"justify\"><span style=\" font-size:10pt; color:#ffffff;\">Headline 1</span></p></body></html>",
-                                          None))
-        self.Headline3.setText(_translate("Dialog",
-                                          "<html><head/><body><p align=\"justify\"><span style=\" font-size:10pt; color:#ffffff;\">Headline 1</span></p></body></html>",
-                                          None))
-        self.Headline4.setText(_translate("Dialog",
-                                          "<html><head/><body><p align=\"justify\"><span style=\" font-size:10pt; color:#ffffff;\">Headline 1</span></p></body></html>",
-                                          None))
-        self.Value4.setText(_translate("Dialog",
-                                       "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#ffffff;\">0.0</span></p></body></html>",
-                                       None))
-        self.Value3.setText(_translate("Dialog",
-                                       "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#ffffff;\">0.0</span></p></body></html>",
-                                       None))
-        self.Value2.setText(_translate("Dialog",
-                                       "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt; color:#ffffff;\">0.0</span></p></body></html>",
-                                       None))
 
 
 def showOutput():  # testing: add parameter : file
     global displayingfile
-    displayingfile = sys.argv[1]  # Take scores file as command line argument #testing
+    displayingfile = sys.argv[1]  # Set file from which we are displaying output. Take it from command line argument
     # displayingfile = file  # testing
     app = QtGui.QApplication(sys.argv)
     Dialog = QtGui.QDialog()
     ui = Ui_Dialog()
     ui.setupUi(Dialog)
+    # Display first 4 headlines
     ui.nextFourHeadlines()
     Dialog.show()
     app.processEvents()
