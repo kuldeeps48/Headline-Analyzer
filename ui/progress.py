@@ -44,7 +44,7 @@ class Loading(QtGui.QMainWindow):
 
     def download(self, e):
         self.extractProgress = 0
-        while not e.is_set():
+        while not e.is_set():  # Checking synchronization flag, if it's set finish our loading
             if self.extractProgress > 99:
                 continue
             self.extractProgress += 0.0001
@@ -58,7 +58,7 @@ class Loading(QtGui.QMainWindow):
         QtGui.QProgressBar.reset(self.progress)
         self.analyseProgress = 0
         while not e.is_set():
-            if self.analyseProgress > 98:
+            if self.analyseProgress > 99:
                 continue
             self.analyseProgress += 0.0001
             self.progress.setValue(self.analyseProgress)

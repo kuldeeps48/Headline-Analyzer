@@ -14,7 +14,7 @@ class ImagePlayer(QtGui.QDialog):
         self.setGeometry(x_axis, y_axis, 120, 120)
         self.setStyleSheet("background:black;")
         self.movie_screen = QLabel()
-        # Make label fit the gif
+        # Fir our GIF into the label
         self.movie_screen.setSizePolicy(QSizePolicy.Fixed, QSizePolicy.Fixed)
         self.movie_screen.setAlignment(Qt.AlignCenter)
 
@@ -25,7 +25,7 @@ class ImagePlayer(QtGui.QDialog):
         self.setLayout(main_layout)
 
         # Add the QMovie object to the label
-        self.movie.setCacheMode(QMovie.CacheAll)
+        self.movie.setCacheMode(QMovie.CacheAll)  # Cache/Store all frame of our GIF
         self.movie.setSpeed(100)
         self.movie_screen.setMovie(self.movie)
         self.show()
