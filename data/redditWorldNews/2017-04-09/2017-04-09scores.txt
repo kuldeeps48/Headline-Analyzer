@@ -1,0 +1,150 @@
+U.S. Navy strike group to move toward Korean peninsula: U.S. official
+>> 0.625
+Isis kills dozens of civilians caught attempting to flee Mosul and hangs bodies up on electricity poles
+>> 0.375
+Rome Metro workers accidentally discovered an ancient aqueduct
+>> 0.541666667
+Uruguay legalises sale of recreational cannabis
+>> 0.0
+Stockholm attack driver 'deliberately targeted young children' as he drove hijacked lorry into crowd, witnesses claimed
+>> 0.5
+Norway: Suspect held as 'bomb-like device' found in Oslo
+>> -0.25
+Uber is now totally banned in all of Italy
+>> 0.9375
+Bombing reported near church in Egyptian city of Tanta
+>> -0.25
+Donald Trump’s Syria air strikes will not reduce Assad’s military capability, experts say
+>> 0.166666667
+At Least 15 Killed in Suspected U.S.-led Airstrike Near Raqqa, Syrian Observatory Says. Children Among The Casualties
+>> 0.0
+Turkey says US strikes 'cosmetic' if Assad stays in power
+>> 0.25
+14,000-year-old village unearthed on B.C. island by UVic student. Oldest Settlement in North America.
+>> 0.25
+Donald Trump wants removal of Syrian President Bashar al-Assad
+>> 0.25
+Israel treats thousands of war-wounded Syrians
+>> -1.25
+Norway to spend $315M on world's first ship tunnel
+>> -0.375
+Syria strikes: Site of chemical attack hit again
+>> -0.125
+North Korea says Syria airstrikes prove its nukes justified
+>> 0.25
+China to Loan Nigeria $4.5 Billion to Boost Agriculture
+>> 0.625
+Hundreds of 'restraint injuries' at special schools
+>> 0.21875
+USA, Mexico and Canada set press conference, expected to announce joint 2026 World Cup bid
+>> -0.75
+Norway: Police detonate explosive device found by Oslo police in busy city centre street
+>> -0.125
+French presidential elections: Marine Le Pen rally in Corsica descends into chaos as demonstrators storm venue
+>> -0.75
+US to accuse Russia of complicity in Syrian chemical attack: report
+>> 0.25
+Russia's Lavrov and U.S. Tillerson spoke by phone about situation in Syria
+>> -0.625
+Stockholm terror attack: Suspect reportedly posted ISIS videos on Facebook
+>> -0.5
+Oslo police destroy 'bomb-like device'
+>> -0.625
+Oslo police find 'bomb-like device', say suspect in custody
+>> 0.0
+Guatemala brings charges in kids' home fire that killed 41
+>> -0.75
+Site of chemical attack hit again by air strikes. It isn't clear who conducted the strikes.
+>> 0.277777778
+Church bombing north of Egypt's capital kills 21
+>> -0.25
+Venezuelans return to streets, roused by ban on opposition leader Henrique Capriles
+>> -0.3125
+U.S. soldier killed in Afghanistan during anti-ISIS operation
+>> -0.875
+Last-ditch attempt to save world's most endangered porpoise gets go-ahead
+>> 0.1875
+Bolivia UN Envoy on Syria Attack: 'History Teaches Us' US Lies to Justify Wars
+>> -0.125
+Sweden truck attack suspect 'is 39-year-old from Uzbekistan who posted jihadist propaganda'
+>> 1.0
+Violent clashes break out ahead of rally by far-right Le Pen
+>> -0.59375
+After Xi Leaves U.S., Chinese Media Assail Strike on Syria
+>> -0.375
+Australia, New Zealand warn of possible extremist attack in Turkey
+>> 0.666666667
+Rex Tillerson on Syria: Our ‘first priority’ is to eliminate the ISIS threat
+>> 0.125
+Indian police arrest alleged kingpin of U.S. tax scam
+>> -0.125
+Protesting US airstrikes, Syrians chant ‘Death to Israel’
+>> 0.0
+Boris Johnson cancels Russia trip just hours before take-off after US air strike on Syria
+>> -0.31428571399999994
+Venezuelans Pour into Caracas Streets in Anti-Maduro Protest
+>> -0.375
+Alleged NSA hack group Shadow Brokers releases new trove of exploits
+>> 0.625
+Europe Should Stick to Rules on Bank Rescues, ECB's Mersch Says
+>> -0.04166666699999999
+France expels Swiss grandson of Muslim Brotherhood founder
+>> -0.8125
+No peace in Syria until Assad is ousted, says Nikki Haley
+>> 0.166666667
+Russia 'increases naval presence off Syrian coast'
+>> 0.375
+Stockholm attack: 'Homemade bomb' found in lorry used to kill at least four people in Sweden
+>> -0.5
+China and the United States 'agree to greater cooperation' in curbing North Korea's nuclear ambitions
+>> 1.175
+New Zealand Post will start delivering KFC to beat mail slump
+>> 0.125
+Eyewitness says Syrian military anticipated U.S. raid and evacuated personnel and materiel.
+>> -0.125
+US deploys Navy strike group to Korean peninsula
+>> 0.375
+Continued bombing by Assad shows limits of single U.S. attack
+>> -1.625
+Syrian jets take off from air base US missiles struck
+>> -1.31875
+Palestinian coexistence promoter falsely accused of terrorism
+>> 0.0
+Suspect in Russia metro bombing traveled to Turkey, say co-workers
+>> 0.0
+Australia's Delayed Recession Fallout Is Showing Up in Its Jobs Data
+>> 0.1875
+Saudi Arabia 'fully backs' US air strike on Syrian airbase
+>> 0.25
+The Uruguayan jail where inmates set up shop - BBC News
+>> 0.875
+Vehicle driven into people in Stockholm - BBC News
+>> 0.25
+Egypt: 21 killed in explosion at Coptic Christian church
+>> -0.25
+Dozens Injured in Moscow Train Crash
+>> -0.75
+Israeli PM: Azerbaijan model of inter-faith, multicultural harmony
+>> 0.25
+US 'prepared to do more' in Syria if chemical weapons used again
+>> -0.125
+Sadr becomes first Iraqi Shi'ite leader to urge Assad to step down
+>> -0.616071429
+Turkey says Russia must stop insisting on Assad's leadership in Syria
+>> -0.5
+Mumbai police arrest alleged Kingpin of US tax scam.
+>> -0.125
+Mexican Government stands in solidarity with Sea Shepherd to save nearly extinct Vaquita porpoise
+>> 0.3125
+Sadr becomes first Iraqi Shi'ite leader to urge Assad to step down
+>> -0.616071429
+Venezuela opposition march over Henrique Capriles ban - BBC News
+>> -0.1875
+US warns Assad over using chemical weapons again
+>> -0.5
+Video: Air strike targets ISIS militant who tried to take down Iraqi flag in west Mosul
+>> 0.508928571
+European Parliament’s biggest political group calls for EU-wide ban on Islamic face veils
+>> 1.25
+Israel treats thousands of war-wounded Syrians
+>> -1.25
