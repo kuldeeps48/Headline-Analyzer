@@ -3,7 +3,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import sentiwordnet as swn
 from nltk.stem import WordNetLemmatizer
 
-from additional import Dict  # use the dictionary
+from additional import Dict  # use our own dictionary also
 
 
 class BidirectionalIterator(object):  # Custom 2 direction iterator to read word combinations from headlines
@@ -32,6 +32,7 @@ class BidirectionalIterator(object):  # Custom 2 direction iterator to read word
         return self
 
 
+# Function which changes POS tagger tags to SentiWordNet tags
 def pos_to_senti_tag(tag_from_POS):
     if tag_from_POS in ("NN", "NNS", "NNP", "NNPS", "CC"):
         return "n"  # noun
@@ -43,11 +44,13 @@ def pos_to_senti_tag(tag_from_POS):
         return "r"  # adverb
 
 
+# Words which has these tags and not useful
 def ignore_word(tag):
     neutral_tags = ["CD", "IN", "(", ")", ",", "--", ".", ":", "LS", "''", "TO"]
     return tag in neutral_tags
 
 
+# Remove special characters from headline and return it in lower case form
 def cleanHeadlineString(headline):
     headline = headline.replace("'s", "")
     headline = headline.replace(":", "")
@@ -60,13 +63,17 @@ def cleanHeadlineString(headline):
 
 
 def analyze(file):
+    # Set file name where we will store our headlines + scores
     outputFile = file[:-4] + "scores.txt"
+
     with open(file, mode="r") as data:
-        with open(outputFile, "w") as f:  # Open once in write more to remove previous data
+        # Open our output ile once in write more to remove previous data
+        with open(outputFile, "w") as f:
             pass
-        with open(outputFile, "a") as f:  # open file once to append data for each headline
+        # Again open, but in append mode to store headlines + scores
+        with open(outputFile, "a") as f:
             for headline in data:
-                if len(headline) > 120:  # Skip Huge Headlines
+                if len(headline) > 120 or len(headline) < 15:  # Skip small and large strings
                     continue
 
                 # remove special characters & make it lower case
@@ -75,24 +82,20 @@ def analyze(file):
                 # Convert headline sentence to a list of words
                 words = word_tokenize(headline_to_analyze)
 
-                # Initialize Lemmatizer
-                w_lem = WordNetLemmatizer()
-
                 pos_score = 0
                 neg_score = 0
-                # obj_score = 0
 
                 # Two words combo lookup
                 two_combo_lookup = BidirectionalIterator(list(words))  # passing a copy of list
                 while True:
                     try:
                         a = two_combo_lookup.curr()
-                        a_index = two_combo_lookup.index  # To remove exact word instead of first occurrence
+                        a_index = two_combo_lookup.index  # Store index to remove the word
                         b = two_combo_lookup.next()
                         b_index = two_combo_lookup.index
                         combo = a + " " + b
                         if combo in Dict:
-                            words[a_index] = ""  # not removing so that index don't get screwed
+                            words[a_index] = ""  # Make word blank, remove later so that indexes don't screw up
                             words[b_index] = ""
                             score = float(Dict[combo])
                             if score < 0:
@@ -102,7 +105,7 @@ def analyze(file):
                     except StopIteration:
                         break
 
-                words[:] = (item for item in words if item != "")  # Remove all "" words
+                words[:] = (item for item in words if item != "")  # Remove all blank words
 
                 # Three words combo lookup
                 three_combo_lookup = BidirectionalIterator(list(words))
@@ -129,24 +132,23 @@ def analyze(file):
                     except StopIteration:
                         break
 
-                words[:] = (item for item in words if item != "")  # Remove all "" words
+                words[:] = (item for item in words if item != "")  # Remove all blank words
 
                 # Pass remaining words to sentiwordnet
                 # Tag each word in list with POS tagger
                 tagged_words = nltk.pos_tag(words)
 
                 for i in tagged_words:
-                    senti_tag = pos_tag = i[1]
-
-                    # Check if word creates no opinion, else tag them in sentiwordnet format
-                    # nltk.help.upenn_tagset()
+                    senti_tag = i[1]
+                    # Check if word creates no opinion, else tag them in sentiwordnet format. See nltk.help.upenn_tagset() for tags info
                     if ignore_word(senti_tag):
                         continue
                     else:
                         senti_tag = pos_to_senti_tag(i[1])
 
+                    # Initialize Lemmatizer
+                    w_lem = WordNetLemmatizer()
                     # Lemmatize the word according to its tag
-                    # make argument 2 accurate
                     try:
                         lem_word = w_lem.lemmatize(i[0], senti_tag)
                     except:

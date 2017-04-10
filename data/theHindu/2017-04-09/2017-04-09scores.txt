@@ -1,0 +1,224 @@
+Mohan Bhagwat pitches for all-India law against cow slaughter
+>> -0.0625
+Indian, Chinese Navies rescue hijacked cargo ship in Gulf of Aden
+>> 0.5
+Brisk polling recorded in Nanjangud and Gundlupet
+>> 0.21875
+Dholpur bypoll: Nearly 25% voting till 10 a.m.
+>> 0.5
+Four of a family found dead in Thiruvananthapuram
+>> -0.325
+MP: Bypoll underway in 2 Assembly seats; stone-pelting in Ater
+>> 0.0
+7 cases of dengue confirmed in Yadgir
+>> -0.25
+Court allows medical examination of Qureshi
+>> 0.0
+Now, Gol Gumbaz becomes an attractive habitat for peacocks
+>> 0.5
+To beat the heat, police get sunglasses, umbrellas
+>> 0.125
+Senior Karnataka official held on charge of rape
+>> 0.1875
+Srinagar bypoll: Three killed, several injured as mobs storm polling booths
+>> -1.625
+Bypoll in Dhemaji underway; five candidates in fray
+>> -0.25
+Voting underway for Rajouri Garden bypoll
+>> 0.0
+Polling begins for Nanjangud, Gundlupet bypolls in Karnataka
+>> 0.0
+Centre trying to resolve fishermen issue: MP Ganesan
+>> -0.125
+Encroachments removed from temple land
+>> 0.0
+Good response to literacy programme
+>> 0.889423077
+Loan disbursal way off target
+>> 0.0
+Man claiming to be Jaya’s son held
+>> 0.125
+Go-ahead for key stretch of Mumbai coastal road
+>> 0.5
+Unruly passengers will be placed on no-fly list: Sinha
+>> 0.291666667
+Pipavav Shipyard: a rejoinder
+>> -0.125
+Three arrested for Jharkhand lynching
+>> -0.125
+Summer showers copious in State
+>> 0.0
+Vigilance app saves a project
+>> 0.4
+Bailey bridge to be open on Monday
+>> -0.25
+Opinion divided on loan waiver for all
+>> -0.3125
+Where is the board to regulate film publicity material, HC asks State
+>> 0.708333333
+Ensure safe return of farmers: Stalin
+>> 0.291666667
+EC regulations ahead of R.K. Nagar bypoll
+>> 0.0
+Ramps in R.K. Nagar polling booths steep, say disability rights activists
+>> -0.4375
+Time to hold fresh election in State: Chidambaram
+>> 0.875
+Vijayabaskar’s father, brother quizzed
+>> 0.0
+Kudimaramathu: Revived or watered down?
+>> 0.071428571
+A floating restaurant likely near Malpe
+>> 0.0
+EVMs, VVPATs put through elaborate tests
+>> 0.75
+It’s tough for teachers in bypoll areas
+>> -0.402777778
+Stage set for polling today; elaborate security in place
+>> 1.5
+An elephantine census after 5 years
+>> 0.375
+Karat reminds State CPI unit that it’s not in Opposition
+>> -0.9375
+India, Mongolia ‘cross swords’
+>> 0.0
+Ready to follow ‘One China’ policy: Dalai Lama
+>> 0.78125
+U.P. police deny conversions
+>> -0.275
+Award haul for Telugu films
+>> 0.375
+Vishwa Karma shrine to showcase artistic prowess
+>> 1.125
+‘Seized papers reveal hand of Ministers’
+>> 0.5
+Puttingal’s burn scars still hurt
+>> -0.583333333
+Warning against incursion by elephants
+>> -0.25
+CM’s sense of guilt exposed, says Chandy
+>> -0.3125
+Kochi Muziris Biennale proves to be a silver lining
+>> -0.125
+Govt ad to justify stance in Jishnu case draws flak
+>> 0.0
+Union Minister to apprise PM of encroachments in Munnar
+>> 0.0
+Headwinds hit Kerala Tourism
+>> 0.0
+Chennithala seeks CM’s intervention
+>> 0.0
+Fifteen pairs of trains to be converted to MEMU rakes
+>> 0.0
+A titan among IPS officers passes on
+>> 0.125
+Transporters end stir
+>> -0.225
+Walk around Bekal, with a virtual guide
+>> 0.5
+Parties should keep election promises: CJI
+>> -0.125
+Neduvasal in protest mode again
+>> 0.0
+Poll party pelted in Srinagar
+>> -0.375
+Soon, explore Thrissur, one circuit at a time
+>> 0.375
+Pakistan violates ceasefire again
+>> -0.25
+Nashik to observe No Honking Day every Monday
+>> -0.333333333
+Vulnerable tribes: lost in a classification trap
+>> -0.33680555599999995
+Rail catering firm fails to get relief from court
+>> 0.0
+CPI(M) team seeks prompt justice for Alwar victims
+>> 0.25
+Kingfisher Villa sold at last
+>> 0.25
+TV anchor puts up a brave face during show
+>> 0.625
+When tiny Tripura hosted a foreign premier in 2012
+>> -0.5
+After U.P. slaughterhouse raids, it’s Dehradun next
+>> -0.125
+Breakfast in Khulna and lunch in Kolkata
+>> 0.0
+Delhi, Dhaka exchange 22 deals
+>> 0.0
+U.P. orders probe into sale of sugar mills
+>> 0.25
+Call of duty triumphs: TV anchor reads out news of accident that killed her husband
+>> -1.375
+Panel unhappy as children carry arms during RSS rally
+>> -0.96875
+Protests, combustible RDF pile-up render new plants ineffective
+>> 0.75
+Sustainable strategies for traffic management in Bengaluru
+>> 0.75
+Truck owners reach agreement, withdraw strike call
+>> 0.125
+Uneasy calm in Bhadrak
+>> -0.25
+Picky when it comes to fodder
+>> 0.25
+KMF collection dips by 14% from last year’s high
+>> 0.025000000000000022
+For dairy farmers in Karnataka, dry season a bitter pill
+>> -0.9875
+Mahila Congleaders planindefinite fast
+>> 0.0
+Panel on Indo-Russian fighter gets an extension
+>> 0.125
+This Bear shall hunt no more
+>> -0.333333333
+Weak canine squad led to CRPF deaths?
+>> -0.375
+India’s first community radio still makes the right connect
+>> 0.336538462
+Condition of Jishnu’s mother, sister deteriorates
+>> 0.5
+In Bengal, a village and its nuclear power plans
+>> 0.0
+What is the lowdown on sharing of Teesta waters?
+>> -0.25
+The path home remains closed for Ganjam’s Dalits
+>> -0.3125
+Jeeja Ghosh’s struggle a beautiful ode to life
+>> 0.229166667
+Shajahan’s arrest: mother warns of indefinite stir
+>> -0.475
+Campaigning peaks in Malappuram
+>> 0.0
+Govt to liberalise building rules
+>> 0.5
+Gang attacks unabated in Alappuzha district
+>> 0.55
+The weaves of river country
+>> 0.0
+Avishna’s condition deteriorates
+>> 0.5
+U.P. orders probe into sale of sugar mills
+>> 0.25
+On day 2, over 200 structures removed
+>> 0.0
+Srinagar bypoll: miscreants attack polling staff, stations
+>> -0.125
+Shiv Sena MP Gaikwad meets Uddhav Thackeray
+>> 0.0
+Election code of conduct applies to Information Dept.’s Whatsapp group also
+>> 1.125
+Salt and shrimp in the Cauvery delta
+>> 0.0
+The fromagerie on Palani hills
+>> 0.0
+A thousand plateaus
+>> 0.0
+Six-point agenda to boost India-Bangladesh trade & investment ties
+>> 0.21875
+Dalai Lama says it’s for people to decide fate of his office
+>> 0.0
+The Babri Masjid Case Files
+>> 0.0
+India, Bangladesh sign nearly two dozen agreements
+>> 0.375

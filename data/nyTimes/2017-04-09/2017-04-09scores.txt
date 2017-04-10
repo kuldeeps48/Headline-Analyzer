@@ -1,0 +1,200 @@
+Factbox-New Super Rugby Format at a Glance
+>> 1.375
+Canada Commemorates the Centenary of the Vimy WWI Battle
+>> -0.25
+Greek PM Says Debt Relief Is a Condition for More Austerity
+>> 0.875
+Worshippers Throng to Jerusalem for Palm Sunday
+>> 0.0
+Pope on Palm Sunday Decries Suffering From War, Terrorism
+>> -0.9375
+Indian, Chinese Navies Thwart Attack on Ship by Suspected Somali Pirates, India Says
+>> 0.0
+Fierce Clashes Rock Palestinian Refugee Camp in Lebanon
+>> -0.645833333
+Harry Potter Play Hopes for Magic at Olivier Stage Awards
+>> -0.125
+Berlin to See Its First Jewish Campus After the Holocaust
+>> 0.291666667
+UK Defense Minister: Russia Responsible by Proxy for Syria Chemical Deaths
+>> 0.25
+Tillerson Steps Up on Syria, Russia After Avoiding Spotlight
+>> 0.375
+The Latest: Death Toll From Egypt Church Bombing Rises to 21
+>> -0.5625
+Athletics: Kenyan Lonyangata Wins Paris Marathon
+>> 0.25
+The Latest: Sweden to Move Attack Memorial as Fence Sags
+>> 0.375
+Homes That Sold for Around $1.5 Million
+>> 0.5
+Russia Criticizes UK Decision to Cancel Johnson Visit to Moscow
+>> 0.0
+Deadly Explosion Rocks Christian Church in Egypt on Palm Sunday
+>> -0.270833333
+Sweden Questioning Seven People Over Deadly Truck Attack - Police
+>> -0.270833333
+7 Years Later, Poland Still Wrestles With Plane Crash Trauma
+>> -0.5
+Uganda Police Arrest Academic Who Rebuked the First Family
+>> -0.25
+Norway's Security Service Takes Over Explosive Device Case
+>> 0.5625
+Turkey Says Russia Must Stop Insisting on Assad's Leadership in Syria
+>> -0.5
+Oslo Police Detonate 'Bomb-Like Device'; Suspect in Custody
+>> 0.0
+Three Teams to Be Axed as Super Rugby Reverts to 15-SANZAAR
+>> 0.75
+Church Bombing North of Egypt's Capital Kills 21
+>> -0.25
+Sadr Becomes First Iraqi Shi'ite Leader to Urge Assad to Step Down
+>> -0.616071429
+Death Toll in Egypt Church Bombing Reaches 21: State Television
+>> -0.3125
+American Soldier Is Killed in Afghanistan
+>> -0.125
+Ship Hijacked Off Yemen Coast Is Owned by Lebanon Company
+>> -0.09999999999999998
+Lewis Hamilton Coasts to Fifth Title at Chinese Grand Prix
+>> 0.25
+Swedish Store Hit by Truck Regrets 'Damaged Goods' Promotion
+>> -0.875
+Retired Pakistan Army Officer Goes Missing in Nepal
+>> -0.916666667
+Three People Killed, Several Injured During Protests in India's Kashmir
+>> -1.75
+Hamilton Wins in China, Vettel Second
+>> 1.0
+North Korea Says Syria Airstrikes Prove Its Nukes Justified
+>> 0.25
+Vibrant Azaleas Didn't Make the Cut This Year at the Masters
+>> 1.3541666669999999
+India News Anchor Learns of Husband's Death on Live TV
+>> 0.258928571
+China Says Insurance Regulator Head Probed for Suspected Graft
+>> 0.25
+Hot Air Balloon Accident in Turkey Kills 1 Tourist, Hurts 20
+>> 0.0
+Final Round of Masters Packed With 'Wonderful Storylines'
+>> 0.625
+AP PHOTOS: Foreigners Crowd Pyongyang Streets for Marathon
+>> 0.0
+LEADING OFF: O's Try for 5-0 Start, Red Sox Still Ill
+>> -1.315277778
+On ‘S.N.L.,’ Alec Baldwin Is Trump, Bill O’Reilly and Trump (Again)
+>> 0.125
+Iran's Long-Exiled Prince Wants a Revolution in Age of Trump
+>> 0.375
+Historian: Nazi Leader Hitler Once Had Jewish Landlord
+>> 0.25
+Fans to Say Farewell to Rock 'n' Roll Legend Chuck Berry
+>> 0.0
+Insurgents Kill 13 Afghan Forces in Separate Attacks
+>> -0.9083333330000001
+The Oliviers vs. the Tonys: Mixed Rewards For Shows
+>> 0.5
+Trout's HR, Simmons' Crazy Tag Lead Angels Past Mariners 5-4
+>> 0.125
+Warriors Win Their 14th Straight in Kevin Durant’s Return
+>> 0.5
+Chinese GP to Go Ahead as Planned After Hospital Upgrade
+>> 0.208333333
+What’s on TV Sunday: Jonah Hill in ‘War Dogs’ and ‘The White Queen’ Marathon
+>> -0.125
+Lomachenko Makes Easy Work of Sosa Before 9th-Rd TKO
+>> 0.125
+Oilers Beat Canucks 3-2, Clinch at Least Second in Pacific
+>> 0.5625
+Diamondbacks Rally Again, Erupt Late to Crush Indians
+>> -0.375
+Durant Shines in Return From 19-Game Absence, Knee Injury
+>> -0.291666667
+Late Goal Gives San Jose 1-1 Draw With Seattle Sounders
+>> -0.125
+Damian Lillard Scores Trail Blazers-Record 59 Points
+>> 0.0
+In-Form Kyrgios Sends Australia Into Davis Cup Semis
+>> 0.0
+Davis Cup: Australia Clinches Quarterfinal Win Over US
+>> 0.5
+Last Year’s Loss Propels Denver to Its Eighth Frozen Four Title
+>> -0.625
+Sharks Beat Flames 3-1 in Regular-Season Finale
+>> 0.125
+Islanders Defeat Devils but Are Eliminated From the Playoffs
+>> -0.125
+NHL: Maple Leafs Clinch Last Playoff Spot
+>> -0.03125
+Cormier Retains Light Heavyweight Belt, Retires Johnson
+>> 0.125
+Denmark Seeks to Change Law on Pipelines Amid Nord Stream 2 Divisions
+>> 0.0
+Emily Hirshey, Joseph Tracy
+>> 0.0
+Gayatri Patel, Raamin Mostaghimi
+>> 0
+Gricel Okazaki, James Mutton
+>> 0.0
+Emily Miles, Joshua Smith
+>> 0.25
+Portia Rosemond, Patrick Ragen
+>> 0.0
+Randi Eichenbaum, Daniel Sternberg
+>> 0.0
+Molly Cohen, Baishi Wu
+>> 0.0
+Rachel Lavipour, Daniel Nauheim
+>> 0.0
+Norway Police Neutralize Explosive Device, Arrest Suspect
+>> -0.8125
+Family Was on a College Scouting Trip When Killed in Crash
+>> -0.125
+Kathryn Marie Ogletree, Benjamin Story
+>> 0.0
+Maressa Criscito, Jared Berkey
+>> -0.125
+Today in History
+>> 0.125
+Ann-Marie MacFarlane, Yves Lawson
+>> 0
+Erin Hartigan, Marc Lavallee
+>> 0.0
+Amanda Woodruff, Enrique Santos
+>> 0.0
+Lillian Blackshear, Clifton Peay III
+>> 0.0
+Caroline Boneparth, Michael Dechert
+>> 0.0
+Jazz Guard Raul Neto Hurts Left Ankle Against Trail Blazers
+>> 0.08333333300000001
+Wild Beat Coyotes 3-1 for Franchise-Record 49th Win
+>> 0.5
+Rusnak Leads Salt Lake Past Vancouver 3-0 in Snow
+>> -0.4375
+Eugene Lang, Investor Who Made College Dreams a Reality, Dies at 98
+>> 0.034999999999999976
+Graveman Takes No-Hit Bid Into 7th, A's Beat Rangers
+>> -0.333333333
+Kershaw Yields Consecutive HRs for 1st Time, Rox Top Dodgers
+>> -0.04166666699999999
+Margot, Chacin Lead Padres Over Bumgarner and Giants 2-1
+>> -0.25
+Seguin Has Only Goal in Shootout, Stars Beat Avalanche 4-3
+>> 0.375
+After the Mets Praise Robert Gsellman, the Marlins Bruise Him
+>> -0.291666667
+Maple Leafs Beat Penguins to Clinch Final Playoff Spot
+>> -0.84375
+Lukosevicius Hat Trick Gives Denver NCAA Title, 3-2 Over UMD
+>> -0.1875
+Chris Paul Scores 19 Points, Clippers Beat Spurs 98-87
+>> 0.125
+Corrections: April 9, 2017
+>> 0.0
+Ozuna Goes Deep, Conley Pitches Marlins Past Mets 8-1
+>> 0.125
+The Latest: Road Near Landslide to Be Closed Until Monday
+>> 0.0625
+Phillies Score 12 During Nationals' 'Nightmare' First Inning
+>> -0.25
