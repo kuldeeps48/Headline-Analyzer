@@ -290,9 +290,10 @@ class Ui_Dialog(object):
     def oneWeekAnalysis(self):
         pg.setConfigOptions(antialias=True)
         global displayingfile
-        global outputDate
+        global displayingDate
+        import datetime
+        today = datetime.datetime.strptime(displayingDate, "%Y-%m-%d").date()
         # Get output date, compute 1 week from that date
-        today = outputDate
 
         y_axis_pos = []
         x_axis_pos = []
