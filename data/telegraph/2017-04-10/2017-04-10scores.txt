@@ -1,0 +1,174 @@
+If the confrontation over Syria escalates any further, Ithe only winners will be Isil
+>> 0.625
+Shock as man forcibly removed from overbooked United Airlines flight
+>> 0.9107142859999999
+Cressida Dick arrives for her first day as Met Police chief and prepares to 'fight her corner' over budget cuts
+>> 0.375
+British teacher moves to Uganda to adopt boy she met on gap year
+>> 0.125
+Pc Keith Palmer's funeral: Thousands of officers to line streets to honour Westminster terror victim
+>> 0.4583333330000001
+Philippines earthquake recorded underwater by diver
+>> -0.625
+Jeremy Corbyn announces Labour would raise legal minimum wage to £10 an hour by 2020
+>> 0.0
+'A beacon of hope': Birmingham MP Jess Phillips praises woman who stood up to EDL
+>> 0.575
+Stockholm attack driver 'deliberately targeted young children' as he drove hijacked lorry into crowd
+>> 0.5
+Stockholm terror suspect boasted he had 'run over 10 people' in WhatsApp messages to Isil supporter
+>> -0.28125
+Is Prince Harry about to pop the question? Meghan Markle gives up her lifestyle blog
+>> 0.875
+Unite leadership challenger Gerard Coyne says Len McCluskey has 'lost the plot'
+>> -0.18055555599999995
+When is the Queen's birthday and why does she celebrate twice?
+>> 0.125
+Donald Trump outpaces Barack Obama with 16th trip to golf course since inauguration
+>> 0.0
+'I wasn't scared' says woman who faced down EDL leader as he comments 'she's lucky she's got any teeth left'
+>> 0.803571429
+America could launch fresh strikes on Syria, Boris Johnson warns
+>> -0.375
+Pictures of the Day: 10 April 2017
+>> 0.0
+Incredible Southern Lights display captured in time lapse video
+>> 0.35
+Families of Hyde Park bombing soldiers 'launch civil claim against IRA member ex-suspect'
+>> -0.875
+When is Easter? Dates and the meaning behind Good Friday, Easter Sunday and Easter Monday
+>> 0.889423077
+#StandForKeith: Police officers and politicians post heartfelt tributes to Pc Keith Palmer on day of his funeral
+>> 0.625
+Rugby player's mother may have invented a way to finally prevent cauliflower ears
+>> -0.25
+Coffin of Westminster terror attack victim PC Keith Palmer arrives at Parliament ahead of funeral
+>> 0.0
+UK weather: Temperatures to fall by at least 10C this week as heatwave ends
+>> -0.375
+Princes Charles, William and Harry and Justin Trudeau attend centenary of World War One battle where 'Canada was born'
+>> -0.875
+French presidential election: Poll tracker and odds
+>> 0.375
+Defiant woman who stared down EDL protester: 'I was there was because I am a Brummie'
+>> 0.571428571
+Janet Jackson separates from husband months after birth of her first child
+>> 0.25
+The 10 things you might have missed this weekend
+>> -1.5
+Syria crisis: Russia raises prospect of war if it is given G7 ultimatum as it mocks Boris Johnson's no-show
+>> 0.291666666
+Girl, 9, could fall into diabetic coma after family walk out of hospital before she is treated
+>> 0.333333333
+The Eric Monkman phenomenon: how social media has gone wild for the University Challenge sensation
+>> 1.1666666669999999
+Rare new £1 coins could make a big profit online
+>> 1.6666666669999999
+Isil claims responsibility after twin church bombings in Egypt kill at least 44 on Palm Sunday
+>> -0.42500000000000004
+Number waiting more than 18 weeks for NHS surgery 'set to double'
+>> 0.125
+Five South Korean hikers die in Canada after avalanche hits popular trail
+>> 0.125
+Bill Clinton tweets about visiting Bushes in Houston
+>> 0.0
+A quarter of Christians do not believe in the resurrection
+>> -1.0
+Wonga data breach could affect nearly 250,000 customers' bank details
+>> 0.5
+Pay of Southern rail boss almost doubles to £500k despite strikes and delays
+>> 0.5
+British Airways could charge for food on long haul flights
+>> -0.25
+Lambs the latest guests at Silvio Berlusconi's luxury villa
+>> 0.125
+Great-grandmother who was killed trying to save her dog on a motorway was matriarch of 'modern slavery' family
+>> 1.0833333339999998
+'No excuse' for dropping litter, ministers warn, ahead of drive to cut waste which blights the country
+>> 0.364583333
+Everything we know so far about the Stockholm terror attack
+>> -0.5
+Post-Brexit trade deal with India 'worth extra £2 billion to British economy'
+>> 0.583333333
+Locum doctors could be struck off for trying to hold NHS to ransom
+>> -0.9750000000000001
+Spaniards living beside Gibraltar angered by Madrid's attitude towards the Rock
+>> 0.0
+Harry Potter and the Cursed Child casts its spell over the Oliviers with a record-breaking nine awards
+>> 0.25
+Speed bumps could disappear from UK roads as part of new plan to cut pollution
+>> -0.125
+Putin 'could be allowed to rejoin G7' if he pulls out of Syria
+>> 0.125
+Sending US warships is to North Korea 'prudent', says US, as world braces for further missile tests
+>> 0.125
+Regime change in Syria is one of many priorities, says Nikki Haley
+>> -0.125
+100th anniversary of the Battle of Vimy Ridge, in pictures
+>> -0.25
+Alex Salmond: The Prime Minister's indyref2 position will 'crumble'
+>> 0.291666667
+Princes join Justin Trudeau at Battle of Vimy Ridge centenary
+>> -0.25
+Belfast hotel leaves brilliant note in lift for Irish dancers
+>> 0.375
+These incredible celebrity tattoos are jaw-droppingly realistic
+>> -0.1875
+Royal Court Theatre actors using autocue to help with their lines, production company admits
+>> -0.125
+Telegraph cartoons, April 2017
+>> 0.0
+Len McCluskey is 'grasping at straws', Unite sources claim, after attack on moderate Labour MPs
+>> 0.0
+Scorching sunshine won't last with unsettled weather on the way
+>> -0.291666667
+Briton among four killed in Stockholm terror attack
+>> -1.25
+Girl who lost all her hair dazzles with inspiring response at school
+>> 0.25694444400000005
+US Navy strike group 'moving towards Korean peninsula'
+>> 1.0
+Pictures of the Day: 9 April 2017
+>> 0.0
+Rare one-horned rhino killed by poachers at national park
+>> -0.25
+Mosque throws 'Best of British' tea party in response to EDL march
+>> 0.5625
+Donald Trump's feuding aides Jared Kushner and Steve Bannon meet to 'bury the hatchet'
+>> 0.125
+Zumba classes in care homes to save pensioners from cancer, strokes and hip fractures
+>> 0.6875
+Palm Sunday: Pope Francis celebrates Mass at the Vatican
+>> 0.0
+Body of hero police officer Keith Palmer will rest in Palace of Westminster ahead of funeral
+>> 1.125
+Gambia's ousted dictator seeks more modest title - humble farmer
+>> 0.375
+News presenter reads out breaking news of husband’s death
+>> 0.1875
+Big decision has been made so just get on with it
+>> 1.6607142860000002
+Garden strimmers causing havoc with Britain's hedgehog population
+>> -0.625
+National Rifle Association employee shoots himself during firearms safety training
+>> 0.875
+Swiss imam expelled from France
+>> 0.0
+'Bomb like device' found in Oslo, suspect arrested
+>> 0.0
+Laura Ashley boss could challenge £64m award to former wife
+>> 0.53125
+Venezuelan protesters clash with security forces
+>> 0.375
+Hacker sets off every emergency siren in Dallas
+>> 0.025000000000000022
+Meet Percy, the new King (or Queen) of BBC's Blue Planet
+>> 0.375
+Cabin crew help deliver baby at 42,000 feet
+>> 0.75
+Free waste disposal for DIYers and force fly-tippers to pick up litter, ministers demand
+>> 1.0
+Brexit poll: Eurosceptics think ending EU payments more important than stopping free movement
+>> 1.375
+Treasury accused of £3bn business rates ‘tax grab’ over appeal estimates hike
+>> 0.125

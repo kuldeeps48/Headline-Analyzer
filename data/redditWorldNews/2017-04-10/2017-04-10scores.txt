@@ -1,0 +1,150 @@
+Great Barrier Reef at 'terminal stage': scientists despair at latest bleaching data.
+>> 0.04166666699999999
+Thousands of protesters gather on the streets of Serbia for the 6th day to rally against corruption, after the election
+>> 0.5
+Marine Le Pen denies French role in wartime roundup of Paris Jews
+>> -0.25
+UK to 'scale down' climate change and illegal wildlife measures to bring in post-Brexit trade, secret documents reveal
+>> -0.303571429
+Malaysia seizes $3.1 million worth of rhino horns at airport
+>> 0.0
+Israel estimates 96% of water in Gaza undrinkable, warns of worsening crisis
+>> 0.0
+Dalai Lama Says China Cannot Decide His Successor
+>> -0.25
+Bombing reported near church in Egyptian city of Tanta
+>> -0.25
+Russia and Iran warn US they will 'respond with force' if red lines crossed in Syria again
+>> 0.1875
+Barclays CEO Jes Staley under investigation for trying to identify a whistleblower
+>> -0.375
+Chinese Cat And Dog Fur Items Sold in UK as "Faux Fur" - Sky News
+>> -0.4583333330000001
+China offers concessions to avert trade war with U.S.: FT
+>> 0.125
+Stockholm attack suspect was ordered to be deported - BBC News
+>> 1.125
+US, UK and Germany call upon Russia to investigate ‘gay purge’ in Chechnya
+>> 0.0
+British Cops Probing Litvinenko Murder 'Poisoned' in Moscow
+>> -0.875
+Violent clashes in Venezuela as thousands protest socialist government
+>> -0.21875
+Egypt declares three-month state of emergency after Palm Sunday attacks on Coptic Christian churches
+>> 0.55
+Japanese Investors Are Dumping a Record Amount of French Bonds Ahead of the Election
+>> 0.25
+Renowned satirist John Clarke dead at 68
+>> -0.825
+US State Dept approves $319m Kuwait airbase deal
+>> 0.25
+US to accuse Russia of complicity in Syrian chemical attack: report
+>> 0.25
+Spanish Police Arrest Russian Hacker on Suspicion of Meddling in US Election
+>> 0.0
+Second Explosion Strikes Church in Egypt as Coptic Pope was Inside
+>> 0.0
+Iraqis haunted by war overwhelm mental health facilities
+>> 0.0
+Paraguay's youth mobilize against president: 'Anger needs to be organised'
+>> 0.5625
+North Korea says Syria airstrikes prove its nukes justified
+>> 0.25
+Egypt church bombings: At least 28 killed in second explosion targeting Christians on Palm Sunday
+>> -0.8
+China, India, Pakistan free 19 after Somali pirate hijacking
+>> 1.125
+Donald Trump could lead US into new war with North Korea, warns former MI6 chief
+>> -0.21875
+Russia decries cancelled Boris Johnson visit and warns on further Syria attacks
+>> -0.07500000000000001
+Argentina government represses teachers protest
+>> 0.0
+BBC News: Norway raises terror threat levels after Oslo bomb find
+>> -0.25
+Syria crisis: Russia raises prospect of war if it is given G7 ultimatum as it mocks Boris Johnson's no-show
+>> 0.291666666
+Stockholm defiant - 50 thousand attend the memorial ceremony for the victims of recent incident
+>> 0.375
+U.S. officials say Russian inaction enabled Syria chemical attack
+>> 0.25
+Alberta woman arrested after Royal Canadian Mountain Police seize 1 marijuana plant from home
+>> -0.625
+China offers rewards to root out foreign spies | World news
+>> 0.0
+U.S. Navy strike group to move toward Korean peninsula: U.S. official
+>> 0.625
+Isis kills dozens of civilians caught attempting to flee Mosul and hangs bodies up on electricity poles
+>> 0.375
+Egypt declares state of emergency after deadly church attacks - BBC News
+>> 0.029166666999999924
+ISIS claims responsibility for Egypt church bombings
+>> -0.175
+UK tourists to US may get asked to hand in passwords or be denied entry
+>> -0.375
+Report: Rocket strikes southern Israel near Gaza border
+>> -0.125
+Pakistani Prosecutor Allegedly Offered Christians Acquittal if They Converted
+>> 0.25
+Egypt declares state of emergency after deadly church attacks
+>> -0.22083333300000008
+Cameroon Steps Up Reforestation Efforts — But Forest Loss Continues
+>> -0.125
+Russia to Carry Out Observation Flights Over US, Canada
+>> -0.375
+Fugitive Mexican ex-governor captured in Italy
+>> 0.0
+Russia and Iran say U.S. 'crossed red lines' with strike on Syrian air base
+>> -0.65625
+Norway to build world's first sea tunnel for ships
+>> -0.5
+Hyperloop One is considering 11 US routes for its futuristic transport system — here they are
+>> 0.625
+Chechnya 'opens first concentration camp for homosexuals'
+>> 0.166666667
+I saw this on the BBC and thought you should see it: Microdosing: The people taking LSD with their breakfast
+>> 0.166666667
+G7 foreign ministers seek U.S. clarity over Syria
+>> -0.125
+Massive protest in Hungary against bill that could oust Soros university
+>> 0.0
+U.S naval fleet alarms Seoul.
+>> 0.125
+Rome Metro workers accidentally discovered an ancient aqueduct
+>> 0.541666667
+Canadian province gambles future on marijuana's 'extreme growth potential' | World news
+>> -0.625
+Far-left Melenchon's surge shakes up French presidential race
+>> 0.375
+Sebastian Gorka Made Nazi-Linked Vitezi Rend ‘Proud’ by Wearing Its Medal
+>> -0.625
+Tillerson: China agrees on 'action' on North Korea as navy strike group sails
+>> 0.875
+Egypt President al-Sisi declares three-month state of emergency after IS attacks on Coptic churches kill 45
+>> 0.425
+British police investigating Alexander Litvinenko's murder were 'poisoned' in Moscow
+>> -0.75
+Son and brother of Assad's chemical chief granted UK citizenship
+>> -0.25
+G-7 ministers aim to press Russia to end Assad support
+>> 0.0
+Tillerson on Syria: Military Posture Towards Assad Has Not Changed; Trump Not Seeking Regime Change
+>> -1.0
+No Gibraltar change without consent, May says
+>> -0.333333333
+A new Russian compound in Nicaragua has reportedly intrigued U.S. officials who are skeptical of its intended use.
+>> 0.75
+Trump administration warns North Korea against provocation
+>> -0.375
+Startups in Japan seeing ample cash but lack of innovators
+>> 0.0
+U.S. Reroutes Warships Toward Korean Peninsula in Show of Force
+>> 0.0
+Naruto Animator Kazunori Mizuno Passes Away From Overwork
+>> -0.08333333300000001
+Donald Trump wants removal of Syrian President Bashar al-Assad
+>> 0.25
+Twenty Thousand Scientists Left Greece in Five Years; Startups Funded by Parents
+>> -0.5
+Beijing to reward informants on spying
+>> 0.333333333

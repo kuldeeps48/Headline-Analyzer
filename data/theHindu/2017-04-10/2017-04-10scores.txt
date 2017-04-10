@@ -1,0 +1,250 @@
+Full text of Kulbhushan Jadhav's confession
+>> -0.125
+Pakistan sentences former Indian naval officer to death
+>> -0.53125
+Case against former TN MLA for disrespecting national flag
+>> -0.78125
+NDA top guns to meet today
+>> -0.08333333300000001
+Jishnu case: has the DGP been removed, SC asks Kerala govt.
+>> 0.375
+EVMS brought for MCD pollS lack security feature: Kejriwal
+>> 0.5
+Sena praises Yogi, tells Fadnavis to learn from him
+>> 1.0
+What you need to know about the HIV/AIDS prevention Bill and its provisions
+>> 0.0
+Ruckus in Lok Sabha over Tarun Vijay's remarks on south Indians
+>> 0.0
+TN farmers strip near PMO in protest
+>> -0.25
+Ravindra Gaikwad flies again
+>> 0.0
+ED summons again Himachal CM Virbhadra Singh in money laundering case
+>> -0.625
+SC rejects plea to declare Indus Waters Treaty as illegal
+>> -0.125
+PDP candidate urges EC to defer Anantnag bypoll
+>> 0.0
+Railways supply chain to go digital
+>> 0.125
+Opposition to raise with EC 'tampering' of EVMs in recent polls
+>> -0.4375
+Mamata meets Modi
+>> 0.0
+'Aren't South Indians citizens of this nation?' Kharge asks government
+>> 0.0
+U.P. govt starts work on 6 AIIMS, 25 new medical colleges
+>> 0.375
+Was the money distributed in R K Nagar white money, asks Chidambaram
+>> -0.125
+Heavy security in Kashmir as separatists call shutdown
+>> 0.625
+Remembering the evergreen romantic hero
+>> 0.25
+A food corner for children’s home
+>> 0.125
+‘Muslim community has a low rate of divorce’
+>> 0.2375
+Aadhaar-PAN link made easier
+>> 0.75
+Ambedkar Smriti Vanam will be a landmark, says Minister
+>> 0.375
+Tribal rights meet to be held in Vizag
+>> 0.125
+Quality is this cobbler’s trade secret
+>> 0.32499999999999996
+Cotton trade absorbed huge amounts of black money
+>> -0.366071429
+VACB finds flaws in tribal housing
+>> -0.125
+SHRC wants height of steps in buses reduced
+>> 0.0
+Woes of coastal region will be addressed: Sadananda Gowda
+>> -0.125
+Child wedding stopped at self-ostracised village
+>> 0.25
+CFSI plans ‘Kashmir to Kanyakumari’ project
+>> 0.25
+Pithani takes charge
+>> 0.0
+Will prove that SCS is better than package, says KVP
+>> 1.25
+Vellore hospital offers cosmetic surgery
+>> 0.5
+Elangovan wants CM, Ministers arrested
+>> 0.25
+11 tonnes of PDS rice seized
+>> -0.875
+130 kg meat seized
+>> -0.875
+Children who inspired Minister
+>> 0.875
+Students develop amphibian motorcycle
+>> 0.0
+The migrant flavour in city’s street food
+>> -0.5
+Tiny drops of pure compassion
+>> -0.26785714299999996
+Miraculous escape for passengers, car driver as road caves in
+>> 0.0
+Extremely unusual, says E. Sreedharan on Chennai road cave-in
+>> 0.125
+Cave-in raises concerns of safety standards
+>> 0.375
+Crew recall that sinking feeling
+>> -0.5625
+Will act against police: govt
+>> 0.25
+Over one lakh farmers benefit under Krishi Bhagya scheme
+>> 0.5
+25 % of Kalaburagi airport runwaywork completed
+>> 0.0
+Jumbo receives treatment, joins herd
+>> 0.125
+Sale deed registration can’t be refused summarily, says HC
+>> 0.0
+Two-child norm tied to jobs in Assam
+>> 0.25
+AI grounds drunk pilot for 3 months
+>> 0.25
+Matricide to ‘appease’ Kali
+>> 0.0
+EC cancels RK Nagar bypoll
+>> 0.0
+‘Opposition wants our govt. to fall’
+>> 0.25
+‘Centre had no role in Income Tax crackdown’
+>> -0.08333333300000001
+Bypoll should go on, say major parties
+>> 0.75
+Week-long festival to mark Ramanavami
+>> 0.0
+Students leave a mark with different writing styles
+>> 0.625
+Health Minister C. Vijayabaskar summoned by I-T department
+>> 0.25
+Badi Baata fails to enthuse school drop-outs
+>> -0.125
+Bannerghatta National Park ‘buffer’ zone shrinks
+>> 0.0
+ICU at Bhadrachalam Area Hospital soon
+>> 0.125
+CM: Kesari blazed a trail in State’s cultural milieu
+>> 0.125
+Voters in Mahadevanagar protest absence of polling booth, basic amenities
+>> 0.25
+Two arrested for torching forest
+>> -0.125
+Gundlupet, Nanjangud see record turnout in bypolls
+>> 0.291666667
+Morning, evening preferred times to vote
+>> 0.8125
+Staff boycott holds up FMD vaccination drive
+>> 0.84375
+From dull to high notes: Various shades of the bypolls
+>> -0.03749999999999998
+Health Dept. focus now on blood cell disorders
+>> 0.5
+Polling peaceful in Nanjangud, Gundlupet segments
+>> -0.208333333
+It’s Forest Dept. vs. Hescom at Bhimgad Wildlife Sanctuary
+>> 0.0
+Closing in on 100, and still continuing the good fight
+>> 0.514423077
+Delayed polling, technical glitches, were some of the issues faced during polling
+>> 0.8125
+Urs begins on grand scale at Badapahad dargah
+>> 0.0
+Engineering student attempts suicide
+>> -0.4
+Shopping mall charges a ploy to defame my family: Lalu
+>> 0.375
+‘Will behead those against Ram temple’
+>> -0.375
+President pats FM for finishing budget process by Mar. 31
+>> -0.75
+Complaint against MLA for ‘hate speech’
+>> -0.3125
+Postmortem on Madhukar again today
+>> -0.125
+Zuari bridge by January 26, 2019
+>> 0.0
+Litter-free Goa: art installation’s aim
+>> 0.625
+No Constitutional impropriety in Goa govt. formation: Shah
+>> 0.583333333
+PWD order likely to delay work on Chitradurga medical college
+>> 0.125
+Kudla Express finally flagged off
+>> -0.475
+A windfall that came a bit late
+>> 0.25
+Olive Ridley eggs hatch in thousands in Ganjam
+>> -0.25
+Curfew relaxed in Bhadrak
+>> 0.125
+Mystery shrouds death of student
+>> -0.0625
+Armed rally ends peacefully
+>> 0.25
+AICTE all set to release model exam format
+>> 1.8958333330000001
+TSERC wants changes in PPAs
+>> 0.25
+Indian team in U.S. for defence technology talks
+>> -0.25
+Azam Khan returns cow gifted by Sankaracharya
+>> 0.0
+Manipur drug-makers prove elusive for police
+>> -0.375
+Ghost streets and deserted booths mark Srinagar bypoll
+>> 0.0
+Reclamation will cause ecological damage to Vembanad, says panel
+>> -1.25
+Signs of normality returning to violence-hit Bhadrak
+>> 0.0
+Rajasthan Home Minister promises action in Alwar case
+>> 0.0
+Assembly bypolls across six States mostly peaceful
+>> -0.208333333
+Hasina offers chadar at Ajmer
+>> 0.0
+Teesta waters can’t be shared: Mamata
+>> 0.25
+States pan ‘politicisation’ of Governor’s role
+>> 0.0
+Jishnu’s family calls off fast
+>> 0.25
+Telangana, A.P. face problem of plenty in power sector
+>> -0.75
+Four of a family found murdered in Kerala
+>> -0.25
+Farm hartal in Alappuzha today
+>> 0.125
+Jishnu case: vice-principal arrested in Tamil Nadu
+>> 0.625
+Homes turn stir grounds
+>> -0.225
+Police report adheres toCM’s script: Chennithala
+>> 0.375
+After a lull, milk production on the upswing
+>> 0.125
+Woman killed while alighting from moving train
+>> 0.125
+M. Achuthan passes away
+>> -0.333333333
+Drive on Pamban bridge to be smooth
+>> 0.59375
+Baby delivered onboard a NEKRTC bus
+>> 0.0
+67.97% voting recorded in Assam’s Dhemaji assembly by-poll
+>> -0.25
+MP bypolls: Two firing incidents reported in Ater seat
+>> 0.375
+Now, Pink Hoysalas to come to the rescue of women, children in distress
+>> -0.28125
+45% polling till 2.30 pm in Karnataka assembly bypolls
+>> 0.0
+Theft in New Delhi-Patna Rajdhani Express, 7 RPF personnel suspended
+>> 0.0
