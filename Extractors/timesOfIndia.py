@@ -16,8 +16,7 @@
 ##########
 
 # !/usr/bin/python3
-import datetime, os, requests
-from Extractors.apiKeys import code
+import datetime, os, requests, feedparser
 
 SOURCE_CODE = "timesOfIndia"
 
@@ -43,18 +42,17 @@ def get_json(url):
 def extractor(headlines):
     # URL for RSS feed
     base_url = []
-    base_url.append('http://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms?feedtype=json') # National
-    base_url.append('http://timesofindia.indiatimes.com/rssfeeds/296589292.cms?feedtype=json') # World
-    base_url.append('http://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms?feedtype=json') # Bangalore
+    base_url.append('http://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms') # National
+    base_url.append('http://timesofindia.indiatimes.com/rssfeeds/296589292.cms') # World
+    base_url.append('http://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms') # Bangalore
 
-    for i in range(3):
-        # Fetch JSON data and refine the data
-        json_data = get_json(base_url[i])
-        news = json_data['channel']['item']
+    for i in range(2):
+        # Parse RSS feed
+        feed = feedparser.parse(base_url[i])
 
         # Append headline to list
-        for single_news in news:
-            headlines.append(single_news['title'])
+        for single_news in feed['entries']:
+            headlines.append(single_news["title"])
 
 
 # Module to be called from extractorRunner.py
@@ -83,3 +81,5 @@ def scrapper():
                 pass
 
     return file
+
+scrapper()
