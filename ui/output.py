@@ -5,6 +5,7 @@ from pathlib import Path
 import images.outputResources  # Output window resources(UI images)
 import pyqtgraph as pg
 from PyQt4 import QtCore, QtGui
+from PyQt4.QtGui import *
 from pyqtgraph import PlotWidget
 from wordcloud import WordCloud
 import numpy as np
@@ -27,15 +28,18 @@ except AttributeError:
         return QtGui.QApplication.translate(context, text, disambig)
 
 # Globals
+displayingDate = 0
 displayingfile = ""  # File on which output is being calcuated
 displayingHeadlines = ["A", "B", "C", "D"]  # Default headlines
 displayingScores = [0.0, 0.0, 0.0, 0.0]  # Default scores
 lineNumber = 0  # Keeping track of headlines in file , to display 4 headlines at a time
-outputDate = date.today()  # Default date to show output on is today. Changes when selected from calender
+outputDate = displayingDate  # Default date to show output on is today. Changes when selected from calender
 calculatingAccuracy = False  # Flag to indicate if we are in calculate Accuracy mode
 wrongScoreCounter = 0  # To calculate Accuracy
 headlinesDisplayedCounter = 0
 allHeadlinesShown = False
+source = ""
+MainW = 0  # Global reference to our program
 
 # Function to construct wordcloud
 def drawWordCloud():
@@ -373,6 +377,10 @@ class Ui_Dialog(object):
             lineNumber = 0
             # Display first 4 headlines
             self.nextFourHeadlines()
+        else:
+            with open("./data/dateSelected.txt", "w") as f:
+                f.write(source + " " + selected_date)
+            QApplication.closeAllWindows()
 
 ########################################################################################################################
 ################################# Output window graphics elements ######################################################
@@ -443,6 +451,11 @@ class Ui_Dialog(object):
         self.calendarWidget.setGeometry(QtCore.QRect(830, 430, 361, 251))
         self.calendarWidget.setMinimumDate(QtCore.QDate(2017, 1, 2))
         self.calendarWidget.setMaximumDate(QtCore.QDate(2017, 12, 31))
+        global displayingDate
+        year = displayingDate[:4]
+        month = displayingDate[5:7]
+        day = displayingDate[8:10]
+        self.calendarWidget.setSelectedDate(QtCore.QDate(int(year), int(month), int(day)))
         self.calendarWidget.setObjectName(_fromUtf8("calendarWidget"))
         self.calendarWidget.clicked.connect(self.dateSelected)
 
@@ -631,7 +644,12 @@ class Ui_Dialog(object):
 
 def showOutput():  # testing: add parameter : file
     global displayingfile
+    global displayingDate
+    global source
     displayingfile = sys.argv[1]  # Set file from which we are displaying output. Take it from command line argument
+    source = sys.argv[2]
+    displayingDate = sys.argv[1][-20:-10]
+    print(displayingDate)
     # displayingfile = file  # testing
     app = QtGui.QApplication(sys.argv)
     Dialog = QtGui.QDialog()

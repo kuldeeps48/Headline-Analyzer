@@ -61,12 +61,42 @@ class Ui_window(object):
         self.buildingOutputLabel.show()
         QApplication.processEvents()
         # Build and Show output, wait for it to be closed
-        outputProcess = subprocess.Popen("python -m ui.output " + outputFile)
+        outputProcess = subprocess.Popen("python -m ui.output " + outputFile + " " + name.replace(" ", "-"))
         outputProcess.wait()
-
         self.buildingOutputLabel.hide()
-        self.customScoreLabel.show()  # If custom score was calculated, show it again
         QApplication.processEvents()  # Progress GUI events
+        while os.path.exists("./data/dateSelected.txt"):
+            print("Found a date with no data. Beginning fetch.")
+            with open("./data/dateSelected.txt") as f:
+                line = f.readline()
+                name = line[:-11]
+                date = line[-10:]
+                year = date[:4]
+                month = date[5:7]
+                day = date[8:]
+            os.remove("./data/dateSelected.txt")
+            if not os.path.exists("./data/dateSelected.txt"):
+                print("Removed the date selected file. Processing it.")
+
+            # To synchronize progress bar
+            e = multiprocessing.Event()
+            queue = multiprocessing.Queue()  # To get score file from threaded process
+            p = multiprocessing.Process(target=extractorRunner.runScrapperDate, args=(name, e, queue, year, month, day)).start()
+            # create loading screen
+            GUI = Loading()
+            xPos = MainW.geometry().topLeft().x()
+            yPos = MainW.geometry().topLeft().y()
+            GUI.setGeometry(xPos, yPos, 846, 582)  # Set it on top of mainUI window
+            GUI.download(e)  # Start progress bar with sync
+            outputFile = queue.get()
+            # Wait Label
+            self.buildingOutputLabel.show()
+            QApplication.processEvents()
+            # Build and Show output, wait for it to be closed
+            outputProcess = subprocess.Popen("python -m ui.output " + outputFile + " " + name)
+            outputProcess.wait()
+            self.buildingOutputLabel.hide()
+            QApplication.processEvents()  # Progress GUI events
 
 
     # Function to call when extracting all and comparing
