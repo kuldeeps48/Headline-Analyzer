@@ -1,0 +1,120 @@
+Syria war: G7 seeks united front on Assad and Russia
+>> -0.375
+Why was a passenger dragged off a US flight?
+>> 0.4
+Trump: Supreme Court's Neil Gorsuch will be 'truly great'
+>> 1.3958333339999998
+Stockholm attack: Sweden holds minute's silence for victims
+>> -0.25
+Russian arrested in Spain 'over US election hacking'
+>> 0.375
+Viral photo woman on her 'powerful' smile
+>> 0.40625
+French election: Macron vows to tackle terrorism by taking on tech companies
+>> 0.875
+South African President Jacob Zuma: Protesters racists
+>> 0.0
+Spain policewoman in row over period toilet break
+>> -0.125
+Plane-tracking app explores airspace in 3D
+>> 0.0
+Toshiba may sell chip business to Foxconn for $27bn
+>> 0.25
+Spain mourns first female defence minister Carme Chacón
+>> -0.375
+Thousands bid farewell to murdered officer
+>> 0.0
+Decomposing bat found in Walmart salad prompts rabies tests
+>> 0.125
+One family's life in the wilderness
+>> -0.125
+Australian rapper skips dinner bill by swimming off, court told
+>> -0.975
+Russian teenagers talk politics, protests and Putin
+>> 0.0
+US net 'warriors' send racially charged symbols to France
+>> 0.708333333
+Google's AI seeks further Go glory
+>> 0.25
+Memorial for dog killed in Stockholm attack, and Arabella Kushner serenades Chinese leader
+>> -0.8333333330000001
+Don't look down! The see-through swimming pool 500ft up
+>> -0.511904762
+CEO Secrets: Yogscast boss tells YouTubers 'Do it for love'
+>> 0.575
+Six key cases the new Supreme Court judge could rule on
+>> 1.2916666669999999
+Serbia sees daily 'anti-dictator' protests
+>> -0.875
+Egypt Copt attacks: 'I feel so scared'
+>> 0.2
+How a razor revolutionised the way we pay for stuff
+>> 0.25
+What we know about the Sweden truck attack suspect
+>> 0.25
+Microdosing: The people taking LSD with their breakfast
+>> 0.5
+Ross Barkley: Everton midfielder was victim of unprovoked attack, says lawyer
+>> -0.625
+Masters 2017: Rickie Fowler & Matt Kuchar feature in shots of the tournament
+>> 0.375
+Sadio Mane: Liverpool forward to have knee surgery and will miss the end of the season
+>> 0.5
+Tony Adams: Granada name ex-Arsenal and England captain head coach
+>> -0.375
+Rhys Webb: Past troubles temper Wales scrum-half's Lions hopes
+>> 0.125
+Keiron Cunningham: St Helens part company with head coach
+>> -0.75
+Great Barrier Reef: Two-thirds damaged in 'unprecedented' bleaching
+>> -0.395833333
+Kulbhushan Jadhav: Death penalty for 'Indian spy' in Pakistan
+>> -0.6875
+Toshiba may sell chip business to Foxconn for $27bn
+>> 0.25
+Beijing offers hefty cash reward for spy tip-offs
+>> 0.458333333
+Ayodhya: India politician threatens to behead temple opponents
+>> -0.25
+Kashmir violence: Eight killed in clashes during by-election
+>> -0.125
+John Clarke: Satirist beloved in Australia and New Zealand dies
+>> 0.03499999999999992
+Google's AI seeks further Go glory
+>> 0.25
+North Korea missiles: US warships deployed to Korean peninsula
+>> 0.0
+IS in Afghanistan: US special forces soldier is killed
+>> 0.46875
+Syria strike 'vindicates' North Korea's nuclear choice
+>> 0.375
+Trump to make China visit after hosting Xi for talks
+>> 0.604166667
+Younus Khan: Pakistan batsman to retire after West Indies Test series
+>> -0.25
+Japanese castle seeks lord and lady for one night
+>> 0.0
+Pheromones may help foil reef-killing starfish
+>> 0.0625
+Thousands take part in Japanese samurai parade
+>> 0.0
+John Yuyi: The artist behind Gucci's viral campaign
+>> 0.0
+Dalai Lama's rapturous welcome at Buddhist monastery
+>> 0.125
+India buffalo abattoirs sit empty after government crackdown
+>> 0.208333333
+Cyclone Debbie
+>> 0.0
+Sharif's next move
+>> 0.0
+'We need heroes'
+>> 0.375
+Mistaken identity
+>> 0.125
+New era, new uncertainties
+>> 0.75
+Showdown looms
+>> -0.5
+'Cheriegate' conman
+>> 0

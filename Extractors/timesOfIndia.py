@@ -81,5 +81,3 @@ def scrapper():
                 pass
 
     return file
-
-scrapper()

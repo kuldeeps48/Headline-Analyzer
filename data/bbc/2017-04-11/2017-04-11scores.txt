@@ -1,0 +1,122 @@
+Syria war: G7 fails to agree sanctions on Russia after 'chemical attack'
+>> 0.050000000000000044
+Toshiba files unaudited results and says future is in doubt
+>> 0.5
+United CEO says removed passenger was 'disruptive and belligerent'
+>> 0.125
+Charlie Gard case: Doctors can withdraw baby's life support
+>> -0.375
+African migrants sold in Libya 'slave markets', IOM says
+>> 0.5
+Huge fire destroys camp housing 1,500 migrants in France
+>> -0.333333333
+Stockholm suspect 'admits truck attack'
+>> 0.375
+Shell admits dealing with money launderer
+>> 0.0
+Trump administration 'to sell Nigeria planes' for Boko Haram fight
+>> 0.25
+Blast rocks mainly Kurdish city of Diyarbakir in Turkey
+>> -0.2
+Michigan student charged in 'peanut butter hazing'
+>> 0.333333333
+Venezuela police clash with anti-government protesters
+>> -0.625
+Aboriginal Australian rules players demand end to racial abuse
+>> 0.09999999999999998
+The way people tilt their smartphone 'can give away passwords and pins'
+>> -0.208333333
+Natasha Exelby: Why a blooper led reporters to share embarrassing tales
+>> 0.0
+'Lonely life' in Indonesian village where mothers work abroad
+>> -0.3125
+Not so friendly skies: United Airlines' public relations disaster
+>> -0.375
+The Gloucestershire shopkeeper who became a hero in Poland
+>> 0.25
+Vashon Island: The place where parents skip jabs
+>> 0.375
+Lion and bear rescued from zoo in war zone Mosul
+>> 0.625
+Amazon's Alexa turns on Ford car's engine
+>> -0.125
+The Americans volunteering to watch executions
+>> 0.125
+United Airlines incident: Why do airlines overbook?
+>> 0.125
+France election: South-west voters eye Brexit with envy
+>> 1.0
+Why an X-Men comic has ignited debate in Indonesia
+>> 0.75
+Turkey referendum: Critics abroad fear Erdogan's reach
+>> -0.25
+Toronto-area Peel District School Board in Muslim prayer row
+>> 0.25
+'Blood contamination tore my family apart'
+>> -0.25
+Sam Warburton: Blues flanker faces six week lay-off
+>> -0.433333333
+MCC confirms sendings off and other laws to come in on 1 October
+>> 0.125
+Mike Phillips: Former Wales & Lions scrum-half to quit at end of Sale's season
+>> -0.71875
+Heather Watson and Naomi Broady knocked out of Biel Bienne Open
+>> -0.25
+Atletico Madrid v Leicester: Fernando Torres on how 'we all became Leicester fans'
+>> 0.3125
+Toshiba files unaudited results and says future is in doubt
+>> 0.5
+North Korea lashes out at US Navy strike group move
+>> 0.5
+Aboriginal Australian rules players demand end to racial abuse
+>> 0.09999999999999998
+Kulbhushan Jadhav: India to do 'whatever it takes' to help 'spy'
+>> -0.375
+Figure skating star Mao Asada stuns Japan with retirement
+>> -0.125
+Natasha Exelby: Why a blooper led reporters to share embarrassing tales
+>> 0.0
+Cyclone warning for Australia cancelled
+>> 0.0
+China 'world's top executioner'
+>> -0.208333333
+Malala Yousafzai made youngest UN Messenger of Peace
+>> 0.5
+Somalia piracy: Indian ship freed but hijackers take crew
+>> 0.625
+Kulbhushan Jadhav: Death penalty for 'Indian spy' in Pakistan
+>> -0.6875
+Toshiba may sell chip business to Foxconn for $27bn
+>> 0.25
+Great Barrier Reef: Two-thirds damaged in 'unprecedented' bleaching
+>> -0.395833333
+Beijing offers hefty cash reward for spy tip-offs
+>> 0.458333333
+AI wins $290,000 in China poker tournament
+>> 1.0
+John Clarke: Satirist beloved in Australia and New Zealand dies
+>> 0.03499999999999992
+'Lonely life' in Indonesian village where mothers work abroad
+>> -0.3125
+The woman whose death led to a foeticide investigation
+>> -0.3125
+What is behind Toshiba's financial crisis?
+>> 0.625
+Thousands take part in Japanese samurai parade
+>> 0.0
+Hidden meaning
+>> -0.03125
+Cyclone Debbie
+>> 0.0
+Sharif's next move
+>> 0.0
+'We need heroes'
+>> 0.375
+Mistaken identity
+>> 0.125
+New era, new uncertainties
+>> 0.75
+Showdown looms
+>> -0.5
+'Cheriegate' conman
+>> 0
