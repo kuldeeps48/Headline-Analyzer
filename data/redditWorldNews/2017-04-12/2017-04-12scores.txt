@@ -1,0 +1,160 @@
+Israel's Holocaust museum invites Spicer to visit its website for WWII info
+>> 0.125
+China rejects North Korean coal shipments, opts for US supplies instead
+>> 0.375
+Japanese warships to join US fleet near North Korea as tensions rise
+>> 0.0
+Tourist carves names into Colosseum in Rome
+>> -0.25
+LGBT community worldwide raises funds to get Chechen gays to safety (explicit content inside)
+>> 1.0
+Islamist suspect arrested over Borussia Dortmund bus bomb attack, German prosecutors say
+>> 0.75
+Middle East travellers to the US down 20%, says Marriott CEO
+>> -0.303571429
+Pyongyang warns of nuclear strike on US, as Donald Trump pledges to 'solve North Korea problem'
+>> -0.75
+Justin Trudeau to launch plans to legalise marijuana across Canada
+>> 0.0
+Vladimir Putin Says Russia-U.S. Relations Have 'Degraded' Under Donald Trump
+>> -0.8125
+China State Newspaper Threatens to Bomb North Korea Nuke Sites If China's "Bottom Line" is Crossed
+>> 1.25
+Taiwan becomes first country in Asia to ban eating of cat and dog meat
+>> -0.583333333
+EU Parliament’s group calls for ban on Muslim veil for 'security concerns'
+>> 1.0
+Japan’s population projected to plummet by almost 40 million by 2065, according to new study
+>> 1.0
+British Gamer Charged With "Swatting" Hoax That Led to a 20-Year-Old Being Shot in the Face
+>> 0.208333333
+British scientists find sarin used in Syria
+>> 0.0
+President Trump: 'We Are Not Going Into Syria'
+>> -0.75
+Germany to Spicer: Nazi analogies ‘lead to nothing good’
+>> 0.0
+One injured after 'explosion' involving Borussia Dortmund bus ahead of Monaco clash
+>> -1.0
+Melania Trump wins damages from Daily Mail over 'escort' allegation
+>> 0.75
+French election shaken by surge in support for far-left candidate
+>> 0.125
+Facing pressure from Trump, Kim Jong Un and Bashar al-Assad reaffirm their nations’ friendship
+>> -0.375
+Islamist arrested over Borussia bus bombs
+>> 0.5
+Nigeria thwarts Boko Haram plan to attack US, UK embassies
+>> -0.25
+Two-Millennia-Old Underground City Unearthed in Iran
+>> 0.625
+Israel kept US in the dark over its activities, declassified CIA documents reveal
+>> -0.46875
+Xi and Trump discuss North Korea, Syria by phone, China says
+>> -0.125
+Kazakhstan sets timeline for switch from Cyrillic to Latin alphabet
+>> 0.125
+Russian nuclear-capable bombers fly near Japan, US officials say.
+>> -0.25
+Saudi Arabia appears to be using U.S.-supplied white phosphorus in its war in Yemen
+>> 0.25
+Putin wants UN chemical weapons watchdog to investigate Syrian attack
+>> -0.375
+Marvel remove X-Men artwork after cartoonist hides anti-Semitic and anti-Christian references in work
+>> -1.125
+North Korea's hidden submarine threat as regime warns 'ready' for war
+>> 0.09375
+Arrest made, German authorities suspect 'terrorist involvement'
+>> 0.375
+Iran stunned by Mahmoud Ahmadinejad's announcement he is running for president again
+>> 0.5
+First woman stands trial over Saudi democracy protests
+>> 0.0
+Borussia Dortmund attack: Islamist suspect held.
+>> 0.25
+China Urges Trump to Pursue a 'Peaceful' Resolution to North Korea Tensions
+>> 0.04166666699999999
+U.S. Air Force nuclear sniffer jet sent to Japan
+>> 0.0
+Panama Papers Investigation Wins Pulitzer Prize
+>> 1.0
+Snowden Documents Reveal Scope of Secrets Exposed to China in 2001 Spy Plane Incident
+>> 0.375
+Iran's Ahmadinejad goes against Ayatollah, formally files to run against Rohani for president
+>> -0.28125
+Islamist arrested over Borussia bus bombs
+>> 0.5
+India Exceeds 1 Billion kwH of Monthly Solar Power Generation
+>> -0.3125
+Happy 'National Get a VPN Day' -- data retention in Australia is official
+>> 1.125
+Drug-addicted python rehabilitated by Australian prisoners - BBC News
+>> 0.875
+Brussels tells Poland, Hungary to take in migrants or face legal action
+>> -0.25
+Protests in Venezuela are getting much more intense
+>> 0.625
+White House accuses Russia of Syria chemical attack 'cover up'
+>> 0.375
+Foreign states may have interfered in Brexit vote, report says
+>> -0.875
+South Korea Seeks to Assure Citizens U.S. Won't Strike North Pre-emptively
+>> 0.3125
+Trump on North Korea Threats: We Are Sending an Armada
+>> 0.375
+Putin: Relations with the United States has "worsened" since Trump took office.
+>> 0.5
+Borussia Dortmund attack: Police investigate Islamist link - BBC News
+>> 0.5
+Sweden truck attack suspect tried to join Islamic State: Uzbek security source
+>> 1.5625
+China needs to put pressure on North Korea, Australian PM Malcolm Turnbull says
+>> 1.0
+High Court halts building in West Bank outpost
+>> 0.275
+Italy under pressure due to 30% migrant rise - Frontex
+>> 0.8125
+PM Modi beats US President Donald Trump on Instagram, becomes most followed world leader
+>> -0.375
+Newly-wed Indian woman kills husband for not being 'handsome'
+>> 0.25
+Netanyahu to Modi: People of Israel waiting for your "historic" visit
+>> 0.25
+India Is Creating an Oil and Gas Behemoth
+>> 0.0
+Foreign hackers may have hit voter registration site days before EU referendum, say MPs
+>> -0.875
+Borussia Dortmund attack: Islamist suspect held
+>> 0.5
+Suicide explosion in Kabul kills at least 5
+>> -0.4
+Syria chemical attack: Sarin gas was used in Khan Sheikhoun strike, says UK ambassador to UN
+>> 0.625
+Nasa to hold major press conference on 'ocean worlds' in our solar system
+>> 0.625
+Xi-Trump call: China urges 'peaceful' North Korea solution - BBC News
+>> 0.541666667
+Venezuela Protesters Vow to Keep Up the Pressure on President Maduro
+>> 0.25
+Russia's Lavrov tells Tillerson important not to allow new U.S. strikes in Syria
+>> 0.625
+Barricades, arrests overnight as Venezuela protests spread to low-income areas
+>> -0.3875
+Nigeria thwarts Boko Haram plan to attack US, UK embassies
+>> -0.25
+Syria war: Why was Shayrat airbase bombed?
+>> 0.0
+U.S. told Japan before Trump-Xi talks of option to strike North Korea
+>> -0.125
+Brazil judge targets dozens of politicians for ‘corruption’
+>> 0.0
+Emirates trolls United Airlines as CEO refuses to resign - World Bulletin
+>> -0.125
+Trump's energy review blocked G7 nations from reaching a consensus on the Paris climate agreement
+>> -0.04166666699999999
+A Woman’s Death Sorting Grapes Exposes Italy’s ‘Slavery’
+>> -0.0625
+Toyota introduces wearable robotic leg for patients severely paralyzed on one side of the body.
+>> -0.416666667
+The Latest: Explosives in Dortmund attack used metal pins
+>> -0.25
