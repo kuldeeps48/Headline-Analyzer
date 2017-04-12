@@ -1,0 +1,80 @@
+2010 CWG 'complete management failure', says PAC citing top officer
+>> 0.25
+Family of martyred soldier urges PM Modi to save Jadhav
+>> 0.5625
+My info on Jadhav was based on reliable sources: German diplomat Gunter Mulack
+>> 0.875
+Check preparedness against vector borne diseases in hospitals: Health minister J P Nadda
+>> 0.875
+PM Narendra Modi most followed world leader on Instagram
+>> -0.5
+Report on Yamuna floodplains leaked without serving us: AOL
+>> 0.0
+'It is his personal opinion': Veerappa Moily isolated in Congress over replacing EVMs
+>> 0.75
+Netanyahu to Modi: People of Israel waiting for your visit
+>> 0.25
+Election Commission throws 'open challenge': From first week of May, try and hack our EVMs
+>> 0.5
+Need to further strengthen cooperation with India to fight terrorism: UK
+>> 0.375
+Supreme Court voices shock over money meant for poor going 'somewhere else'
+>> -0.825396825
+Ex-employee accuses ScoopWhoop co-founder Suparn Pandey of sexual harassment
+>> -0.3125
+PM Modi slams opposition for blocking new OBC panel bill
+>> 0.3125
+Voices of dissent being muzzled, alleges Opposition; disinformation campaign, says govt
+>> -0.0625
+Sikhs from across the globe to converge at Gurdwara Panja Sahib
+>> 0.0
+Rs 42.02 crore, 10 years needed to restore Yamuna floodplain: Expert panel tells NGT
+>> 0.75
+Somalia's military rescues 8 Indian crew members held hostage by pirates
+>> 0.125
+Jaya Bachchan: You can protect cows, but not women?
+>> -1.5
+Karnataka: Bypolls turn big as Congress, BJP see it as popularity test for 2018
+>> 0.9166666669999999
+Lok Sabha adjourned sine die, Speaker hails session
+>> 0.375
+We will work with US against North Korea: China
+>> 0.75
+Stockholm attack suspect tried to join IS in Syria: Reports
+>> 0.8125
+Donald Trump: Different strokes
+>> 0.625
+Germany eyes Islamic extremist motive in Dortmund, arrests 1
+>> 0.5
+Russia-US relations have 'worsened' under Trump: Putin
+>> -0.75
+Melania Trump wins damages from Daily Mail publisher
+>> 0.125
+Tillerson meets Lavrov after war of words over Syria
+>> -0.375
+In surprise move, Iran's Ahmadinejad to run for president
+>> 0.59375
+German police probing 'Islamist link' to Dortmund blasts
+>> 0.875
+Republicans survive poll scare, win Kansas House seat
+>> 0.125
+Taiwan bans consumption of dog and cat meat
+>> -0.583333333
+Decision to bomb Syrian airbase influenced by Ivanka: Donald Trump's son
+>> 0.25
+Pakistan boy's sexual organ chopped off, eyes pricked for 'honour'.
+>> 1.233333333
+US accuses Russia of Syria gas attack 'cover up'
+>> 0.125
+North Korea warns of nuclear strike if provoked
+>> -0.5
+United Airlines finally apologizes as image takes beating
+>> -0.5
+Trump spokesman likens Assad to Hitler, sparks outcry
+>> -0.5
+Russia must choose between Assad and the US: Tillerson
+>> 0.0
+'We can solve North Korea problem without China'
+>> -0.125
+North Korea vows response to 'reckless' US Navy move
+>> -0.25

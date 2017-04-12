@@ -1,0 +1,258 @@
+Mani’s death: HC asksCBI to take over probe
+>> 0.125
+Kannagi temple fest on May 10
+>> 0.0
+HC reserves verdict in Lavalin case
+>> -0.625
+Ex-employee accuses ScoopWhoop co-founder of sexual harassment
+>> -0.3125
+Hindu Yuva Vahini members ‘barge’ into house; beat up Muslim man, girlfriend
+>> -0.625
+Suresh Chavhanke, Sudarshan News editor-in-chief, booked on charges of spreading communal hate
+>> -0.3125
+20 IAS officers transferred in Adityanath govt’s first reshuffle
+>> 0.0
+BGML former workers unhappy over gratuity interest disbursal
+>> -0.604166667
+Come May, petrol, diesel prices to change daily in 5 cities
+>> -0.25
+Meeting of Punjab-Haryana over SYL case on April 20: Centre to Supreme Court
+>> 0.416666667
+Former union minister Akhilesh Das dead
+>> -0.54375
+Extend visas of missionaries, MPs urge Modi, Rajnath
+>> 0.0
+SC asks Gujarat court to expedite recording of evidence in Asaram case
+>> 0.0
+Now, court issues open-ended NBW against Mallya
+>> 0.25
+HC orders CBI probe into Kalabhavan Mani death case
+>> -0.3125
+DMK demands removal of CM Edappadi Palanaswami, Ministers
+>> -0.25
+Three IM members sentenced to life
+>> 0.0
+Gandhian, ex-MLA Jnanadev Doddameti dead
+>> -0.325
+Parliament adjourned sine die
+>> 0.0
+'Triple talaq' will go in one-and-a-half years: AIMPLB leader
+>> 0.0
+Polling begins in Malappuram Lok Sabha by-election
+>> 0.375
+Officials to enforce fishing ban strictly
+>> 0.1875
+Council deputy chief seeks Bharat Ratna for Phule
+>> 0.0
+Teachers boycott SSC spot evaluation
+>> -0.09375
+Savitribai Phule statue at LMD Reservoir
+>> 0.0
+Jishnu case: Pinarayi comes clear
+>> 0.277777778
+State for continuing exempted goods list
+>> 0.625
+Over 22,000 babies delivered in ‘108’ ambulances in Karnataka
+>> 0.0
+Procure chilli through Markfed, says JP
+>> 0.0
+Six lakh IT and electronics jobs in next 2 years: Lokesh
+>> -0.25
+Digi Dhan: Guntur man hits jackpot
+>> 0.0
+‘Poorna’ finds no takers in her hometown
+>> -0.333333333
+Tennis champion aims high
+>> 0.275
+Shajahan, SUCI activists get bail
+>> 0.125
+Kanimozhi is The Hindu staff union president
+>> 0.125
+SC non-committal on exchange of old notes
+>> 0.375
+Finally, Kappatagudda gets conservation reserve tag
+>> 0.75
+A shopping complex, multiple courts and a long list of woes
+>> -0.875
+Walls to come up along rail tracks
+>> 0.25
+Communal tension in Ranchi
+>> -0.3125
+Allies advise restraint on beef
+>> -0.625
+Now, Radikaa under I-T lens
+>> 0.0
+SC pulls up U.P. govt. on official housing
+>> 0.375
+Wall to protect Uttaradi Mutt from Kagina waters
+>> -1.625
+‘Provide extra care for children during summer’
+>> 0.333333333
+Online RTE admissions from April 20
+>> 0.0
+Can’t agree to DNA test: Dhanush
+>> 0.425
+‘EC under no compulsion to hold byelection before June 4’
+>> -0.333333333
+Court asks V-C to appear for inquiry
+>> 0.0
+New fee formula for private schools yet to be finalised
+>> 0.96875
+‘Dhinakaran should be disqualified’
+>> 0.125
+Karnataka High Court stays ACB cases against two officials
+>> 0.275
+People have lost faith in EVMs: PMK
+>> -1.0555555559999998
+Heatwave in north Karnataka takes a toll on newborns
+>> -0.125
+Bypoll cancellation an injustice: Stalin
+>> 0.0
+Anganwadis to be merged with primary schools
+>> 0.5
+Murder: motive not yet clear
+>> -0.378472222
+Internal bickering resurfaces in Cong.
+>> -0.25
+Telangana Minister represents to Union Minister
+>> 0.0
+Doctors absent at Sircilla hospital
+>> 0.25
+More areas to be brought under farming: CM
+>> 0.125
+‘Minister’s comments against Lamanis a mistake’
+>> 0.0
+Warangal Book Fair from April 15
+>> 0.221153846
+Robotic hand rocks manufacturing cradle
+>> 0.5
+File FIR in Goa priest’s death: HC
+>> -0.1875
+Govt. will set up 119 more residential schools: Swami Goud
+>> 0.625
+Goa to seek revised target for iron ore extraction
+>> -0.125
+Health lessons from student cadets
+>> 0.5
+My right is being denied in House: Digvijaya
+>> -0.16346153799999996
+CBI arrests two in loan default case
+>> -0.25
+Govt. plans to celebrate third year in power
+>> 0.0
+‘Banning online pre-natal sex determination content dangerous’
+>> 0.0
+20 bus passengers injured in accident in Mandya district
+>> -1.0
+Amaravathi scores a hat trick at State film awards
+>> 0.1875
+Police, animal rights activists rescue 76 head of cattle
+>> -0.75
+VACB detects graft in road works
+>> 0.0
+GST Bills imperfect, says Chidambaram
+>> -0.625
+Ancient temples renovated in Talur village
+>> 0.125
+Modi pushes for reform and welfare agenda
+>> 0.9375
+Sena ridiculed for attending NDA meet
+>> 0.0
+Centre asked to talk to T.N. farmers
+>> 0.0
+‘Congress has taken note of Ajgaonkar’s statement on Lambani community’
+>> 0.25
+In Lower Parel, a campaign for Jadhav
+>> -0.45
+‘Only 2 EVMs in Dholpur bypoll faulty’
+>> 0
+SWR loads record freight of 44.2 MT
+>> 0.0
+Legislature panel assesses progress of Yettinahole project
+>> 0.25
+Nepal link to Jadhav verdict?
+>> 0.0
+Goa Deputy Speaker apologises for Ajgaonkar’s remarks against Lambanis
+>> 0.0
+Sushma promises strong fightback
+>> 0.5
+ED insists on Sasikala’s appearance
+>> -0.625
+Delhi Minister faces money laundering probe
+>> -0.5
+Go for urgent dialogue: Kasuri
+>> 0.375
+Parliament unites to save Jadhav
+>> 0.5625
+Can’t agree to DNA test, Dhanush tells HC
+>> 0.425
+Protest against Tasmac shop turns violent in Tirupur
+>> -0.21875
+NLC’s performance impressive, says CMD
+>> 0.5
+Bagalkot zilla panchayat president may lose membership
+>> -0.5
+Ham radio operators help unite family in T.N.
+>> -0.25
+NEET mandatory for Kerala admissions
+>> 0.0
+22 sheep crushed to death by train
+>> -0.395833333
+HC upset over delay in probing fisherman’s death
+>> -0.38194444399999994
+Currency crunch derails treasuries across State
+>> 0.25
+Clear dues to get vegetables, farmers tell Horticorp
+>> 0.7777777779999999
+Eat safe veggies this festive season
+>> 0.291666667
+Start tunnel work: HC
+>> -0.375
+Students’ stir in Punjab University turns violent
+>> -0.44375
+Srinagar’s poll figures a victory: separatists
+>> 0.0
+Rallies for Hanuman Jayanti in Bengal
+>> 0.375
+Union ministers to visit Telangana to strengthen party
+>> 0.0
+MR vaccine drive: A call to immunise one and all
+>> 0.53125
+Curfew relaxed in Bhadrak for 9 hours
+>> -0.375
+EC orders repolling in Srinagar’s 38 booths
+>> 0.125
+Consumerfed records profit
+>> 0.6875
+Parliament clears landmark HIV Bill
+>> 0.25
+Sushil levels new charges against Lalu’s family
+>> 0.125
+H1N1 alert, 16 deaths so far
+>> 0.666666667
+Kin refuse to accept body of ex-panchayat chief
+>> 0.10416666699999999
+Assembly session from April 25
+>> 0.0
+Malappuram byelection today
+>> 0.125
+SC sets aside compensatory tariff to Tata Power, Adani Power
+>> 0.0
+Women celebrate washing the feet
+>> -0.125
+Teacher arrested under POCSO Act
+>> 0.0
+Elephant tramples mahout to death
+>> -0.3125
+CPI-M stir from April 15
+>> -0.225
+Rejuvenating one of India's leaders in technical education, via TEQIP
+>> 0.458333333
+Private buses too add to pollution of Tamirabarani
+>> 0.125
+GSTN data will be totally secure, says CEO Prakash Kumar
+>> 0.75
+District Cooperative Banks dissolved
+>> 0.0
+Top 10 stories of the day
+>> -0.208333333

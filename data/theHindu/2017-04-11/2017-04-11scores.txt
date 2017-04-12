@@ -1,0 +1,238 @@
+Three murder accused in Pune escape from police custody
+>> 0.0
+Police restrained from arresting Panneerselvam’s brother, son till April 13
+>> 0.0
+Terror incidents down by 25% after surgical strikes, says govt
+>> -0.178571429
+Stayzilla's Yogendra Vasupal gets conditional bail
+>> 0.5
+Three Pakistan commandos killed as Indian trawler collides with their boat off Gujarat coast
+>> -0.5
+‘Spitting’ incident: Vijayakant expresses regret
+>> -0.458333333
+Railways supply chain goes digital
+>> 0.125
+Electricity tariff up by an average of 8% per unit
+>> 0.2291667
+Tendulkar, Rekha poor at Parliament attendance
+>> -0.527777778
+Student attacked with sword after scuffle; assailants on run in Thane
+>> -0.65625
+Govt to do “everything possible” to get justice for Jadhav, says Rajnath Singh
+>> 0.5
+Budget session a winner for Treasury benches: Modi
+>> 0.0
+Be ready to face fallout of Jadhav’s sentence: Pakistan Media
+>> 0.625
+Who is Jamini Roy?
+>> 0.125
+Jadhav's sentencing will affect our bilateral terms, Sushma warns Pakistan
+>> 0.375
+Kerala makes Malayalam mandatory in schools
+>> 0.25
+Abattoir ban stumps cricket units
+>> 0.0
+Bidding farewell to guests from Indian, Pacific oceans
+>> 0.4375
+MoUs signed at CII summitsfraudulent, says Raghuveera
+>> 0.0
+Farmers seek steps to check fall in chilli price
+>> 0.875
+Join hands with Congress to take on BJP-TDP, Jagan told
+>> 0.5
+Adityanath cracks whip on latecomers
+>> 0.125
+Microplastics pose threat to Vembanad
+>> -0.583333333
+Crime Branch to look into ‘police excesses’
+>> -0.25
+HC stays case against E.P. Jayarajan
+>> 0.0
+Got help from Krishnadas: Sakthivel
+>> 0.625
+SC quotes Jishnu case while hearing Senkumar
+>> 0.0
+Clamour for reforms gets louder
+>> 0.5
+‘Disqualify those who bribed voters’
+>> 0.0
+A planned drama, says Dhinakaran
+>> 0.4375
+Farmer whiplashes himself; causes flutter
+>> 0.0
+‘Talk your way out of depression’
+>> -0.375
+‘Disqualify wrongdoers rather than scrapping poll’
+>> 0.125
+Huge tumour on infant’s spine removed
+>> 0.125
+‘Situation will not improve till AIADMK is in power’
+>> 0.25
+Steady dip in city’s groundwater table
+>> -0.5
+R.K. Nagar now wears a desolate look
+>> -0.25
+Stayzilla case: judge advises parties to try mediation
+>> 0.0
+Experts allay fears on Metro Rail safety
+>> -0.375
+1,400 double bedroom houses in each constituency
+>> 0.25
+Govt. to get tough on traffic offences
+>> -0.277777778
+Court asks ED to expedite FERA case against Dhinakaran
+>> -0.625
+Lawyer moves High Court for recruitment of civil judges
+>> 0.525
+Water supply to cola majors stopped: SIPCOT
+>> 0.0
+Aadhaar must for e-access to Survey of India maps
+>> 0.25
+Polygamy is not a religious practice, government tells Supreme Court
+>> 0.291666667
+Karnan visits HC, doesn’t do administrative, judicial work
+>> 0.625
+One dead, 17 injured in fire at matchsticks godown
+>> -1.325
+Corporation drive against encroachment to continue
+>> -0.03125
+Almatti reservoir reaches dead storage level
+>> 0.175
+T.N. farmers spring a surprise, strip near PMO
+>> 0.375
+Appa School selected for Atal Tinkering Laboratories
+>> 0.0
+Additional payment to manpower agency by Gulbarga University raises questions
+>> -0.125
+Only Parliament can allow additions to OBC list
+>> 0.0
+Foundation stone laid for 50-bed hospital for women, children in Chitradurga
+>> 0.25
+Australian uranium to arrive soon
+>> -0.125
+Teesta will transform ties: Hasina
+>> 0.25
+Ship rescue: China refuses to credit India
+>> 0.375
+NDA allies commend Modi’s leadership
+>> 0.375
+Prohibitory order along TLBC
+>> -0.25
+‘Selfie with sapling’ to promote green cover
+>> -0.208333333
+Ryots seek money for withered crop
+>> 0.0
+Rescue chilli farmers: Congress
+>> 0.125
+Protests rock Hyderabad fruit market
+>> 0.0
+State has enough water for drinking needs till June 15, says M.B. Patil
+>> 1.375
+Students withdraw stir
+>> -0.15
+EC ignored advice on Kashmir: Centre
+>> -0.5
+Two former Congress MLAs from Nagamangala join JD(S)
+>> -0.21875
+HC notice on plea against BU Syndicate nominations
+>> 0.25
+Mount Carmel forays into primary education
+>> 0.708333333
+State raises honorarium of anganwadi workers
+>> 0.625
+Power tariff to be announced today
+>> 0.25
+SC orders on UID violated: Opposition
+>> -0.1875
+Usable water in KRS is only 0.535 tmcft
+>> 0.375
+Be alive to challenges, says Manmohan
+>> 0.6458333330000001
+I misspoke, and for that I feel regret: Tarun Vijay
+>> 0.08333333300000001
+‘Hidden agenda behind Mamata-Modi meeting’
+>> 0.0
+NDA allies commend PM’s leadership
+>> 0.375
+Congress alleges witchhunt by ED
+>> -0.625
+Legality of death award for Jadhav questionable, say intelligence sources
+>> 0.0625
+Parties want EVMs recalled
+>> 0.25
+‘National law on cow killing not feasible’
+>> -1.375
+I-T Department grills Minister
+>> -0.25
+Manthani Madhukar death: Re-postmortem conducted amid tight security
+>> 0.0625
+EC puts off Anantnag byelection to May 25
+>> 0.0
+Books on Gandhi relaunched
+>> 0.0
+TMC MLA booked for carrying sword at rally
+>> -0.25
+Delhi summons envoy, issues protest note
+>> 0.125
+Let cleanliness be our homage: Narendra Modi
+>> 1.0
+ACB arrests tainted ASI Mohan Reddy
+>> -0.25
+After liquor ban, Nitish to tackle dowry, child marriage
+>> 0.5
+Tarun Vijay’s ‘racial’ remarks rock House
+>> 0.0
+Schools in Bhadrak to reopen today
+>> 0.125
+Mangaluru city court convicts three IM operatives, acquits four
+>> 0.0
+Malappuram blast case: 2 more held
+>> -0.2
+Camps for endosulfan victims held in Kerala
+>> 0.0
+Expedite houses for low-income groups, Naidu tells officials
+>> -0.3875
+Campaign for by-election draws to a close in Malappuram
+>> 0.375
+Vemulaghat turns classroom for land oustees
+>> 0.0
+Water in reservoirs very low: Karnataka Minister
+>> 0.01874999999999999
+CEOs go under the ocean to brainstorm on global warming
+>> -0.125
+Suspect in Nanthancode murder case arrested
+>> -0.125
+Dalit former panchayat president hacked to death
+>> -0.53125
+Three with scrapped notes worth 1 crore arrested in Rajkot
+>> 0.0
+Bailey bridge open for traffic
+>> -0.375
+Disbanded anti-Maoist front regroups in Bastar
+>> -0.375
+Paddy procurement row ends
+>> 0.0
+Nehru college Vice Principal granted bail
+>> 0.75
+Decks for Kerala Bank to be cleared soon
+>> 0.625
+Students’ march to college turns violent
+>> -0.21875
+Not bound to consult Home Ministry on J&K polls, say EC sources
+>> -0.75
+Teesta resolution will transform ties: Hasina
+>> 0.0
+A digital boost for the preservation of Sindhi
+>> -0.25
+In protest against death for Jadhav, India not to release 12 Pakistan prisoners
+>> -0.729166667
+Ontario resolution: Akali Dal seeks withdrawal of MEA response
+>> 0.0
+Why mobs have children, asks SC
+>> -0.5
+Sarabjit’s sister says India should approach ICJ to stay Jadhav's death sentence
+>> -0.5625
+Jadhav death sentence: Pakistan envoy summoned, served protest note
+>> -0.1875
+Aadhaar must for web-access to Survey of India maps
+>> 0.0

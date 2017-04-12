@@ -1,0 +1,166 @@
+China 'deploys 150,000 troops to North Korea border'
+>> 0.5
+G7: US is to blame for no joint statement on fight against climate change
+>> 0.208333333
+An unprecedented cluster of earthquakes is hitting El Salvador
+>> 0.0
+Chechnya detains 100 gay men in first concentration camps since the Holocaust
+>> 0.458333333
+Senior U.S. official says U.S. has concluded that Russia knew in advance of Syria's chemical weapons attack last week
+>> 1.0625
+Muslim student who has dedicated life to fighting religious extremism is banned from returning to US
+>> 0.75
+Bill to legalize marijuana in Canada to be officially unveiled this Thursday.
+>> 0.125
+Chinese traders ordered to return North Korean coal
+>> 0.0
+North Korea vows response to 'reckless' US Navy move: KCNA
+>> -0.25
+Egyptian Christian Churches Bombed, ISIS Claims Responsibility
+>> 0.375
+Libya: public slave auctions regularly taking place, survivors say
+>> 0.9375
+North Korea 'ready for war' after US navy strike team redeploys
+>> 0.25
+Europeans visiting the US may soon have to hand over social media passwords
+>> 0.3125
+Malaysia seizes $3.1 million worth of rhino horns at airport
+>> 0.0
+China executed more people in 2016 than all other countries put together - Amnesty | Hong Kong Free Press
+>> 1.4375
+Yezidi mass graves discovered so far contain 1,646 people
+>> 1.125
+45 dead, 119 injured in ISIS blasts at Egypt's Coptic churches - Times of India
+>> -0.575
+Trump orders military advisers to prepare plans to hit North Korea
+>> 0.0
+Russia ‘furious’ with Assad over gas attack
+>> -0.25
+United CEO describes assaulted passenger as 'disruptive and belligerent'.
+>> 0.0
+United overbooking story tops Chinese social media on evicted passenger's claim he was singled out for ethnicity
+>> 0.75
+Donald Trump and Theresa May urge Russia to take 'window of opportunity' to ditch support for Assad regime
+>> 0.0
+South Korea gears up military in response to North Korea aggression
+>> 0.125
+UK and US push for new Russia sanctions rejected by European allies at G7 meeting
+>> 0.325
+British visitors to US may be asked for passwords and phone contacts at airports
+>> 0.125
+Australian group of academics believes Syrian chemical attack is a hoax
+>> 0.875
+Barclays CEO Jes Staley under investigation for trying to identify a whistleblower
+>> -0.375
+Pope Francis opens a free launderette in Rome for homeless people
+>> -0.375
+Ireland is ending investment in fossil fuels
+>> 0.125
+Women barred from Tehran marathon risked arrest to complete their own race instead
+>> 0.208333333
+North Korean ships head home after China bans coal imports from North Korea
+>> -0.25
+North Korean ships head home after China orders coal returned
+>> -0.25
+South African President Jacob Zuma: Protesters racists - BBC News
+>> 0.25
+Man finds 2.5 million dollars worth of gold in old Iraqi tank
+>> 0.375
+Russia Walks Back Threats of Retaliation If US Strikes Syria Again
+>> 0.0
+France migrants: Huge fire guts Grande-Synthe Dunkirk camp
+>> 0.04166666699999999
+Canada's National Police force officially confirms ownership, use of Stingray devices
+>> 0.25
+Russian navy activity around Europe now at Cold War levels: admiral
+>> -0.586538462
+Turkish marble cutter under arrest for insulting Erdogan
+>> -0.6875
+Christians’ Life in ISIS-Controlled Iraq: A Daily Dance With Death
+>> -0.5
+Trump to sell attack planes to Nigeria for Boko Haram fight
+>> -0.25
+Panama Papers Investigation Wins Pulitzer Prize
+>> 1.0
+North Korean ships head home after China orders coal returned
+>> -0.25
+Pope opens free launderette for Rome's homeless people
+>> -0.375
+Belgian psychologist who worked with failed asylum seekers among Stockholm terror victims
+>> -0.625
+Great Barrier Reef at 'terminal stage': scientists despair at latest bleaching data.
+>> 0.04166666699999999
+Russian Navy vessels make port call in S. Korea for friendship visit
+>> 0.354166667
+Mars has metal in its atmosphere, reveals NASA probe
+>> 0.25
+South Korea warns of ‘greater provocations’ by North Korea as tensions rise
+>> 0.0
+Iceland president gives schoolboys a lift back from the pool
+>> -0.125
+Russia ‘knew in advance’ of Syrian chemical weapons attack
+>> -0.25
+Census says 'typical' Australian is 38-year-old married woman with two children
+>> 0.75
+Migrants from west Africa being sold in Libyan slave markets
+>> 0.625
+North Korea state media warns of nuclear strike if provoked as U.S. warships approach
+>> -0.25
+G7 says no sanctions on Russia over Syria - BBC News
+>> 0.166666667
+North Korea state media warns of nuclear strike if provoked as U.S. warships approach
+>> -0.25
+G7 rejects UK call for sanctions against Russia and Syria
+>> 0.25
+Senior U.S. official: U.S. concludes that Russia knew in advance of Syria chemical attack
+>> 0.1875
+China, Iran, Saudi Arabia executed most people in 2016
+>> 0.625
+North Korea missiles: US warships deployed to Korean peninsula - BBC News
+>> 0.25
+Russia Opens New Front in Rivalry With U.S. With Taliban Support
+>> 0.375
+North Korea vows to respond to 'reckless' US moves
+>> -0.5
+Venezuela protesters target Maduro, vow to keep up pressure
+>> 0.25
+Obama to give speech in Berlin to mark Reformation anniversary
+>> -0.5
+White House warns of potential US 'red line' over Syria barrel bomb attacks
+>> -0.8875
+Mattis gives ominous warning: Syria would be 'ill-advised' to use chemical weapons again
+>> 0.1875
+North Korea has said it will defend itself "by powerful force of arms"
+>> 1.18125
+Explosion in the Kurdish city of Diyarbakir
+>> 0.0
+Risk rapidly rising of mass starvation in Africa, Yemen - U.N.
+>> 0.125
+Japanese Investors Are Dumping a Record Amount of French Bonds Ahead of the Election
+>> 0.25
+Venezuelans mount another wave of anti-government protests
+>> 0.0
+Zuma using race card out of desperation - Save SA
+>> 0.4375
+Marine Le Pen sparks outrage over Holocaust comments
+>> 0.0
+Reports of large explosion in Turkish city of Diyarbakir
+>> 0.125
+APR 11 2017, 4:06 AM ET North Korean Ships Head Home After China Orders Coal Returned.
+>> 0.125
+Mattis: 20 Percent Of Syria's Operational Aircraft Damaged or Destroyed in U.S. Strikes
+>> 0.125
+French migrant camp reduced to 'ashes' after huge fire
+>> -0.583333333
+50 MPs, MEPs support fast-track EU membership for independent Scotland
+>> -0.275
+Zambian police seal off opposition leader's home
+>> -0.6
+United CEO says removed passenger was 'disruptive and belligerent'
+>> 0.125
+Russia and Iran request an 'unbiased investigation' into Syrian chemical attack
+>> -0.75
+Thousands attend Melenchon rally as he rises in polls
+>> -0.375
+Stockholm suspect 'admits truck attack'
+>> 0.375
