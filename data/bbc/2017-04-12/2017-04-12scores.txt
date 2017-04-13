@@ -1,0 +1,136 @@
+Dortmund explosions: 'Islamist' suspect held over team bus attack
+>> -0.25
+United Airlines boss Oscar Munoz will not resign
+>> 0.25
+Melania Trump wins damages from Daily Mail over 'escort' allegation
+>> 0.75
+Syria war: Trump and Putin trade barbs as ministers meet
+>> -0.375
+White House's Sean Spicer says Hitler gaffe 'inexcusable'
+>> -0.375
+San Francisco's food delivery service by robot
+>> -0.25
+EU in threat over Hungary university and asylum moves
+>> -0.125
+Brazil judge targets dozens of politicians for ‘corruption’
+>> 0.0
+Ohio prison inmates 'built computers and hid them in ceiling'
+>> -0.125
+Iran election: Ahmadinejad registers despite Khamenei warning
+>> -0.125
+Illinois woman plotted Valentine's Day Canada mall massacre
+>> -0.25
+Vodafone scraps roaming fees in much of Europe
+>> -0.25
+Turkey militants 'used tunnel to plant explosives'
+>> -0.25
+Panic! At The Disco frontman Brendon Urie set for Broadway
+>> -0.375
+Charging Bull artist wants removal of 'Fearless Girl' statue
+>> 0.53125
+Paying respects to a 'champion of positivity'
+>> 0.75
+Dortmunders welcome stranded Monaco fans
+>> 0.375
+The girl with eight Ivy League college offers
+>> 0.0
+Meet Sesame Street's first autistic character, Julia
+>> -0.0625
+Photos show crocodile eating sawfish in Australia
+>> 0.25
+Drug-addicted python rehabilitated by Australian prisoners
+>> 0.625
+My mental illness insists on joining me on holiday
+>> -0.375
+Is West ready for new deal with Russia?
+>> 1.0
+Does Kansas election sound a warning for Republicans?
+>> 0.25
+I was blinded by my contact lens
+>> 0.5
+Carwash, kickbacks and corruption in Brazil
+>> 0.5
+Rebuilding Mosul's libraries book by book
+>> 0.0
+Why are Malaysian pastors and activists going missing?
+>> -0.5
+Letters from Africa: Is Nigeria being punished by God?
+>> 0.375
+Urban Burqa: An artist's striking critique of Islamophobia
+>> 0.25
+Fiscal Kombat: Video-gaming the French election
+>> 0.625
+Why is Harvard putting puritans in the stocks?
+>> 0.125
+Can British Easter eggs conquer the world?
+>> -0.625
+Helping or intruding: On patrol with India's anti-harassment squad
+>> -0.75
+Fernando Alonso: McLaren driver to miss Monaco Grand Prix for Indianapolis 500
+>> 0.0
+Track Cycling World Championships: Elinor Barker pipped for gold
+>> -0.125
+Leicester fans injured in fresh Madrid clashes with police
+>> 0.25
+Marc Bartra: Borussia Dortmund defender injured in bus attack 'doing much better'
+>> -0.375
+Maryhill's Gavin Stokes scores 3.2 seconds after kick-off
+>> -0.6
+Mark Cavendish: Glandular fever diagnosis for Team Dimension Data rider
+>> 0.25
+Xi-Trump call: China urges 'peaceful' North Korea solution
+>> 0.291666667
+A missing pastor and the disappearances chilling Malaysia
+>> -0.25
+Photos show crocodile eating sawfish in Australia
+>> 0.25
+Marvel fires artist Ardian Syaf over religious references in X-Men comic book
+>> 0.25
+Japanese snack giant Calbee hit by potato shortage
+>> 0.75
+India outrage at 1m-rupee bounty on 'demon' Mamata Banerjee
+>> 0.13799999999999996
+Bangladesh club bowler concedes 92 runs in four balls in protest over umpiring
+>> 0.0
+Taiwan bans slaughter of cats and dogs for human consumption
+>> 0.0
+Toshiba files unaudited results and says future is in doubt
+>> 0.5
+North Korea lashes out at US Navy strike group move
+>> 0.5
+Aboriginal Australian rules players demand end to racial abuse
+>> 0.09999999999999998
+Kulbhushan Jadhav: India to do 'whatever it takes' to help 'spy'
+>> -0.375
+Drug-addicted python rehabilitated by Australian prisoners
+>> 0.625
+AI wins $290,000 in China poker tournament
+>> 1.0
+'Lonely life' in Indonesian village where mothers work abroad
+>> -0.3125
+The woman whose death led to a foeticide investigation
+>> -0.3125
+What is behind Toshiba's financial crisis?
+>> 0.625
+Thousands take part in Japanese samurai parade
+>> 0.0
+Language barriers
+>> 0.0
+Helping or intruding?
+>> -0.125
+'Family affair'
+>> -0.125
+Hidden meaning
+>> -0.03125
+Cyclone Debbie
+>> 0.0
+Sharif's next move
+>> 0.0
+'We need heroes'
+>> 0.375
+Mistaken identity
+>> 0.125
+New era, new uncertainties
+>> 0.75
+Showdown looms
+>> -0.5

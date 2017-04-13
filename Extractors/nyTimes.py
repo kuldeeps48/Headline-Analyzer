@@ -6,12 +6,11 @@
 # Returns the headlines from New York Times of the current day
 # API: https://developer.nytimes.com/article_search_v2.json
 #
-#
 # Date: 10-03-2017
 #
 ##########
 
-#!/usr/bin/python3
+# !/usr/bin/python3
 import datetime, os, time, requests
 import threading
 
@@ -24,61 +23,60 @@ from Extractors.apiKeys import code
 
 # Multhreading class
 class booster(threading.Thread):
-    def __init__(self, api_key, headlines, num):
+    def __init__(self, headlines, payload):
         threading.Thread.__init__(self)
-        self.api_key = api_key
-        self.page_no = num
+        self.payload = payload
         self.headlines = headlines
 
     def run(self):
-        threaded_extractor(self.api_key, self.page_no, self.headlines)
-
-'''
-# Formats the Request
-def url_formatter(api_key):
-    cur_date = time.strftime("%Y%m%d")
-    fl = 'headline'
-    url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?begin_date=' + cur_date + '&end_date=' + cur_date + '&api-key=' + api_key + '&fl=' + fl
-    return url
-'''
-
-
-# Fetches JSON data and parses it
-# Returns JSON object
-def get_json(url):
-    response = requests.get(url)
-    json_data = response.json()
-    return json_data
+        threaded_extractor(self.headlines, self.payload)
 
 
 # Threaded headline extractor
-def threaded_extractor(api_key, page_no, headlines):
-    # Base URL for each thread, Call to url_formatter() removed for optimized time
-    cur_date = time.strftime("%Y%m%d")
-    fl = 'headline'
-    base_url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?begin_date=' + cur_date + '&end_date=' + cur_date + '&api-key=' + api_key + '&fl=' + fl
+def threaded_extractor(headlines, payload):
+    # Assign base URL
+    base_url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json'
 
-    index = page_no * 10
+    # Initialize index of headlines
+    # Value at each threaded_extractor is different
+    index = int(payload['page']) * 10
 
     # Scrapping headlines for each thread
     for i in range(5):
-        # Construct URL and get JSON object
-        url = base_url + '&page=' + str(page_no)
-        json_data = get_json(url)
+        # Get JSON object
+        response = requests.get(base_url, params=payload)
+        json_data = response.json()
 
         # Store headlines in list
         for single_news in json_data['response']['docs']:
             headlines.insert(index, single_news['headline']['main'])
             index += 1
-        page_no += 1
+        payload['page'] = int(payload['page']) + 1
 
 
 # Headline extractor for The New York Times
 def extractor(headlines):
     # Create and start threads
     threads = []
-    thread1 = booster(code['nyTimes1'], headlines, 0)
-    thread2 = booster(code['nyTimes2'], headlines, 5)
+
+    # Assign payload
+    cur_date = time.strftime("%Y%m%d")
+    payload1 = {'begin_date': cur_date,
+                'end_date': cur_date,
+                'api-key': code['nyTimes1'],
+                'fl': 'headline',
+                'page': '0'
+                }
+
+    payload2 = {'begin_date': cur_date,
+                'end_date': cur_date,
+                'api-key': code['nyTimes2'],
+                'fl': 'headline',
+                'page': '5'
+                }
+
+    thread1 = booster(headlines, payload1)
+    thread2 = booster(headlines, payload2)
 
     threads.append(thread1)
     threads.append(thread2)
@@ -98,10 +96,10 @@ def scrapper():
     headlines = []
 
     extractor(headlines)
-    
+
     # Compute file path
     today = str(datetime.date.today())
-    
+
     directory = "./data/" + SOURCE_CODE + "/" + today
     if not os.path.exists(directory):
         os.makedirs(directory)
@@ -116,3 +114,6 @@ def scrapper():
             except UnicodeEncodeError:
                 continue
     return file
+
+
+# scrapper()

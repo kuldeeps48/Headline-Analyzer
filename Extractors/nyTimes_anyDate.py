@@ -24,59 +24,59 @@ from Extractors.apiKeys import code
 
 # Multhreading class
 class booster(threading.Thread):
-    def __init__(self, api_key, headlines, num, extract_date):
+    def __init__(self, headlines, payload):
         threading.Thread.__init__(self)
-        self.api_key = api_key
-        self.page_no = num
+        self.payload = payload
         self.headlines = headlines
-        self.extract_date = extract_date
+
     def run(self):
-        threaded_extractor(self.api_key, self.page_no, self.headlines, self.extract_date)
-
-'''
-# Formats the Request
-def url_formatter(api_key):
-    cur_date = time.strftime("%Y%m%d")
-    fl = 'headline'
-    url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?begin_date=' + cur_date + '&end_date=' + cur_date + '&api-key=' + api_key + '&fl=' + fl
-    return url
-'''
-
-
-# Fetches JSON data and parses it
-# Returns JSON object
-def get_json(url):
-    response = requests.get(url)
-    json_data = response.json()
-    return json_data
+        threaded_extractor(self.headlines, self.payload)
 
 
 # Threaded headline extractor
-def threaded_extractor(api_key, page_no, headlines, extract_date):
-    # Base URL for each thread, Call to url_formatter() removed for optimized time
-    fl = 'headline'
-    base_url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?begin_date=' + extract_date + '&end_date=' + extract_date + '&api-key=' + api_key + '&fl=' + fl
-    index = page_no * 10
+def threaded_extractor(headlines, payload):
+    # Assign base URL
+    base_url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json'
+
+    # Initialize index of headlines
+    # Value at each threaded_extractor is different
+    index = int(payload['page']) * 10
 
     # Scrapping headlines for each thread
     for i in range(5):
-        # Construct URL and get JSON object
-        url = base_url + '&page=' + str(page_no)
-        json_data = get_json(url)
+        # Get JSON object
+        response = requests.get(base_url, params=payload)
+        json_data = response.json()
 
         # Store headlines in list
         for single_news in json_data['response']['docs']:
             headlines.insert(index, single_news['headline']['main'])
             index += 1
-        page_no += 1
+        payload['page'] = int(payload['page']) + 1
 
 
 # Headline extractor for The New York Times
 def extractor(headlines, extract_date):
     # Create and start threads
     threads = []
-    thread1 = booster(code['nyTimes1'], headlines, 0, extract_date)
-    thread2 = booster(code['nyTimes2'], headlines, 5, extract_date)
+
+    # Assign payload
+    payload1 = {'begin_date': extract_date,
+                'end_date': extract_date,
+                'api-key': code['nyTimes1'],
+                'fl': 'headline',
+                'page': '0'
+                }
+
+    payload2 = {'begin_date': extract_date,
+                'end_date': extract_date,
+                'api-key': code['nyTimes2'],
+                'fl': 'headline',
+                'page': '5'
+                }
+
+    thread1 = booster(headlines, payload1)
+    thread2 = booster(headlines, payload2)
 
     threads.append(thread1)
     threads.append(thread2)
