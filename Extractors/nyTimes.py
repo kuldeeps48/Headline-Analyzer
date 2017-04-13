@@ -116,4 +116,4 @@ def scrapper():
     return file
 
 
-scrapper()
+# scrapper()
