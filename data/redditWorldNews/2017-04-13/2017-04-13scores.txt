@@ -1,0 +1,170 @@
+North Korea's 'big event'? The opening of a new street in Pyongyang
+>> 0.5
+Japanese Official Says US Strike Against North Korea Is Increasingly Realistic
+>> 0.0625
+Kim Jong-un orders 600,000 out of Pyongyang
+>> 0.0
+China tells military to be ready to 'move' to North Korea border
+>> 1.375
+150,000 Troops Are Not Massing At North Korean Border According to Senior US Military Officials
+>> 0.3125
+United Airlines Barred From Russian Airspace 'For Diplomatic Reasons'
+>> 0.0
+The U.S. has agreed to discuss any direct military action against North Korea beforehand with Japan
+>> 0.0
+Germany Moves To Ban Child Marriages After Finding 1500 Cases Among Refugees
+>> 0.25
+Nuclear device placed in tunnel at North Korea’s test site
+>> -0.125
+Scientists Announce That The Great Barrier Reef is Officially “Terminal”
+>> 0.479166667
+Justin Trudeau to launch plans to legalise marijuana across Canada
+>> 0.0
+Trump Drops Campaign Promise by Saying He Won't Label China a Currency Manipulator
+>> 1.125
+New Zealand's biggest storm in 50 years to make land fall in 3 hours
+>> 0.479166667
+Japanese warships to join US fleet near North Korea as tensions rise
+>> 0.0
+Donald Trump says Nato is no longer obsolete as he thanks alliance members for condemning Syria chemical attack
+>> -1.6458333330000001
+North Korea preparing for nuclear test, satellite images suggest
+>> 0.5
+Foreign journalists in North Korea told to prepare for 'big' event
+>> -0.125
+LGBT community worldwide raises funds to get Chechen gays to safety (explicit content inside)
+>> 1.0
+Israel's Holocaust museum invites Spicer to visit its website for WWII info
+>> 0.125
+Satellite photos show North Korean nuclear site 'primed and ready'
+>> 0.875
+U.S. told Japan it could resort to military action against North Korea unless China steps up pressure: sources
+>> 1.125
+North Korea’s Nuclear Test Site Seems Ready, U.S. Institute Says
+>> 0.625
+AP Investigation: UN troops lured kids into Haiti sex ring
+>> -0.125
+Japan scrambles jet fighter in record numbers as Chinese military activity rises
+>> -0.125
+Germany to Spicer: Nazi analogies ‘lead to nothing good’
+>> 0.0
+One of the most popular Russian opposition leaders got heart attack after being arrested
+>> 0.0625
+Syrian army says U.S.-led air strike on Wednesday hit IS poison gas depot, killing hundreds
+>> -0.07500000000000001
+French election shaken by surge in support for far-left candidate
+>> 0.125
+North Korea may be capable of sarin-tipped missiles: Japan PM
+>> 0.25
+China would guarantee security if North Korea gave up nuclear weapons: state media
+>> 1.375
+China rejects North Korean coal shipments, opts for US supplies instead
+>> 0.375
+Hundreds Killed As U.S.-led Airstrike Hit ISIS Chemical Weapons Cache - According To Syrian Army Reports
+>> -0.25
+Merkel: China and US can team up to peacefully sway North Korea
+>> 1.5
+Vladimir Putin Says Russia-U.S. Relations Have 'Degraded' Under Donald Trump
+>> -0.8125
+Vast majority of Dutch MPs vote to punish schools that don’t teach LGBT awareness
+>> 0.75
+Islamist arrested following soccer bus attack; was IS member in Iraq, says German prosecutor
+>> 1.25
+Japan scrambles jet fighters at record pace as Chinese military activity rises
+>> 0.25
+Satellite photos show North Korean nuclear site 'primed and ready'
+>> 0.875
+Syrian army says U.S.-led air strike on Wednesday hit IS poison gas depot, killing hundreds
+>> -0.07500000000000001
+24 Huddersfield men and 2 women in court today over charges of rape, neglect and sex abuse on girls as young as 11
+>> -0.275
+Islamist suspect arrested over Borussia Dortmund bus bomb attack, German prosecutors say
+>> 0.75
+Tourist carves names into Colosseum in Rome
+>> -0.25
+China urges correcting 'historical injustice' to allow Palestinian state
+>> 1.0
+Taiwan bans slaughter of cats and dogs for human consumption - BBC News
+>> 0.25
+European Court Strikes Down Required Sterilization for Transgender People
+>> 0.178571429
+British scientists find sarin used in Syria
+>> 0.0
+Google to unveil a brand new google earth on April 18th
+>> 0.125
+Germany's Schaeuble says if Muslim migrants don't like Europe, go elsewhere
+>> 0.0
+North Korea 'Primed and Ready' For Sixth Nuclear Test: Analysts - NBC News
+>> 1.25
+New dwarf planet found 92x further from Sun than earth with a temp near absolute zero
+>> -0.333333333
+Turkish referendum poll shows 'Yes' vote at 51 percent
+>> -0.25
+Charging Bull artist wants removal of Fearless Girl statue
+>> 0.53125
+Kyoto 'Silence Taxi' service prohibits drivers from instigating small talk
+>> -0.25
+Donald Trump gave Syria attack order 'during dessert' with Chinese President Xi Jinping
+>> -0.125
+CNN: Satellite photos show North Korean nuclear site 'primed and ready'
+>> 0.875
+US airstrike hit Daesh poison gas depot killing hundreds, Syrian army says
+>> -0.575
+Japan’s population projected to plummet by almost 40 million by 2065, according to new study
+>> 1.0
+Russia to 'Retaliate Immediately' if Military Units in Syria Attacked
+>> -0.125
+President of Venezuela 'pelted with eggs' as protesters fight back over food and medicine shortages
+>> -0.25
+Middle East travellers to the US down 20%, says Marriott CEO
+>> -0.303571429
+Dortmund bus attack suspect 'was IS fighter'
+>> 0.75
+China on 'Nationwide alert' as 25,000 more troops sent to North Korean border'
+>> 0.916666667
+Huddersfield child sex inquiry sees 29 in court - BBC News
+>> 0.5
+North Korea 'could target Japan with sarin nerve gas missiles', says Shinzo Abe
+>> -0.75
+Malala Yousufzai becomes honorary Canada citizen, praises refugee welcome
+>> 1.0
+US intelligence intercepted communications between Syrian military and chemical experts
+>> 0.375
+Islamist arrested over football bus attack was Islamic State member in Iraq - German prosecutor
+>> 1.125
+China Reminds North Korea That Trump Is A ‘Man Who Honors His Promises’ And His Threats
+>> 1.0
+Russia vetoes UN resolution to condemn Syria chemical attack
+>> 0.125
+Russia vetoes UN draft resolution on Syria gas attack probe
+>> -0.375
+8 times Russia blocked a UN resolution on Syria
+>> 0.25
+ISIS Chops Off Ears of 33 Disobedient Elements
+>> -1.0
+Bashar al Assad: Syria chemical attack is '100 per cent fabrication'
+>> -0.5
+African Migrants Murdered, Raped after Being Sold in Libyan ‘Slave Markets’, UN Agency Says
+>> 0.625
+Russia 'failed to prevent' school massacre
+>> -0.25
+Beslan school siege: Russia 'failed' in 2004 massacre
+>> -0.5
+Trump comments trigger U.S. dollar, bond yield slide
+>> 0.25
+In abrupt shift, Trump warms to China and NATO, sours on Russia
+>> 0.25
+North Korea may be capable of sarin-tipped missiles: Japan PM | Reuters
+>> 0.25
+North Korea may be able to arm missiles with Sarin, Japan PM says
+>> 0.125
+EU Parliament’s group calls for ban on Muslim veil for 'security concerns'
+>> 1.0
+Kim Jong Un attends street opening in Pyongyang
+>> 0.0
+Assad claims chemical attack was a lie
+>> -0.125
+Foreign journalists in North Korea gather for 'big and important event' amid tensions
+>> 0.75
+Russian Expert: US Pressuring China and North Korea With Aggression
+>> 1.5

@@ -1,0 +1,242 @@
+Unique mahua tree crying for attention and protection
+>> -0.604166667
+No knowledge of Jadhav’s whereabouts: MEA
+>> -0.08333333300000001
+Kulbhushan Jadhav’s capture proves Indian hand in sabotage activities, says Pakistan
+>> 0.625
+Water scarcity grips southern States
+>> -0.375
+SC on farmer suicides: shocking to see Tamil Nadu govt. is still silent
+>> 0.854166667
+President Pranab Mukherjee gives nod to four supporting Bills on GST
+>> 0.5
+KERC accepts consumers’ demands; does not allow GESCOM to hike tariff by 25%
+>> -0.875
+Srinivas Prasad retires from electoral politics
+>> 0.0
+Why no EVMs with VVPAT, Supreme Court asks Centre
+>> 0.08333333399999998
+Madras HC restrains Magistrates from ordering issuance of birth and death certificates
+>> -0.1875
+Trinamool leads in Kanthi-Dakshin
+>> 0.0
+BJP-SAD candidate sweeps Rajouri Garden bypoll
+>> -0.208333333
+2002 Gujarat riots probe: SC relieves SIT chief R.K. Raghavan
+>> 0.75
+Stranded Sri Lankan family rescued
+>> 0.375
+Congress wins by-polls in Nanjangud and Gundlupet
+>> 0.5
+Trinamool wins WB bypoll, BJP finishes second
+>> 0.375
+Kejriwal questions EC’s hackathon
+>> -0.125
+Only 2% turnout in repoll in Srinagar Lok Sabha constituency
+>> 0.0
+Re-poll begins in Kashmir’s Budgam
+>> -0.375
+In Shimla, a café is run by prisoners
+>> 0.09375
+Stalin urges Governor to seek resignation of CM
+>> 0.0
+HC blow to Tata housing project near Sukhna Lake
+>> 0.25
+Old berths at Vizag Port to become history
+>> 0.375
+Eagle keeps its date with temple
+>> 0.125
+Auto drivers, RTC crew fight for share in pilgrim pie in Tirupati
+>> 0.0
+Seers pledge body for medical purposes
+>> -0.1875
+Wait gets longer for socio-economic programmes in mining areas
+>> 0.4375
+Mukkollu village offers a peek into its hoary past
+>> 0.375
+Central TUs plan stir across nation
+>> -0.225
+Varsity perfecting ‘smart shoe’ for cattle
+>> 0.0
+Focus on upkeep of highways, says CM
+>> 0.625
+State govt. plans big for promotion of sports
+>> 0.375
+AP’s ‘Smruti Vanam’ project lauded
+>> 1.0
+Telangana government decides to hike quota for STs, Muslims
+>> -0.375
+Gundala villagers honour cops for their initiative
+>> 0.583333333
+Three boys drowned in open well
+>> 0.3416666669999999
+Corpn. to take over Nrupatunga Betta
+>> 0.4375
+Two buried alive as farmer tries to revive borewell
+>> 0.02083333300000001
+Baby girl’s death shrouded in mystery
+>> -0.0625
+Congress retains Mayoral posts with the help of BJP in Ballari
+>> 0.5
+Work on Chennai-Bengaluru Expressway may begin next year
+>> -0.3125
+More tankers to be hired to supply drinking water
+>> 0.125
+Existing laws enough, no need to ban late night parties, says Goa CM
+>> -0.16666666600000002
+NHRC issues notice
+>> 0.5
+Adhere to laws, orders, says court
+>> 0.5
+Gold smuggling by air thrives despite vigil
+>> -0.125
+Wrong to blame BJP for bypoll cancellation: Tamilisai
+>> -0.509615385
+Woman slapped by police claims hearing loss
+>> -0.375
+Four killed in accident
+>> -1.25
+Ban cow slaughter, says AMUSU
+>> -0.375
+AAP asked to vacate office immediately
+>> -0.625
+SBI merger: Status quo ordered on service norms
+>> 0.0
+Office-bearers elected to The Hindu union
+>> 0.0
+Description of female body shape in book triggers row
+>> -0.25
+Yuva Vahini members barge into house, assault couple
+>> -0.333333333
+U.S. can play key role on Kashmir: Pak.
+>> 0.25
+Thumbay Hospitals starts operations
+>> 0.25
+Vellore NH Division lodges complaint
+>> -0.3125
+Akhilesh’s pension scheme frozen
+>> -0.25
+Co-founder of ScoopWhoop news portal booked
+>> 0.0625
+National Lok Adalat settles over 6 lakh cases in one day
+>> 0.0
+Budget session ends with passage of key Bills
+>> 0.25
+Heatwave mitigation initiative at SCCL mines
+>> 0.25
+Open-ended warrant against Mallya
+>> 0.0
+4,000 Dalits attacked since TRS came to power: MRPS
+>> 0.0
+Deemed universities to part with 25% seats for govt. quota
+>> 0.25
+Palliative care cell set up at Kidwai
+>> -0.1875
+Now, Bescom looks to have it different for all consumers
+>> 0.1875
+IAS officer gets notice for views on toilet drive
+>> 0.34375
+When India came to the aid of Pak.
+>> -0.25
+Quick action in chit fund scam sought
+>> -0.125
+Activists demand restoration of Dharmaraja Kulam
+>> 0.125
+Scheme gives succour to children
+>> 0.125
+Income Tax Dept. records statements
+>> 0.0
+Adivasis irked over formation of panel in Hyderabad
+>> 0.0
+Growing apples in the tropics
+>> 0.5
+SC welcomes Centre’s steps on SYL
+>> 0.25
+Bypolls: Counting today; results to be out by afternoon
+>> 0.25
+Power demand to drop in a week
+>> -0.25
+State Health department issues H1N1 advisory
+>> 1.25
+Telangana plea posted for April 19
+>> -0.125
+Opposition denying OBC its rights: Modi
+>> -0.4375
+7 candidates to keep off Srinagar repoll
+>> -0.975
+‘Borders have never been so vulnerable since 1971 war’
+>> -0.90625
+Channel chief booked for communal remark
+>> 0.375
+Akhilesh Yadav’s favourites shunted out
+>> -0.25
+Nation living in fear, Opposition tells Pranab
+>> -0.4375
+‘Bounty’ for Mamata’s head triggers furore
+>> -0.5
+BJYM disowns youth leader
+>> 0.0
+CPI(M) men bar revenue team from evicting encroachers
+>> -0.5
+Efforts on to capture Aralam rogue elephant
+>> -0.625
+Centre files curative plea on AFSPA
+>> 0.25
+India, Dhaka to hold border talks
+>> -0.125
+Akhilesh’s pension scheme frozen
+>> -0.25
+NEET: plea in SC against incentive marks
+>> 0.125
+Many options to save Jadhav
+>> 0.3125
+70.41% polling in Malappuram bypoll
+>> 0
+Bihar sets up court for prohibition cases
+>> 0.375
+Now, synthetic alternatives for kanikkonna too
+>> -0.25
+Global interest in PSLV soars
+>> -0.166666667
+From Kolkata streets to the metro for a day
+>> 0.0
+Panjab varsity students to continue protest against fee hike
+>> 0.0
+Get licence to run TTD kitchen, says FSSAI
+>> 0.03125
+Rigorous life imprisonment for IM activists
+>> -0.5625
+Post-Jayalalithaa, AIADMK MPs register lower attendance
+>> -0.45
+India, U.K. discuss framework for technology transfers
+>> 0.0
+Congress gets ready for organisation elections
+>> 0.625
+Aadhaar robust; the poor have no complaints about it: Ravi Shankar Prasad
+>> -0.611111111
+Now, a botanist in charge of Natpac
+>> -0.25
+Dainik Bhaskar Group chairman Ramesh Agrawal passes away
+>> 0.166666667
+Currency crisis continues
+>> -0.125
+Six Maoists get RI for anti-national act
+>> -0.25
+All set for Vishu festival at Sabarimala
+>> 0.4375
+Procedures for Kerala Bank to commence soon
+>> -0.125
+Relief for Thottiyapatti victims, release of caste Hindu women demanded
+>> 0.583333333
+Release of prisoners:Full Bench to hear plea
+>> 0.458333333
+Women welcomed into the Karnataka State Reserve Police for the first time
+>> 1.875
+Less potent chemicals to beused in Pooram crackers
+>> -0.375
+Top 10 stories of the day
+>> -0.208333333
+WB sets deadline to comply with its demand
+>> -0.125
+Show EVMs can be hacked, EC throws open challenge
+>> 0.25
