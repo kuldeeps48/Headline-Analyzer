@@ -5,10 +5,7 @@
 #
 # Returns the headlines from The Guardian of the current day
 # API: http://open-platform.theguardian.com
-# 
-# NOTE:
-#  - url_formatter(), extractor() are to be changed according to need
-#  - Do not change the modules: get_json(), scrapper()
+#
 # 
 # Restrictions:	
 #		Up to 12 calls per second
@@ -20,53 +17,32 @@
 ##########
 
 #!/usr/bin/python3
-import datetime, os, time, requests
+import os, requests
 from Extractors.apiKeys import code
 
-
 SOURCE_CODE = "theGuardian"
-
-
-# Formats the Request
-def url_formatter(extract_date):
-    api_key = code['theGuardian']
-    use_date = 'published'
-    url = 'http://content.guardianapis.com/search?from-date=' + extract_date + '&to-date=' + extract_date + '&api-key=' + api_key + '&use-date=' + use_date
-    return url
-
-
-# Fetches JSON data and parses it
-# Returns JSON object
-def get_json(url):
-    response = requests.get(url)
-    json_data = response.json()
-    return json_data
-
 
 # Headline extractor for The Guardian
 # Returns headlines list
 def extractor(headlines, extract_date):
-    base_url = url_formatter(extract_date)
+    # Assign URL and payload
+    payload = {'from-date': extract_date,
+               'to-date': extract_date,
+               'api-key': code['theGuardian'],
+               'use-date': 'published',
+               'page-size': '200',
+               'page': '1'
+               }
+    base_url = 'http://content.guardianapis.com/search'
 
-    # Fetch JSON data and compute the total number of news articles
-    json_data = get_json(base_url)
+    # Get JSON object
+    response = requests.get(base_url, params = payload)
+    json_data = response.json()
 
-    total = json_data['response']['total']
-    page_no = 1
+    # Extract headlines from JSON object
+    for single_news in json_data['response']['results']:
+        headlines.append(single_news['webTitle'])
 
-    # Return news headlines
-    while True:
-        url = base_url + '&page-size=200' + '&page=' + str(page_no)
-        json_data = get_json(url)
-
-        for single_news in json_data['response']['results']:
-            headlines.append(single_news['webTitle'])
-
-        total -= 200
-        page_no += 1
-        if total <= 0:
-            break
-        
     return headlines
 
 
