@@ -1,0 +1,232 @@
+Left’s vote is moving to right: Mamata
+>> 1.336538462
+India seeks consular access for Kulbhushan Jadhav
+>> 0.0
+Ambedkar Jayanti preparation turns tragic as three electrocuted
+>> -0.625
+Investigating video showing youth tied to jeep: Army
+>> 0.0
+Every Indian should have a house by 2022: Modi
+>> -0.5
+Dinakaran denies revolt against him by some Ministers
+>> -0.125
+Long-term policy needed to resolve Kashmir issue: Parrikar
+>> 0.375
+Another missing Keralite IS ‘recruit’ reported killed in Afghanistan
+>> -0.5
+Mayawati announces Anand Kumar as BSP’s vice president
+>> 0.625
+Indian envoy to meet Pak’s Foreign Secretary on Kulbhushan Jadhav’s case
+>> -0.375
+Youths beating jawans video: J&K DGP lauds CRPF men's restraint
+>> 0.25
+Attack on CRPF jawans in Srinagar: FIR registered
+>> -0.125
+Govt. owes an explanation on CM’s new house: Roja
+>> 0.375
+In Operation Clean Money, I-T dept. to probe 60,000 people now
+>> 0.625
+National importance tag brings cheer to IIPE
+>> 0.75
+YSRC to intensify stir for railway zone
+>> 0.225
+Land acquisition notification creates flutter at Penumaka in Guntur district
+>> 0.0
+Police gun down robbery accused in 'encounter' in south Tamil Nadu
+>> -0.553571429
+'Puthan Panam' review: A film that behaves out of character
+>> 0.5625
+TN govt. must rise to the occasion on farmers issue: SC
+>> 0.0
+IGNOU to set up 31 Learner Support Centres
+>> 0.375
+‘Demonetisation more of a political gamble’
+>> 0.0
+Dedicated ANMs to be rewarded
+>> 0.625
+Court orders appearance of Dhinakaran in FERA case
+>> 0.0
+BJP hopes to capitalise on AIADMK’s vulnerability
+>> -0.625
+Bypoll loss, a wake-up call for Yeddyurappa
+>> -0.125
+Nominations invited for 2015 science award
+>> 0.625
+A Congress citadel
+>> 0.0
+Will not issue stir call, Bar Council assures HC
+>> -0.725
+A morale booster for Congress, Siddaramaiah
+>> 0.0
+Protest to highlight woes of chilli farmers
+>> -0.875
+Congress gained from our absence, says Kumaraswamy
+>> -0.375
+Paper ballots in U.P. civic polls?
+>> 0.0
+Why no paper trail in EVMs, SC asks Centre
+>> -0.333333333
+I’ll lead 2018 campaign and contest polls, says Siddaramaiah
+>> 0.25
+Bus falls into tank in Madurai, 5 injured
+>> -0.875
+Tourists hurt as bus overturns
+>> -0.08333333300000001
+Bring BJP to power in TS, cadre told
+>> -0.125
+1 killed in Vellore building collapse
+>> 0.25
+Stayzilla: second accused seeks advance bail
+>> 0.0
+32 injured in ‘jallikattu’ at Pudukottai district
+>> -0.25
+Farmers to get 24 lakh tonnes of fertilizers free
+>> 0.5
+Buildings with swimming pools need NoCs
+>> 0.125
+Second refuelling outage begins at Kudankulam
+>> 0.0
+CMRL underground stretch inspection ends
+>> 0.0
+Strange case of a missing couple
+>> -0.583333333
+HC judges release book on ills of seemai karuvelam
+>> 0.08333333300000001
+Divided house: CPI(M)-CPI ties hit a new low
+>> -0.012500000000000011
+New CCM for Southern Railway
+>> 0.375
+Defeated Srinivas Prasad bids adieu to electoral politics
+>> -0.5
+HC sets aside finance wing report
+>> -0.5
+2 girls electrocuted in Ponneri
+>> 0.0
+Road accident documents can be accessed online
+>> -0.375
+Protest in Kathipara throws traffic out of gear
+>> 0.0
+Unions show solidarity with farmers
+>> 0.0
+Sathanur residents demand water
+>> -0.25
+Collector comes down hard on hospital staff
+>> 0.196428571
+Karnataka bypolls: Of old loyalties, failed new caste equation, and sundry other factors
+>> 0.875
+Swamy’s beef comments ticks off Goa Congress
+>> 0.0
+Farmers staring at a bleak future
+>> 0.541666667
+‘People falling prey to diseases due to junk food’
+>> 0.9375
+PG medical admissions: Setback for unaided minority colleges
+>> -1.0625
+More seats for State students in PG medical, dental courses
+>> 0.25
+Dhanushree, Sampada are handwriting wizards
+>> 0.25
+Vachana Sanchayato be revived
+>> 0.5
+118 labourers rescued from brick kiln
+>> 1.25
+Once a landfill, soon a recreation space
+>> 0.0
+‘Never claimed mediator’s role’
+>> 0.0
+Only 2% turnout recorded in Srinagar
+>> 0.0
+Mysuru varsity now awaits world rankings
+>> -0.5
+Naroda Gam massacre: Amit Shah to appear as defence witness
+>> 0.125
+No major shift in voter turnout
+>> 0.291666667
+HC moved against MLC
+>> 0.25
+Dehydrated elephant collapses in village near Sathanur
+>> -0.25
+In Nanjangud, a triumph of development over caste politics?
+>> 0.75
+A lifetime behind the wheel, now on foot for a cause
+>> -0.25
+Gold medals for 57 students at women’s university convocation
+>> 0.0
+H1N1: 33 deaths in Pune; over 100 across the State
+>> 0.25
+UP govt to hold mass wedding of Muslim girls
+>> 0.375
+Tribal students’ body accuses Tripura University V-C of bias
+>> -0.625
+Odisha mulling ways to escape liquor sale order
+>> -0.375
+BJP extends winning streak in bypolls
+>> 0.25
+On exam day, varsity left red-faced
+>> -0.3125
+Odisha CM’s selfie with brave child
+>> 0.25
+Court issues NBW against Zakir Naik
+>> 0.125
+Maharashtra reels under the onslaught of H1N1
+>> -0.3125
+Right to access Internet cannot be curtailed, says SC
+>> 0.08653846200000004
+Pawan Kalyan targets TDP on Twitter
+>> 0.0
+Bid by land lobby to divert water from Chinnar river
+>> 0.875
+Not easy to fulfil promise on Muslim quota: Bandaru
+>> 0.125
+BJP workers target woman, fiancé in Meerut
+>> 0.0
+Order staying FRA in tiger reserves violates tribal rights: Brinda
+>> -0.375
+Karnan directs SC judges to appear before him
+>> 0.0
+Modi to honour 16 Odisha families linked to 1817 revolt
+>> 0.08333333300000001
+States warned on cow vigilantes, says Rijiju
+>> -0.125
+Govt. plan to make professionals accountable for info sharing under PMLA
+>> 0.354166667
+Weaving a cover of hope on their shower of woes
+>> -0.675
+‘Health must be a core issue in polls’
+>> 0.25
+ED launches searches on properties of CAs
+>> -0.625
+India plans to buy three more Scorpenes
+>> 0.4375
+70-year-old man killed in elephant attack
+>> -0.375
+Small factories raise concerns over draft social security code
+>> 0.25
+Rolls-Royce, DRDO to tie up
+>> 0.375
+Loyalty benefit for EPFO members
+>> 0.0
+Amarinder remarks on Canadian ministers sparks row
+>> 0.0
+TASMAC workers seek alternative employment
+>> 0.25
+Women can retain maiden names in passports: Modi
+>> 0.375
+CPI speaks as a Left entity: Kanam
+>> 0.0
+Eviction row: Sub Collectorto submit report today
+>> -1.0
+Woman held on clandestine arrival from Sri Lanka
+>> 0.0
+Opposition stallingdevelopment: Naidu
+>> -0.4375
+Top 10 stories of the day
+>> -0.208333333
+We are involving senior leaders on issues pertaining to municipal corporations: Ajay Maken
+>> 0.6875
+Unique mahua tree crying for attention and protection
+>> -0.604166667
+The colours of Vishu
+>> 0.0
+Counting their blessings
+>> -0.125
