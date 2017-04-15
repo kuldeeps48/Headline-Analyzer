@@ -1,0 +1,164 @@
+CIA director calls Wikileaks a 'hostile intelligence service', says it threatens democracy
+>> 0.354166667
+North Korea displays submarine-based missiles for first time at military parade
+>> 0.5
+China experts: North Korea not on war footing, fighting unlikely
+>> -1.0625
+Afghan official: massive US bomb dead toll rise to 94
+>> -0.07500000000000001
+Iraq: IS launches chlorine gas attacks in western Mosul
+>> 0.175
+China urges US and North Korea to refrain from provoking each other
+>> -0.5625
+Rebel car bomb explodes in Aleppo killing over 40 civilians.
+>> 0.0
+North Korea does not test nuclear weapon to mark founder’s birthday
+>> -0.375
+Leaked NSA malware threatens Windows users around the world
+>> -0.375
+Explosion hits a bus convoy carrying evacuees from besieged government-held towns near Aleppo in Syria
+>> 0.0
+MOAB Strike Kills 94 Militants, Zero Civilians
+>> -0.875
+Pharmaceutical giant 'plotted to destroy cancer drugs to drive prices up 4000%'
+>> 0.59375
+Hackers release files indicating NSA monitored global bank transfers | Reuters
+>> -0.166666667
+Blast Hits Evacuee Bus Convoy Near Aleppo
+>> -0.2
+Number of ISIS Fighters Killed by ‘Mother of All Bombs’ Rises to 94
+>> -0.6875
+Sao Paulo judge rules Uber drivers are employees, deserve benefits
+>> 1.125
+Possible signs of life 10 km below the deepest part of the world's oceans: Study
+>> 0.416666667
+South Korea military says suspects North Korea paraded new ICBMs
+>> 1.125
+Syria: Explosion hits bus convoy carrying civilians evacuated from besieged towns under deal between regime and rebels
+>> -0.25
+Syrian bus convoy evacuating residents to Aleppo hit by 'suicide attacker with car bomb'
+>> 0.0
+Smoking to kill 200 million in China this century: WHO
+>> 0.5
+AP: Trump administration settles on a strategy for North Korea: "Maximum Pressure and Engagement"
+>> 0.625
+ISIS launches chemical attacks in Mosul, say Iraqi military
+>> -0.2
+US-North Korea tensions: Japan discussing evacuation plan for citizens in South Korea
+>> 0.25
+North Korea: Experts Say Unlikely U.S. Will Launch a Strike | Time.com
+>> -0.3125
+Car bomb kills 16 in evacuee convoy near Aleppo
+>> -0.5
+Berlin Christmas market attacker got order directly from IS: report
+>> 0.25
+Microsoft says it has received at least 1000 surveillance requests from US govt in 1H 2016
+>> 0.25
+Some Turks fear the rise of a dictatorship as a referendum nears to greatly expand Erdogan&apos;s powers
+>> 0.875
+Japan readying for N. Korea emergency
+>> 0.25
+North Korea displays apparently new missiles as U.S. carrier group approaches
+>> 1.375
+World Food Program 'horrified' as South Sudan workers killed
+>> -1.75
+North Korea threatened the US with 'nuclear war'
+>> -0.625
+Investigators now have ‘concrete evidence’ of collusion between Trump camp and Russian govt: source
+>> 0.04166666699999999
+Saudi banks, bin Laden companies face $4.2 billion U.S. lawsuit by 9/11 insurers
+>> -0.5
+US government 'hacked global bank system' - BBC News
+>> -0.125
+Mexican journalist killed on Baja California peninsula
+>> -0.5
+US sends first troops to Somalia since 1994
+>> 0.0
+Explosion hits Syrian evacuation convoy in Aleppo.
+>> 0.25
+Heat from the Atlantic Ocean is melting Arctic sea ice further eastwards than ever before
+>> -0.125
+16 killed in Sri Lanka as massive mound of garbage collapses
+>> 0.25
+Chechen Authorities Send Threats To Journalists Reporting On Gay Concentration Camps
+>> 0.708333333
+North Korea Parades New Prototype Long-Range Missiles amid Nuclear Tensions: Experts
+>> 0.125
+Death toll of IS group fighters in Afghanistan bombing rises to 94
+>> 0.5625
+N. Korea shows what seems to be new ICBM
+>> 1.0
+Jerusalem stabbing attack victim identified as 21 year-old British national
+>> -0.5
+Snapchat CEO says India “too poor” to consider expansion
+>> 0.5
+Syrian TV says dozens killed in blast near evacuation buses
+>> -0.44999999999999996
+Putin 'moves military forces' to North Korean border.
+>> 0.0
+Potato chip prices spike in Japan due to panic buying
+>> 0.5625
+Pyongyang marks founder's 105th birth anniversary, displays new submarine-based missiles
+>> 0.3125
+Billionaire vs. billionaire: Israel’s Steinmetz sues Soros
+>> 0.0
+China warns war could break out 'at any moment' over North Korea
+>> 0.125
+The Potato Chip Shortage Afflicting Japan - They’re going for up to $12 a bag.
+>> 0.25
+Trump strategy on North Korea: 'Maximum pressure and engagement'
+>> 0.375
+US government 'hacked global bank system' - BBC News
+>> -0.125
+North Korea 'ready for nuclear attack' amid show of force
+>> 0.25
+Trump demanding ride in queen’s gold carriage during Buckingham Palace visit
+>> -0.25
+China seeks Russia's help to 'cool' North Korea situation
+>> 1.0
+Aleppo bombing: at least 20 people killed in suspected suicide attack near convoy of evacuees
+>> -1.15
+BBC banned from all National Parks of India for 5 years
+>> 0.3125
+South Korean army chief reportedly orders crackdown on homosexual soldiers
+>> 0.25
+Iran floods kill at least 25 - BBC News
+>> 0.0
+Assad retains hundreds of tons of chemical weapons, says defected general
+>> -0.125
+A defiant North Korea flaunts army and missiles in major parade in Pyongyang
+>> 0.375
+Gaza's power authority cuts off electricity to all districts amid deepening crisis
+>> 1.0375
+Syrians face catch-22 in mass evacuation: Their destination may be worse
+>> 0.08333333300000001
+Freedom of worship is on the decline in many countries
+>> 0.125
+Germany favors ban on boat exports to Libya to stop migrants
+>> -0.125
+Rouhani says Iran needs "no one's permission" to build missiles
+>> 0.541666667
+Saudi Government Denies Funding 9/11 Attacks
+>> -0.2
+In a rare surgery, Iraqi boy born with eight limbs gets new lease of life in India
+>> 1.125
+Zimbabwe to allow goats, cows and sheep as bank collateral - Financial Times
+>> 0.875
+Explosives used in Dortmund bus attack may have come from German armed forces
+>> -0.25
+Violence flares at Australian refugee facility in PNG
+>> 0.0
+MOAB strike: 90 IS fighters killed in Afghanistan
+>> 0.0
+N. Korea displays submarine-launched missile at military parade
+>> -0.25
+Turkey referendum: Final campaigning ahead of landmark vote
+>> -0.5
+Dortmund bus attack 'may have been carried out by right-wing extremists who attempted to frame Islamists'
+>> -0.16346153799999996
+Mercosur to sign trade deal with EU this year, Argentina says
+>> 0.0
+Migrants trying to reach Europe being sold as slaves for as little as €200
+>> 0.35
+Number of Britons seeking Irish passports rises by two-thirds
+>> -0.25

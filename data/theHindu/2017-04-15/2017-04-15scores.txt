@@ -1,0 +1,206 @@
+Sasikala’s nephew Magaadevan dies of cardiac arrest
+>> -0.34
+Amid row over Jadhav, India cancels maritime talks with Pak
+>> -0.125
+Srinagar by-polls: Farooq Abdullah leads
+>> 0.125
+Eight coaches of Rajya Rani Exp derail near Rampur, 2 injured
+>> -0.75
+On Meerut hoardings: Chant Yogi’s name or leave UP
+>> 0.375
+CPI (M) demands urgent drought relief measures
+>> 0.0
+SCR shakes off market blues
+>> 0.0
+Towards a greener State
+>> 0.25
+Judicial opinion on personal laws needs review: Jaitley
+>> 1.25
+Six, in all, arrested on the chargeof betting
+>> 0.5625
+Two killed, several injured in accidents
+>> -1.0
+Man, son murdered by rival group
+>> 0.25
+New norms render salt laboratories irrelevant
+>> -0.375
+Talk of revolt against Dhinakaran surfaces
+>> -0.25
+‘Dravida’ has no racial connotation: historian
+>> -0.08333333300000001
+Madurai Bench of Madras HC to get eight more court halls
+>> 0.375
+Missing Kerala youth who ‘joined’ IS killed
+>> -0.625
+Row over ‘Yuva Vahini’ hoardings
+>> 0.0
+I-T dept. directionto Minister, others
+>> 0.0
+Keep out non-serious parties: MPs’ panel
+>> -0.125
+Robbery suspect gunned down in Ramanathapuram
+>> -0.303571429
+Call for rail blockade in State from April 25
+>> -0.375
+Beginning the new year with a green initiative
+>> 0.291666667
+State government insensitive to farmers’ issues, says Ramadoss
+>> -0.3125
+‘BJP will never gain foothold in T.N.’
+>> 0.0
+DMK for all-party meet on farmers
+>> 0.3125
+Illegal water connections snapped in Vengikkal
+>> -0.125
+Aavin to open hitech parlour at Velapadi
+>> 0.0
+Two booked for building collapse in Vellore
+>> -0.125
+Army uses civilian as shield, sparks outrage
+>> -0.125
+Academy to push for Tulu in 20 more schools this year
+>> -0.175
+‘Why shut schools on birth anniversaries?’
+>> 0.0
+Governor asks Panjab univ to review fee hike
+>> 0.0
+Poor patients to benefit from modified ECT: expert
+>> 0.47222222199999997
+Old notes, gold bars seized
+>> -0.5
+Centre expects cooperation from Bengal govt: Rajnath
+>> 0.0
+Milk dairy to come up in Uppoor village
+>> 0.625
+‘Govt. committed to ensuring uplift of Dalits, OBCs’
+>> 0.375
+‘Only proper education can bring about transformation among Dalits’
+>> 0.8333333330000001
+Ambedkar among India’s tallest leaders: Sharanprakash Patil
+>> 0.5
+‘He fought for casteless society built on principles of equality’
+>> -0.75
+Shiradi Ghat road work: HC rejects plea against contract cancellation
+>> 0.125
+Owners planning to claim compensation for vehicles seized
+>> -1.0
+Not joining BJP: Ambareesh
+>> -0.75
+‘Orange alert’ in Gujarat as temperatures rise
+>> 0.0
+Goa pulls the plug on late night parties
+>> -0.25
+KSTDC offers discounts on its properties
+>> 0.0
+It’s not easy to resolve Kashmir issue: Parrikar
+>> 0.5
+Cabinet expansion: CM, Parameshwara leave for Delhi
+>> 0.0
+Techies to connect with JD(S) on Saturday
+>> 0.375
+Golden Chariot’s weekend trips fail to attract tourists
+>> -0.09375
+Copter, plane for leaders
+>> 0.0
+New UGC vice-chairman soon
+>> 0.875
+Ambedkar opted for small States: Harish
+>> -0.375
+Punjab bars names of govt. functionaries on plaques
+>> -0.125
+Good Friday observed
+>> 0.639423077
+Ambedkar Jayanti celebrated across Telangana
+>> -0.25
+25 villages have gone cashless: Joint Collector
+>> -0.791666667
+‘Jalasamrakshna’ to be launched today
+>> 0.25
+Democracy robust because of Ambedkar: Naidu
+>> -0.375
+Happiness index also important: Pranab
+>> 0.125
+Injustice done to Kulbhushan Jadhav, says M.J. Akbar
+>> 0.0
+Indian science needs a revamp, says report
+>> 0.5
+A heritage village honouring Chembai
+>> 0.5
+Kulbhushan Jadhav issue: ‘File habeas corpus plea in Pakistan’
+>> 0.0
+Criminal case filed against Ministers
+>> -0.333333333
+India’s interests will be protected: V.K. Singh
+>> -0.0625
+Health crisis looms as Meerut cow skinners threaten to quit
+>> 0.625
+J&K DGP praises CRPF restraint
+>> -0.625
+Severe heatwave in Gujarat
+>> -0.875
+Iraqi child with eight limbs successfully treated at Noida hospital
+>> 0.875
+Centre expects cooperation from Mamata government: Rajnath
+>> 0.0
+Uma Bharti rules out putting water on concurrent list
+>> 0.375
+Students continue protest against fee hike in Panjab University
+>> 0.0
+All efforts on to secure justice for Jadhav: Rajnath
+>> 0.8125
+Togadia asks Centre to follow example of U.S. bombing of Islamic State
+>> 0.28125
+‘Krishna Menon wanted Nehru to destroy Pakistan’
+>> 0.0
+Cong. approaches J&K governor, seeks intervention
+>> 0.0
+Surge in BJP vote share in Bengal bypoll
+>> 0.375
+BJP begins campaign for Odisha
+>> 0.0
+‘CRPF jawans play down provocations’
+>> -0.303571429
+TTD against allowing food inspectors into its temple kitchen
+>> 0.0
+Pune institute begins digitisation of rare books, manuscripts
+>> 0.25
+Burglars strike at house of judge couple in Madurai
+>> -0.25
+Allahabad HC becomes ‘pilot project’ for case backlog study
+>> -0.5
+Top 10 stories of the day
+>> -0.208333333
+Malayalis celebrate a Vishu with cross connections
+>> -0.4375
+CRPF jawan opens fire in the air; nabbed by police
+>> -0.25
+Medico killed in accident
+>> -1.25
+Jadhav’s death sentence base on credible evidence: Pakistan
+>> -0.11458333300000001
+Group clash in Dindigul village
+>> 0.25
+80-year-old woman killed in bear attack
+>> -0.375
+Left’s vote is moving to right: Mamata
+>> 1.336538462
+India to appeal against Jadhav’s death sentence, seeks consular access again
+>> -0.3125
+Ambedkar Jayanti preparation turns tragic as three electrocuted
+>> -0.625
+Army uses civilian as  shield, sparks outrage
+>> -0.125
+BHIM-Aadhaar will be an economic giant: PM
+>> 0.5625
+Dinakaran denies revolt against him by some Ministers
+>> -0.125
+Long-term policy needed to resolve Kashmir issue: Parrikar
+>> 0.375
+Another missing Keralite IS ‘recruit’ reported killed in Afghanistan
+>> -0.5
+Mayawati appoints brother as BSP vice-president
+>> 0.625
+Indian envoy to meet Pak’s Foreign Secretary on Kulbhushan Jadhav’s case
+>> -0.375
+Youths beating jawans video: J&K DGP lauds CRPF men's restraint
+>> 0.25
