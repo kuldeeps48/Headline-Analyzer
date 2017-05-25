@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
+import datetime
 import sys
 import pyqtgraph as pg
 from PyQt4 import QtCore, QtGui
 from pyqtgraph import PlotWidget
 import numpy as np
+import os
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -20,15 +22,32 @@ except AttributeError:
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig)
 
+today = str(datetime.date.today())
+directory = "./data/BestSource/" + today
+if not os.path.exists(directory):
+    os.makedirs(directory)
+file = directory + "/source.txt"
+with open(file, "w") as temp:  # Initialize file to store best source later
+    pass
+
 displayingfile = []  # File which contain path of all other newspaper's files
+global counter
+
+
+def writeData(pos, neg, neutral):
+    with open(file, "a") as f:
+        f.write(str(counter) + " " + str(round(pos)) + " " + str(round(neg)) + " " + str(round(neutral)) + "\n")
 
 
 def makeGraph(graphView):
     global displayingfile
+    global counter
+    counter = 0
     pg.setConfigOptions(antialias=True)
 
     prev = 2  # Gap after making bar graph of 1 newspaper
     for file in displayingfile:
+        counter += 1
         y_axis_pos = []
         y_axis_neg = []
         y_axis_zero = []
@@ -49,6 +68,8 @@ def makeGraph(graphView):
         pos_y = [sum(y_axis_pos)]
         neg_y = [abs(sum(y_axis_neg))]  # To display in it positive y-axis, take absolute value
         neu_y = [sum(y_axis_zero)]
+
+        writeData(sum(y_axis_pos), abs(sum(y_axis_neg)), sum(y_axis_zero))
 
         pos = pg.BarGraphItem(x=np.array(pos_x), height=np.array(pos_y), width=0.5, brush=(0, 198, 53))
         neg = pg.BarGraphItem(x=np.array(neg_x), height=np.array(neg_y), width=0.5, brush=(255, 94, 94))

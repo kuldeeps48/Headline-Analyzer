@@ -29,6 +29,15 @@ except AttributeError:
 MainW = 0  # Global reference to our program
 
 
+def getIpAddress():
+    import socket
+    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    s.connect(("8.8.8.8", 80))
+    ip = s.getsockname()[0]
+    s.close()
+    return ip
+
+
 class Ui_window(object):
     # Function to call when a newspaper is selected
     def selected_extractor(self):
@@ -111,35 +120,39 @@ class Ui_window(object):
             os.makedirs(directory)
         storageFile = directory + "/allValueFiles.txt"
 
-        # if not os.path.exists(storageFile):
-        e = multiprocessing.Event()  # Passing it since argument is required, nothing to sync
-        queue = multiprocessing.Queue()  # To get score file from threaded process
+        if not os.path.exists(storageFile):
+            e = multiprocessing.Event()  # Passing it since argument is required, nothing to sync
+            queue = multiprocessing.Queue()  # To get score file from threaded process
 
-        pool = ThreadPool(4)
-        results = pool.starmap_async(extractorRunner.runScrapper, zip(names, repeat(e), repeat(queue)), chunksize=1)
-        while not results.ready():
-            self.extractingAllLabel.setText(_fromUtf8(
-                "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt;font-family:'Lucida Calligraphy';\
-                font-weight:600; color:black;\">\
-                 Extracting And Analyzing All Sources: " + str(
-                    10 - results._number_left) + "/10<u></u></span></p></body></html>"))
-            self.extractingAllLabel.show()
-            QApplication.processEvents()
+            pool = ThreadPool(4)
+            results = pool.starmap_async(extractorRunner.runScrapper, zip(names, repeat(e), repeat(queue)), chunksize=1)
+            while not results.ready():
+                self.extractingAllLabel.setText(_fromUtf8(
+                    "<html><head/><body><p align=\"center\"><span style=\" font-size:14pt;font-family:'Lucida Calligraphy';\
+                    font-weight:600; color:black;\">\
+                     Extracting And Analyzing All Sources: " + str(
+                        10 - results._number_left) + "/10<u></u></span></p></body></html>"))
+                self.extractingAllLabel.show()
+                QApplication.processEvents()
 
-        pool.close()
-        pool.join()  # Wait for all threads to return
+            pool.close()
+            pool.join()  # Wait for all threads to return
 
-        outputfiles = ""
-        for i in range(10):
-            outputfiles += " " + queue.get()
+            outputfiles = ""
+            for i in range(10):
+                outputfiles += " " + queue.get()
 
-        with open(storageFile, "w") as temp:
-            temp.write(outputfiles)
+            with open(storageFile, "w") as temp:
+                temp.write(outputfiles)
 
         self.extractingAllLabel.hide()
         QApplication.processEvents()
         # Show comparision graph
         outputProcess = subprocess.Popen("python -m ui.comparingAll " + storageFile)
+
+        with open("./data/done.txt", "w") as file:
+            file.write("Done")
+
         outputProcess.wait()
         QApplication.processEvents()
 
@@ -382,6 +395,22 @@ class Ui_window(object):
         self.extractingAllLabel.setWordWrap(True)
         self.extractingAllLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
         self.extractingAllLabel.setObjectName(_fromUtf8("extractingAllLabel"))
+
+        # IP address Label
+        self.ipAddressLabel = QtGui.QLabel(window)
+        self.ipAddressLabel.setGeometry(QtCore.QRect(180, 0, 491, 55))
+        self.ipAddressLabel.setAutoFillBackground(False)
+        self.ipAddressLabel.setStyleSheet(_fromUtf8("background:transparent;"))
+        self.ipAddressLabel.setFrameShadow(QtGui.QFrame.Plain)
+        ip_address = getIpAddress()
+        self.ipAddressLabel.setText(_fromUtf8(
+            "<html><head/><body><p align=\"center\"><span style=\" font-size:12pt;font-family:'Lucida Calligraphy';\
+            font-weight:500; color:green;\">Live on: " + str(ip_address) + "</span></p></body></html>"))
+        self.ipAddressLabel.setTextFormat(QtCore.Qt.RichText)
+        self.ipAddressLabel.setAlignment(QtCore.Qt.AlignCenter)
+        self.ipAddressLabel.setWordWrap(True)
+        self.ipAddressLabel.setTextInteractionFlags(QtCore.Qt.NoTextInteraction)
+        self.ipAddressLabel.setObjectName(_fromUtf8("ipAddressLabel"))
 
         self.retranslateUi(window)
         QtCore.QMetaObject.connectSlotsByName(window)
