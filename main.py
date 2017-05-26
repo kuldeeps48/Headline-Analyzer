@@ -11,6 +11,13 @@ ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
 
 global ui
 
+# Initialize file
+today = str(datetime.date.today())
+directory = "./data/BestSource/" + today
+if not os.path.exists(directory):
+    os.makedirs(directory)
+file = directory + "/source.txt"
+#################################################
 
 # For splash screen ~~
 def drawSplash():
@@ -23,13 +30,6 @@ def drawSplash():
 
 
 def ListenService():
-    # Initialize file
-    today = str(datetime.date.today())
-    directory = "./data/BestSource/" + today
-    if not os.path.exists(directory):
-        os.makedirs(directory)
-    file = directory + "/source.txt"
-    #################################################
     s = socket.socket()  # Create a socket object
     port = 5000  # Reserve a port for our service.
     s.bind(("0.0.0.0", port))  # Bind to the port and all interfaces
