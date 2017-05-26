@@ -11,11 +11,6 @@ ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
 
 global ui
 
-today = str(datetime.date.today())
-directory = "./data/BestSource/" + today
-if not os.path.exists(directory):
-    os.makedirs(directory)
-file = directory + "/source.txt"
 
 # For splash screen ~~
 def drawSplash():
@@ -28,6 +23,13 @@ def drawSplash():
 
 
 def ListenService():
+    # Initialize file
+    today = str(datetime.date.today())
+    directory = "./data/BestSource/" + today
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    file = directory + "/source.txt"
+    #################################################
     s = socket.socket()  # Create a socket object
     port = 5000  # Reserve a port for our service.
     s.bind(("0.0.0.0", port))  # Bind to the port and all interfaces
@@ -50,6 +52,7 @@ def ListenService():
         greatest = 0
         source_map = {"1": "bbc", "2": "cnn", "3": "googleNews", "4": "nyt", "5": "redditNews",
                       "6": "worldNews", "7": "telegraph", "8": "guardian", "9": "theHindu", "10": "toi"}
+
         with open(file, "r") as best_source_file:
             for line in best_source_file:
                 line_list = line[:-1].split(" ")

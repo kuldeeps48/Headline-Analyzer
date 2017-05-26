@@ -22,19 +22,20 @@ except AttributeError:
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig)
 
+global file
 today = str(datetime.date.today())
 directory = "./data/BestSource/" + today
 if not os.path.exists(directory):
     os.makedirs(directory)
 file = directory + "/source.txt"
-with open(file, "w") as temp:  # Initialize file to store best source later
-    pass
+
 
 displayingfile = []  # File which contain path of all other newspaper's files
 global counter
 
 
 def writeData(pos, neg, neutral):
+    global file
     with open(file, "a") as f:
         f.write(str(counter) + " " + str(round(pos)) + " " + str(round(neg)) + " " + str(round(neutral)) + "\n")
 
@@ -42,6 +43,9 @@ def writeData(pos, neg, neutral):
 def makeGraph(graphView):
     global displayingfile
     global counter
+    global file
+    with open(file, "w") as t:  # Initialize file to store best source later
+        pass
     counter = 0
     pg.setConfigOptions(antialias=True)
 

@@ -10,6 +10,7 @@ from ui.customLoading import ImagePlayer
 import datetime, os
 from multiprocessing.dummy import Pool as ThreadPool
 from itertools import repeat
+import time
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -149,7 +150,7 @@ class Ui_window(object):
         QApplication.processEvents()
         # Show comparision graph
         outputProcess = subprocess.Popen("python -m ui.comparingAll " + storageFile)
-
+        time.sleep(1.5)
         with open("./data/done.txt", "w") as file:
             file.write("Done")
 
