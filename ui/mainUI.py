@@ -150,8 +150,16 @@ class Ui_window(object):
         QApplication.processEvents()
         # Show comparision graph
         outputProcess = subprocess.Popen("python -m ui.comparingAll " + storageFile)
-        time.sleep(1.5)
-        with open("./data/done.txt", "w") as file:
+        # Check if best source file exists
+        today = str(datetime.date.today())
+        directory = "./data/BestSource/" + today
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+        best_source_file = directory + "/source.txt"
+        while not os.path.exists(best_source_file):
+            time.sleep(0.5)
+            
+        with open("./data/done.txt", "w") as file:  # For server service
             file.write("Done")
 
         outputProcess.wait()
